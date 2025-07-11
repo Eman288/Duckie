@@ -1,0 +1,125 @@
+﻿@model WebApplication1.Models.LessonContentViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        nav {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="lesson-page">
+        <div class="buttons">
+            <h2 class="text-center">@Model.Title</h2>
+            <div>
+                <a href="@Url.Action("Lessons", "Student", new { unitId = ViewBag.UnitId })" class="btn btn-secondary mt-3">
+                    Back to Lessons
+                </a>
+                <a href="@Url.Action("Dashboard", "Student")" class="btn btn-secondary mt-3">
+                    Back to Units
+                </a>
+            </div>
+        </div>
+
+        <div id="lesson-content">
+            <!--Lesson will appear here-->
+            <img class="img" src="~/images/Home/coolicon.png" />
+            <div class="lesson-text">
+                <div>
+                    <img src="~/images/Home/volume.png">
+                    <h3>Duck</h3>
+                </div>
+                <h3>بطة</h3>
+            </div>
+        </div>
+        <a onclick="NextWord()">Next</a>
+    </div>
+
+    <script>
+        var greetingsArray = [];
+        var lesson;
+        var currentIndex = 0;
+        var lessonTitle;
+
+        // Text-to-Speech Function
+        function speakText(text) {
+            let speech = new SpeechSynthesisUtterance(text);
+            speech.lang = "en-US";
+            window.speechSynthesis.speak(speech);
+        }
+
+        window.onload = function () {
+            lesson = document.getElementById('lesson-content');
+
+            // Convert Model.Title to a URL-friendly format (remove spaces)
+            lessonTitle = "@Html.Raw(Model.Title)".replace(/\s+/g, "_");
+            var path = `/Json/Lessons/${lessonTitle}.json`;
+
+            console.log("Fetching JSON from:", path); // Debugging
+
+            fetch(path)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    console.log("Fetched JSON:", data); // Debugging
+
+                    if (!data || !data.Words) {
+                        throw new Error("Invalid JSON structure: 'greetings' property missing");
+                    }
+
+                    greetingsArray = data.Words;
+
+                    if (greetingsArray.length > 0) {
+                        displayWord(0); // Display the first word after loading
+                    } else {
+                        console.warn("JSON file is empty!");
+                    }
+                })
+                .catch(error => console.error('Error fetching JSON:', error));
+        };
+
+        function displayWord(index) {
+            if (index < 0 || index >= greetingsArray.length) {
+                window.location.href = "/Lesson/QuizStartMenu";
+                return;
+            }
+
+            let word = greetingsArray[index];
+
+            lesson.innerHTML = `
+                        <img class="img" src="/images/Lesson/${lessonTitle}/${word.image} alt="${word.english}" />
+                        <div class="lesson-text">
+                            <div>
+                                <img onClick="speakText('${word.english}')" src="/images/Home/volume.png" alt="Volume Icon">
+                                <h3>${word.english}</h3>
+                            </div>
+                            <h3>${word.arabic}</h3>
+                        </div>
+                    `;
+        }
+
+        function NextWord() {
+            currentIndex++;
+
+            if (currentIndex >= greetingsArray.length) {
+                // Redirect to another view when the lesson is complete
+                window.location.href = "/Lesson/QuizStartMenu";
+                return;
+            }
+
+            displayWord(currentIndex);
+        }
+
+    </script>
+</body>
+</html>

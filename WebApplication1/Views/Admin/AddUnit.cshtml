@@ -1,0 +1,19 @@
+﻿@* @model Unit
+
+@{
+    ViewData["Title"] = "Add Unit";
+}
+
+<div class="container mt-4">
+    <h2>Add a New Unit</h2>
+
+    <form asp-action="AddUnit" method="post">
+        <div class="form-group">
+            <label for="Name">Unit Name:</label>
+            <input type="text" class="form-control" id="Name" name="Name" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Add Unit</button>
+    </form>
+</div>
+ *@

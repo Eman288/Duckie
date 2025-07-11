@@ -1,0 +1,24 @@
+﻿@* @model IEnumerable<WebApplication1.Models.Word>
+
+<h2>Admin Dashboard</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div style="color:green;">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<a href="@Url.Action("AddWord", "Admin")">Add New Word</a> |
+<a href="@Url.Action("Logout", "Admin")">Logout</a>
+
+<h3>Words List</h3>
+<ul>
+    @foreach (var word in Model)
+    {
+        <li>
+            Arabic: @word.Arabicword - English: @word.Englishword
+        </li>
+    }
+</ul>
+ *@

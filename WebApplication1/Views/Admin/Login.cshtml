@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form method="post" action="@Url.Action("Login", "Admin")">
+    <div>
+        <label for="adminCode">Admin Code</label>
+        <input type="text" id="adminCode" name="adminCode" required />
+    </div>
+    <button type="submit">Login</button>
+</form>
+
+@if (ViewData.ModelState != null && ViewData.ModelState.ErrorCount > 0)
+{
+    <div style="color:red;">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

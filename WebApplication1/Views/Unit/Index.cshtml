@@ -1,0 +1,33 @@
+﻿@model WebApplication1.Models.StudentProfileViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="unit">
+    <aside>
+        <div>
+            <h3><a asp-action="Index" asp-controller="Unit">Learn</a></h3>
+            <h3><a asp-action="Index" asp-controller="Conversation">Conversations</a></h3>
+            <h3><a asp-action="Index" asp-controller="">Situations</a></h3>
+            <h3><a asp-action="Index" asp-controller="">Pracitce</a></h3>
+            <h3><a asp-action="Dashboard" asp-controller="Student">Dashboard</a></h3>
+        </div>
+    </aside>
+
+    <div class="container">
+        <h4 class="text-center">Your Units</h4>
+        <div class="units">
+            @foreach (var unit in Model.Units)
+            {
+                <div class="card">
+                       <h5 class="card-title">@unit.Name</h5>
+                       <a href="@Url.Action("Lessons", "Student", new { unitId = unit.Id })" class="btn btn-primary">View Lessons</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

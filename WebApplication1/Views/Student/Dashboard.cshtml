@@ -1,0 +1,89 @@
+﻿@model WebApplication1.Models.StudentProfileViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .dash-body {
+            background-image: url("/images/Home/dash.png");
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            min-height: 80vh;
+            width: 100%;
+            background-color: #fff !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <aside id="sidebar">
+            <img onclick="OpenSideBar()" id="openArrow" src="~/images/Home/arrow - Copy.png" style="display: none" />
+            <img onclick="CloseSideBar()" id="closeArrow" src="~/images/Home/arrow.png" />
+            <div id="info">
+                <img src="~/images/Home/profile.png" />
+                <hr />
+                <h3>@Model.Name</h3>
+                <p>Your Total Points: @Model.TotalPoints</p>
+                <hr />
+            </div>
+            <div id="OpenSide">
+                <div><a asp-action="Index" asp-controller="Unit">Learn</a></div>
+                <div><a asp-action="Index" asp-controller="Situation">Situations</a></div>
+                <div><a asp-action="Index" asp-controller="Conversation">Conversation</a></div>
+            </div>
+            <div id="CloseSide" style="display: none">
+                <div><a asp-action="Index" asp-controller="Unit"><img src="~/images//Home/open-book.png"/></a></div>
+                <div><a asp-action="Index" asp-controller="Situation"><img src="~/images/Home/play-button.png" /></a></div>
+                <div><a asp-action="Index" asp-controller="Conversation"><img src="~/images//Home/chat.png" /></a></div>
+            </div>
+        </aside>
+        <div class="container dash-body">
+            <!--User Content here-->
+        </div>
+    </div>
+ 
+
+<script>
+    var sidebar;
+    var contentC;
+    var contentO;
+    var info;
+    var openArrow;
+    var closeArrow;
+    window.onload = function () {
+       sidebar = document.getElementById('sidebar');
+       info = document.getElementById('info');
+       contentC = document.getElementById('CloseSide');
+       contentO = document.getElementById('OpenSide');
+       openArrow = document.getElementById('openArrow');
+       closeArrow = document.getElementById('closeArrow');
+        contentC.style.display = 'none';
+        openArrow.style.display = 'none';
+        }
+    function CloseSideBar() {
+        
+            sidebar.style.width = '10%';
+ 
+            contentC.style.display = 'flex';
+            contentO.style.display = 'none';
+            info.style.display = 'none';
+        closeArrow.style.display = 'none';
+        openArrow.style.display = 'block';
+    }
+    function OpenSideBar() {
+        
+        sidebar.style.width = '30%';
+            contentC.style.display = 'none';
+            contentO.style.display = 'flex';
+            info.style.display = 'flex';
+        closeArrow.style.display = 'block';
+        openArrow.style.display = 'none';
+    }
+</script>
+
+</body>
+</html>

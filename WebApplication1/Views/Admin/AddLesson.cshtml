@@ -1,0 +1,19 @@
+﻿@* @model Lesson
+
+@{
+    ViewData["Title"] = "Add Lesson";
+}
+
+<div class="container mt-4">
+    <h2>Add a New Lesson</h2>
+
+    <form asp-action="AddLesson" method="post">
+        <div class="form-group">
+            <label for="Title">Lesson Title:</label>
+            <input type="text" class="form-control" id="Title" name="Title" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Add Lesson</button>
+    </form>
+</div>
+ *@
