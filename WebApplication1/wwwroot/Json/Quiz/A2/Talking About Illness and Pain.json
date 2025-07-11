@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Talking About Illness and Pain Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'I have a headache'?",
+      "answers": [ "لدي صداع", "لدي سعال", "لدي ألم في المعدة", "لدي حمى" ],
+      "correct": "لدي صداع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a cough'?",
+      "answers": [ "لدي سعال", "لدي ألم في الأذن", "لدي ألم في الأسنان", "لدي ألم في الظهر" ],
+      "correct": "لدي سعال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My stomach hurts'?",
+      "answers": [ "معدتي تؤلمني", "رأسي يؤلمني", "ذراعي تؤلمني", "رجلي تؤلمني" ],
+      "correct": "معدتي تؤلمني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My ear hurts'?",
+      "answers": [ "أذني تؤلمني", "عيني تؤلمني", "فمي يؤلمني", "ذراعي تؤلمني" ],
+      "correct": "أذني تؤلمني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have a fever'?",
+      "answers": [ "لدي حمى", "لدي سعال", "لدي ألم في الظهر", "لدي ألم في الركبة" ],
+      "correct": "لدي حمى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a sore throat'?",
+      "answers": [ "لدي ألم في الحلق", "لدي ألم في القدم", "لدي ألم في العين", "لدي ألم في الركبة" ],
+      "correct": "لدي ألم في الحلق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have a toothache'?",
+      "answers": [ "لدي ألم في السن", "لدي ألم في اليد", "لدي ألم في القدم", "لدي ألم في الظهر" ],
+      "correct": "لدي ألم في السن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a runny nose'?",
+      "answers": [ "لدي سيلان في الأنف", "لدي ألم في الظهر", "لدي ألم في القدم", "لدي ألم في اليد" ],
+      "correct": "لدي سيلان في الأنف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I feel dizzy'?",
+      "answers": [ "أشعر بالدوار", "أشعر بالألم", "أشعر بالسعادة", "أشعر بالجوع" ],
+      "correct": "أشعر بالدوار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a broken leg'?",
+      "answers": [ "لدي كسر في الساق", "لدي ألم في اليد", "لدي ألم في الظهر", "لدي ألم في الركبة" ],
+      "correct": "لدي كسر في الساق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have a cold'?",
+      "answers": [ "لدي زكام", "لدي ألم في القدم", "لدي ألم في الظهر", "لدي ألم في العين" ],
+      "correct": "لدي زكام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am tired'?",
+      "answers": [ "أنا متعب", "أنا مريض", "أنا سعيد", "أنا جائع" ],
+      "correct": "أنا متعب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My back hurts'?",
+      "answers": [ "ظهري يؤلمني", "ذراعي تؤلمني", "رأسي يؤلمني", "بطني تؤلمني" ],
+      "correct": "ظهري يؤلمني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a rash'?",
+      "answers": [ "لدي طفح جلدي", "لدي ألم في الظهر", "لدي ألم في القدم", "لدي ألم في اليد" ],
+      "correct": "لدي طفح جلدي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have a sore leg'?",
+      "answers": [ "لدي ألم في الساق", "لدي ألم في اليد", "لدي ألم في الظهر", "لدي ألم في القدم" ],
+      "correct": "لدي ألم في الساق",
+      "voiceUrl": ""
+    }
+  ]
+}

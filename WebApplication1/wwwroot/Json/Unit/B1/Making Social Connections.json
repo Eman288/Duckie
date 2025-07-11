@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 1 - Making Social Connections",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'friend'?",
+      "answers": [ "صديق", "حقيبة", "حافلة", "حجز" ],
+      "correct": "صديق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to introduce' in Arabic?",
+      "answers": [ "يعرف", "يسبح", "يلعب", "يرسم" ],
+      "correct": "يعرف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'لقاء أشخاص جدد'?",
+      "answers": [ "Meeting new people", "Making friends", "Listening to music", "Reading books" ],
+      "correct": "Meeting new people",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'small talk' in Arabic?",
+      "answers": [ "حديث قصير", "حقيبة صغيرة", "شجرة طويلة", "مدينة كبيرة" ],
+      "correct": "حديث قصير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hobbies'?",
+      "answers": [ "الهوايات", "السيارات", "الأفلام", "الموسيقى" ],
+      "correct": "الهوايات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to build' in Arabic?",
+      "answers": [ "يبني", "يرسم", "يلعب", "يسبح" ],
+      "correct": "يبني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصداقة'?",
+      "answers": [ "Friendship", "Work", "House", "Lesson" ],
+      "correct": "Friendship",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'interest' in Arabic?",
+      "answers": [ "اهتمام", "حقيبة", "حافلة", "حجز" ],
+      "correct": "اهتمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'conversation'?",
+      "answers": [ "محادثة", "حقيبة", "حافلة", "حجز" ],
+      "correct": "محادثة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'share' in Arabic?",
+      "answers": [ "شارك", "حفظ", "سافر", "استيقظ" ],
+      "correct": "شارك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'لقاء صديق'?",
+      "answers": [ "Meeting a friend", "Going to work", "Studying at university", "Buying clothes" ],
+      "correct": "Meeting a friend",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'greeting' in Arabic?",
+      "answers": [ "تحية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تحية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'common interests'?",
+      "answers": [ "اهتمامات مشتركة", "حقيبة كبيرة", "حافلة صغيرة", "حجز طويل" ],
+      "correct": "اهتمامات مشتركة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to make friends' in Arabic?",
+      "answers": [ "تكوين صداقات", "حجز تذكرة", "قراءة كتاب", "السفر بالقطار" ],
+      "correct": "تكوين صداقات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصداقة مهمة'?",
+      "answers": [ "Friendship is important", "Learning is easy", "Shopping is expensive", "Travel is fun" ],
+      "correct": "Friendship is important",
+      "voiceUrl": ""
+    }
+  ]
+}

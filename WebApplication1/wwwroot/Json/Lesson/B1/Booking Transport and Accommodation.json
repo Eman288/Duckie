@@ -1,0 +1,105 @@
+{
+  "lesson": "Booking Transport and Accommodation",
+  "words": [
+    {
+      "word": "transport",
+      "definition": "A way to travel from one place to another.",
+      "arabic": "وسيلة نقل",
+      "arabic_definition": "طريقة للسفر من مكان إلى آخر.",
+      "example": {
+        "en": "We used public transport to get around the city.",
+        "ar": "استخدمنا وسائل النقل العامة للتنقل في المدينة."
+      }
+    },
+    {
+      "word": "ticket",
+      "definition": "A document that allows you to travel.",
+      "arabic": "تذكرة",
+      "arabic_definition": "وثيقة تسمح لك بالسفر.",
+      "example": {
+        "en": "I bought a ticket for the train.",
+        "ar": "اشتريت تذكرة للقطار."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "An arrangement to keep a seat or room.",
+      "arabic": "حجز",
+      "arabic_definition": "ترتيب لحجز مقعد أو غرفة.",
+      "example": {
+        "en": "We have a reservation at the hotel.",
+        "ar": "لدينا حجز في الفندق."
+      }
+    },
+    {
+      "word": "check-in",
+      "definition": "The process of registering when you arrive at a hotel or airport.",
+      "arabic": "تسجيل الوصول",
+      "arabic_definition": "عملية التسجيل عند وصولك إلى الفندق أو المطار.",
+      "example": {
+        "en": "Check-in starts two hours before the flight.",
+        "ar": "يبدأ تسجيل الوصول قبل ساعتين من الرحلة."
+      }
+    },
+    {
+      "word": "luggage",
+      "definition": "Bags and suitcases you take on a trip.",
+      "arabic": "أمتعة",
+      "arabic_definition": "الحقائب وحقائب السفر التي تأخذها في الرحلة.",
+      "example": {
+        "en": "I packed my luggage carefully.",
+        "ar": "حضرت أمتعتي بعناية."
+      }
+    },
+    {
+      "word": "confirmation",
+      "definition": "Proof that a booking or reservation is complete.",
+      "arabic": "تأكيد",
+      "arabic_definition": "دليل على إتمام الحجز.",
+      "example": {
+        "en": "I received an email confirmation for my hotel booking.",
+        "ar": "تلقيت تأكيدًا عبر البريد الإلكتروني لحجز الفندق."
+      }
+    },
+    {
+      "word": "cancel",
+      "definition": "To decide not to go through with a booking or plan.",
+      "arabic": "يلغي",
+      "arabic_definition": "القرار بعدم تنفيذ الحجز أو الخطة.",
+      "example": {
+        "en": "They had to cancel their flight due to bad weather.",
+        "ar": "اضطروا لإلغاء رحلتهم بسبب سوء الطقس."
+      }
+    },
+    {
+      "word": "accommodation",
+      "definition": "A place to stay during a trip.",
+      "arabic": "إقامة",
+      "arabic_definition": "مكان للإقامة أثناء الرحلة.",
+      "example": {
+        "en": "We found cheap accommodation near the beach.",
+        "ar": "وجدنا إقامة رخيصة قرب الشاطئ."
+      }
+    },
+    {
+      "word": "hostel",
+      "definition": "A cheap place where travelers can stay, often sharing a room.",
+      "arabic": "بيت شباب",
+      "arabic_definition": "مكان رخيص يمكن للمسافرين الإقامة فيه، غالبًا يشتركون في الغرفة.",
+      "example": {
+        "en": "Many young people stay in hostels when traveling.",
+        "ar": "يقيم العديد من الشباب في بيوت الشباب عند السفر."
+      }
+    },
+    {
+      "word": "suite",
+      "definition": "A large, comfortable set of rooms in a hotel.",
+      "arabic": "جناح",
+      "arabic_definition": "مجموعة غرف كبيرة ومريحة في الفندق.",
+      "example": {
+        "en": "They booked a suite for their honeymoon.",
+        "ar": "حجزوا جناحًا لشهر العسل."
+      }
+    }
+  ]
+}

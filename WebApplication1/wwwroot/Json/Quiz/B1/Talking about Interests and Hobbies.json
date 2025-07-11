@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Talking about Interests and Hobbies Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I like reading' in Arabic?",
+      "answers": [ "أحب القراءة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب القراءة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My hobby is swimming'",
+      "answers": [ "هوايتي السباحة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هوايتي السباحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I enjoy cooking' in Arabic?",
+      "answers": [ "أستمتع بالطبخ", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستمتع بالطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am interested in sports'",
+      "answers": [ "أنا مهتم بالرياضة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بالرياضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What are your interests?' in Arabic?",
+      "answers": [ "ما اهتماماتك؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما اهتماماتك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like listening to music'",
+      "answers": [ "أحب الاستماع إلى الموسيقى", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب الاستماع إلى الموسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am passionate about painting' in Arabic?",
+      "answers": [ "أنا شغوف بالرسم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا شغوف بالرسم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My favorite sport is football'",
+      "answers": [ "رياضتي المفضلة هي كرة القدم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "رياضتي المفضلة هي كرة القدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like going to the gym' in Arabic?",
+      "answers": [ "أحب الذهاب إلى صالة الرياضة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب الذهاب إلى صالة الرياضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like cooking for friends'",
+      "answers": [ "أحب الطبخ لأصدقائي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب الطبخ لأصدقائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My favorite hobby is reading' in Arabic?",
+      "answers": [ "هوايتي المفضلة هي القراءة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هوايتي المفضلة هي القراءة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am interested in learning languages'",
+      "answers": [ "أنا مهتم بتعلم اللغات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بتعلم اللغات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like to watch movies' in Arabic?",
+      "answers": [ "أحب مشاهدة الأفلام", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب مشاهدة الأفلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I spend a lot of time playing video games'",
+      "answers": [ "أقضي الكثير من الوقت بلعب ألعاب الفيديو", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقضي الكثير من الوقت بلعب ألعاب الفيديو",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am a music lover' in Arabic?",
+      "answers": [ "أنا محب للموسيقى", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا محب للموسيقى",
+      "voiceUrl": ""
+    }
+  ]
+}

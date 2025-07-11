@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Talking about Lifelong Learning Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Learning never stops' in Arabic?",
+      "answers": [ "التعلم لا يتوقف أبداً", "التعلم يتوقف", "أنا ألعب", "أنا أدرس" ],
+      "correct": "التعلم لا يتوقف أبداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I take courses to improve my skills'?",
+      "answers": [ "أخذ دورات لتحسين مهاراتي", "أنا لا أتعلم", "أنا ألعب", "أنا أعمل" ],
+      "correct": "أخذ دورات لتحسين مهاراتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I read books to learn new things' in Arabic?",
+      "answers": [ "أقرأ كتباً لتعلم أشياء جديدة", "أنا لا أقرأ", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أقرأ كتباً لتعلم أشياء جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend seminars and workshops'?",
+      "answers": [ "أحضر الندوات وورش العمل", "أنا لا أحضر", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحضر الندوات وورش العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I learn from my experiences' in Arabic?",
+      "answers": [ "أتعلم من تجاربي", "أنا لا أتعلم", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أتعلم من تجاربي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I set learning goals for myself'?",
+      "answers": [ "أضع أهدافاً للتعلم لنفسي", "أنا لا أضع أهدافاً", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أضع أهدافاً للتعلم لنفسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like to try new things' in Arabic?",
+      "answers": [ "أحب تجربة أشياء جديدة", "أنا أخاف من الجديد", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحب تجربة أشياء جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I practice skills regularly'?",
+      "answers": [ "أمارس المهارات بانتظام", "أنا لا أمارس", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أمارس المهارات بانتظام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I take online courses' in Arabic?",
+      "answers": [ "أخذ دورات عبر الإنترنت", "أنا لا آخذ دورات", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أخذ دورات عبر الإنترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I learn from other people'?",
+      "answers": [ "أتعلم من الآخرين", "أنا لا أتعلم من الآخرين", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أتعلم من الآخرين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am curious to learn more' in Arabic?",
+      "answers": [ "أنا فضولي لأتعلم أكثر", "أنا غير مهتم", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أنا فضولي لأتعلم أكثر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like to challenge myself'?",
+      "answers": [ "أحب تحدي نفسي", "أنا لا أحب التحديات", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحب تحدي نفسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I keep a learning journal' in Arabic?",
+      "answers": [ "أحتفظ بمفكرة تعلم", "أنا لا أحتفظ بمفكرة", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحتفظ بمفكرة تعلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I learn from my mistakes'?",
+      "answers": [ "أتعلم من أخطائي", "أنا لا أتعلم من أخطائي", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أتعلم من أخطائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I enjoy gaining new knowledge' in Arabic?",
+      "answers": [ "أستمتع باكتساب معرفة جديدة", "أنا لا أستمتع", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أستمتع باكتساب معرفة جديدة",
+      "voiceUrl": ""
+    }
+  ]
+}

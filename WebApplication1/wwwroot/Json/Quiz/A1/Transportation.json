@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Transportation Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'bus'?",
+      "answers": [ "حافلة", "سيارة", "قطار", "طائرة" ],
+      "correct": "حافلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'car'?",
+      "answers": [ "سيارة", "حافلة", "قطار", "دراجة" ],
+      "correct": "سيارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'train'?",
+      "answers": [ "حافلة", "سيارة", "قطار", "دراجة" ],
+      "correct": "قطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is an 'airplane'?",
+      "answers": [ "حافلة", "سيارة", "قطار", "طائرة" ],
+      "correct": "طائرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'bicycle'?",
+      "answers": [ "حافلة", "دراجة", "سيارة", "قطار" ],
+      "correct": "دراجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'motorbike'?",
+      "answers": [ "حافلة", "دراجة نارية", "سيارة", "قطار" ],
+      "correct": "دراجة نارية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'boat'?",
+      "answers": [ "قارب", "حافلة", "سيارة", "قطار" ],
+      "correct": "قارب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'tram'?",
+      "answers": [ "حافلة", "ترام", "سيارة", "قطار" ],
+      "correct": "ترام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'subway'?",
+      "answers": [ "حافلة", "مترو", "سيارة", "قطار" ],
+      "correct": "مترو",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'taxi'?",
+      "answers": [ "حافلة", "تاكسي", "سيارة", "قطار" ],
+      "correct": "تاكسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'helicopter'?",
+      "answers": [ "طائرة مروحية", "حافلة", "سيارة", "قطار" ],
+      "correct": "طائرة مروحية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'truck'?",
+      "answers": [ "شاحنة", "حافلة", "سيارة", "قطار" ],
+      "correct": "شاحنة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'scooter'?",
+      "answers": [ "دراجة سكوتر", "حافلة", "سيارة", "قطار" ],
+      "correct": "دراجة سكوتر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'ferry'?",
+      "answers": [ "عبّارة", "حافلة", "سيارة", "قطار" ],
+      "correct": "عبّارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'rickshaw'?",
+      "answers": [ "عربة توك توك", "حافلة", "سيارة", "قطار" ],
+      "correct": "عربة توك توك",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Making Small Talk Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'How is your day?' in Arabic?",
+      "answers": [ "كيف حال يومك؟", "أين تدرس؟", "ما عملك؟", "كم عمرك؟" ],
+      "correct": "كيف حال يومك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The weather is nice today'?",
+      "answers": [ "الطقس جميل اليوم", "ليس لدي عمل", "أين تسكن؟", "كم عمرك؟" ],
+      "correct": "الطقس جميل اليوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like this place' in Arabic?",
+      "answers": [ "أحب هذا المكان", "ليس هنا أحد", "ليس لدي عمل", "ليس لدي وقت" ],
+      "correct": "أحب هذا المكان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Have you been here before?'",
+      "answers": [ "هل زرت هنا من قبل؟", "هل تدرس هنا؟", "كم عمرك؟", "أين تعمل؟" ],
+      "correct": "هل زرت هنا من قبل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What do you like to do?' in Arabic?",
+      "answers": [ "ماذا تحب أن تفعل؟", "كم عمرك؟", "أين تسكن؟", "ما عملك؟" ],
+      "correct": "ماذا تحب أن تفعل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am enjoying the conversation'",
+      "answers": [ "أستمتع بالمحادثة", "ليس لدي وقت", "ليس هنا أحد", "ليس لدي عمل" ],
+      "correct": "أستمتع بالمحادثة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'It’s a beautiful evening' in Arabic?",
+      "answers": [ "إنها أمسية جميلة", "ليس هنا أحد", "ليس لدي عمل", "ليس لدي وقت" ],
+      "correct": "إنها أمسية جميلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I agree with you'",
+      "answers": [ "أتفق معك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتفق معك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'That’s an interesting point' in Arabic?",
+      "answers": [ "هذه نقطة مثيرة للاهتمام", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هذه نقطة مثيرة للاهتمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What about you?'",
+      "answers": [ "ماذا عنك؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ماذا عنك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'That sounds great' in Arabic?",
+      "answers": [ "هذا يبدو رائعًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هذا يبدو رائعًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I’m happy to be here'",
+      "answers": [ "أنا سعيد بوجودي هنا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا سعيد بوجودي هنا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I’m from a small town' in Arabic?",
+      "answers": [ "أنا من بلدة صغيرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا من بلدة صغيرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'It was nice talking to you'",
+      "answers": [ "كان من الجميل التحدث معك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كان من الجميل التحدث معك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Let’s stay in touch' in Arabic?",
+      "answers": [ "لنبق على اتصال", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لنبق على اتصال",
+      "voiceUrl": ""
+    }
+  ]
+}

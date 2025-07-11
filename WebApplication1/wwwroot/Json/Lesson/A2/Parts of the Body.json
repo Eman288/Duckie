@@ -1,0 +1,105 @@
+{
+  "lesson": "Parts of the Body",
+  "words": [
+    {
+      "word": "head",
+      "definition": "The top part of the body.",
+      "arabic": "رأس",
+      "arabic_definition": "الجزء العلوي من الجسم.",
+      "example": {
+        "en": "He has a headache.",
+        "ar": "يعاني من ألم في رأسه."
+      }
+    },
+    {
+      "word": "arm",
+      "definition": "The long part of the body between the shoulder and the hand.",
+      "arabic": "ذراع",
+      "arabic_definition": "الجزء الطويل من الجسم بين الكتف واليد.",
+      "example": {
+        "en": "She hurt her arm.",
+        "ar": "أصيبت بذراعها."
+      }
+    },
+    {
+      "word": "leg",
+      "definition": "The part of the body used for walking.",
+      "arabic": "ساق",
+      "arabic_definition": "جزء الجسم المستخدم للمشي.",
+      "example": {
+        "en": "My leg is tired after the run.",
+        "ar": "ساقي متعبة بعد الركض."
+      }
+    },
+    {
+      "word": "hand",
+      "definition": "The part of the body used for holding things.",
+      "arabic": "يد",
+      "arabic_definition": "جزء الجسم المستخدم للإمساك بالأشياء.",
+      "example": {
+        "en": "He waved his hand.",
+        "ar": "لوح بيده."
+      }
+    },
+    {
+      "word": "foot",
+      "definition": "The part of the body used for standing and walking.",
+      "arabic": "قدم",
+      "arabic_definition": "جزء الجسم المستخدم للوقوف والمشي.",
+      "example": {
+        "en": "My foot hurts.",
+        "ar": "قدمي تؤلمني."
+      }
+    },
+    {
+      "word": "eye",
+      "definition": "The part of the body used for seeing.",
+      "arabic": "عين",
+      "arabic_definition": "جزء الجسم المستخدم للرؤية.",
+      "example": {
+        "en": "She has beautiful eyes.",
+        "ar": "لديها عيون جميلة."
+      }
+    },
+    {
+      "word": "ear",
+      "definition": "The part of the body used for hearing.",
+      "arabic": "أذن",
+      "arabic_definition": "جزء الجسم المستخدم للسمع.",
+      "example": {
+        "en": "My ear hurts.",
+        "ar": "أذني تؤلمني."
+      }
+    },
+    {
+      "word": "nose",
+      "definition": "The part of the body used for smelling.",
+      "arabic": "أنف",
+      "arabic_definition": "جزء الجسم المستخدم للشم.",
+      "example": {
+        "en": "My nose is cold.",
+        "ar": "أنفي بارد."
+      }
+    },
+    {
+      "word": "mouth",
+      "definition": "The part of the body used for eating and speaking.",
+      "arabic": "فم",
+      "arabic_definition": "جزء الجسم المستخدم للأكل والتحدث.",
+      "example": {
+        "en": "He opened his mouth to speak.",
+        "ar": "فتح فمه ليتحدث."
+      }
+    },
+    {
+      "word": "knee",
+      "definition": "The joint between the thigh and the lower leg.",
+      "arabic": "ركبة",
+      "arabic_definition": "المفصل بين الفخذ والساق.",
+      "example": {
+        "en": "My knee hurts when I walk.",
+        "ar": "ركبتي تؤلمني عند المشي."
+      }
+    }
+  ]
+}

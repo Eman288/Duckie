@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Polite Requests and Suggestions",
+  "words": [
+    {
+      "word": "could",
+      "definition": "A polite way to ask for something.",
+      "arabic": "يمكن",
+      "arabic_definition": "طريقة مهذبة لطلب شيء.",
+      "example": {
+        "en": "Could you help me with this project?",
+        "ar": "هل يمكنك مساعدتي في هذا المشروع؟"
+      }
+    },
+    {
+      "word": "would you mind",
+      "definition": "A polite way to ask someone to do something.",
+      "arabic": "هل تمانع",
+      "arabic_definition": "طريقة مهذبة لطلب شيء من شخص.",
+      "example": {
+        "en": "Would you mind opening the window?",
+        "ar": "هل تمانع فتح النافذة؟"
+      }
+    },
+    {
+      "word": "perhaps",
+      "definition": "Maybe or possibly.",
+      "arabic": "ربما",
+      "arabic_definition": "ربما أو على الأرجح.",
+      "example": {
+        "en": "Perhaps you can join us for lunch.",
+        "ar": "ربما يمكنك الانضمام إلينا على الغداء."
+      }
+    },
+    {
+      "word": "I was wondering",
+      "definition": "A polite way to ask about something.",
+      "arabic": "كنت أتساءل",
+      "arabic_definition": "طريقة مهذبة للاستفسار عن شيء.",
+      "example": {
+        "en": "I was wondering if you could help me.",
+        "ar": "كنت أتساءل عما إذا كنت يمكن أن تساعدني."
+      }
+    },
+    {
+      "word": "if it's not too much trouble",
+      "definition": "A polite way to ask for help.",
+      "arabic": "إذا لم يكن الأمر مزعجًا",
+      "arabic_definition": "طريقة مهذبة لطلب المساعدة.",
+      "example": {
+        "en": "If it's not too much trouble, can you review this document?",
+        "ar": "إذا لم يكن الأمر مزعجًا، هل يمكنك مراجعة هذه الوثيقة؟"
+      }
+    },
+    {
+      "word": "may I suggest",
+      "definition": "A polite way to give an idea.",
+      "arabic": "هل لي أن أقترح",
+      "arabic_definition": "طريقة مهذبة لاقتراح فكرة.",
+      "example": {
+        "en": "May I suggest trying a different approach?",
+        "ar": "هل لي أن أقترح تجربة طريقة مختلفة؟"
+      }
+    },
+    {
+      "word": "would it be alright",
+      "definition": "A polite way to ask for permission.",
+      "arabic": "هل سيكون الأمر على ما يُرام",
+      "arabic_definition": "طريقة مهذبة لطلب الإذن.",
+      "example": {
+        "en": "Would it be alright if I left early today?",
+        "ar": "هل سيكون الأمر على ما يُرام لو غادرت مبكرًا اليوم؟"
+      }
+    },
+    {
+      "word": "I’d appreciate it",
+      "definition": "A polite way to ask for help or a favor.",
+      "arabic": "سأكون ممتنًا",
+      "arabic_definition": "طريقة مهذبة لطلب مساعدة أو خدمة.",
+      "example": {
+        "en": "I’d appreciate it if you could send me the file.",
+        "ar": "سأكون ممتنًا لو أرسلت لي الملف."
+      }
+    },
+    {
+      "word": "do you think",
+      "definition": "A way to ask someone’s opinion.",
+      "arabic": "هل تظن",
+      "arabic_definition": "طريقة لطلب رأي شخص ما.",
+      "example": {
+        "en": "Do you think this idea will work?",
+        "ar": "هل تظن أن هذه الفكرة ستنجح؟"
+      }
+    },
+    {
+      "word": "is it possible",
+      "definition": "A polite way to ask if something can be done.",
+      "arabic": "هل من الممكن",
+      "arabic_definition": "طريقة مهذبة للسؤال عما إذا كان شيء ممكنًا.",
+      "example": {
+        "en": "Is it possible to reschedule the meeting?",
+        "ar": "هل من الممكن إعادة جدولة الاجتماع؟"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Describing Your Job Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I am a teacher' in Arabic?",
+      "answers": [ "أنا معلم", "أنا طبيب", "أنا مهندس", "أنا محاسب" ],
+      "correct": "أنا معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I work in an office'?",
+      "answers": [ "أعمل في مكتب", "أعمل في مدرسة", "أعمل في مصنع", "أعمل في مستشفى" ],
+      "correct": "أعمل في مكتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I work in a hospital'?",
+      "answers": [ "أعمل في مستشفى", "أعمل في مصنع", "أعمل في مكتب", "أعمل في مطعم" ],
+      "correct": "أعمل في مستشفى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am an engineer'?",
+      "answers": [ "أنا مهندس", "أنا ممرض", "أنا محاسب", "أنا طيار" ],
+      "correct": "أنا مهندس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am a doctor'?",
+      "answers": [ "أنا طبيب", "أنا معلم", "أنا محاسب", "أنا طباخ" ],
+      "correct": "أنا طبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am a nurse'?",
+      "answers": [ "أنا ممرض", "أنا محاسب", "أنا طيار", "أنا طبيب" ],
+      "correct": "أنا ممرض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am a pilot'?",
+      "answers": [ "أنا طيار", "أنا محاسب", "أنا ممرض", "أنا طبيب" ],
+      "correct": "أنا طيار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am an accountant'?",
+      "answers": [ "أنا محاسب", "أنا طبيب", "أنا ممرض", "أنا طيار" ],
+      "correct": "أنا محاسب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am a chef'?",
+      "answers": [ "أنا طباخ", "أنا محاسب", "أنا ممرض", "أنا طبيب" ],
+      "correct": "أنا طباخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am a manager'?",
+      "answers": [ "أنا مدير", "أنا محاسب", "أنا ممرض", "أنا طيار" ],
+      "correct": "أنا مدير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am a teacher'?",
+      "answers": [ "أنا معلم", "أنا ممرض", "أنا محاسب", "أنا طبيب" ],
+      "correct": "أنا معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I work in a bank'?",
+      "answers": [ "أعمل في بنك", "أعمل في مصنع", "أعمل في مطعم", "أعمل في مستشفى" ],
+      "correct": "أعمل في بنك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I work in a shop'?",
+      "answers": [ "أعمل في متجر", "أعمل في مكتب", "أعمل في مصنع", "أعمل في مدرسة" ],
+      "correct": "أعمل في متجر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am a lawyer'?",
+      "answers": [ "أنا محام", "أنا طبيب", "أنا مهندس", "أنا ممرض" ],
+      "correct": "أنا محام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am a scientist'?",
+      "answers": [ "أنا عالم", "أنا محاسب", "أنا ممرض", "أنا طيار" ],
+      "correct": "أنا عالم",
+      "voiceUrl": ""
+    }
+  ]
+}

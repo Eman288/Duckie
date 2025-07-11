@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Understanding Visual Arts and Exhibitions Quiz",
+  "questions": [
+    {
+      "question": "What is 'visual art'?",
+      "answers": [
+        "Art that is seen, like painting and sculpture.",
+        "Music.",
+        "Literature.",
+        "Dance."
+      ],
+      "correct": "Art that is seen, like painting and sculpture.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'exhibition'?",
+      "answers": [
+        "A public display of art or objects.",
+        "A music concert.",
+        "A movie screening.",
+        "A book reading."
+      ],
+      "correct": "A public display of art or objects.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'gallery'?",
+      "answers": [
+        "A place where art is shown.",
+        "A bookstore.",
+        "A music hall.",
+        "A theatre."
+      ],
+      "correct": "A place where art is shown.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'painting'?",
+      "answers": [
+        "An image created using paint.",
+        "A sculpture.",
+        "A photograph.",
+        "A poem."
+      ],
+      "correct": "An image created using paint.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'sculpture' mean?",
+      "answers": [
+        "A three-dimensional work of art.",
+        "A painting.",
+        "A photo.",
+        "A story."
+      ],
+      "correct": "A three-dimensional work of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'portrait'?",
+      "answers": [
+        "A painting or photo of a person.",
+        "A landscape.",
+        "An abstract art.",
+        "A sculpture."
+      ],
+      "correct": "A painting or photo of a person.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'abstract art' mean?",
+      "answers": [
+        "Art that does not represent reality exactly.",
+        "A photo of a person.",
+        "A realistic painting.",
+        "A sculpture."
+      ],
+      "correct": "Art that does not represent reality exactly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'landscape' painting?",
+      "answers": [
+        "An image of natural scenery.",
+        "A photo of a person.",
+        "A sculpture.",
+        "An abstract image."
+      ],
+      "correct": "An image of natural scenery.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why do artists use 'color'?",
+      "answers": [
+        "To express mood and meaning.",
+        "To confuse viewers.",
+        "To hide mistakes.",
+        "To make art expensive."
+      ],
+      "correct": "To express mood and meaning.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'composition' in art?",
+      "answers": [
+        "How elements are arranged in a work of art.",
+        "The artist’s name.",
+        "The price.",
+        "The gallery."
+      ],
+      "correct": "How elements are arranged in a work of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'art critic'?",
+      "answers": [
+        "Someone who evaluates and writes about art.",
+        "An artist.",
+        "A gallery owner.",
+        "A collector."
+      ],
+      "correct": "Someone who evaluates and writes about art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'mixed media' art?",
+      "answers": [
+        "Using different materials in one artwork.",
+        "Painting only.",
+        "Sculpture only.",
+        "Photography only."
+      ],
+      "correct": "Using different materials in one artwork.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'masterpiece'?",
+      "answers": [
+        "An outstanding work of art.",
+        "A beginner’s work.",
+        "A sculpture.",
+        "A photo."
+      ],
+      "correct": "An outstanding work of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'installation art'?",
+      "answers": [
+        "Large, often site-specific artworks you can walk around.",
+        "A small painting.",
+        "A photograph.",
+        "A novel."
+      ],
+      "correct": "Large, often site-specific artworks you can walk around.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are exhibitions important?",
+      "answers": [
+        "They show art to the public and promote artists.",
+        "They hide art.",
+        "They sell products.",
+        "They are private."
+      ],
+      "correct": "They show art to the public and promote artists.",
+      "voiceUrl": ""
+    }
+  ]
+}

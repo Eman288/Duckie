@@ -1,0 +1,14 @@
+[
+  {
+    "cardNumber": "4111-1111-1111-1111",
+    "isValid": true,
+    "cvv": "123",
+    "expireDate": "12/2025"
+  },
+  {
+    "cardNumber": "5555-5555-5555-5555",
+    "isValid": false,
+    "cvv": "456",
+    "expireDate": "06/2023"
+  }
+]

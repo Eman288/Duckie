@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Complex Sentence Structures Quiz",
+  "questions": [
+    {
+      "question": "What is a complex sentence?",
+      "answers": [
+        "A sentence with one independent clause and one or more dependent clauses.",
+        "A sentence with only one verb.",
+        "A sentence with no punctuation.",
+        "A sentence that only uses simple words."
+      ],
+      "correct": "A sentence with one independent clause and one or more dependent clauses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is a complex sentence?",
+      "answers": [
+        "Although it was raining, we went out for a walk.",
+        "I like pizza and pasta.",
+        "She is reading a book.",
+        "He plays tennis."
+      ],
+      "correct": "Although it was raining, we went out for a walk.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a dependent clause?",
+      "answers": [
+        "A group of words that cannot stand alone as a sentence.",
+        "A complete thought.",
+        "A single verb.",
+        "A one-word sentence."
+      ],
+      "correct": "A group of words that cannot stand alone as a sentence.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is NOT a complex sentence?",
+      "answers": [
+        "We went out for lunch.",
+        "Although she was tired, she finished her work.",
+        "He left early because he was sick.",
+        "After she called, I responded immediately."
+      ],
+      "correct": "We went out for lunch.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are complex sentences used in writing?",
+      "answers": [
+        "To show relationships between ideas and add depth.",
+        "To make the text simpler.",
+        "To remove ideas.",
+        "To use only one clause."
+      ],
+      "correct": "To show relationships between ideas and add depth.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word is NOT a subordinating conjunction?",
+      "answers": [
+        "And",
+        "Although",
+        "Because",
+        "While"
+      ],
+      "correct": "And",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does a complex sentence often contain?",
+      "answers": [
+        "An independent clause and one or more dependent clauses.",
+        "Only one subject.",
+        "Only one verb.",
+        "Short, simple ideas."
+      ],
+      "correct": "An independent clause and one or more dependent clauses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is an example of a complex sentence?",
+      "answers": [
+        "Although it was late, he finished his assignment.",
+        "He worked hard.",
+        "I like pizza.",
+        "She smiled."
+      ],
+      "correct": "Although it was late, he finished his assignment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are dependent clauses called 'subordinate' clauses?",
+      "answers": [
+        "Because they support the main clause.",
+        "Because they are complete thoughts.",
+        "Because they are optional.",
+        "Because they have only one verb."
+      ],
+      "correct": "Because they support the main clause.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a characteristic of a complex sentence?",
+      "answers": [
+        "It has only one subject and one verb.",
+        "It contains a dependent clause.",
+        "It contains an independent clause.",
+        "It may use words like 'although' or 'because'."
+      ],
+      "correct": "It has only one subject and one verb.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a complex sentence using 'although'?",
+      "answers": [
+        "Although she was tired, she went to the gym.",
+        "He went to the gym.",
+        "Although she was tired.",
+        "She went to the gym."
+      ],
+      "correct": "Although she was tired, she went to the gym.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are complex sentences important in academic writing?",
+      "answers": [
+        "They help writers express nuanced ideas.",
+        "They make texts harder to read.",
+        "They remove context.",
+        "They only work in spoken language."
+      ],
+      "correct": "They help writers express nuanced ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is NOT a complex sentence feature?",
+      "answers": [
+        "Short length.",
+        "Use of subordinators like 'although' or 'since'.",
+        "Combination of clauses.",
+        "Adding depth to the main idea."
+      ],
+      "correct": "Short length.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can complex sentences help with in writing?",
+      "answers": [
+        "Expressing connections between ideas.",
+        "Shortening paragraphs.",
+        "Limiting ideas.",
+        "Avoiding depth."
+      ],
+      "correct": "Expressing connections between ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is NOT a dependent clause marker?",
+      "answers": [
+        "Because",
+        "Although",
+        "But",
+        "Since"
+      ],
+      "correct": "But",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "lesson": "Unit 3 - Talking about Music and Its Impact Quiz",
+  "questions": [
+    {
+      "question": "What is music?",
+      "answers": [
+        "Sounds organized to express ideas or emotions.",
+        "Noise.",
+        "A type of painting.",
+        "A dance."
+      ],
+      "correct": "Sounds organized to express ideas or emotions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which instrument is a string instrument?",
+      "answers": [
+        "Violin.",
+        "Drum.",
+        "Flute.",
+        "Trumpet."
+      ],
+      "correct": "Violin.",
+      "voiceUrl "ChatGPT",
+      "said": ": ",
+      "
+    },
+    {
+      "question": "What is a 'melody'?",
+      "answers": [
+        "A sequence of musical notes that is pleasing.",
+        "A sound effect.",
+        "A loud noise.",
+        "A rest in music."
+      ],
+      "correct": "A sequence of musical notes that is pleasing.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is music important for people?",
+      "answers": [
+        "It can express emotions and connect people.",
+        "It has no meaning.",
+        "It is only for entertainment.",
+        "It is a waste of time."
+      ],
+      "correct": "It can express emotions and connect people.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'genre' of music?",
+      "answers": [
+        "A style or category of music.",
+        "A musical note.",
+        "A musical instrument.",
+        "A concert."
+      ],
+      "correct": "A style or category of music.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'concert'?",
+      "answers": [
+        "A live music performance.",
+        "A recording.",
+        "A musical score.",
+        "A review."
+      ],
+      "correct": "A live music performance.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a 'wind' instrument?",
+      "answers": [
+        "Flute.",
+        "Violin.",
+        "Guitar.",
+        "Piano."
+      ],
+      "correct": "Flute.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'band'?",
+      "answers": [
+        "A group of people making music together.",
+        "A musical note.",
+        "A style of music.",
+        "A dance move."
+      ],
+      "correct": "A group of people making music together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why can music be called a 'universal language'?",
+      "answers": [
+        "Because it can be understood and felt by people of all cultures.",
+        "It only works for one culture.",
+        "It needs translation.",
+        "It is a special code."
+      ],
+      "correct": "Because it can be understood and felt by people of all cultures.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'harmony' in music?",
+      "answers": [
+        "Different notes played together to create a pleasing sound.",
+        "A type of dance.",
+        "A solo performance.",
+        "A musical instrument."
+      ],
+      "correct": "Different notes played together to create a pleasing sound.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why do people listen to music when they are sad?",
+      "answers": [
+        "It can help them process emotions.",
+        "It makes things worse.",
+        "It has no effect.",
+        "It is too loud."
+      ],
+      "correct": "It can help them process emotions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is a musical performance venue?",
+      "answers": [
+        "A concert hall.",
+        "A library.",
+        "A hospital.",
+        "A bookstore."
+      ],
+      "correct": "A concert hall.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'orchestra'?",
+      "answers": [
+        "A large group of musicians playing together.",
+        "A solo singer.",
+        "A single instrument.",
+        "A band with only guitars."
+      ],
+      "correct": "A large group of musicians playing together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is music called an 'art form'?",
+      "answers": [
+        "Because it allows expression and creativity.",
+        "Because it has only one style.",
+        "Because it is a sound test.",
+        "Because it is boring."
+      ],
+      "correct": "Because it allows expression and creativity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'rhythm' in music?",
+      "answers": [
+        "The beat or timing of sounds.",
+        "A musical scale.",
+        "A silence.",
+        "A musical key."
+      ],
+      "correct": "The beat or timing of sounds.",
+      "voiceUrl": ""
+    }
+  ]
+}

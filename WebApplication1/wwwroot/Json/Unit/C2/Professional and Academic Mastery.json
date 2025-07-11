@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 2 - Professional and Academic Mastery",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'academic publishing'?",
+      "answers": [ "نشر أكاديمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نشر أكاديمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'moderation' in Arabic?",
+      "answers": [ "إدارة الحوار", "حافلة", "حقيبة", "حجز" ],
+      "correct": "إدارة الحوار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التعامل مع الانتقادات'?",
+      "answers": [ "handling critique", "daily routine", "work project", "travel map" ],
+      "correct": "handling critique",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'impactful report' in Arabic?",
+      "answers": [ "تقرير مؤثر", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تقرير مؤثر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'academic journal'?",
+      "answers": [ "مجلة أكاديمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مجلة أكاديمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'conference proceedings' in Arabic?",
+      "answers": [ "وقائع المؤتمر", "حافلة", "حقيبة", "حجز" ],
+      "correct": "وقائع المؤتمر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المناقشات الأكاديمية'?",
+      "answers": [ "academic discussions", "daily routine", "work project", "travel map" ],
+      "correct": "academic discussions",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'effective proposal' in Arabic?",
+      "answers": [ "اقتراح فعال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اقتراح فعال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'critical review'?",
+      "answers": [ "مراجعة نقدية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مراجعة نقدية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'academic discourse' in Arabic?",
+      "answers": [ "خطاب أكاديمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "خطاب أكاديمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التقرير المقنع'?",
+      "answers": [ "persuasive report", "daily routine", "work project", "travel map" ],
+      "correct": "persuasive report",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'scholarly article' in Arabic?",
+      "answers": [ "مقال علمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مقال علمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'presenting a proposal'?",
+      "answers": [ "عرض اقتراح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عرض اقتراح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'academic peer review' in Arabic?",
+      "answers": [ "مراجعة الأقران الأكاديمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مراجعة الأقران الأكاديمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التفكير النقدي'?",
+      "answers": [ "critical thinking", "daily routine", "work project", "travel map" ],
+      "correct": "critical thinking",
+      "voiceUrl": ""
+    }
+  ]
+}

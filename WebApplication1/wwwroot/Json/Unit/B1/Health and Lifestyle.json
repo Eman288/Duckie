@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 5 - Health and Lifestyle",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'exercise'?",
+      "answers": [ "تمارين", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تمارين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'diet' in Arabic?",
+      "answers": [ "نظام غذائي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نظام غذائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'نصيحة طبية'?",
+      "answers": [ "medical advice", "travel map", "job application", "school project" ],
+      "correct": "medical advice",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'habits' in Arabic?",
+      "answers": [ "عادات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عادات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'daily routine'?",
+      "answers": [ "روتين يومي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "روتين يومي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to relax' in Arabic?",
+      "answers": [ "يسترخي", "يرسم", "يلعب", "يسبح" ],
+      "correct": "يسترخي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصحة النفسية'?",
+      "answers": [ "mental health", "travel tickets", "job interview", "school lesson" ],
+      "correct": "mental health",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'healthy' in Arabic?",
+      "answers": [ "صحي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "صحي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'balanced diet'?",
+      "answers": [ "نظام غذائي متوازن", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نظام غذائي متوازن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'sleep' in Arabic?",
+      "answers": [ "نوم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'تمارين رياضية'?",
+      "answers": [ "physical exercises", "school lesson", "work project", "travel guide" ],
+      "correct": "physical exercises",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'stress' in Arabic?",
+      "answers": [ "ضغط", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ضغط",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to stay active'?",
+      "answers": [ "البقاء نشطًا", "حافلة", "حقيبة", "حجز" ],
+      "correct": "البقاء نشطًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'wellness' in Arabic?",
+      "answers": [ "الصحة الجيدة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الصحة الجيدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصحة أهم شيء'?",
+      "answers": [ "Health is the most important thing", "Travel is exciting", "Work is tiring", "Shopping is fun" ],
+      "correct": "Health is the most important thing",
+      "voiceUrl": ""
+    }
+  ]
+}

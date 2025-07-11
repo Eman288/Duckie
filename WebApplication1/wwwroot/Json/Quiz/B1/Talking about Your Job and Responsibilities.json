@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Talking about Your Job and Responsibilities Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I am a teacher' in Arabic?",
+      "answers": [ "أنا معلم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My job is challenging'",
+      "answers": [ "عملي تحدٍ", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "عملي تحدٍ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I work in an office' in Arabic?",
+      "answers": [ "أعمل في مكتب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعمل في مكتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am responsible for customer service'",
+      "answers": [ "أنا مسؤول عن خدمة العملاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مسؤول عن خدمة العملاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My role is to manage projects' in Arabic?",
+      "answers": [ "دوري هو إدارة المشاريع", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "دوري هو إدارة المشاريع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I work in a team'",
+      "answers": [ "أعمل ضمن فريق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعمل ضمن فريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have many meetings' in Arabic?",
+      "answers": [ "لدي العديد من الاجتماعات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي العديد من الاجتماعات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am responsible for marketing'",
+      "answers": [ "أنا مسؤول عن التسويق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مسؤول عن التسويق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I work with international clients' in Arabic?",
+      "answers": [ "أعمل مع عملاء دوليين", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعمل مع عملاء دوليين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I write reports'",
+      "answers": [ "أكتب التقارير", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أكتب التقارير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My job is very rewarding' in Arabic?",
+      "answers": [ "عملي مجزٍ جداً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "عملي مجزٍ جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I supervise a team'",
+      "answers": [ "أشرف على فريق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشرف على فريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a lot of responsibilities' in Arabic?",
+      "answers": [ "لدي الكثير من المسؤوليات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي الكثير من المسؤوليات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My role is to solve problems'",
+      "answers": [ "دوري هو حل المشكلات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "دوري هو حل المشكلات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like working with people' in Arabic?",
+      "answers": [ "أحب العمل مع الناس", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب العمل مع الناس",
+      "voiceUrl": ""
+    }
+  ]
+}

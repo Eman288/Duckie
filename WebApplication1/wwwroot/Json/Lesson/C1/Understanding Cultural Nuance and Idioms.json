@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Cultural Nuance and Idioms",
+  "words": [
+    {
+      "word": "nuance",
+      "definition": "A slight or subtle difference in meaning.",
+      "arabic": "فارق دقيق",
+      "arabic_definition": "اختلاف طفيف أو بسيط في المعنى.",
+      "example": {
+        "en": "There is a nuance between these words.",
+        "ar": "هناك فارق دقيق بين هذه الكلمات."
+      }
+    },
+    {
+      "word": "idiom",
+      "definition": "A phrase whose meaning is different from the literal words.",
+      "arabic": "مصطلح لغوي",
+      "arabic_definition": "عبارة يختلف معناها عن المعنى الحرفي للكلمات.",
+      "example": {
+        "en": "“Break the ice” is an idiom for starting a conversation.",
+        "ar": "«كسر الجليد» هو مصطلح لغوي يعني بدء محادثة."
+      }
+    },
+    {
+      "word": "context",
+      "definition": "The circumstances that give words or events meaning.",
+      "arabic": "السياق",
+      "arabic_definition": "الظروف التي تعطي للكلمات أو الأحداث معناها.",
+      "example": {
+        "en": "The context of a conversation affects its interpretation.",
+        "ar": "سياق المحادثة يؤثر على تفسيرها."
+      }
+    },
+    {
+      "word": "connotation",
+      "definition": "An idea or feeling that a word invokes beyond its literal meaning.",
+      "arabic": "دلالة",
+      "arabic_definition": "فكرة أو شعور تثيره كلمة تتجاوز معناها الحرفي.",
+      "example": {
+        "en": "The word ‘home’ has a warm connotation.",
+        "ar": "كلمة 'home' تحمل دلالة دافئة."
+      }
+    },
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech that describes something as if it were something else.",
+      "arabic": "استعارة",
+      "arabic_definition": "أسلوب بلاغي يصف شيئًا على أنه شيء آخر.",
+      "example": {
+        "en": "“Time is money” is a common metaphor.",
+        "ar": "«الوقت هو المال» استعارة شائعة."
+      }
+    },
+    {
+      "word": "literal",
+      "definition": "The exact or basic meaning of a word or phrase.",
+      "arabic": "حرفي",
+      "arabic_definition": "المعنى الدقيق أو الأساسي للكلمة أو العبارة.",
+      "example": {
+        "en": "He gave a literal translation of the text.",
+        "ar": "قدم ترجمة حرفية للنص."
+      }
+    },
+    {
+      "word": "subtext",
+      "definition": "The hidden or deeper meaning in a piece of communication.",
+      "arabic": "المعنى الضمني",
+      "arabic_definition": "المعنى الخفي أو الأعمق في جزء من التواصل.",
+      "example": {
+        "en": "The subtext of the conversation revealed tension.",
+        "ar": "كشف المعنى الضمني للمحادثة عن توتر."
+      }
+    },
+    {
+      "word": "allusion",
+      "definition": "A reference to another piece of literature or culture.",
+      "arabic": "إشارة",
+      "arabic_definition": "مرجع إلى عمل أدبي آخر أو عنصر من الثقافة.",
+      "example": {
+        "en": "The book contains an allusion to Shakespeare.",
+        "ar": "يحتوي الكتاب على إشارة إلى شكسبير."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The general character or attitude of a piece of writing.",
+      "arabic": "نبرة",
+      "arabic_definition": "الطابع أو السلوك العام لقطعة من النص.",
+      "example": {
+        "en": "The tone of the article was serious.",
+        "ar": "كانت نبرة المقال جدية."
+      }
+    },
+    {
+      "word": "ambiguity",
+      "definition": "The quality of being open to more than one interpretation.",
+      "arabic": "غموض",
+      "arabic_definition": "صفة تعني إمكانية التفسير بأكثر من طريقة.",
+      "example": {
+        "en": "The ambiguity of the message led to confusion.",
+        "ar": "أدى غموض الرسالة إلى الارتباك."
+      }
+    }
+  ]
+}

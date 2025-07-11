@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Seasons and Activities Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'summer'?",
+      "answers": [ "صيف", "شتاء", "ربيع", "خريف" ],
+      "correct": "صيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'winter'?",
+      "answers": [ "شتاء", "صيف", "ربيع", "خريف" ],
+      "correct": "شتاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'spring'?",
+      "answers": [ "ربيع", "صيف", "شتاء", "خريف" ],
+      "correct": "ربيع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'autumn'?",
+      "answers": [ "خريف", "صيف", "شتاء", "ربيع" ],
+      "correct": "خريف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'swimming'?",
+      "answers": [ "سباحة", "تزلج", "ركوب الدراجة", "مشي" ],
+      "correct": "سباحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'skiing'?",
+      "answers": [ "تزلج", "سباحة", "مشي", "ركوب الدراجة" ],
+      "correct": "تزلج",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cycling'?",
+      "answers": [ "ركوب الدراجة", "سباحة", "مشي", "تزلج" ],
+      "correct": "ركوب الدراجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'walking'?",
+      "answers": [ "مشي", "سباحة", "تزلج", "ركوب الدراجة" ],
+      "correct": "مشي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hot weather activities'?",
+      "answers": [ "أنشطة الطقس الحار", "أنشطة الطقس البارد", "أنشطة الشتاء", "أنشطة الخريف" ],
+      "correct": "أنشطة الطقس الحار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'cold weather activities'?",
+      "answers": [ "أنشطة الطقس البارد", "أنشطة الطقس الحار", "أنشطة الصيف", "أنشطة الربيع" ],
+      "correct": "أنشطة الطقس البارد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'picnic'?",
+      "answers": [ "نزهة", "تزلج", "سباحة", "مشوار" ],
+      "correct": "نزهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'camping'?",
+      "answers": [ "تخييم", "نزهة", "رحلة", "مشوار" ],
+      "correct": "تخييم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'harvest'?",
+      "answers": [ "حصاد", "زراعة", "مطر", "شتاء" ],
+      "correct": "حصاد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'flowers bloom'?",
+      "answers": [ "تتفتح الأزهار", "تسقط الأوراق", "تثلج الأرض", "تمطر السماء" ],
+      "correct": "تتفتح الأزهار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'leaves fall'?",
+      "answers": [ "تسقط الأوراق", "تتفتح الأزهار", "تثلج الأرض", "تمطر السماء" ],
+      "correct": "تسقط الأوراق",
+      "voiceUrl": ""
+    }
+  ]
+}

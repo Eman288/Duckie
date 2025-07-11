@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Meeting New People Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Nice to meet you' in Arabic?",
+      "answers": [ "تشرفت بلقائك", "أنا بخير", "ليس لدي وقت", "أين أنت؟" ],
+      "correct": "تشرفت بلقائك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What is your name?'",
+      "answers": [ "ما اسمك؟", "أين تسكن؟", "كم عمرك؟", "ماذا تعمل؟" ],
+      "correct": "ما اسمك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My name is Sarah' in Arabic?",
+      "answers": [ "اسمي سارة", "أنا من لندن", "أنا طبيبة", "ليس لدي وقت" ],
+      "correct": "اسمي سارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where are you from?'",
+      "answers": [ "من أين أنت؟", "ما عملك؟", "كم عمرك؟", "ماذا تدرس؟" ],
+      "correct": "من أين أنت؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you ask 'How old are you?' in Arabic?",
+      "answers": [ "كم عمرك؟", "أين تسكن؟", "ما عملك؟", "ما اسمك؟" ],
+      "correct": "كم عمرك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am from Egypt'?",
+      "answers": [ "أنا من مصر", "أنا من فرنسا", "أنا من لندن", "أنا من اليابان" ],
+      "correct": "أنا من مصر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Pleased to meet you' in Arabic?",
+      "answers": [ "سعيد بلقائك", "ليس لدي وقت", "أين أنت؟", "أنا بخير" ],
+      "correct": "سعيد بلقائك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What do you do?'",
+      "answers": [ "ماذا تعمل؟", "أين تسكن؟", "كم عمرك؟", "ما اسمك؟" ],
+      "correct": "ماذا تعمل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am a teacher' in Arabic?",
+      "answers": [ "أنا معلم", "أنا مريض", "أنا مشغول", "ليس لدي عمل" ],
+      "correct": "أنا معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Are you a student?'",
+      "answers": [ "هل أنت طالب؟", "هل أنت طبيب؟", "أين تسكن؟", "كم عمرك؟" ],
+      "correct": "هل أنت طالب؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am happy to be here' in Arabic?",
+      "answers": [ "أنا سعيد بوجودي هنا", "ليس لدي وقت", "ليس هنا أحد", "ليس هنا عمل" ],
+      "correct": "أنا سعيد بوجودي هنا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What is your nationality?'",
+      "answers": [ "ما جنسيتك؟", "كم عمرك؟", "أين تسكن؟", "ماذا تعمل؟" ],
+      "correct": "ما جنسيتك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am British' in Arabic?",
+      "answers": [ "أنا بريطاني", "أنا طبيب", "أنا هنا", "ليس لدي عمل" ],
+      "correct": "أنا بريطاني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where do you live?'",
+      "answers": [ "أين تسكن؟", "كم عمرك؟", "ما عملك؟", "أين تدرس؟" ],
+      "correct": "أين تسكن؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I live in Cairo' in Arabic?",
+      "answers": [ "أعيش في القاهرة", "أعيش في لندن", "ليس لدي عمل", "ليس هنا أحد" ],
+      "correct": "أعيش في القاهرة",
+      "voiceUrl": ""
+    }
+  ]
+}

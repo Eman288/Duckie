@@ -1,0 +1,126 @@
+{
+  "lesson": "Unit 1 - Lesson 2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'name'?",
+      "answers": [
+        "جنسية",
+        "اسم",
+        "العمر",
+        "من"
+      ],
+      "correct": "اسم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'status of belonging to a nation'?",
+      "answers": [
+        "age",
+        "name",
+        "nationality",
+        "from"
+      ],
+      "correct": "nationality",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to Arabic: 'I am 25 years old.'",
+      "answers": [
+        "أنا من مصر.",
+        "اسمي أحمد.",
+        "عمري 25 سنة.",
+        "أنا طالب."
+      ],
+      "correct": "عمري 25 سنة.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'العمر'?",
+      "answers": [
+        "from",
+        "age",
+        "name",
+        "am"
+      ],
+      "correct": "age",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which pronoun refers to yourself?",
+      "answers": [
+        "my",
+        "I",
+        "you",
+        "they"
+      ],
+      "correct": "I",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ a teacher.",
+      "answers": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correct": "am",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word is a possessive adjective?",
+      "answers": [
+        "am",
+        "from",
+        "I",
+        "my"
+      ],
+      "correct": "my",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic meaning of 'from'?",
+      "answers": [
+        "اسم",
+        "جنسية",
+        "من",
+        "العمر"
+      ],
+      "correct": "من",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which question asks about origin?",
+      "answers": [
+        "What is your name?",
+        "Where are you from?",
+        "How are you?",
+        "Do you like it?"
+      ],
+      "correct": "Where are you from?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: ___ name is Ali.",
+      "answers": [
+        "I",
+        "Am",
+        "My",
+        "From"
+      ],
+      "correct": "My",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate: 'اسمي سارة.'",
+      "answers": [
+        "My name is Sarah.",
+        "I am Sarah.",
+        "Sarah is my friend.",
+        "My age is 20."
+      ],
+      "correct": "My name is Sarah.",
+      "voiceUrl": ""
+    }
+  ]
+}

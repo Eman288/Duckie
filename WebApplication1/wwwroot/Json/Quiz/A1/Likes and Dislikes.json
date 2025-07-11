@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Likes and Dislikes Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I like apples' in Arabic?",
+      "answers": [ "أحب التفاح", "أحب الخيار", "أحب اللحم", "أحب القهوة" ],
+      "correct": "أحب التفاح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like fish' in Arabic?",
+      "answers": [ "لا أحب السمك", "أحب السمك", "أكل السمك", "ليس لدي سمك" ],
+      "correct": "لا أحب السمك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like tea'?",
+      "answers": [ "أحب الشاي", "ليس لدي شاي", "أشرب القهوة", "أكل الخبز" ],
+      "correct": "أحب الشاي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like meat' in Arabic?",
+      "answers": [ "ليس لدي لحم", "لا أحب اللحم", "أحب اللحم", "آكل اللحم" ],
+      "correct": "لا أحب اللحم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like vegetables'?",
+      "answers": [ "أحب الخضار", "ليس لدي خضار", "آكل خضار", "أشرب الخضار" ],
+      "correct": "أحب الخضار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like coffee' in Arabic?",
+      "answers": [ "ليس لدي قهوة", "أحب القهوة", "لا أحب القهوة", "أشرب القهوة" ],
+      "correct": "لا أحب القهوة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like fruit'?",
+      "answers": [ "ليس لدي فاكهة", "أحب الفاكهة", "آكل الفاكهة", "ليس عندي خضار" ],
+      "correct": "أحب الفاكهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like salad' in Arabic?",
+      "answers": [ "ليس لدي سلطة", "لا أحب السلطة", "آكل السلطة", "أشرب السلطة" ],
+      "correct": "لا أحب السلطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like pizza'?",
+      "answers": [ "ليس لدي بيتزا", "أحب البيتزا", "آكل البيتزا", "ليس عندي بيتزا" ],
+      "correct": "أحب البيتزا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like milk' in Arabic?",
+      "answers": [ "ليس لدي حليب", "لا أحب الحليب", "أشرب الحليب", "ليس عندي حليب" ],
+      "correct": "لا أحب الحليب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like oranges'?",
+      "answers": [ "ليس لدي برتقال", "أحب البرتقال", "ليس عندي برتقال", "آكل البرتقال" ],
+      "correct": "أحب البرتقال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like tea' in Arabic?",
+      "answers": [ "ليس لدي شاي", "لا أحب الشاي", "ليس عندي شاي", "أشرب الشاي" ],
+      "correct": "لا أحب الشاي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like pasta'?",
+      "answers": [ "ليس لدي مكرونة", "أحب المكرونة", "ليس عندي مكرونة", "آكل المكرونة" ],
+      "correct": "أحب المكرونة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don't like juice' in Arabic?",
+      "answers": [ "ليس لدي عصير", "ليس عندي عصير", "لا أحب العصير", "أشرب العصير" ],
+      "correct": "لا أحب العصير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like ice cream'?",
+      "answers": [ "ليس لدي آيس كريم", "ليس عندي آيس كريم", "أحب الآيس كريم", "آكل الآيس كريم" ],
+      "correct": "أحب الآيس كريم",
+      "voiceUrl": ""
+    }
+  ]
+}

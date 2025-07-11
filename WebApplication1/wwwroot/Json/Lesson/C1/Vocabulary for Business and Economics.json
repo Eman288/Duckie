@@ -1,0 +1,105 @@
+{
+  "lesson": "Vocabulary for Business and Economics",
+  "words": [
+    {
+      "word": "investment",
+      "definition": "The action of putting money into financial schemes or ventures.",
+      "arabic": "استثمار",
+      "arabic_definition": "فعل تخصيص المال لمشاريع أو برامج مالية.",
+      "example": {
+        "en": "They made an investment in the new technology.",
+        "ar": "قاموا باستثمار في التكنولوجيا الجديدة."
+      }
+    },
+    {
+      "word": "inflation",
+      "definition": "The rate at which prices rise over time.",
+      "arabic": "التضخم",
+      "arabic_definition": "معدل ارتفاع الأسعار على مر الزمن.",
+      "example": {
+        "en": "Inflation has affected the cost of living.",
+        "ar": "أثر التضخم على تكاليف المعيشة."
+      }
+    },
+    {
+      "word": "market trend",
+      "definition": "The general direction in which a market is moving.",
+      "arabic": "اتجاه السوق",
+      "arabic_definition": "الاتجاه العام الذي يتحرك فيه السوق.",
+      "example": {
+        "en": "The market trend is showing growth.",
+        "ar": "يشير اتجاه السوق إلى النمو."
+      }
+    },
+    {
+      "word": "profit margin",
+      "definition": "The percentage of revenue that is turned into profit.",
+      "arabic": "هامش الربح",
+      "arabic_definition": "نسبة الإيرادات التي يتم تحويلها إلى ربح.",
+      "example": {
+        "en": "The profit margin increased this year.",
+        "ar": "زاد هامش الربح هذا العام."
+      }
+    },
+    {
+      "word": "supply and demand",
+      "definition": "The economic model determining the price of goods.",
+      "arabic": "العرض والطلب",
+      "arabic_definition": "النموذج الاقتصادي الذي يحدد أسعار السلع.",
+      "example": {
+        "en": "Prices fluctuate based on supply and demand.",
+        "ar": "تتقلب الأسعار حسب العرض والطلب."
+      }
+    },
+    {
+      "word": "recession",
+      "definition": "A period of economic decline.",
+      "arabic": "ركود",
+      "arabic_definition": "فترة من التراجع الاقتصادي.",
+      "example": {
+        "en": "The country entered a recession last year.",
+        "ar": "دخلت البلاد مرحلة الركود العام الماضي."
+      }
+    },
+    {
+      "word": "monetary policy",
+      "definition": "The process by which a central bank controls the money supply.",
+      "arabic": "السياسة النقدية",
+      "arabic_definition": "العملية التي من خلالها يسيطر البنك المركزي على كمية الأموال.",
+      "example": {
+        "en": "Monetary policy aims to reduce inflation.",
+        "ar": "تهدف السياسة النقدية إلى خفض التضخم."
+      }
+    },
+    {
+      "word": "fiscal policy",
+      "definition": "Government decisions about spending and taxation.",
+      "arabic": "السياسة المالية",
+      "arabic_definition": "قرارات الحكومة بشأن الإنفاق والضرائب.",
+      "example": {
+        "en": "The government used fiscal policy to stimulate growth.",
+        "ar": "استخدمت الحكومة السياسة المالية لتحفيز النمو."
+      }
+    },
+    {
+      "word": "entrepreneur",
+      "definition": "A person who starts and operates a business.",
+      "arabic": "رائد أعمال",
+      "arabic_definition": "شخص يبدأ ويدير عملًا تجاريًا.",
+      "example": {
+        "en": "She is an entrepreneur in the tech industry.",
+        "ar": "هي رائدة أعمال في صناعة التكنولوجيا."
+      }
+    },
+    {
+      "word": "global market",
+      "definition": "The international market for goods and services.",
+      "arabic": "السوق العالمي",
+      "arabic_definition": "السوق الدولية للسلع والخدمات.",
+      "example": {
+        "en": "The global market is highly competitive.",
+        "ar": "السوق العالمي يتميز بتنافسية عالية."
+      }
+    }
+  ]
+}

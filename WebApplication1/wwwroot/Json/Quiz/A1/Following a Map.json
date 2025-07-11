@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Following a Map Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'Map'?",
+      "answers": [ "خريطة", "كتاب", "مدينة", "حافلة" ],
+      "correct": "خريطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Location' in Arabic?",
+      "answers": [ "موقع", "خريطة", "مدينة", "شارع" ],
+      "correct": "موقع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Route'?",
+      "answers": [ "طريق", "خريطة", "مدينة", "حافلة" ],
+      "correct": "طريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Destination' in Arabic?",
+      "answers": [ "وجهة", "خريطة", "مدينة", "شارع" ],
+      "correct": "وجهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Left turn'?",
+      "answers": [ "انعطاف يسار", "انعطاف يمين", "خريطة", "مدينة" ],
+      "correct": "انعطاف يسار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Right turn' in Arabic?",
+      "answers": [ "انعطاف يمين", "انعطاف يسار", "خريطة", "مدينة" ],
+      "correct": "انعطاف يمين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Go straight'?",
+      "answers": [ "اذهب مستقيمًا", "انعطف يمينًا", "انعطف يسارًا", "ارجع للخلف" ],
+      "correct": "اذهب مستقيمًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Cross the street' in Arabic?",
+      "answers": [ "اعبر الشارع", "اذهب مستقيمًا", "انعطف يمينًا", "ارجع للخلف" ],
+      "correct": "اعبر الشارع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Roundabout'?",
+      "answers": [ "دوار", "خريطة", "مدينة", "شارع" ],
+      "correct": "دوار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Intersection' in Arabic?",
+      "answers": [ "تقاطع", "خريطة", "مدينة", "شارع" ],
+      "correct": "تقاطع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Landmark'?",
+      "answers": [ "معلم", "خريطة", "مدينة", "شارع" ],
+      "correct": "معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Follow the signs' in Arabic?",
+      "answers": [ "اتبع اللافتات", "اذهب مستقيمًا", "انعطف يمينًا", "ارجع للخلف" ],
+      "correct": "اتبع اللافتات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Traffic light'?",
+      "answers": [ "إشارة المرور", "خريطة", "مدينة", "شارع" ],
+      "correct": "إشارة المرور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Bridge' in Arabic?",
+      "answers": [ "جسر", "خريطة", "مدينة", "شارع" ],
+      "correct": "جسر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Tunnel'?",
+      "answers": [ "نفق", "خريطة", "مدينة", "شارع" ],
+      "correct": "نفق",
+      "voiceUrl": ""
+    }
+  ]
+}

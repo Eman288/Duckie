@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Writing a Research Paper Quiz",
+  "questions": [
+    {
+      "question": "What is the first step in writing a research paper?",
+      "answers": [ "Choosing a clear research topic.", "Writing the conclusion.", "Adding references randomly.", "Ignoring the introduction." ],
+      "correct": "Choosing a clear research topic.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is a literature review important?",
+      "answers": [ "It provides background and context.", "It lists random articles.", "It is optional and unimportant.", "It replaces the analysis section." ],
+      "correct": "It provides background and context.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should a strong thesis statement do?",
+      "answers": [ "Clearly state the main argument or purpose.", "Be vague and broad.", "Include all details of the research.", "Be written last." ],
+      "correct": "Clearly state the main argument or purpose.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is outlining your paper helpful?",
+      "answers": [ "It organizes ideas logically before writing.", "It wastes time.", "It makes writing harder.", "It is unnecessary." ],
+      "correct": "It organizes ideas logically before writing.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is plagiarism?",
+      "answers": [ "Using others' work without credit.", "Citing sources correctly.", "Writing original content.", "Editing your draft." ],
+      "correct": "Using others' work without credit.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are citations important?",
+      "answers": [ "They give credit and allow verification.", "They are optional.", "They make papers longer.", "They confuse readers." ],
+      "correct": "They give credit and allow verification.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of the abstract?",
+      "answers": [ "To summarize the paper briefly.", "To list references.", "To introduce unrelated topics.", "To give detailed results." ],
+      "correct": "To summarize the paper briefly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should results be presented?",
+      "answers": [ "Clearly and objectively with supporting data.", "Vaguely and subjectively.", "Without any data.", "In the introduction section." ],
+      "correct": "Clearly and objectively with supporting data.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the purpose of the discussion section?",
+      "answers": [ "To interpret results and explain significance.", "To copy the results.", "To add unrelated information.", "To write the conclusion." ],
+      "correct": "To interpret results and explain significance.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is revising and proofreading important?",
+      "answers": [ "To improve clarity and correct errors.", "To add more mistakes.", "To delay submission.", "It is optional." ],
+      "correct": "To improve clarity and correct errors.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can peer feedback help?",
+      "answers": [ "It offers new perspectives and catches errors.", "It is irrelevant.", "It delays writing.", "It replaces your own review." ],
+      "correct": "It offers new perspectives and catches errors.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What style guides are commonly used in research papers?",
+      "answers": [ "APA, MLA, Chicago.", "Only APA.", "No style guides.", "Informal writing." ],
+      "correct": "APA, MLA, Chicago.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you avoid jargon?",
+      "answers": [ "To ensure the paper is understandable to a wider audience.", "To sound more complex.", "To confuse readers.", "To reduce word count." ],
+      "correct": "To ensure the paper is understandable to a wider audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of using clear headings?",
+      "answers": [ "They guide the reader through the structure.", "They clutter the paper.", "They are decorative only.", "They are unnecessary." ],
+      "correct": "They guide the reader through the structure.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should the conclusion include?",
+      "answers": [ "A summary of findings and implications.", "New information.", "An apology for mistakes.", "Only references." ],
+      "correct": "A summary of findings and implications.",
+      "voiceUrl": ""
+    }
+  ]
+}

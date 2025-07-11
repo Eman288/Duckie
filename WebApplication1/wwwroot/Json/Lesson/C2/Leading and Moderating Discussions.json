@@ -1,0 +1,105 @@
+{
+  "lesson": "Leading and Moderating Discussions",
+  "words": [
+    {
+      "word": "facilitate",
+      "definition": "To make a discussion run smoothly.",
+      "arabic": "تيسير",
+      "arabic_definition": "جعل المناقشة تتم بسلاسة.",
+      "example": {
+        "en": "He will facilitate the panel discussion.",
+        "ar": "سيسهل حلقة النقاش."
+      }
+    },
+    {
+      "word": "moderation",
+      "definition": "The role of guiding and managing a discussion.",
+      "arabic": "إدارة النقاش",
+      "arabic_definition": "دور توجيه وتنظيم النقاش.",
+      "example": {
+        "en": "Good moderation ensures everyone has a voice.",
+        "ar": "الإدارة الجيدة تضمن للجميع حق الكلام."
+      }
+    },
+    {
+      "word": "engage",
+      "definition": "To involve participants in conversation.",
+      "arabic": "يشرك",
+      "arabic_definition": "إشراك المشاركين في المحادثة.",
+      "example": {
+        "en": "Try to engage all attendees in the discussion.",
+        "ar": "حاول إشراك جميع الحاضرين في النقاش."
+      }
+    },
+    {
+      "word": "consensus",
+      "definition": "A general agreement reached by a group.",
+      "arabic": "توافق",
+      "arabic_definition": "اتفاق عام يتم التوصل إليه من قبل مجموعة.",
+      "example": {
+        "en": "The team worked hard to reach a consensus.",
+        "ar": "عمل الفريق بجد للوصول إلى توافق."
+      }
+    },
+    {
+      "word": "reiterate",
+      "definition": "To repeat or restate a point for emphasis.",
+      "arabic": "يعيد التأكيد",
+      "arabic_definition": "يعيد ذكر نقطة للتأكيد عليها.",
+      "example": {
+        "en": "He reiterated the importance of teamwork.",
+        "ar": "أعاد التأكيد على أهمية العمل الجماعي."
+      }
+    },
+    {
+      "word": "defer",
+      "definition": "To postpone a decision or discussion.",
+      "arabic": "يرجئ",
+      "arabic_definition": "تأجيل قرار أو مناقشة.",
+      "example": {
+        "en": "We decided to defer the final decision.",
+        "ar": "قررنا تأجيل القرار النهائي."
+      }
+    },
+    {
+      "word": "articulate",
+      "definition": "To express ideas clearly.",
+      "arabic": "يعبر بوضوح",
+      "arabic_definition": "يعبر عن الأفكار بوضوح.",
+      "example": {
+        "en": "He articulated his point of view effectively.",
+        "ar": "عبر عن وجهة نظره بوضوح."
+      }
+    },
+    {
+      "word": "diplomatic",
+      "definition": "Acting with tact and sensitivity.",
+      "arabic": "دبلوماسي",
+      "arabic_definition": "التصرف بلباقة وحساسية.",
+      "example": {
+        "en": "She gave a diplomatic reply to the challenging question.",
+        "ar": "أجابت بلباقة على السؤال الصعب."
+      }
+    },
+    {
+      "word": "conciliate",
+      "definition": "To make peace between differing parties.",
+      "arabic": "يصالح",
+      "arabic_definition": "التوفيق بين الأطراف المتنازعة.",
+      "example": {
+        "en": "He tried to conciliate between the departments.",
+        "ar": "حاول التوفيق بين الإدارتين."
+      }
+    },
+    {
+      "word": "mediate",
+      "definition": "To help resolve a dispute between parties.",
+      "arabic": "يتوسط",
+      "arabic_definition": "المساعدة على حل نزاع بين الأطراف.",
+      "example": {
+        "en": "He acted as a mediator between the teams.",
+        "ar": "تصرف كوسيط بين الفرق."
+      }
+    }
+  ]
+}

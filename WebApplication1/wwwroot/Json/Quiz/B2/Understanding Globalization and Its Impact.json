@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Understanding Globalization and Its Impact Quiz",
+  "questions": [
+    {
+      "question": "What is 'globalization'?",
+      "answers": [
+        "The process of making connections across the world.",
+        "A cooking trend.",
+        "A musical style.",
+        "A type of weather."
+      ],
+      "correct": "The process of making connections across the world.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is globalization important?",
+      "answers": [
+        "It allows countries to trade and share ideas.",
+        "It limits connections.",
+        "It is only for entertainment.",
+        "It affects only one country."
+      ],
+      "correct": "It allows countries to trade and share ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a result of globalization?",
+      "answers": [
+        "More access to goods and services.",
+        "Isolation between nations.",
+        "Decrease in technology.",
+        "Limited access to education."
+      ],
+      "correct": "More access to goods and services.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of globalization?",
+      "answers": [
+        "International online shopping.",
+        "Local festivals only.",
+        "Cooking with traditional methods.",
+        "Listening to only one music genre."
+      ],
+      "correct": "International online shopping.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can globalization affect culture?",
+      "answers": [
+        "It allows ideas and traditions to be shared.",
+        "It removes culture completely.",
+        "It separates people.",
+        "It has no effect."
+      ],
+      "correct": "It allows ideas and traditions to be shared.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'global trade'?",
+      "answers": [
+        "Buying and selling goods across nations.",
+        "Buying goods from one area only.",
+        "A cooking trend.",
+        "A musical style."
+      ],
+      "correct": "Buying and selling goods across nations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why can globalization be challenging?",
+      "answers": [
+        "It can create economic and social imbalances.",
+        "It always benefits all nations equally.",
+        "It has no effect.",
+        "It is only for entertainment."
+      ],
+      "correct": "It can create economic and social imbalances.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a global company?",
+      "answers": [
+        "Apple.",
+        "A small shop.",
+        "A local farm.",
+        "A neighborhood library."
+      ],
+      "correct": "Apple.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'cultural exchange'?",
+      "answers": [
+        "Sharing ideas and traditions between nations.",
+        "Buying only local products.",
+        "Listening to one music genre.",
+        "Eating only traditional meals."
+      ],
+      "correct": "Sharing ideas and traditions between nations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a benefit of globalization?",
+      "answers": [
+        "More access to new technologies and ideas.",
+        "More isolation.",
+        "Less economic activity.",
+        "Limited access to education."
+      ],
+      "correct": "More access to new technologies and ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'outsourcing'?",
+      "answers": [
+        "Moving certain work to another country to save costs.",
+        "Buying only local goods.",
+        "Listening to music.",
+        "Cooking traditional meals."
+      ],
+      "correct": "Moving certain work to another country to save costs.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why can globalization affect the environment?",
+      "answers": [
+        "Increased transportation and industry can cause pollution.",
+        "It has no impact.",
+        "It only affects rural areas.",
+        "It always improves the environment."
+      ],
+      "correct": "Increased transportation and industry can cause pollution.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a global 'market'?",
+      "answers": [
+        "A place where goods are sold internationally.",
+        "A small shop.",
+        "A cooking area.",
+        "A music venue."
+      ],
+      "correct": "A place where goods are sold internationally.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is communication important in globalization?",
+      "answers": [
+        "It connects people across borders.",
+        "It separates people.",
+        "It has no role.",
+        "It only applies to sports."
+      ],
+      "correct": "It connects people across borders.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of global culture?",
+      "answers": [
+        "International music festivals.",
+        "A cooking trend in one town.",
+        "A small rural market.",
+        "A unique language spoken in one area."
+      ],
+      "correct": "International music festivals.",
+      "voiceUrl": ""
+    }
+  ]
+}

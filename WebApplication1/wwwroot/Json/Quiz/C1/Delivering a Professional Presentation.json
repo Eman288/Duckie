@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Delivering a Professional Presentation Quiz",
+  "questions": [
+    {
+      "question": "What is important to do before giving a presentation?",
+      "answers": [ "Practice thoroughly.", "Ignore preparation.", "Read the slides word-for-word.", "Arrive late." ],
+      "correct": "Practice thoroughly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you engage your audience?",
+      "answers": [ "Ask questions and make eye contact.", "Read silently.", "Ignore the audience.", "Speak very fast." ],
+      "correct": "Ask questions and make eye contact.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should slides be simple and clear?",
+      "answers": [ "To support, not distract from your message.", "To fill space.", "To confuse the audience.", "To avoid speaking." ],
+      "correct": "To support, not distract from your message.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you forget a point?",
+      "answers": [ "Pause, take a breath, and continue.", "Panic and stop.", "Make up something.", "Ignore it." ],
+      "correct": "Pause, take a breath, and continue.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How important is body language during a presentation?",
+      "answers": [ "It helps communicate confidence and engagement.", "It is unimportant.", "It distracts the audience.", "It should be avoided." ],
+      "correct": "It helps communicate confidence and engagement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to open a presentation?",
+      "answers": [ "With a hook or interesting fact.", "By reading your name.", "By apologizing.", "By starting with thanks only." ],
+      "correct": "With a hook or interesting fact.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you handle questions from the audience?",
+      "answers": [ "Listen carefully and answer clearly.", "Ignore them.", "Get defensive.", "Answer vaguely." ],
+      "correct": "Listen carefully and answer clearly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is timing important in presentations?",
+      "answers": [ "To keep the audience’s attention.", "To finish as fast as possible.", "It is unimportant.", "To fill all time available." ],
+      "correct": "To keep the audience’s attention.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can visuals support your presentation?",
+      "answers": [ "By illustrating key points clearly.", "By overloading information.", "By distracting the audience.", "By replacing your speech." ],
+      "correct": "By illustrating key points clearly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if technical problems occur?",
+      "answers": [ "Stay calm and try to solve or adapt.", "Panic.", "Ignore the audience.", "Cancel the presentation." ],
+      "correct": "Stay calm and try to solve or adapt.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is practicing with your presentation tools important?",
+      "answers": [ "To ensure smooth delivery.", "It wastes time.", "It is unnecessary.", "It increases nervousness." ],
+      "correct": "To ensure smooth delivery.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you reduce nervousness before presenting?",
+      "answers": [ "Practice and deep breathing.", "Ignore it.", "Avoid preparation.", "Think negatively." ],
+      "correct": "Practice and deep breathing.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of a strong conclusion?",
+      "answers": [ "It reinforces your message.", "It is unnecessary.", "It confuses listeners.", "It should be brief only." ],
+      "correct": "It reinforces your message.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you dress for a professional presentation?",
+      "answers": [ "Appropriately and neatly.", "Casually.", "Too formally.", "It doesn’t matter." ],
+      "correct": "Appropriately and neatly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is feedback useful after a presentation?",
+      "answers": [ "To improve future presentations.", "It wastes time.", "It is unnecessary.", "It is only for beginners." ],
+      "correct": "To improve future presentations.",
+      "voiceUrl": ""
+    }
+  ]
+}

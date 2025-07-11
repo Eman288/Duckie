@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding News and Current Events",
+  "words": [
+    {
+      "word": "news",
+      "definition": "Information about recent events.",
+      "arabic": "أخبار",
+      "arabic_definition": "معلومات عن الأحداث الأخيرة.",
+      "example": {
+        "en": "I watch the news every evening.",
+        "ar": "أشاهد الأخبار كل مساء."
+      }
+    },
+    {
+      "word": "headline",
+      "definition": "The title of a news article.",
+      "arabic": "عنوان رئيسي",
+      "arabic_definition": "عنوان مقال إخباري.",
+      "example": {
+        "en": "The headline was about the new law.",
+        "ar": "كان العنوان الرئيسي عن القانون الجديد."
+      }
+    },
+    {
+      "word": "reporter",
+      "definition": "A person who tells news stories.",
+      "arabic": "مراسل",
+      "arabic_definition": "شخص ينقل أخبار.",
+      "example": {
+        "en": "The reporter interviewed the mayor.",
+        "ar": "قام المراسل بمقابلة العمدة."
+      }
+    },
+    {
+      "word": "broadcast",
+      "definition": "To send out news or programs on TV or radio.",
+      "arabic": "يبث",
+      "arabic_definition": "إرسال الأخبار أو البرامج على التلفزيون أو الراديو.",
+      "example": {
+        "en": "The news is broadcast at 6 pm.",
+        "ar": "يُبث الخبر في الساعة 6 مساءً."
+      }
+    },
+    {
+      "word": "source",
+      "definition": "Where information comes from.",
+      "arabic": "مصدر",
+      "arabic_definition": "المكان الذي تأتي منه المعلومات.",
+      "example": {
+        "en": "Always check the source of news.",
+        "ar": "تحقق دائمًا من مصدر الأخبار."
+      }
+    },
+    {
+      "word": "editor",
+      "definition": "A person who prepares news stories for publishing.",
+      "arabic": "محرر",
+      "arabic_definition": "شخص يحضر الأخبار للنشر.",
+      "example": {
+        "en": "The editor approved the article.",
+        "ar": "وافق المحرر على المقال."
+      }
+    },
+    {
+      "word": "live",
+      "definition": "Broadcast happening in real time.",
+      "arabic": "مباشر",
+      "arabic_definition": "بث يحدث في الوقت الحقيقي.",
+      "example": {
+        "en": "The reporter is live from the scene.",
+        "ar": "المراسل مباشر من الموقع."
+      }
+    },
+    {
+      "word": "headline",
+      "definition": "The main title of a news story.",
+      "arabic": "عنوان رئيسي",
+      "arabic_definition": "العنوان الرئيسي لقصة إخبارية.",
+      "example": {
+        "en": "The headline caught my attention.",
+        "ar": "لفت العنوان الرئيسي انتباهي."
+      }
+    },
+    {
+      "word": "investigation",
+      "definition": "A careful examination to find facts.",
+      "arabic": "تحقيق",
+      "arabic_definition": "فحص دقيق لإيجاد الحقائق.",
+      "example": {
+        "en": "The newspaper published an investigation about corruption.",
+        "ar": "نشرت الصحيفة تحقيقًا عن الفساد."
+      }
+    },
+    {
+      "word": "update",
+      "definition": "New information about an ongoing story.",
+      "arabic": "تحديث",
+      "arabic_definition": "معلومات جديدة عن قصة جارية.",
+      "example": {
+        "en": "We received an update on the weather forecast.",
+        "ar": "تلقينا تحديثًا عن توقعات الطقس."
+      }
+    }
+  ]
+}

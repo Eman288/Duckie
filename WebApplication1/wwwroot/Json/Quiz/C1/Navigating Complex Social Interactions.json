@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Navigating Complex Social Interactions Quiz",
+  "questions": [
+    {
+      "question": "Why is active listening vital in complex conversations?",
+      "answers": [ "It allows you to understand others' perspectives.", "It replaces making a point.", "It means ignoring verbal cues.", "It complicates interactions unnecessarily." ],
+      "correct": "It allows you to understand others' perspectives.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is emotional intelligence important in social interactions?",
+      "answers": [ "It helps you respond appropriately to others' feelings.", "It replaces clear language.", "It has no role in understanding others.", "It complicates making a point clearly." ],
+      "correct": "It helps you respond appropriately to others' feelings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is being aware of body language critical in conversations?",
+      "answers": [ "It provides cues about feelings and intentions.", "It replaces making a verbal point.", "It complicates understanding unnecessarily.", "It has no role in making connections." ],
+      "correct": "It provides cues about feelings and intentions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding cultural norms important in complex interactions?",
+      "answers": [ "To respect differences and foster connections.", "To impose your own norms.", "To complicate conversations intentionally.", "To ignore the listener’s feelings." ],
+      "correct": "To respect differences and foster connections.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to manage conflict in a conversation?",
+      "answers": [ "Listen openly, acknowledge feelings, and seek common ground.", "Interrupt and dominate the conversation.", "Avoid discussing the issue.", "Always insist your view is right." ],
+      "correct": "Listen openly, acknowledge feelings, and seek common ground.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is asking open-ended questions valuable in complex conversations?",
+      "answers": [ "It encourages deeper sharing and understanding.", "It replaces making statements.", "It complicates conversations intentionally.", "It gives the listener fewer ways to respond." ],
+      "correct": "It encourages deeper sharing and understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is aligning your message with the listener’s values helpful?",
+      "answers": [ "It increases understanding and receptiveness.", "It replaces making a strong point.", "It complicates conversations unnecessarily.", "It guarantees agreement every time." ],
+      "correct": "It increases understanding and receptiveness.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is pausing before responding a valuable technique in conversations?",
+      "answers": [ "It allows time to listen and formulate a thoughtful reply.", "It replaces making an argument.", "It complicates understanding intentionally.", "It makes conversations awkward." ],
+      "correct": "It allows time to listen and formulate a thoughtful reply.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to recognize unspoken signals in conversations?",
+      "answers": [ "It allows for a more accurate understanding of feelings and intentions.", "It replaces verbal communication.", "It complicates making a point intentionally.", "It has no role in meaningful exchanges." ],
+      "correct": "It allows for a more accurate understanding of feelings and intentions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is summarizing others’ points helpful in complex interactions?",
+      "answers": [ "It shows understanding and validates their perspective.", "It replaces making your point.", "It complicates agreement intentionally.", "It has no role in conversations." ],
+      "correct": "It shows understanding and validates their perspective.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing when to end a conversation important?",
+      "answers": [ "It maintains respect and prevents misunderstanding.", "It replaces making a strong point.", "It complicates further discussions intentionally.", "It has no role in successful interactions." ],
+      "correct": "It maintains respect and prevents misunderstanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is adapting your tone in conversations significant?",
+      "answers": [ "It shows sensitivity and encourages constructive dialogue.", "It replaces making a point.", "It complicates interactions intentionally.", "It has no role in making connections." ],
+      "correct": "It shows sensitivity and encourages constructive dialogue.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is acknowledging feelings important in challenging conversations?",
+      "answers": [ "It builds trust and mutual respect.", "It replaces making an argument.", "It complicates making a point intentionally.", "It has no role in understanding others." ],
+      "correct": "It builds trust and mutual respect.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is expressing ideas clearly vital in complex interactions?",
+      "answers": [ "To reduce confusion and ensure understanding.", "To complicate communication intentionally.", "To replace active listening.", "To hide feelings and intentions." ],
+      "correct": "To reduce confusion and ensure understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing when to agree to disagree valuable in complex conversations?",
+      "answers": [ "It maintains respect and allows relationships to continue.", "It replaces making an argument.", "It complicates making a point intentionally.", "It means ignoring differences altogether." ],
+      "correct": "It maintains respect and allows relationships to continue.",
+      "voiceUrl": ""
+    }
+  ]
+}

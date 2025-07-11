@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Critiquing and Analyzing Works of Art Quiz",
+  "questions": [
+    {
+      "question": "What is an 'art critique'?",
+      "answers": [
+        "An evaluation or review of a work of art.",
+        "A piece of music.",
+        "A story about an artist.",
+        "A dance performance."
+      ],
+      "correct": "An evaluation or review of a work of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is an art critique important?",
+      "answers": [
+        "It helps understand and evaluate the artwork.",
+        "It is a sales technique.",
+        "It replaces making art.",
+        "It is for decoration only."
+      ],
+      "correct": "It helps understand and evaluate the artwork.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'interpretation' mean in art?",
+      "answers": [
+        "Explaining the meaning or significance of an artwork.",
+        "Buying a piece of art.",
+        "Restoring an artwork.",
+        "Moving an artwork."
+      ],
+      "correct": "Explaining the meaning or significance of an artwork.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'aesthetic value'?",
+      "answers": [
+        "The beauty or emotional impact of a work of art.",
+        "The cost of a piece.",
+        "How old a piece is.",
+        "How popular an artwork is."
+      ],
+      "correct": "The beauty or emotional impact of a work of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is context important in understanding an artwork?",
+      "answers": [
+        "It provides information about the culture and time when it was made.",
+        "It only describes the colors.",
+        "It is irrelevant.",
+        "It only explains its price."
+      ],
+      "correct": "It provides information about the culture and time when it was made.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'style' in visual art?",
+      "answers": [
+        "A distinctive way an artist creates their work.",
+        "A price tag.",
+        "A material used.",
+        "A gallery layout."
+      ],
+      "correct": "A distinctive way an artist creates their work.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is an artist's technique important?",
+      "answers": [
+        "It affects how the artwork is made and how it appears.",
+        "It is always expensive.",
+        "It is not necessary.",
+        "It only applies to sculpture."
+      ],
+      "correct": "It affects how the artwork is made and how it appears.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'composition' mean in a piece of art?",
+      "answers": [
+        "How the elements are arranged.",
+        "How much it costs.",
+        "Where it is stored.",
+        "The signature of the artist."
+      ],
+      "correct": "How the elements are arranged.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding symbolism in an artwork important?",
+      "answers": [
+        "It reveals deeper meanings beyond its surface.",
+        "It changes its price.",
+        "It is unrelated.",
+        "It replaces color."
+      ],
+      "correct": "It reveals deeper meanings beyond its surface.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'artistic expression'?",
+      "answers": [
+        "How an artist conveys ideas, feelings, or themes.",
+        "A math concept.",
+        "A technical error.",
+        "A financial term."
+      ],
+      "correct": "How an artist conveys ideas, feelings, or themes.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is comparing artworks helpful?",
+      "answers": [
+        "To understand different styles, techniques, and ideas.",
+        "To find the cheapest one.",
+        "To memorize names.",
+        "To ignore historical context."
+      ],
+      "correct": "To understand different styles, techniques, and ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'critique' NOT about?",
+      "answers": [
+        "Personal attacks.",
+        "Observing and analyzing.",
+        "Exploring deeper meaning.",
+        "Evaluating technique."
+      ],
+      "correct": "Personal attacks.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can 'art criticism' lead to?",
+      "answers": [
+        "Better understanding and appreciation of art.",
+        "More confusion.",
+        "Disliking all artworks.",
+        "Rejection of all artists."
+      ],
+      "correct": "Better understanding and appreciation of art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is emotion considered when critiquing art?",
+      "answers": [
+        "Art aims to create an emotional response.",
+        "It is meaningless.",
+        "It is irrelevant.",
+        "It applies only to music."
+      ],
+      "correct": "Art aims to create an emotional response.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'balanced' composition?",
+      "answers": [
+        "Elements arranged harmoniously.",
+        "Only using one color.",
+        "Only focusing on one area.",
+        "Leaving the page blank."
+      ],
+      "correct": "Elements arranged harmoniously.",
+      "voiceUrl": ""
+    }
+  ]
+}

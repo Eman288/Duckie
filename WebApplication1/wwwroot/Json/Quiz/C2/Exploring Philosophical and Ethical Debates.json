@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Exploring Philosophical and Ethical Debates",
+  "questions": [
+    {
+      "question": "Why are philosophical debates significant?",
+      "answers": [ "They deepen understanding of complex ideas.", "They skip critical thinking.", "They focus only on one viewpoint.", "They ignore ethics and context." ],
+      "correct": "They deepen understanding of complex ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common theme in ethical debates?",
+      "answers": [ "Morality and its application.", "Ignoring differences in context.", "Accepting ideas without questioning.", "Reinforcing existing prejudices." ],
+      "correct": "Morality and its application.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is skepticism vital in philosophical discussions?",
+      "answers": [ "It encourages questioning and critical thought.", "It replaces evidence-based reasoning.", "It promotes ignoring opposing ideas.", "It guarantees consensus." ],
+      "correct": "It encourages questioning and critical thought.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role does reasoning play in philosophical debates?",
+      "answers": [ "It forms the basis for rational argumentation.", "It replaces evidence.", "It excludes emotional understanding.", "It guarantees agreement." ],
+      "correct": "It forms the basis for rational argumentation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding ethical dilemmas important?",
+      "answers": [ "To consider the complexity of moral choices.", "To justify one viewpoint.", "To ignore opposing views.", "To skip examination of motives." ],
+      "correct": "To consider the complexity of moral choices.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a philosophical debate?",
+      "answers": [ "The nature of free will vs determinism.", "Choosing lunch options.", "Observing weather patterns.", "Counting pages of a book." ],
+      "correct": "The nature of free will vs determinism.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is open-mindedness vital in philosophical discourse?",
+      "answers": [ "To consider diverse perspectives and arguments.", "To ignore evidence.", "To dominate conversations.", "To accept only one viewpoint." ],
+      "correct": "To consider diverse perspectives and arguments.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common method in ethical reasoning?",
+      "answers": [ "Weighing consequences and principles.", "Relying only on personal feelings.", "Accepting ideas without examination.", "Ignoring evidence for convenience." ],
+      "correct": "Weighing consequences and principles.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are case studies used in ethics?",
+      "answers": [ "To apply theoretical ideas to real-world situations.", "To skip abstract theory.", "To memorize irrelevant facts.", "To confuse readers intentionally." ],
+      "correct": "To apply theoretical ideas to real-world situations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding bias important?",
+      "answers": [ "To recognize how perceptions affect judgment.", "To dominate discussions.", "To skip opposing ideas.", "To reject others’ points automatically." ],
+      "correct": "To recognize how perceptions affect judgment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it necessary to justify conclusions in philosophical debates?",
+      "answers": [ "To demonstrate sound reasoning and support claims.", "To skip evidence.", "To accept assumptions blindly.", "To agree with popular opinion." ],
+      "correct": "To demonstrate sound reasoning and support claims.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a hallmark of a strong philosophical argument?",
+      "answers": [ "Clarity, evidence, and logical structure.", "Relying only on emotion.", "Ignoring objections.", "Repetition of one idea." ],
+      "correct": "Clarity, evidence, and logical structure.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is context relevant in ethics?",
+      "answers": [ "To understand circumstances affecting decisions.", "To apply universal rules blindly.", "To ignore historical background.", "To reject all objections." ],
+      "correct": "To understand circumstances affecting decisions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is the ability to disagree respectfully important?",
+      "answers": [ "To foster constructive and productive debates.", "To dominate others.", "To skip providing evidence.", "To enforce one view exclusively." ],
+      "correct": "To foster constructive and productive debates.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a benefit of exploring philosophical and ethical debates?",
+      "answers": [ "Developing critical thinking and understanding.", "Memorizing abstract terms.", "Skipping self-reflection.", "Relying only on personal experience." ],
+      "correct": "Developing critical thinking and understanding.",
+      "voiceUrl": ""
+    }
+  ]
+}

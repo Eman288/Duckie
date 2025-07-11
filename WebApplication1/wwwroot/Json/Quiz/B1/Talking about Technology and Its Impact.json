@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Talking about Technology and Its Impact Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Technology is important in daily life' in Arabic?",
+      "answers": [ "التكنولوجيا مهمة في الحياة اليومية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "التكنولوجيا مهمة في الحياة اليومية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I use a computer every day'",
+      "answers": [ "أستخدم الكمبيوتر كل يوم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم الكمبيوتر كل يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a smartphone' in Arabic?",
+      "answers": [ "لدي هاتف ذكي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي هاتف ذكي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Technology makes life easier'",
+      "answers": [ "التكنولوجيا تجعل الحياة أسهل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "التكنولوجيا تجعل الحياة أسهل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I use the internet to learn' in Arabic?",
+      "answers": [ "أستخدم الانترنت للتعلم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم الانترنت للتعلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I work online'",
+      "answers": [ "أعمل على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعمل على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like video calls with friends' in Arabic?",
+      "answers": [ "أحب المكالمات المرئية مع الأصدقاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب المكالمات المرئية مع الأصدقاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Technology has changed the world'",
+      "answers": [ "التكنولوجيا غيرت العالم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "التكنولوجيا غيرت العالم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I use technology for entertainment' in Arabic?",
+      "answers": [ "أستخدم التكنولوجيا للترفيه", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم التكنولوجيا للترفيه",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I read e-books'",
+      "answers": [ "أقرأ الكتب الإلكترونية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ الكتب الإلكترونية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch online courses' in Arabic?",
+      "answers": [ "أشاهد الدورات عبر الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الدورات عبر الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I use social media to stay connected'",
+      "answers": [ "أستخدم وسائل التواصل الاجتماعي للبقاء على اتصال", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم وسائل التواصل الاجتماعي للبقاء على اتصال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Technology improves education' in Arabic?",
+      "answers": [ "التكنولوجيا تحسن التعليم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "التكنولوجيا تحسن التعليم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am interested in new technology'",
+      "answers": [ "أنا مهتم بالتكنولوجيا الجديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بالتكنولوجيا الجديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Technology saves time' in Arabic?",
+      "answers": [ "التكنولوجيا توفر الوقت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "التكنولوجيا توفر الوقت",
+      "voiceUrl": ""
+    }
+  ]
+}

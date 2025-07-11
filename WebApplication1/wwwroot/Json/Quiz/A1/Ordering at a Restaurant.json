@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Ordering at a Restaurant Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I would like a menu' in Arabic?",
+      "answers": [ "أريد قائمة الطعام", "ليس لدي قائمة", "ليس عندي قائمة", "ليس لدي طعام" ],
+      "correct": "أريد قائمة الطعام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want to order' in Arabic?",
+      "answers": [ "ليس لدي طلب", "ليس عندي طلب", "أريد أن أطلب", "ليس عندي طعام" ],
+      "correct": "أريد أن أطلب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Can I have water?'",
+      "answers": [ "ليس لدي ماء", "ليس عندي ماء", "هل يمكنني الحصول على ماء؟", "ليس لدي طعام" ],
+      "correct": "هل يمكنني الحصول على ماء؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I would like tea' in Arabic?",
+      "answers": [ "ليس لدي شاي", "ليس عندي شاي", "أود شاي", "ليس لدي قهوة" ],
+      "correct": "أود شاي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'The bill, please'?",
+      "answers": [ "الفاتورة من فضلك", "ليس لدي فاتورة", "ليس عندي فاتورة", "ليس لدي حساب" ],
+      "correct": "الفاتورة من فضلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want a sandwich' in Arabic?",
+      "answers": [ "ليس لدي شطيرة", "ليس عندي شطيرة", "أريد شطيرة", "ليس لدي ساندويتش" ],
+      "correct": "أريد شطيرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'What do you recommend?'",
+      "answers": [ "ليس لدي توصيات", "ليس عندي توصيات", "ماذا تنصح؟", "ليس لدي طعام" ],
+      "correct": "ماذا تنصح؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am vegetarian' in Arabic?",
+      "answers": [ "ليس لدي لحم", "ليس عندي لحم", "أنا نباتي", "ليس لدي طعام" ],
+      "correct": "أنا نباتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Can I have a table for two?'",
+      "answers": [ "ليس لدي طاولة", "ليس عندي طاولة", "هل يمكنني الحصول على طاولة لشخصين؟", "ليس لدي مقعد" ],
+      "correct": "هل يمكنني الحصول على طاولة لشخصين؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am allergic to nuts' in Arabic?",
+      "answers": [ "ليس لدي حساسية", "ليس عندي طعام", "ليس لدي قائمة", "لدي حساسية من المكسرات" ],
+      "correct": "لدي حساسية من المكسرات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'The food is delicious'",
+      "answers": [ "ليس لدي طعام", "ليس عندي طعام", "الطعام لذيذ", "ليس لدي قائمة" ],
+      "correct": "الطعام لذيذ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want the check' in Arabic?",
+      "answers": [ "ليس لدي فاتورة", "ليس عندي فاتورة", "أريد الفاتورة", "ليس لدي طعام" ],
+      "correct": "أريد الفاتورة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'May I have another plate?'",
+      "answers": [ "ليس لدي طبق", "ليس عندي طبق", "هل يمكنني الحصول على طبق آخر؟", "ليس لدي طعام" ],
+      "correct": "هل يمكنني الحصول على طبق آخر؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The food is too salty' in Arabic?",
+      "answers": [ "ليس لدي ملح", "ليس عندي ملح", "الطعام مالح جداً", "ليس لدي طعام مالح" ],
+      "correct": "الطعام مالح جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am full'",
+      "answers": [ "ليس لدي طعام", "ليس عندي طعام", "أنا شبعان", "ليس لدي قائمة طعام" ],
+      "correct": "أنا شبعان",
+      "voiceUrl": ""
+    }
+  ]
+}

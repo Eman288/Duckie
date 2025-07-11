@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Understanding News and Current Events Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I read the news every morning' in Arabic?",
+      "answers": [ "أقرأ الأخبار كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ الأخبار كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch the news on television'",
+      "answers": [ "أشاهد الأخبار على التلفاز", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأخبار على التلفاز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am interested in politics' in Arabic?",
+      "answers": [ "أنا مهتم بالسياسة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بالسياسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I listen to the radio for news'",
+      "answers": [ "أستمع إلى الراديو للحصول على الأخبار", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستمع إلى الراديو للحصول على الأخبار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like to stay informed' in Arabic?",
+      "answers": [ "أحب البقاء على اطلاع", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب البقاء على اطلاع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I read online articles'",
+      "answers": [ "أقرأ المقالات على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ المقالات على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch documentaries about history' in Arabic?",
+      "answers": [ "أشاهد الأفلام الوثائقية عن التاريخ", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأفلام الوثائقية عن التاريخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch interviews with politicians'",
+      "answers": [ "أشاهد المقابلات مع السياسيين", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد المقابلات مع السياسيين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am interested in world events' in Arabic?",
+      "answers": [ "أنا مهتم بالأحداث العالمية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بالأحداث العالمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch the evening news'",
+      "answers": [ "أشاهد الأخبار المسائية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأخبار المسائية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like discussing current events' in Arabic?",
+      "answers": [ "أحب مناقشة الأحداث الجارية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب مناقشة الأحداث الجارية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I read news online'",
+      "answers": [ "أقرأ الأخبار على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ الأخبار على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am aware of global issues' in Arabic?",
+      "answers": [ "أنا على علم بالقضايا العالمية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا على علم بالقضايا العالمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch documentaries about politics'",
+      "answers": [ "أشاهد الأفلام الوثائقية عن السياسة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأفلام الوثائقية عن السياسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like reading the newspaper' in Arabic?",
+      "answers": [ "أحب قراءة الصحيفة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب قراءة الصحيفة",
+      "voiceUrl": ""
+    }
+  ]
+}

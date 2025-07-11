@@ -1,0 +1,96 @@
+{
+  "lesson": "Unit 4 - Precision in Speech and Argumentation",
+  "questions": [
+    {
+      "question": "Why is precision important in spoken language?",
+      "answers": [ "To make ideas clear and authoritative.", "To complicate understanding intentionally.", "To skip making points clearly.", "To remove specificity in arguments." ],
+      "correct": "To make ideas clear and authoritative.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a benefit of using examples in an argument?",
+      "answers": [ "They clarify abstract ideas and support claims.", "They complicate understanding intentionally.", "They skip making connections for the listener.", "They remove precision from statements." ],
+      "correct": "They clarify abstract ideas and support claims.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use concise language in speeches?",
+      "answers": [ "To maintain listener focus and understanding.", "To complicate ideas intentionally.", "To skip making a point clearly.", "To add redundancy to an argument." ],
+      "correct": "To maintain listener focus and understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is a strong opening statement vital?",
+      "answers": [ "To capture attention and set the tone.", "To complicate ideas intentionally.", "To skip making the point clearly.", "To remove specificity in speech." ],
+      "correct": "To capture attention and set the tone.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use evidence in an argument?",
+      "answers": [ "To build credibility and justify claims.", "To complicate ideas unnecessarily.", "To skip making a strong point clearly.", "To remove precision from statements." ],
+      "correct": "To build credibility and justify claims.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why consider audience expectations in speech?",
+      "answers": [ "To make language and examples relevant and impactful.", "To skip making connections clearly.", "To complicate ideas intentionally.", "To remove precision in delivery." ],
+      "correct": "To make language and examples relevant and impactful.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use varied intonation?",
+      "answers": [ "To maintain listener interest and highlight key ideas.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To maintain listener interest and highlight key ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why anticipate counter-arguments?",
+      "answers": [ "To strengthen one’s own position and build trust.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To strengthen one’s own position and build trust.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why focus on word choice in speech?",
+      "answers": [ "To ensure precision and clarity in ideas.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To ensure precision and clarity in ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use pauses strategically?",
+      "answers": [ "To emphasize points and aid understanding.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To emphasize points and aid understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why maintain a confident tone?",
+      "answers": [ "To build trust and authority with listeners.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To build trust and authority with listeners.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why organize ideas clearly?",
+      "answers": [ "To help listeners follow and comprehend.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To help listeners follow and comprehend.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why adjust language for formality?",
+      "answers": [ "To suit context and audience expectations.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To suit context and audience expectations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why summarize key ideas?",
+      "answers": [ "To reinforce understanding and retention.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To reinforce understanding and retention.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why ask questions during a speech?",
+      "answers": [ "To engage listeners and invite reflection.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from delivery." ],
+      "correct": "To engage listeners and invite reflection.",
+      "voiceUrl": ""
+    }
+  ]
+}
+

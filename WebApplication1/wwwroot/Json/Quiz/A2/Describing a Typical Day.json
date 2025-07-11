@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Making Plans for the Weekend Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'What are you doing this weekend?' in Arabic?",
+      "answers": [ "ماذا تفعل نهاية الأسبوع؟", "أين تذهب؟", "ماذا تأكل؟", "متى تعمل؟" ],
+      "correct": "ماذا تفعل نهاية الأسبوع؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am going to the park'?",
+      "answers": [ "أنا ذاهب إلى الحديقة", "أنا ذاهب إلى العمل", "أنا ذاهب إلى النوم", "أنا ذاهب إلى المنزل" ],
+      "correct": "أنا ذاهب إلى الحديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will visit my friends'?",
+      "answers": [ "سأزور أصدقائي", "سأكتب رسالة", "سأشاهد فيلم", "سأذهب للنوم" ],
+      "correct": "سأزور أصدقائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am going to the cinema'?",
+      "answers": [ "أنا ذاهب إلى السينما", "أنا ذاهب إلى العمل", "أنا ذاهب إلى النوم", "أنا ذاهب إلى الحديقة" ],
+      "correct": "أنا ذاهب إلى السينما",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will stay at home'?",
+      "answers": [ "سأبقى في البيت", "سأخرج مع الأصدقاء", "سأذهب للعمل", "سأتحدث على الهاتف" ],
+      "correct": "سأبقى في البيت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am going shopping'?",
+      "answers": [ "أنا ذاهب للتسوق", "أنا ذاهب للعمل", "أنا ذاهب للنوم", "أنا ذاهب للسباحة" ],
+      "correct": "أنا ذاهب للتسوق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'We will play football'?",
+      "answers": [ "سنلعب كرة القدم", "سنشاهد فيلم", "سنخرج للطعام", "سنكتب درسًا" ],
+      "correct": "سنلعب كرة القدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am going to relax'?",
+      "answers": [ "سأسترخي", "سأعمل بجد", "سأكتب درسًا", "سأخرج للعمل" ],
+      "correct": "سأسترخي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will cook dinner'?",
+      "answers": [ "سأطهو العشاء", "سأشاهد فيلم", "سأخرج من المنزل", "سأتحدث على الهاتف" ],
+      "correct": "سأطهو العشاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We will have a picnic'?",
+      "answers": [ "سنخرج للنزهة", "سنكتب درسًا", "سنشاهد فيلمًا", "سنعمل على الحاسوب" ],
+      "correct": "سنخرج للنزهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am going to a concert'?",
+      "answers": [ "أنا ذاهب إلى حفل موسيقي", "أنا ذاهب إلى العمل", "أنا ذاهب للنوم", "أنا ذاهب للمدرسة" ],
+      "correct": "أنا ذاهب إلى حفل موسيقي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I will spend time with family'?",
+      "answers": [ "سأقضي الوقت مع العائلة", "سأعمل طوال الوقت", "سأخرج طوال الوقت", "سأنام طوال الوقت" ],
+      "correct": "سأقضي الوقت مع العائلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am going to exercise'?",
+      "answers": [ "سأتمرن", "سأتحدث", "سأكتب", "سأتصل" ],
+      "correct": "سأتمرن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I will go for a walk'?",
+      "answers": [ "سأذهب للنزهة", "سأذهب للعمل", "سأذهب للنوم", "سأكتب درسًا" ],
+      "correct": "سأذهب للنزهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will read a book'?",
+      "answers": [ "سأقرأ كتابًا", "سأتحدث على الهاتف", "سأتفرج على فيلم", "سأخرج من المنزل" ],
+      "correct": "سأقرأ كتابًا",
+      "voiceUrl": ""
+    }
+  ]
+}

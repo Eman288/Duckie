@@ -1,0 +1,105 @@
+{
+  "lesson": "Saying Hello and Goodbye",
+  "words": [
+    {
+      "word": "hello",
+      "definition": "A greeting used when meeting someone.",
+      "arabic": "مرحباً",
+      "arabic_definition": "تحية تُستخدم عند لقاء شخص.",
+      "example": {
+        "en": "Hello, how are you?",
+        "ar": "مرحباً، كيف حالك؟"
+      }
+    },
+    {
+      "word": "hi",
+      "definition": "An informal way to say hello.",
+      "arabic": "أهلاً",
+      "arabic_definition": "طريقة غير رسمية لقول مرحباً.",
+      "example": {
+        "en": "Hi, I’m John.",
+        "ar": "أهلاً، أنا جون."
+      }
+    },
+    {
+      "word": "good morning",
+      "definition": "A greeting used in the morning.",
+      "arabic": "صباح الخير",
+      "arabic_definition": "تحية تُستخدم في الصباح.",
+      "example": {
+        "en": "Good morning! Did you sleep well?",
+        "ar": "صباح الخير! هل نمت جيداً؟"
+      }
+    },
+    {
+      "word": "good afternoon",
+      "definition": "A greeting used in the afternoon.",
+      "arabic": "مساء الخير",
+      "arabic_definition": "تحية تُستخدم بعد الظهر.",
+      "example": {
+        "en": "Good afternoon, sir.",
+        "ar": "مساء الخير، سيدي."
+      }
+    },
+    {
+      "word": "good evening",
+      "definition": "A greeting used in the evening.",
+      "arabic": "مساء الخير",
+      "arabic_definition": "تحية تُستخدم في المساء.",
+      "example": {
+        "en": "Good evening! How was your day?",
+        "ar": "مساء الخير! كيف كان يومك؟"
+      }
+    },
+    {
+      "word": "good night",
+      "definition": "A phrase used to say goodbye at night.",
+      "arabic": "تصبح على خير",
+      "arabic_definition": "عبارة تُستخدم لوداع شخص ليلاً.",
+      "example": {
+        "en": "Good night! See you tomorrow.",
+        "ar": "تصبح على خير! أراك غداً."
+      }
+    },
+    {
+      "word": "goodbye",
+      "definition": "Used to express good wishes when parting.",
+      "arabic": "وداعاً",
+      "arabic_definition": "تُستخدم للتعبير عن الأمنيات الطيبة عند الوداع.",
+      "example": {
+        "en": "Goodbye! Take care.",
+        "ar": "وداعاً! اعتنِ بنفسك."
+      }
+    },
+    {
+      "word": "bye",
+      "definition": "An informal way to say goodbye.",
+      "arabic": "إلى اللقاء",
+      "arabic_definition": "طريقة غير رسمية لقول وداعاً.",
+      "example": {
+        "en": "Bye! See you later.",
+        "ar": "إلى اللقاء! أراك لاحقاً."
+      }
+    },
+    {
+      "word": "see you",
+      "definition": "A casual way to say goodbye with the intention of meeting again.",
+      "arabic": "أراك لاحقاً",
+      "arabic_definition": "طريقة غير رسمية للوداع مع نية اللقاء مجدداً.",
+      "example": {
+        "en": "See you soon!",
+        "ar": "أراك قريباً!"
+      }
+    },
+    {
+      "word": "take care",
+      "definition": "A phrase used to tell someone to be careful and safe.",
+      "arabic": "اعتنِ بنفسك",
+      "arabic_definition": "عبارة تُستخدم لتمني السلامة لشخص.",
+      "example": {
+        "en": "Take care! Drive safely.",
+        "ar": "اعتنِ بنفسك! قد بأمان."
+      }
+    }
+  ]
+}

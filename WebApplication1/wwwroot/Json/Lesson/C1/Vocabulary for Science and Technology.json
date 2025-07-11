@@ -1,0 +1,105 @@
+{
+  "lesson": "Vocabulary for Science and Technology",
+  "words": [
+    {
+      "word": "innovation",
+      "definition": "The introduction of new ideas, methods, or products.",
+      "arabic": "ابتكار",
+      "arabic_definition": "إدخال أفكار أو طرق أو منتجات جديدة.",
+      "example": {
+        "en": "The company is known for its innovation.",
+        "ar": "تشتهر الشركة بابتكارها."
+      }
+    },
+    {
+      "word": "artificial intelligence",
+      "definition": "The simulation of human intelligence by machines.",
+      "arabic": "الذكاء الاصطناعي",
+      "arabic_definition": "محاكاة الذكاء البشري بواسطة الأجهزة.",
+      "example": {
+        "en": "Artificial intelligence is shaping the future of work.",
+        "ar": "يشكل الذكاء الاصطناعي مستقبل العمل."
+      }
+    },
+    {
+      "word": "data analysis",
+      "definition": "The process of inspecting and interpreting data.",
+      "arabic": "تحليل البيانات",
+      "arabic_definition": "عملية فحص وتفسير البيانات.",
+      "example": {
+        "en": "Data analysis helps businesses make better decisions.",
+        "ar": "يساعد تحليل البيانات الشركات على اتخاذ قرارات أفضل."
+      }
+    },
+    {
+      "word": "quantum computing",
+      "definition": "A technology that uses quantum-mechanical phenomena to perform calculations.",
+      "arabic": "الحوسبة الكمومية",
+      "arabic_definition": "تقنية تستخدم الظواهر الكمومية لإجراء الحسابات.",
+      "example": {
+        "en": "Quantum computing can solve complex problems quickly.",
+        "ar": "يمكن للحوسبة الكمومية حل المشكلات المعقدة بسرعة."
+      }
+    },
+    {
+      "word": "genetics",
+      "definition": "The study of genes and heredity.",
+      "arabic": "علم الوراثة",
+      "arabic_definition": "دراسة الجينات والوراثة.",
+      "example": {
+        "en": "Genetics plays a role in understanding disease.",
+        "ar": "يلعب علم الوراثة دورًا في فهم الأمراض."
+      }
+    },
+    {
+      "word": "biotechnology",
+      "definition": "The use of living organisms to create products.",
+      "arabic": "التكنولوجيا الحيوية",
+      "arabic_definition": "استخدام الكائنات الحية لإنتاج منتجات.",
+      "example": {
+        "en": "Biotechnology has advanced medicine and agriculture.",
+        "ar": "ساهمت التكنولوجيا الحيوية في تطوير الطب والزراعة."
+      }
+    },
+    {
+      "word": "nanotechnology",
+      "definition": "The science of manipulating matter at an atomic or molecular scale.",
+      "arabic": "تقنية النانو",
+      "arabic_definition": "علم التعامل مع المادة على المستوى الذري أو الجزيئي.",
+      "example": {
+        "en": "Nanotechnology can revolutionize electronics.",
+        "ar": "يمكن لتقنية النانو إحداث ثورة في الإلكترونيات."
+      }
+    },
+    {
+      "word": "machine learning",
+      "definition": "A branch of AI where machines learn from data.",
+      "arabic": "التعلم الآلي",
+      "arabic_definition": "فرع من الذكاء الاصطناعي يتم فيه تعلم الأجهزة من البيانات.",
+      "example": {
+        "en": "Machine learning improves prediction accuracy.",
+        "ar": "التعلم الآلي يحسن دقة التنبؤ."
+      }
+    },
+    {
+      "word": "automation",
+      "definition": "The use of technology to perform tasks with minimal human input.",
+      "arabic": "الأتمتة",
+      "arabic_definition": "استخدام التكنولوجيا لأداء المهام بأقل تدخل بشري.",
+      "example": {
+        "en": "Automation has increased productivity.",
+        "ar": "زادت الأتمتة من الإنتاجية."
+      }
+    },
+    {
+      "word": "cybersecurity",
+      "definition": "The practice of protecting computer systems and data.",
+      "arabic": "الأمن السيبراني",
+      "arabic_definition": "ممارسة حماية الأنظمة الإلكترونية والبيانات.",
+      "example": {
+        "en": "Cybersecurity is vital for online businesses.",
+        "ar": "الأمن السيبراني مهم للأعمال عبر الانترنت."
+      }
+    }
+  ]
+}

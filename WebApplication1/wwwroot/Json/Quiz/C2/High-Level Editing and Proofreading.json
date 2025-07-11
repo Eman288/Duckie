@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - High-Level Editing and Proofreading",
+  "questions": [
+    {
+      "question": "Why is proofreading essential for advanced writers?",
+      "answers": [ "To eliminate errors and refine text quality.", "To skip style review.", "To remove complexity intentionally.", "To write quickly without review." ],
+      "correct": "To eliminate errors and refine text quality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common focus during editing?",
+      "answers": [ "Clarity, structure, and consistency.", "Word count only.", "Rushing through text quickly.", "Ignoring reader understanding." ],
+      "correct": "Clarity, structure, and consistency.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review text for redundancy?",
+      "answers": [ "To remove repetition and make text concise.", "To complicate the text unnecessarily.", "To skip review for precision.", "To reduce clarity intentionally." ],
+      "correct": "To remove repetition and make text concise.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is focusing on transitions vital?",
+      "answers": [ "To ensure seamless connections between ideas.", "To skip making connections between paragraphs.", "To complicate reading intentionally.", "To reduce clarity for readers." ],
+      "correct": "To ensure seamless connections between ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review word choice during editing?",
+      "answers": [ "To select words that best capture tone and precision.", "To skip finding the best words for context.", "To complicate text unnecessarily.", "To remove the writer’s voice intentionally." ],
+      "correct": "To select words that best capture tone and precision.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is verifying facts crucial?",
+      "answers": [ "To maintain credibility and reliability.", "To complicate text unnecessarily.", "To skip checking for accuracy.", "To ignore evidence or context." ],
+      "correct": "To maintain credibility and reliability.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an important part of proofreading?",
+      "answers": [ "Correcting spelling, grammar, and punctuation errors.", "Ignoring grammatical rules.", "Adding ambiguity intentionally.", "Overloading the text with jargon." ],
+      "correct": "Correcting spelling, grammar, and punctuation errors.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review tone and voice?",
+      "answers": [ "To ensure the text suits its intended audience.", "To complicate text unnecessarily.", "To skip checking for style.", "To ignore reader expectations." ],
+      "correct": "To ensure the text suits its intended audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review structure when editing?",
+      "answers": [ "To make sure ideas flow logically and clearly.", "To complicate reading intentionally.", "To skip organizing ideas.", "To focus only on word count." ],
+      "correct": "To make sure ideas flow logically and clearly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review length and conciseness?",
+      "answers": [ "To remove filler and stay focused on key ideas.", "To complicate text unnecessarily.", "To skip making edits for clarity.", "To add redundancy intentionally." ],
+      "correct": "To remove filler and stay focused on key ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of reading aloud?",
+      "answers": [ "To spot errors and inconsistencies more easily.", "To skip focusing on sound and flow.", "To complicate text intentionally.", "To avoid making edits for precision." ],
+      "correct": "To spot errors and inconsistencies more easily.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review formatting and structure?",
+      "answers": [ "To aid readability and understanding.", "To complicate layout intentionally.", "To remove titles and headings.", "To skip making text visually organized." ],
+      "correct": "To aid readability and understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review passive voice usage?",
+      "answers": [ "To ensure clarity and directness when needed.", "To complicate wording intentionally.", "To remove all forms of voice.", "To skip making text readable." ],
+      "correct": "To ensure clarity and directness when needed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review verb tenses and agreement?",
+      "answers": [ "To maintain grammatical consistency and precision.", "To complicate ideas unnecessarily.", "To skip making text readable.", "To remove subject clarity intentionally." ],
+      "correct": "To maintain grammatical consistency and precision.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is editing vital for advanced writers?",
+      "answers": [ "It improves clarity, precision, and professionalism.", "It complicates ideas intentionally.", "It skips making text readable.", "It removes the writer’s voice." ],
+      "correct": "It improves clarity, precision, and professionalism.",
+      "voiceUrl": ""
+    }
+  ]
+}

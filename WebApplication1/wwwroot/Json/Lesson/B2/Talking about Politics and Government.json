@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Politics and Government",
+  "words": [
+    {
+      "word": "democracy",
+      "definition": "A system of government by the people.",
+      "arabic": "ديمقراطية",
+      "arabic_definition": "نظام للحكم بواسطة الشعب.",
+      "example": {
+        "en": "The country is a democracy.",
+        "ar": "الدولة تعتمد على الديمقراطية."
+      }
+    },
+    {
+      "word": "legislation",
+      "definition": "The process of making or enacting laws.",
+      "arabic": "التشريع",
+      "arabic_definition": "عملية صنع أو سن القوانين.",
+      "example": {
+        "en": "The government introduced new legislation.",
+        "ar": "قدمت الحكومة تشريعات جديدة."
+      }
+    },
+    {
+      "word": "policy",
+      "definition": "A set of rules or ideas for making decisions.",
+      "arabic": "سياسة",
+      "arabic_definition": "مجموعة من القواعد أو الأفكار لاتخاذ القرارات.",
+      "example": {
+        "en": "The policy aims to reduce unemployment.",
+        "ar": "تهدف السياسة إلى الحد من البطالة."
+      }
+    },
+    {
+      "word": "government",
+      "definition": "The group of people who govern a country.",
+      "arabic": "حكومة",
+      "arabic_definition": "المجموعة التي تحكم الدولة.",
+      "example": {
+        "en": "The government announced new reforms.",
+        "ar": "أعلنت الحكومة عن إصلاحات جديدة."
+      }
+    },
+    {
+      "word": "parliament",
+      "definition": "A body of representatives that makes laws.",
+      "arabic": "برلمان",
+      "arabic_definition": "هيئة من النواب تشرع القوانين.",
+      "example": {
+        "en": "The parliament voted on the bill.",
+        "ar": "قام البرلمان بالتصويت على مشروع القانون."
+      }
+    },
+    {
+      "word": "campaign",
+      "definition": "An organized effort to achieve a goal, such as an election.",
+      "arabic": "حملة",
+      "arabic_definition": "جهد منظم لتحقيق هدف، كحملة انتخابية.",
+      "example": {
+        "en": "He started a campaign for better education.",
+        "ar": "بدأ حملة من أجل تحسين التعليم."
+      }
+    },
+    {
+      "word": "diplomacy",
+      "definition": "The practice of managing relations between nations.",
+      "arabic": "دبلوماسية",
+      "arabic_definition": "ممارسة إدارة العلاقات بين الدول.",
+      "example": {
+        "en": "Diplomacy is key to international peace.",
+        "ar": "الدبلوماسية مفتاح للسلام الدولي."
+      }
+    },
+    {
+      "word": "vote",
+      "definition": "A formal choice in an election.",
+      "arabic": "تصويت",
+      "arabic_definition": "خيار رسمي يتم من خلال الانتخابات.",
+      "example": {
+        "en": "Everyone has the right to vote.",
+        "ar": "للجميع الحق في التصويت."
+      }
+    },
+    {
+      "word": "opposition",
+      "definition": "The group or party that is not in power.",
+      "arabic": "المعارضة",
+      "arabic_definition": "الحزب أو المجموعة التي ليست في السلطة.",
+      "example": {
+        "en": "The opposition criticized the new policies.",
+        "ar": "انتقدت المعارضة السياسات الجديدة."
+      }
+    },
+    {
+      "word": "constitution",
+      "definition": "A set of fundamental laws that govern a state.",
+      "arabic": "دستور",
+      "arabic_definition": "مجموعة من القوانين الأساسية التي تحكم الدولة.",
+      "example": {
+        "en": "The constitution guarantees certain rights.",
+        "ar": "الدستور يضمن حقوقًا محددة."
+      }
+    }
+  ]
+}

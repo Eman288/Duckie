@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Different Education Systems",
+  "words": [
+    {
+      "word": "primary school",
+      "definition": "The first stage of formal education for children.",
+      "arabic": "المدرسة الابتدائية",
+      "arabic_definition": "المرحلة الأولى من التعليم الرسمي للأطفال.",
+      "example": {
+        "en": "Children start primary school at age six.",
+        "ar": "يبدأ الأطفال المدرسة الابتدائية في سن السادسة."
+      }
+    },
+    {
+      "word": "secondary school",
+      "definition": "School for teenagers after primary school.",
+      "arabic": "المدرسة الثانوية",
+      "arabic_definition": "مدرسة للمراهقين بعد المدرسة الابتدائية.",
+      "example": {
+        "en": "Secondary school lasts for five years.",
+        "ar": "تستمر المدرسة الثانوية لمدة خمس سنوات."
+      }
+    },
+    {
+      "word": "vocational training",
+      "definition": "Education that teaches specific job skills.",
+      "arabic": "التدريب المهني",
+      "arabic_definition": "تعليم يعلم مهارات عمل محددة.",
+      "example": {
+        "en": "He completed vocational training as a mechanic.",
+        "ar": "أنهى التدريب المهني كميكانيكي."
+      }
+    },
+    {
+      "word": "higher education",
+      "definition": "Education after high school, such as university.",
+      "arabic": "التعليم العالي",
+      "arabic_definition": "التعليم بعد المدرسة الثانوية مثل الجامعة.",
+      "example": {
+        "en": "Many students go on to higher education.",
+        "ar": "يلتحق العديد من الطلاب بالتعليم العالي."
+      }
+    },
+    {
+      "word": "public school",
+      "definition": "A school run by the government, usually free.",
+      "arabic": "مدرسة حكومية",
+      "arabic_definition": "مدرسة تديرها الحكومة، وعادة ما تكون مجانية.",
+      "example": {
+        "en": "She goes to a public school in her town.",
+        "ar": "تذهب إلى مدرسة حكومية في مدينتها."
+      }
+    },
+    {
+      "word": "private school",
+      "definition": "A school that charges fees and is not run by the government.",
+      "arabic": "مدرسة خاصة",
+      "arabic_definition": "مدرسة تفرض رسومًا وليست تابعة للحكومة.",
+      "example": {
+        "en": "His children attend a private school.",
+        "ar": "يذهب أطفاله إلى مدرسة خاصة."
+      }
+    },
+    {
+      "word": "curriculum",
+      "definition": "The subjects and content taught at a school or university.",
+      "arabic": "منهج دراسي",
+      "arabic_definition": "المواد والمحتوى الدراسي في المدرسة أو الجامعة.",
+      "example": {
+        "en": "The curriculum includes math, science, and languages.",
+        "ar": "يشمل المنهج الدراسي الرياضيات والعلوم واللغات."
+      }
+    },
+    {
+      "word": "distance learning",
+      "definition": "Studying remotely, usually online.",
+      "arabic": "التعلم عن بعد",
+      "arabic_definition": "الدراسة عن بُعد، عادةً عبر الإنترنت.",
+      "example": {
+        "en": "Distance learning became popular during the pandemic.",
+        "ar": "أصبح التعلم عن بعد شائعًا خلال الجائحة."
+      }
+    },
+    {
+      "word": "semester system",
+      "definition": "Dividing the academic year into two parts.",
+      "arabic": "نظام الفصول الدراسية",
+      "arabic_definition": "تقسيم السنة الدراسية إلى جزأين.",
+      "example": {
+        "en": "The university uses a semester system.",
+        "ar": "تستخدم الجامعة نظام الفصول الدراسية."
+      }
+    },
+    {
+      "word": "exam board",
+      "definition": "The organization that sets and grades exams.",
+      "arabic": "مجلس الامتحانات",
+      "arabic_definition": "الهيئة التي تحدد وتصحح الامتحانات.",
+      "example": {
+        "en": "The exam board announced the results yesterday.",
+        "ar": "أعلن مجلس الامتحانات النتائج أمس."
+      }
+    }
+  ]
+}

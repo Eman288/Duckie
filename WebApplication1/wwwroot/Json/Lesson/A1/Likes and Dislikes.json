@@ -1,0 +1,85 @@
+{
+  "lesson": "Likes and Dislikes",
+  "words": [
+    {
+      "word": "like",
+      "definition": "To enjoy or have a good feeling about something.",
+      "arabic": "يحب",
+      "arabic_definition": "أن تستمتع بشيء أو أن يكون لديك شعور جيد نحوه.",
+      "example": {
+        "en": "I like pizza.",
+        "ar": "أنا أحب البيتزا."
+      }
+    },
+    {
+      "word": "dislike",
+      "definition": "To not enjoy or have a bad feeling about something.",
+      "arabic": "يكره / لا يحب",
+      "arabic_definition": "أن لا تستمتع بشيء أو أن تشعر نحوه بشعور سيء.",
+      "example": {
+        "en": "She dislikes onions.",
+        "ar": "هي لا تحب البصل."
+      }
+    },
+    {
+      "word": "favorite",
+      "definition": "The thing you like the most.",
+      "arabic": "المفضل",
+      "arabic_definition": "الشيء الذي تحبه أكثر من غيره.",
+      "example": {
+        "en": "Ice cream is my favorite dessert.",
+        "ar": "الآيس كريم هو الحلوى المفضلة لدي."
+      }
+    },
+    {
+      "word": "hate",
+      "definition": "To strongly dislike something.",
+      "arabic": "يكره",
+      "arabic_definition": "أن تكره شيئًا بشدة.",
+      "example": {
+        "en": "I hate cold weather.",
+        "ar": "أنا أكره الطقس البارد."
+      }
+    },
+    {
+      "word": "love",
+      "definition": "To have very strong positive feelings about something.",
+      "arabic": "يحب كثيرًا",
+      "arabic_definition": "أن تشعر بشعور إيجابي قوي تجاه شيء ما.",
+      "example": {
+        "en": "He loves chocolate.",
+        "ar": "هو يحب الشوكولاتة."
+      }
+    },
+    {
+      "word": "enjoy",
+      "definition": "To get pleasure from something.",
+      "arabic": "يستمتع",
+      "arabic_definition": "أن تحصل على المتعة من شيء ما.",
+      "example": {
+        "en": "We enjoy swimming.",
+        "ar": "نحن نستمتع بالسباحة."
+      }
+    },
+    {
+      "word": "interested in",
+      "definition": "Wanting to know more about something or like it.",
+      "arabic": "مهتم بـ",
+      "arabic_definition": "يرغب في معرفة المزيد عن شيء أو يحبه.",
+      "example": {
+        "en": "She is interested in music.",
+        "ar": "هي مهتمة بالموسيقى."
+      }
+    },
+    {
+      "word": "don't like",
+      "definition": "To not enjoy something.",
+      "arabic": "لا يحب",
+      "arabic_definition": "أن لا يستمتع بشيء ما.",
+      "example": {
+        "en": "They don't like spicy food.",
+        "ar": "هم لا يحبون الطعام الحار."
+      }
+    }
+  ]
+}

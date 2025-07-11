@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Talking about Environmental Challenges Quiz",
+  "questions": [
+    {
+      "question": "What is 'climate change'?",
+      "answers": [
+        "Long-term changes in temperature and weather patterns.",
+        "A short period of rain.",
+        "A new type of animal.",
+        "A popular music genre."
+      ],
+      "correct": "Long-term changes in temperature and weather patterns.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is a common environmental challenge?",
+      "answers": [
+        "Pollution.",
+        "Shopping.",
+        "Reading books.",
+        "Cooking."
+      ],
+      "correct": "Pollution.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'global warming'?",
+      "answers": [
+        "The rising of average temperatures on Earth.",
+        "A season of cold temperatures.",
+        "A type of bird.",
+        "A movie."
+      ],
+      "correct": "The rising of average temperatures on Earth.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is recycling important?",
+      "answers": [
+        "It reduces waste and saves resources.",
+        "It is only for decoration.",
+        "It is an old tradition.",
+        "It is a rare hobby."
+      ],
+      "correct": "It reduces waste and saves resources.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is NOT a renewable resource?",
+      "answers": [
+        "Coal.",
+        "Wind.",
+        "Solar energy.",
+        "Hydro energy."
+      ],
+      "correct": "Coal.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'deforestation' mean?",
+      "answers": [
+        "Cutting down too many trees.",
+        "Planting new trees.",
+        "Recycling paper.",
+        "Saving endangered species."
+      ],
+      "correct": "Cutting down too many trees.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'sustainability'?",
+      "answers": [
+        "Meeting present needs without harming future generations.",
+        "Buying expensive goods.",
+        "Eating only vegetables.",
+        "Learning about history."
+      ],
+      "correct": "Meeting present needs without harming future generations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which gas is a major contributor to global warming?",
+      "answers": [
+        "Carbon dioxide (CO₂).",
+        "Helium.",
+        "Argon.",
+        "Oxygen."
+      ],
+      "correct": "Carbon dioxide (CO₂).",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is biodiversity important?",
+      "answers": [
+        "It helps maintain balance in ecosystems.",
+        "It is only for decoration.",
+        "It is rare.",
+        "It is only for scientists."
+      ],
+      "correct": "It helps maintain balance in ecosystems.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'pollution'?",
+      "answers": [
+        "The contamination of air, water, or land.",
+        "The planting of new trees.",
+        "A type of music.",
+        "A cooking method."
+      ],
+      "correct": "The contamination of air, water, or land.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which activity can reduce waste?",
+      "answers": [
+        "Recycling.",
+        "Burning all waste.",
+        "Buying more plastic.",
+        "Throwing away electronics."
+      ],
+      "correct": "Recycling.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'conservation'?",
+      "answers": [
+        "Protecting and preserving natural resources.",
+        "Building more factories.",
+        "Buying more goods.",
+        "Hunting endangered species."
+      ],
+      "correct": "Protecting and preserving natural resources.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'carbon footprint'?",
+      "answers": [
+        "The total amount of greenhouse gases caused by an individual.",
+        "A type of shoe.",
+        "A rare animal.",
+        "A historical site."
+      ],
+      "correct": "The total amount of greenhouse gases caused by an individual.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clean water important?",
+      "answers": [
+        "It is necessary for life and health.",
+        "It is only used for swimming.",
+        "It is rare and expensive.",
+        "It has no significant role."
+      ],
+      "correct": "It is necessary for life and health.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'green' lifestyle?",
+      "answers": [
+        "A way of living that is environmentally friendly.",
+        "A way of painting buildings green.",
+        "A hobby for gardeners.",
+        "A style of music."
+      ],
+      "correct": "A way of living that is environmentally friendly.",
+      "voiceUrl": ""
+    }
+  ]
+}

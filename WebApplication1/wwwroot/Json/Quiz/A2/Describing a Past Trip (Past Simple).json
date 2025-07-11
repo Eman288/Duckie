@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Describing a Past Trip Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I traveled last summer' in Arabic?",
+      "answers": [ "سافرت الصيف الماضي", "أسافر الآن", "أسافر غداً", "أسافر كل عام" ],
+      "correct": "سافرت الصيف الماضي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I visited the museum'?",
+      "answers": [ "زرت المتحف", "أزور المتحف", "أزور السوق", "أزور الفندق" ],
+      "correct": "زرت المتحف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I stayed in a hotel'?",
+      "answers": [ "أقمت في فندق", "أقيم في فندق", "سأقيم في فندق", "أقيم الآن في فندق" ],
+      "correct": "أقمت في فندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I went sightseeing'?",
+      "answers": [ "ذهبت للتجول", "أذهب للتجول", "سأذهب للتجول", "أذهب غداً" ],
+      "correct": "ذهبت للتجول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I took many photos'?",
+      "answers": [ "أخذت الكثير من الصور", "آخذ الكثير من الصور", "سآخذ الكثير من الصور", "آخذ الآن الكثير من الصور" ],
+      "correct": "أخذت الكثير من الصور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I tried local food'?",
+      "answers": [ "جربت الطعام المحلي", "أجرب الطعام المحلي", "سأجرب الطعام المحلي", "أجرب الآن الطعام المحلي" ],
+      "correct": "جربت الطعام المحلي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I met new people'?",
+      "answers": [ "التقيت بأشخاص جدد", "ألتقي بأشخاص جدد", "سألتقي بأشخاص جدد", "ألتقي الآن بأشخاص جدد" ],
+      "correct": "التقيت بأشخاص جدد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I learned about the culture'?",
+      "answers": [ "تعلمت عن الثقافة", "أتعلم عن الثقافة", "سأتعلم عن الثقافة", "أتعلم الآن عن الثقافة" ],
+      "correct": "تعلمت عن الثقافة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'The weather was good'?",
+      "answers": [ "كان الطقس جيداً", "يكون الطقس جيداً", "سيكون الطقس جيداً", "الطقس جيد الآن" ],
+      "correct": "كان الطقس جيداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I enjoyed my trip'?",
+      "answers": [ "استمتعت برحلتي", "أستمتع برحلتي", "سأستمتع برحلتي", "أستمتع الآن برحلتي" ],
+      "correct": "استمتعت برحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I bought souvenirs'?",
+      "answers": [ "اشتريت تذكارات", "أشتري تذكارات", "سأشتري تذكارات", "أشتري الآن تذكارات" ],
+      "correct": "اشتريت تذكارات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I missed my flight'?",
+      "answers": [ "فاتتني الرحلة", "تفوتني الرحلة", "ستفوتني الرحلة", "تفوتني الآن الرحلة" ],
+      "correct": "فاتتني الرحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I arrived late'?",
+      "answers": [ "وصلت متأخراً", "أصل متأخراً", "سأصل متأخراً", "أصل الآن متأخراً" ],
+      "correct": "وصلت متأخراً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I lost my luggage'?",
+      "answers": [ "فقدت أمتعتي", "أفقد أمتعتي", "سأفقد أمتعتي", "أفقد الآن أمتعتي" ],
+      "correct": "فقدت أمتعتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I had a great time'?",
+      "answers": [ "استمتعت كثيراً", "أستمتع كثيراً", "سأستمتع كثيراً", "أستمتع الآن" ],
+      "correct": "استمتعت كثيراً",
+      "voiceUrl": ""
+    }
+  ]
+}

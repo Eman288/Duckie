@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Movies and Theatre",
+  "words": [
+    {
+      "word": "actor",
+      "definition": "A person who acts in films or plays.",
+      "arabic": "ممثل",
+      "arabic_definition": "شخص يمثل في الأفلام أو المسرحيات.",
+      "example": {
+        "en": "The actor gave an amazing performance.",
+        "ar": "قدم الممثل أداءً رائعًا."
+      }
+    },
+    {
+      "word": "director",
+      "definition": "A person who leads a film or play.",
+      "arabic": "مخرج",
+      "arabic_definition": "شخص يقود فيلمًا أو مسرحية.",
+      "example": {
+        "en": "The director worked hard on this movie.",
+        "ar": "عمل المخرج بجد على هذا الفيلم."
+      }
+    },
+    {
+      "word": "play",
+      "definition": "A piece of theatre performed by actors.",
+      "arabic": "مسرحية",
+      "arabic_definition": "عمل مسرحي يتم أداؤه من قبل ممثلين.",
+      "example": {
+        "en": "We watched a beautiful play last night.",
+        "ar": "شاهدنا مسرحية جميلة الليلة الماضية."
+      }
+    },
+    {
+      "word": "performance",
+      "definition": "The act of presenting a play or film.",
+      "arabic": "أداء",
+      "arabic_definition": "فعل تقديم مسرحية أو فيلم.",
+      "example": {
+        "en": "The performance was very emotional.",
+        "ar": "كان الأداء عاطفياً جداً."
+      }
+    },
+    {
+      "word": "cast",
+      "definition": "The actors in a film or play.",
+      "arabic": "طاقم التمثيل",
+      "arabic_definition": "الممثلون في فيلم أو مسرحية.",
+      "example": {
+        "en": "The cast worked well together.",
+        "ar": "عمل طاقم التمثيل بشكل جيد معًا."
+      }
+    },
+    {
+      "word": "script",
+      "definition": "The written text of a film or play.",
+      "arabic": "نص",
+      "arabic_definition": "النص المكتوب لفيلم أو مسرحية.",
+      "example": {
+        "en": "The script was well-written.",
+        "ar": "كان النص مكتوبًا بشكل جيد."
+      }
+    },
+    {
+      "word": "stage",
+      "definition": "The area where actors perform.",
+      "arabic": "خشبة المسرح",
+      "arabic_definition": "المكان الذي يؤدي فيه الممثلون.",
+      "example": {
+        "en": "The actor stood center stage.",
+        "ar": "وقف الممثل على وسط خشبة المسرح."
+      }
+    },
+    {
+      "word": "audience",
+      "definition": "People watching a play or film.",
+      "arabic": "الجمهور",
+      "arabic_definition": "الأشخاص الذين يشاهدون مسرحية أو فيلم.",
+      "example": {
+        "en": "The audience applauded loudly.",
+        "ar": "صفق الجمهور بصوت عالٍ."
+      }
+    },
+    {
+      "word": "costume",
+      "definition": "Clothing worn by actors.",
+      "arabic": "زي",
+      "arabic_definition": "الملابس التي يرتديها الممثلون.",
+      "example": {
+        "en": "The costumes were colorful and well-designed.",
+        "ar": "كانت الأزياء ملوّنة ومصممة جيدًا."
+      }
+    },
+    {
+      "word": "rehearsal",
+      "definition": "A practice of a play or performance.",
+      "arabic": "بروفة",
+      "arabic_definition": "تمرين على المسرحية قبل أدائها.",
+      "example": {
+        "en": "They had a rehearsal before the show.",
+        "ar": "أجروا بروفة قبل العرض."
+      }
+    }
+  ]
+}

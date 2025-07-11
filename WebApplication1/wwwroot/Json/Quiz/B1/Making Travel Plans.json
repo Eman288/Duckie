@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Making Travel Plans Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I want to travel to Egypt' in Arabic?",
+      "answers": [ "أريد السفر إلى مصر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد السفر إلى مصر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am planning a trip'",
+      "answers": [ "أخطط لرحلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أخطط لرحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'We are going to book a hotel' in Arabic?",
+      "answers": [ "سنحجز فندقًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سنحجز فندقًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want to visit historical places'",
+      "answers": [ "أريد زيارة الأماكن التاريخية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد زيارة الأماكن التاريخية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What is the best time to travel?' in Arabic?",
+      "answers": [ "ما أفضل وقت للسفر؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما أفضل وقت للسفر؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I will travel by plane'",
+      "answers": [ "سأسافر بالطائرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سأسافر بالطائرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for a cheap hotel' in Arabic?",
+      "answers": [ "أبحث عن فندق رخيص", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن فندق رخيص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We are going to stay for a week'",
+      "answers": [ "سنقيم لمدة أسبوع", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سنقيم لمدة أسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want to book a flight' in Arabic?",
+      "answers": [ "أريد حجز رحلة طيران", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد حجز رحلة طيران",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am traveling with my family'",
+      "answers": [ "أسافر مع عائلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أسافر مع عائلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for a tourist guide' in Arabic?",
+      "answers": [ "أبحث عن مرشد سياحي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن مرشد سياحي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What is the cost of a taxi to the hotel?'",
+      "answers": [ "كم تكلفة سيارة الأجرة إلى الفندق؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كم تكلفة سيارة الأجرة إلى الفندق؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I will book tickets online' in Arabic?",
+      "answers": [ "سأحجز التذاكر عبر الإنترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سأحجز التذاكر عبر الإنترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We want to explore new places'",
+      "answers": [ "نريد استكشاف أماكن جديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "نريد استكشاف أماكن جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am planning a summer vacation' in Arabic?",
+      "answers": [ "أخطط لقضاء عطلة الصيف", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أخطط لقضاء عطلة الصيف",
+      "voiceUrl": ""
+    }
+  ]
+}

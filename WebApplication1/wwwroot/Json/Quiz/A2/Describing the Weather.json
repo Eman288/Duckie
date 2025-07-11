@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Describing the Weather Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'sunny'?",
+      "answers": [ "مشمس", "ممطر", "عاصف", "غائم" ],
+      "correct": "مشمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'rainy'?",
+      "answers": [ "ممطر", "مشمس", "ثلجي", "عاصف" ],
+      "correct": "ممطر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cloudy'?",
+      "answers": [ "غائم", "مشمس", "ممطر", "ثلجي" ],
+      "correct": "غائم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'windy'?",
+      "answers": [ "عاصف", "هادئ", "مشمس", "ممطر" ],
+      "correct": "عاصف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hot weather'?",
+      "answers": [ "جو حار", "جو بارد", "جو معتدل", "جو ممطر" ],
+      "correct": "جو حار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'cold weather'?",
+      "answers": [ "جو بارد", "جو حار", "جو معتدل", "جو عاصف" ],
+      "correct": "جو بارد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'fog'?",
+      "answers": [ "ضباب", "مطر", "ثلج", "رياح" ],
+      "correct": "ضباب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'snow'?",
+      "answers": [ "ثلج", "مطر", "رعد", "برق" ],
+      "correct": "ثلج",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'storm'?",
+      "answers": [ "عاصفة", "مطر", "رياح", "ثلج" ],
+      "correct": "عاصفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'humidity'?",
+      "answers": [ "رطوبة", "حرارة", "برودة", "ضوء" ],
+      "correct": "رطوبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'temperature'?",
+      "answers": [ "درجة الحرارة", "الطقس", "المطر", "الثلج" ],
+      "correct": "درجة الحرارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'weather forecast'?",
+      "answers": [ "توقعات الطقس", "درجة الحرارة", "الرطوبة", "الرياح" ],
+      "correct": "توقعات الطقس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'clear sky'?",
+      "answers": [ "سماء صافية", "سماء غائمة", "سماء ممطرة", "سماء عاصفة" ],
+      "correct": "سماء صافية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'light rain'?",
+      "answers": [ "مطر خفيف", "مطر غزير", "ثلج", "رعد" ],
+      "correct": "مطر خفيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'thunder'?",
+      "answers": [ "رعد", "برق", "مطر", "ثلج" ],
+      "correct": "رعد",
+      "voiceUrl": ""
+    }
+  ]
+}

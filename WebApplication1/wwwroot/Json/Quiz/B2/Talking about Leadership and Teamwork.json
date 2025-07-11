@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 2 - Talking about Leadership and Teamwork Quiz",
+  "questions": [
+    {
+      "question": "What is a leader?",
+      "answers": [
+        "A person who guides and motivates a group.",
+        "A follower.",
+        "A competitor.",
+        "A customer."
+      ],
+      "correct": "A person who guides and motivates a group.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which skill is important for teamwork?",
+      "answers": [
+        "Communication.",
+        "Ignoring others.",
+        "Working alone.",
+        "Taking credit only."
+      ],
+      "correct": "Communication.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'collaboration' mean?",
+      "answers": [
+        "Working together to achieve a goal.",
+        "Working separately.",
+        "Ignoring team members.",
+        "Competing."
+      ],
+      "correct": "Working together to achieve a goal.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is listening important in a team?",
+      "answers": [
+        "It helps understand others’ ideas and improve cooperation.",
+        "It wastes time.",
+        "It is unnecessary.",
+        "It shows weakness."
+      ],
+      "correct": "It helps understand others’ ideas and improve cooperation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good leader's quality?",
+      "answers": [
+        "Being supportive and fair.",
+        "Being bossy.",
+        "Ignoring problems.",
+        "Being selfish."
+      ],
+      "correct": "Being supportive and fair.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'delegation' mean?",
+      "answers": [
+        "Assigning tasks to team members.",
+        "Doing all work alone.",
+        "Ignoring responsibilities.",
+        "Taking credit for others’ work."
+      ],
+      "correct": "Assigning tasks to team members.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can conflicts be resolved in teams?",
+      "answers": [
+        "By talking and finding compromises.",
+        "By arguing loudly.",
+        "By ignoring problems.",
+        "By blaming others."
+      ],
+      "correct": "By talking and finding compromises.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'motivation' mean?",
+      "answers": [
+        "Encouraging people to work hard.",
+        "Telling people what to do.",
+        "Giving orders.",
+        "Ignoring work."
+      ],
+      "correct": "Encouraging people to work hard.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is trust important in a team?",
+      "answers": [
+        "It helps team members rely on each other.",
+        "It causes problems.",
+        "It is unimportant.",
+        "It slows work."
+      ],
+      "correct": "It helps team members rely on each other.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of diversity in teams?",
+      "answers": [
+        "Different ideas and perspectives improve results.",
+        "Everyone thinks the same.",
+        "It causes confusion.",
+        "It is a problem."
+      ],
+      "correct": "Different ideas and perspectives improve results.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'team spirit' mean?",
+      "answers": [
+        "A feeling of pride and cooperation among team members.",
+        "Disagreement.",
+        "Competition.",
+        "Isolation."
+      ],
+      "correct": "A feeling of pride and cooperation among team members.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should a leader handle mistakes?",
+      "answers": [
+        "Help learn from them and improve.",
+        "Blame the team.",
+        "Ignore them.",
+        "Punish immediately."
+      ],
+      "correct": "Help learn from them and improve.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is feedback important in teamwork?",
+      "answers": [
+        "It helps improve performance and communication.",
+        "It causes arguments.",
+        "It wastes time.",
+        "It is useless."
+      ],
+      "correct": "It helps improve performance and communication.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can teams make decisions effectively?",
+      "answers": [
+        "By discussing options and agreeing together.",
+        "By one person deciding alone.",
+        "By avoiding decisions.",
+        "By arguing."
+      ],
+      "correct": "By discussing options and agreeing together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'responsibility' mean in a team?",
+      "answers": [
+        "Taking ownership of assigned tasks.",
+        "Ignoring tasks.",
+        "Blaming others.",
+        "Avoiding work."
+      ],
+      "correct": "Taking ownership of assigned tasks.",
+      "voiceUrl": ""
+    }
+  ]
+}

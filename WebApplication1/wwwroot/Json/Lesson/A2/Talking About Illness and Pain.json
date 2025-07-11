@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Illness and Pain",
+  "words": [
+    {
+      "word": "headache",
+      "definition": "A pain in the head.",
+      "arabic": "صداع",
+      "arabic_definition": "ألم في الرأس.",
+      "example": {
+        "en": "I have a headache.",
+        "ar": "لدي صداع."
+      }
+    },
+    {
+      "word": "fever",
+      "definition": "A high body temperature.",
+      "arabic": "حمى",
+      "arabic_definition": "ارتفاع درجة حرارة الجسم.",
+      "example": {
+        "en": "She has a fever.",
+        "ar": "لديها حمى."
+      }
+    },
+    {
+      "word": "cough",
+      "definition": "To force air out of the throat.",
+      "arabic": "سعال",
+      "arabic_definition": "طرد الهواء من الحلق.",
+      "example": {
+        "en": "He has a bad cough.",
+        "ar": "لديه سعال شديد."
+      }
+    },
+    {
+      "word": "sore throat",
+      "definition": "Pain or discomfort in the throat.",
+      "arabic": "التهاب الحلق",
+      "arabic_definition": "ألم أو عدم راحة في الحلق.",
+      "example": {
+        "en": "My throat is sore.",
+        "ar": "حلقي يؤلمني."
+      }
+    },
+    {
+      "word": "stomach ache",
+      "definition": "A pain in the belly area.",
+      "arabic": "ألم في البطن",
+      "arabic_definition": "ألم في منطقة البطن.",
+      "example": {
+        "en": "He has a stomach ache.",
+        "ar": "لديه ألم في البطن."
+      }
+    },
+    {
+      "word": "dizziness",
+      "definition": "A feeling of being unsteady.",
+      "arabic": "دوار",
+      "arabic_definition": "شعور بعدم التوازن.",
+      "example": {
+        "en": "She felt dizziness after standing up.",
+        "ar": "شعرت بالدوار بعد الوقوف."
+      }
+    },
+    {
+      "word": "nausea",
+      "definition": "A feeling that you might vomit.",
+      "arabic": "الغثيان",
+      "arabic_definition": "شعور بالرغبة في التقيؤ.",
+      "example": {
+        "en": "He felt nausea on the bus.",
+        "ar": "شعر بالغثيان على الحافلة."
+      }
+    },
+    {
+      "word": "injury",
+      "definition": "Harm or damage to the body.",
+      "arabic": "إصابة",
+      "arabic_definition": "ضرر أو تلف في الجسم.",
+      "example": {
+        "en": "He has an injury on his leg.",
+        "ar": "لديه إصابة على ساقه."
+      }
+    },
+    {
+      "word": "pain",
+      "definition": "A feeling of discomfort.",
+      "arabic": "ألم",
+      "arabic_definition": "شعور بعدم الراحة.",
+      "example": {
+        "en": "I am in pain.",
+        "ar": "أنا أتألم."
+      }
+    },
+    {
+      "word": "allergy",
+      "definition": "A reaction to certain substances.",
+      "arabic": "حساسية",
+      "arabic_definition": "رد فعل لبعض المواد.",
+      "example": {
+        "en": "He has an allergy to pollen.",
+        "ar": "لديه حساسية من حبوب اللقاح."
+      }
+    }
+  ]
+}

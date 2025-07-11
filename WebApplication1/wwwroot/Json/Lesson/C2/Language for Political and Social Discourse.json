@@ -1,0 +1,105 @@
+{
+  "lesson": "Language for Political and Social Discourse",
+  "words": [
+    {
+      "word": "legislation",
+      "definition": "Laws created by a government.",
+      "arabic": "التشريع",
+      "arabic_definition": "القوانين التي تضعها الحكومة.",
+      "example": {
+        "en": "The legislation aims to protect human rights.",
+        "ar": "تهدف التشريعات إلى حماية حقوق الإنسان."
+      }
+    },
+    {
+      "word": "policy",
+      "definition": "A set of ideas or a plan used by an organization or government.",
+      "arabic": "سياسة",
+      "arabic_definition": "مجموعة من الأفكار أو الخطة التي تستخدمها جهة أو حكومة.",
+      "example": {
+        "en": "The policy focuses on climate change.",
+        "ar": "تركز السياسة على تغير المناخ."
+      }
+    },
+    {
+      "word": "diplomacy",
+      "definition": "The practice of managing relations between nations.",
+      "arabic": "الدبلوماسية",
+      "arabic_definition": "ممارسة إدارة العلاقات بين الدول.",
+      "example": {
+        "en": "Diplomacy is crucial for resolving international conflicts.",
+        "ar": "الدبلوماسية ضرورية لحل النزاعات الدولية."
+      }
+    },
+    {
+      "word": "reform",
+      "definition": "Changes made to improve a system.",
+      "arabic": "الإصلاح",
+      "arabic_definition": "التغييرات التي يتم إجراؤها لتحسين النظام.",
+      "example": {
+        "en": "The government introduced a reform of the education system.",
+        "ar": "أدخلت الحكومة إصلاحًا على نظام التعليم."
+      }
+    },
+    {
+      "word": "accountability",
+      "definition": "The responsibility for one’s actions.",
+      "arabic": "المساءلة",
+      "arabic_definition": "المسؤولية عن أفعال الفرد.",
+      "example": {
+        "en": "Accountability is a cornerstone of democracy.",
+        "ar": "المساءلة حجر الزاوية للديمقراطية."
+      }
+    },
+    {
+      "word": "advocacy",
+      "definition": "Support for a cause or policy.",
+      "arabic": "الدعوة",
+      "arabic_definition": "الدعم لقضية أو سياسة.",
+      "example": {
+        "en": "The organization focuses on the advocacy of civil rights.",
+        "ar": "تركز المنظمة على الدعوة لحقوق المدنيين."
+      }
+    },
+    {
+      "word": "negotiation",
+      "definition": "A discussion between parties aiming for agreement.",
+      "arabic": "التفاوض",
+      "arabic_definition": "مناقشة تهدف إلى التوصل إلى اتفاق.",
+      "example": {
+        "en": "The negotiations lasted for several weeks.",
+        "ar": "استمرت المفاوضات لعدة أسابيع."
+      }
+    },
+    {
+      "word": "consensus",
+      "definition": "A general agreement.",
+      "arabic": "التوافق",
+      "arabic_definition": "اتفاق عام.",
+      "example": {
+        "en": "They worked hard to reach a consensus.",
+        "ar": "عملوا بجد للتوصل إلى توافق."
+      }
+    },
+    {
+      "word": "ideology",
+      "definition": "A set of beliefs or ideas.",
+      "arabic": "الأيديولوجيا",
+      "arabic_definition": "مجموعة من المعتقدات أو الأفكار.",
+      "example": {
+        "en": "Each party has its own ideology.",
+        "ar": "كل حزب لديه أيديولوجيته الخاصة."
+      }
+    },
+    {
+      "word": "campaign",
+      "definition": "An organized effort to achieve a goal.",
+      "arabic": "حملة",
+      "arabic_definition": "جهد منظم لتحقيق هدف.",
+      "example": {
+        "en": "The campaign focused on climate action.",
+        "ar": "ركزت الحملة على العمل المناخي."
+      }
+    }
+  ]
+}

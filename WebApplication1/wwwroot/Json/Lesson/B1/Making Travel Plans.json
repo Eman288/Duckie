@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Travel Plans",
+  "words": [
+    {
+      "word": "travel",
+      "definition": "To go from one place to another, usually far away.",
+      "arabic": "يسافر",
+      "arabic_definition": "الانتقال من مكان إلى آخر، عادةً بعيد.",
+      "example": {
+        "en": "I plan to travel to Spain next summer.",
+        "ar": "أخطط للسفر إلى إسبانيا الصيف المقبل."
+      }
+    },
+    {
+      "word": "itinerary",
+      "definition": "A detailed plan of a trip.",
+      "arabic": "جدول الرحلة",
+      "arabic_definition": "خطة مفصلة للرحلة.",
+      "example": {
+        "en": "The travel agent sent me the itinerary.",
+        "ar": "أرسل لي وكيل السفر جدول الرحلة."
+      }
+    },
+    {
+      "word": "book",
+      "definition": "To arrange and pay for travel or accommodation in advance.",
+      "arabic": "يحجز",
+      "arabic_definition": "ترتيب ودفع مقابل السفر أو الإقامة مسبقًا.",
+      "example": {
+        "en": "I booked my flight online.",
+        "ar": "حجزت رحلتي عبر الإنترنت."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "An arrangement to have a seat or room saved.",
+      "arabic": "حجز",
+      "arabic_definition": "ترتيب لحجز مقعد أو غرفة.",
+      "example": {
+        "en": "We made a hotel reservation for two nights.",
+        "ar": "قمنا بحجز فندق ليلتين."
+      }
+    },
+    {
+      "word": "passport",
+      "definition": "An official document for international travel.",
+      "arabic": "جواز سفر",
+      "arabic_definition": "وثيقة رسمية للسفر الدولي.",
+      "example": {
+        "en": "Don’t forget your passport at home.",
+        "ar": "لا تنس جواز سفرك في المنزل."
+      }
+    },
+    {
+      "word": "visa",
+      "definition": "Permission to enter a country, shown in your passport.",
+      "arabic": "تأشيرة",
+      "arabic_definition": "إذن لدخول بلد، يُظهر في جواز السفر.",
+      "example": {
+        "en": "You need a visa to visit some countries.",
+        "ar": "تحتاج إلى تأشيرة لزيارة بعض الدول."
+      }
+    },
+    {
+      "word": "destination",
+      "definition": "The place you are traveling to.",
+      "arabic": "وجهة",
+      "arabic_definition": "المكان الذي تسافر إليه.",
+      "example": {
+        "en": "Paris is a popular travel destination.",
+        "ar": "باريس وجهة سفر مشهورة."
+      }
+    },
+    {
+      "word": "pack",
+      "definition": "To put your belongings into a suitcase or bag.",
+      "arabic": "يُعبئ",
+      "arabic_definition": "وضع الأغراض في حقيبة أو حقيبة سفر.",
+      "example": {
+        "en": "I need to pack my clothes for the trip.",
+        "ar": "أحتاج إلى تعبئة ملابسي للرحلة."
+      }
+    },
+    {
+      "word": "confirm",
+      "definition": "To make sure a booking or plan is correct.",
+      "arabic": "يؤكد",
+      "arabic_definition": "التأكد من صحة الحجز أو الخطة.",
+      "example": {
+        "en": "Please confirm your flight one day before.",
+        "ar": "يرجى تأكيد رحلتك قبل يوم واحد."
+      }
+    },
+    {
+      "word": "schedule",
+      "definition": "A plan of activities or times.",
+      "arabic": "جدول زمني",
+      "arabic_definition": "خطة للأنشطة أو الأوقات.",
+      "example": {
+        "en": "Our schedule includes visits to museums.",
+        "ar": "يتضمن جدولنا زيارات إلى المتاحف."
+      }
+    }
+  ]
+}

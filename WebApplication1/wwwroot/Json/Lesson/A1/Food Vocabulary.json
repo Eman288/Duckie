@@ -1,0 +1,105 @@
+{
+  "lesson": "Food Vocabulary",
+  "words": [
+    {
+      "word": "apple",
+      "definition": "A round fruit with red or green skin and a white inside.",
+      "arabic": "تفاحة",
+      "arabic_definition": "فاكهة دائرية ذات قشرة حمراء أو خضراء وداخل أبيض.",
+      "example": {
+        "en": "I eat an apple every day.",
+        "ar": "آكل تفاحة كل يوم."
+      }
+    },
+    {
+      "word": "bread",
+      "definition": "A food made from flour, water, and yeast, baked in an oven.",
+      "arabic": "خبز",
+      "arabic_definition": "طعام مصنوع من الدقيق والماء والخميرة ويُخبز في الفرن.",
+      "example": {
+        "en": "Would you like some bread?",
+        "ar": "هل تريد بعض الخبز؟"
+      }
+    },
+    {
+      "word": "cheese",
+      "definition": "A dairy product made from milk, usually solid and often yellow or white.",
+      "arabic": "جبن",
+      "arabic_definition": "منتج ألبان مصنوع من الحليب، عادة يكون صلباً ولونه أصفر أو أبيض.",
+      "example": {
+        "en": "I like cheese in my sandwich.",
+        "ar": "أحب الجبن في شطيرتي."
+      }
+    },
+    {
+      "word": "meat",
+      "definition": "Animal flesh that is eaten as food.",
+      "arabic": "لحم",
+      "arabic_definition": "لحم الحيوانات الذي يُؤكل كطعام.",
+      "example": {
+        "en": "She doesn't eat meat.",
+        "ar": "هي لا تأكل اللحم."
+      }
+    },
+    {
+      "word": "rice",
+      "definition": "Small white or brown grains that are cooked and eaten as food.",
+      "arabic": "أرز",
+      "arabic_definition": "حبوب صغيرة بيضاء أو بنية تُطبخ وتُؤكل كطعام.",
+      "example": {
+        "en": "Rice is popular in many countries.",
+        "ar": "الأرز شائع في كثير من البلدان."
+      }
+    },
+    {
+      "word": "vegetables",
+      "definition": "Plants or parts of plants used as food, such as carrots or spinach.",
+      "arabic": "خضروات",
+      "arabic_definition": "نباتات أو أجزاء من نباتات تُستخدم كطعام مثل الجزر أو السبانخ.",
+      "example": {
+        "en": "You should eat vegetables every day.",
+        "ar": "يجب أن تأكل الخضروات كل يوم."
+      }
+    },
+    {
+      "word": "fruit",
+      "definition": "The sweet and edible part of a plant that contains seeds.",
+      "arabic": "فاكهة",
+      "arabic_definition": "الجزء الحلو الصالح للأكل من النبات ويحتوي على بذور.",
+      "example": {
+        "en": "Bananas are my favorite fruit.",
+        "ar": "الموز هو فاكهتي المفضلة."
+      }
+    },
+    {
+      "word": "water",
+      "definition": "A clear liquid that has no color, taste, or smell, essential for life.",
+      "arabic": "ماء",
+      "arabic_definition": "سائل شفاف ليس له لون أو طعم أو رائحة، وهو ضروري للحياة.",
+      "example": {
+        "en": "Drink plenty of water every day.",
+        "ar": "اشرب الكثير من الماء كل يوم."
+      }
+    },
+    {
+      "word": "milk",
+      "definition": "A white liquid produced by cows, goats, etc., used as a drink or in cooking.",
+      "arabic": "حليب",
+      "arabic_definition": "سائل أبيض تنتجه الأبقار أو الماعز، يُشرب أو يُستخدم في الطبخ.",
+      "example": {
+        "en": "Children often drink milk.",
+        "ar": "يشرب الأطفال الحليب غالباً."
+      }
+    },
+    {
+      "word": "egg",
+      "definition": "A round object produced by birds, especially chickens, often eaten as food.",
+      "arabic": "بيضة",
+      "arabic_definition": "جسم دائري تنتجه الطيور، خاصة الدجاج، وغالباً يُؤكل كطعام.",
+      "example": {
+        "en": "I had an egg for breakfast.",
+        "ar": "تناولت بيضة على الإفطار."
+      }
+    }
+  ]
+}

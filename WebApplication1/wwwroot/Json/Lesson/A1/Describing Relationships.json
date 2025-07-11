@@ -1,0 +1,55 @@
+{
+  "lesson": "Describing Relationships",
+  "words": [
+    {
+      "word": "friendship",
+      "definition": "The state of being friends.",
+      "arabic": "صداقة",
+      "arabic_definition": "حالة كونك صديقًا لشخص ما.",
+      "example": {
+        "en": "Our friendship is strong.",
+        "ar": "صداقتنا قوية."
+      }
+    },
+    {
+      "word": "love",
+      "definition": "A deep feeling of affection.",
+      "arabic": "حب",
+      "arabic_definition": "شعور عميق بالمودة.",
+      "example": {
+        "en": "They are in love.",
+        "ar": "هما في حالة حب."
+      }
+    },
+    {
+      "word": "married",
+      "definition": "Having a husband or wife.",
+      "arabic": "متزوج",
+      "arabic_definition": "لديه زوج أو زوجة.",
+      "example": {
+        "en": "My parents are married.",
+        "ar": "والديّ متزوجان."
+      }
+    },
+    {
+      "word": "single",
+      "definition": "Not married or not in a relationship.",
+      "arabic": "أعزب / غير متزوج",
+      "arabic_definition": "غير متزوج أو ليس في علاقة.",
+      "example": {
+        "en": "He is single.",
+        "ar": "هو أعزب."
+      }
+    },
+    {
+      "word": "relationship",
+      "definition": "The way in which two or more people are connected.",
+      "arabic": "علاقة",
+      "arabic_definition": "الطريقة التي يرتبط بها شخصان أو أكثر.",
+      "example": {
+        "en": "They have a good relationship.",
+        "ar": "لديهم علاقة جيدة."
+      }
+    }
+  ]
+}

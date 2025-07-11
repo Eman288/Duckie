@@ -1,0 +1,105 @@
+{
+  "lesson": "Inviting and Accepting/Declining",
+  "words": [
+    {
+      "word": "invitation",
+      "definition": "A request to come to an event.",
+      "arabic": "دعوة",
+      "arabic_definition": "طلب للحضور إلى حدث.",
+      "example": {
+        "en": "I received an invitation to the wedding.",
+        "ar": "تلقيت دعوة إلى حفل الزفاف."
+      }
+    },
+    {
+      "word": "accept",
+      "definition": "To agree to an invitation.",
+      "arabic": "قبول",
+      "arabic_definition": "الموافقة على الدعوة.",
+      "example": {
+        "en": "I accept your invitation to the party.",
+        "ar": "أقبل دعوتك للحفلة."
+      }
+    },
+    {
+      "word": "decline",
+      "definition": "To say no to an invitation.",
+      "arabic": "رفض",
+      "arabic_definition": "رفض الدعوة.",
+      "example": {
+        "en": "I must decline the invitation because I am busy.",
+        "ar": "يجب علي رفض الدعوة لأنني مشغول."
+      }
+    },
+    {
+      "word": "celebration",
+      "definition": "A special event or party.",
+      "arabic": "احتفال",
+      "arabic_definition": "حدث خاص أو حفلة.",
+      "example": {
+        "en": "We had a celebration for her birthday.",
+        "ar": "أقمنا احتفالًا بعيد ميلادها."
+      }
+    },
+    {
+      "word": "gathering",
+      "definition": "A meeting of people.",
+      "arabic": "تجمع",
+      "arabic_definition": "لقاء لعدة أشخاص.",
+      "example": {
+        "en": "We are having a family gathering this weekend.",
+        "ar": "لدينا تجمع عائلي نهاية هذا الأسبوع."
+      }
+    },
+    {
+      "word": "host",
+      "definition": "A person who organizes an event.",
+      "arabic": "مضيف",
+      "arabic_definition": "شخص ينظم حدثًا.",
+      "example": {
+        "en": "My friend was the host of the party.",
+        "ar": "كان صديقي مضيف الحفلة."
+      }
+    },
+    {
+      "word": "guest",
+      "definition": "A person who is invited.",
+      "arabic": "ضيف",
+      "arabic_definition": "شخص يتم دعوته.",
+      "example": {
+        "en": "We had ten guests at the dinner.",
+        "ar": "كان لدينا عشرة ضيوف على العشاء."
+      }
+    },
+    {
+      "word": "confirm",
+      "definition": "To say yes to an invitation.",
+      "arabic": "تأكيد",
+      "arabic_definition": "الموافقة على الدعوة.",
+      "example": {
+        "en": "Please confirm if you will come.",
+        "ar": "يرجى تأكيد ما إذا كنت ستحضر."
+      }
+    },
+    {
+      "word": "excuse",
+      "definition": "A reason for not accepting an invitation.",
+      "arabic": "عذر",
+      "arabic_definition": "سبب لعدم قبول الدعوة.",
+      "example": {
+        "en": "I gave an excuse for not attending.",
+        "ar": "قدمت عذرًا لعدم الحضور."
+      }
+    },
+    {
+      "word": "celebrate",
+      "definition": "To mark an event with a party.",
+      "arabic": "يحتفل",
+      "arabic_definition": "الاحتفال بمناسبة من خلال حفلة.",
+      "example": {
+        "en": "We will celebrate New Year together.",
+        "ar": "سنحتفل بالسنة الجديدة معًا."
+      }
+    }
+  ]
+}

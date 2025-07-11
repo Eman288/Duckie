@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Advanced Vocabulary Acquisition",
+  "questions": [
+    {
+      "question": "Why is advanced vocabulary important for C2 learners?",
+      "answers": [ "To express ideas precisely and eloquently.", "To reduce vocabulary.", "To avoid understanding complex texts.", "To skip reading academic papers." ],
+      "correct": "To express ideas precisely and eloquently.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to learn advanced vocabulary?",
+      "answers": [ "Reading extensively in varied contexts.", "Reading only word lists.", "Ignoring pronunciation.", "Rewriting dictionary definitions verbatim." ],
+      "correct": "Reading extensively in varied contexts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'collocation'?",
+      "answers": [ "Words that naturally occur together.", "A long word.", "A verb tense.", "A synonym for idiom." ],
+      "correct": "Words that naturally occur together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing collocations important?",
+      "answers": [ "It makes speech sound more natural.", "It complicates learning.", "It replaces grammatical rules.", "It removes context." ],
+      "correct": "It makes speech sound more natural.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'connotation' mean?",
+      "answers": [ "The emotional or cultural association of a word.", "The literal definition.", "A grammatical rule.", "A suffix added to words." ],
+      "correct": "The emotional or cultural association of a word.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which technique improves word retention?",
+      "answers": [ "Repetition and context usage.", "Reading words randomly.", "Writing words once.", "Ignoring pronunciation." ],
+      "correct": "Repetition and context usage.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'register' in language?",
+      "answers": [ "The level of formality in language.", "A book for recording information.", "A spoken mistake.", "A grammatical error." ],
+      "correct": "The level of formality in language.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is learning advanced vocabulary in context effective?",
+      "answers": [ "It shows how words are used naturally.", "It separates words from their meanings.", "It complicates understanding.", "It is only for native speakers." ],
+      "correct": "It shows how words are used naturally.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a synonym?",
+      "answers": [ "A word with a similar meaning.", "A grammatical error.", "A rare word.", "An antonym of a word." ],
+      "correct": "A word with a similar meaning.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing antonyms helpful?",
+      "answers": [ "It deepens understanding and precision.", "It removes context from words.", "It complicates spelling.", "It replaces reading practice." ],
+      "correct": "It deepens understanding and precision.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'etymology'?",
+      "answers": [ "The origin and history of words.", "A part of speech.", "A method for skipping words.", "A synonym for idiom." ],
+      "correct": "The origin and history of words.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use advanced vocabulary in academic settings?",
+      "answers": [ "To communicate ideas clearly and professionally.", "To confuse readers intentionally.", "To replace grammar rules.", "To write longer paragraphs only." ],
+      "correct": "To communicate ideas clearly and professionally.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'nuance'?",
+      "answers": [ "A slight difference in meaning or tone.", "A word unrelated to context.", "A synonym for error.", "A punctuation mark." ],
+      "correct": "A slight difference in meaning or tone.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a benefit of expanding vocabulary?",
+      "answers": [ "Limiting communication.", "Improving precision.", "Enhancing comprehension.", "Expressing abstract ideas better." ],
+      "correct": "Limiting communication.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to integrate new vocabulary?",
+      "answers": [ "Use it in speaking and writing regularly.", "Memorize word lists only.", "Read aloud without context.", "Avoid using it until fluent." ],
+      "correct": "Use it in speaking and writing regularly.",
+      "voiceUrl": ""
+    }
+  ]
+}

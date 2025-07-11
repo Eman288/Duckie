@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Booking Transport and Accommodation Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I want to book a flight' in Arabic?",
+      "answers": [ "أريد حجز رحلة طيران", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد حجز رحلة طيران",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I would like a hotel room for three nights'",
+      "answers": [ "أود حجز غرفة لثلاث ليالٍ", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أود حجز غرفة لثلاث ليالٍ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Is breakfast included?' in Arabic?",
+      "answers": [ "هل الإفطار مشمول؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل الإفطار مشمول؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I need a room with a view'",
+      "answers": [ "أحتاج إلى غرفة ذات إطلالة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحتاج إلى غرفة ذات إطلالة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What is the cancellation policy?' in Arabic?",
+      "answers": [ "ما هي سياسة الإلغاء؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما هي سياسة الإلغاء؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want a double room'",
+      "answers": [ "أريد غرفة مزدوجة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد غرفة مزدوجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am arriving in the morning' in Arabic?",
+      "answers": [ "سأصل صباحًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سأصل صباحًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am looking for a hotel near the city center'",
+      "answers": [ "أبحث عن فندق بالقرب من مركز المدينة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن فندق بالقرب من مركز المدينة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a reservation' in Arabic?",
+      "answers": [ "لدي حجز", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي حجز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can I pay with a credit card?'",
+      "answers": [ "هل يمكنني الدفع ببطاقة الائتمان؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل يمكنني الدفع ببطاقة الائتمان؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I need an extra bed' in Arabic?",
+      "answers": [ "أحتاج إلى سرير إضافي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحتاج إلى سرير إضافي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want to book a taxi to the hotel'",
+      "answers": [ "أريد حجز سيارة أجرة إلى الفندق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أريد حجز سيارة أجرة إلى الفندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I will check out tomorrow' in Arabic?",
+      "answers": [ "سأغادر غدًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سأغادر غدًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My flight is delayed'",
+      "answers": [ "تم تأجيل رحلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم تأجيل رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for a quiet room' in Arabic?",
+      "answers": [ "أبحث عن غرفة هادئة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن غرفة هادئة",
+      "voiceUrl": ""
+    }
+  ]
+}

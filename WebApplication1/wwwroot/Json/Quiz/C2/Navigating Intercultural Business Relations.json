@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Navigating Intercultural Business Relations",
+  "questions": [
+    {
+      "question": "Why is understanding cultural norms vital in business?",
+      "answers": [ "To build trust and reduce misunderstandings.", "To skip negotiations.", "To enforce only one way of working.", "To ignore global differences." ],
+      "correct": "To build trust and reduce misunderstandings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common challenge in intercultural meetings?",
+      "answers": [ "Differences in communication styles.", "Same understanding of gestures.", "Identical expectations for negotiations.", "Same approach to decision-making across cultures." ],
+      "correct": "Differences in communication styles.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active listening crucial in intercultural settings?",
+      "answers": [ "To understand and respect different perspectives.", "To dominate conversations.", "To skip asking questions.", "To assume common understanding." ],
+      "correct": "To understand and respect different perspectives.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a low-context culture?",
+      "answers": [ "Direct and explicit communication.", "Indirect and ambiguous communication.", "Relying on non-verbal cues.", "Prioritizing implicit understanding." ],
+      "correct": "Direct and explicit communication.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should one be cautious with humor across cultures?",
+      "answers": [ "Humor can be misunderstood or offensive.", "Humor is always universally understood.", "Humor guarantees agreement.", "Humor replaces trust-building." ],
+      "correct": "Humor can be misunderstood or offensive.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an effective approach to negotiation in international settings?",
+      "answers": [ "Researching cultural practices and expectations.", "Applying one’s own approach universally.", "Ignoring traditions and customs.", "Focusing exclusively on cost." ],
+      "correct": "Researching cultural practices and expectations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding hierarchy important in global business?",
+      "answers": [ "To respect and adhere to organizational norms.", "To ignore formal protocols.", "To reject local customs.", "To assume equal status across cultures." ],
+      "correct": "To respect and adhere to organizational norms.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of adapting communication styles?",
+      "answers": [ "To foster mutual understanding and collaboration.", "To create confusion intentionally.", "To skip discussing differences.", "To dominate negotiations effectively." ],
+      "correct": "To foster mutual understanding and collaboration.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is patience vital in cross-cultural meetings?",
+      "answers": [ "To build trust and understanding over time.", "To dominate quickly.", "To enforce urgency.", "To skip verbal cues and context." ],
+      "correct": "To build trust and understanding over time.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common error in intercultural negotiations?",
+      "answers": [ "Assuming others share the same norms and values.", "Listening actively.", "Observing cultural cues.", "Researching local customs beforehand." ],
+      "correct": "Assuming others share the same norms and values.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is body language significant across cultures?",
+      "answers": [ "It conveys respect and understanding beyond words.", "It replaces verbal communication completely.", "It is irrelevant in formal meetings.", "It complicates negotiations unnecessarily." ],
+      "correct": "It conveys respect and understanding beyond words.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of an interpreter in global meetings?",
+      "answers": [ "To bridge language and cultural gaps.", "To dominate negotiations.", "To skip understanding context.", "To impose one’s own agenda." ],
+      "correct": "To bridge language and cultural gaps.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding cultural perceptions of time important?",
+      "answers": [ "To manage meetings and deadlines effectively.", "To ignore agreement details.", "To skip understanding context.", "To impose one’s own schedule." ],
+      "correct": "To manage meetings and deadlines effectively.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does ‘cultural intelligence’ mean?",
+      "answers": [ "The ability to understand and adapt across cultures.", "The ability to dominate meetings.", "The focus on a single culture.", "The ability to memorize words only." ],
+      "correct": "The ability to understand and adapt across cultures.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is trust vital in intercultural business?",
+      "answers": [ "It forms the foundation for successful collaboration.", "It replaces formal agreements.", "It allows skipping formal protocols.", "It is irrelevant for long-term partnerships." ],
+      "correct": "It forms the foundation for successful collaboration.",
+      "voiceUrl": ""
+    }
+  ]
+}

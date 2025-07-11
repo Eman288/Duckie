@@ -1,0 +1,105 @@
+{
+  "lesson": "Mastering Rhetorical Devices",
+  "words": [
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech that compares one thing to another.",
+      "arabic": "استعارة",
+      "arabic_definition": "صيغة بلاغية تقارن شيئًا بآخر.",
+      "example": {
+        "en": "The world is a stage.",
+        "ar": "العالم مسرح."
+      }
+    },
+    {
+      "word": "allusion",
+      "definition": "A reference to another piece of literature or history.",
+      "arabic": "إشارة",
+      "arabic_definition": "مرجع إلى عمل أدبي آخر أو حدث تاريخي.",
+      "example": {
+        "en": "He spoke with the wisdom of Solomon.",
+        "ar": "تحدث بحكمة سليمان."
+      }
+    },
+    {
+      "word": "hyperbole",
+      "definition": "Exaggeration used for emphasis.",
+      "arabic": "مبالغة",
+      "arabic_definition": "مبالغة تستخدم للتركيز على فكرة.",
+      "example": {
+        "en": "I've told you a million times.",
+        "ar": "أخبرتك مليون مرة."
+      }
+    },
+    {
+      "word": "irony",
+      "definition": "Saying the opposite of what one means.",
+      "arabic": "السخرية",
+      "arabic_definition": "قول عكس ما يعنيه الشخص.",
+      "example": {
+        "en": "What a beautiful day for a storm.",
+        "ar": "يا له من يوم رائع لعاصفة."
+      }
+    },
+    {
+      "word": "analogy",
+      "definition": "A comparison between two things to highlight their similarities.",
+      "arabic": "تشبيه",
+      "arabic_definition": "مقارنة بين شيئين لإبراز أوجه التشابه.",
+      "example": {
+        "en": "Learning is like planting a garden.",
+        "ar": "التعلّم يشبه زراعة حديقة."
+      }
+    },
+    {
+      "word": "alliteration",
+      "definition": "Repetition of the same sound at the start of words.",
+      "arabic": "الجناس",
+      "arabic_definition": "تكرار نفس الصوت في بداية عدة كلمات.",
+      "example": {
+        "en": "Peter Piper picked a peck of pickled peppers.",
+        "ar": "بيتر بايبر قطف كمية من الفلفل المخلل."
+      }
+    },
+    {
+      "word": "antithesis",
+      "definition": "The contrast of ideas in balanced phrases.",
+      "arabic": "التناقض",
+      "arabic_definition": "التناقض بين الأفكار ضمن عبارات متوازنة.",
+      "example": {
+        "en": "It was the best of times, it was the worst of times.",
+        "ar": "كانت أفضل الأوقات، وكانت أسوأ الأوقات."
+      }
+    },
+    {
+      "word": "euphemism",
+      "definition": "A mild or indirect word used instead of a harsh one.",
+      "arabic": "التلطيف",
+      "arabic_definition": "كلمة معتدلة تستخدم بدل كلمة قاسية.",
+      "example": {
+        "en": "He passed away last night.",
+        "ar": "توفي الليلة الماضية."
+      }
+    },
+    {
+      "word": "anaphora",
+      "definition": "Repetition of words at the beginning of successive sentences.",
+      "arabic": "التكرار",
+      "arabic_definition": "تكرار كلمة أو كلمات ببداية عدة جمل متتالية.",
+      "example": {
+        "en": "We came, we saw, we conquered.",
+        "ar": "أتينا، رأينا، انتصرنا."
+      }
+    },
+    {
+      "word": "understatement",
+      "definition": "Deliberately making something seem smaller or less important.",
+      "arabic": "التقليل من القيمة",
+      "arabic_definition": "التقليل عمدًا من حجم أو أهمية شيء.",
+      "example": {
+        "en": "It's just a scratch.",
+        "ar": "إنها مجرد خدش."
+      }
+    }
+  ]
+}

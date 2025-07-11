@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Social Justice and Equality",
+  "words": [
+    {
+      "word": "equality",
+      "definition": "The state of being equal, especially in rights and opportunities.",
+      "arabic": "مساواة",
+      "arabic_definition": "حالة التساوي، خاصة في الحقوق والفرص.",
+      "example": {
+        "en": "We must fight for gender equality.",
+        "ar": "علينا أن نحارب من أجل المساواة بين الجنسين."
+      }
+    },
+    {
+      "word": "discrimination",
+      "definition": "Treating someone unfairly because of their characteristics.",
+      "arabic": "تمييز",
+      "arabic_definition": "معاملة شخص ما بشكل غير عادل بسبب صفاته.",
+      "example": {
+        "en": "Discrimination is a serious social issue.",
+        "ar": "التمييز قضية اجتماعية خطيرة."
+      }
+    },
+    {
+      "word": "justice",
+      "definition": "Fairness and the application of the law.",
+      "arabic": "عدالة",
+      "arabic_definition": "الإنصاف وتطبيق القانون.",
+      "example": {
+        "en": "The court worked to ensure justice.",
+        "ar": "عملت المحكمة على ضمان العدالة."
+      }
+    },
+    {
+      "word": "inclusivity",
+      "definition": "Including people of all types, regardless of differences.",
+      "arabic": "شمول",
+      "arabic_definition": "ضم جميع أنواع الأشخاص، بغض النظر عن اختلافاتهم.",
+      "example": {
+        "en": "We must practice inclusivity in society.",
+        "ar": "علينا ممارسة الشمول في المجتمع."
+      }
+    },
+    {
+      "word": "privilege",
+      "definition": "A special right or advantage available to certain people.",
+      "arabic": "امتياز",
+      "arabic_definition": "حق خاص أو ميزة متاحة لأشخاص محددين.",
+      "example": {
+        "en": "He spoke about the privilege he had growing up.",
+        "ar": "تحدث عن الامتياز الذي حظي به أثناء نشأته."
+      }
+    },
+    {
+      "word": "bias",
+      "definition": "A preference that is unfair.",
+      "arabic": "تحيز",
+      "arabic_definition": "تفضيل غير عادل.",
+      "example": {
+        "en": "The company must remove any bias in its policies.",
+        "ar": "على الشركة إزالة أي تحيز من سياساتها."
+      }
+    },
+    {
+      "word": "human rights",
+      "definition": "The basic rights every person is entitled to.",
+      "arabic": "حقوق الإنسان",
+      "arabic_definition": "الحقوق الأساسية التي يتمتع بها كل شخص.",
+      "example": {
+        "en": "Everyone deserves to have their human rights respected.",
+        "ar": "يستحق الجميع احترام حقوقهم الإنسانية."
+      }
+    },
+    {
+      "word": "inequality",
+      "definition": "The state of being unequal or unfair.",
+      "arabic": "عدم المساواة",
+      "arabic_definition": "حالة عدم التكافؤ أو عدم العدالة.",
+      "example": {
+        "en": "Inequality still exists in many parts of the world.",
+        "ar": "لا يزال عدم المساواة موجودًا في أجزاء كثيرة من العالم."
+      }
+    },
+    {
+      "word": "oppression",
+      "definition": "Cruel or unjust treatment of people.",
+      "arabic": "اضطهاد",
+      "arabic_definition": "معاملة قاسية أو غير عادلة للأشخاص.",
+      "example": {
+        "en": "They suffered from years of oppression.",
+        "ar": "عانوا من سنوات من الاضطهاد."
+      }
+    },
+    {
+      "word": "empowerment",
+      "definition": "Giving people the ability to control their own lives.",
+      "arabic": "تمكين",
+      "arabic_definition": "منح الأشخاص القدرة على التحكم بحياتهم.",
+      "example": {
+        "en": "Education is a tool for empowerment.",
+        "ar": "التعليم أداة للتمكين."
+      }
+    }
+  ]
+}

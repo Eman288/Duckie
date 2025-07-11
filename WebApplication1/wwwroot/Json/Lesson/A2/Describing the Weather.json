@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing the Weather",
+  "words": [
+    {
+      "word": "sunny",
+      "definition": "Full of sunshine.",
+      "arabic": "مشمس",
+      "arabic_definition": "مليء بالشمس.",
+      "example": {
+        "en": "It is a sunny day.",
+        "ar": "إنه يوم مشمس."
+      }
+    },
+    {
+      "word": "cloudy",
+      "definition": "Covered with clouds.",
+      "arabic": "غائم",
+      "arabic_definition": "مغطى بالسحب.",
+      "example": {
+        "en": "Today it is cloudy.",
+        "ar": "اليوم الجو غائم."
+      }
+    },
+    {
+      "word": "rainy",
+      "definition": "With falling rain.",
+      "arabic": "ممطر",
+      "arabic_definition": "مع سقوط المطر.",
+      "example": {
+        "en": "It is rainy in the morning.",
+        "ar": "الجو ممطر في الصباح."
+      }
+    },
+    {
+      "word": "windy",
+      "definition": "With a lot of wind.",
+      "arabic": "عاصف",
+      "arabic_definition": "مع الكثير من الرياح.",
+      "example": {
+        "en": "It is windy near the beach.",
+        "ar": "الجو عاصف بالقرب من الشاطئ."
+      }
+    },
+    {
+      "word": "stormy",
+      "definition": "With strong wind and heavy rain.",
+      "arabic": "عاصف وممطر",
+      "arabic_definition": "مع رياح شديدة ومطر غزير.",
+      "example": {
+        "en": "The night was stormy.",
+        "ar": "كانت الليلة عاصفة وممطرة."
+      }
+    },
+    {
+      "word": "foggy",
+      "definition": "With thick mist making it hard to see.",
+      "arabic": "ضبابي",
+      "arabic_definition": "مع ضباب كثيف يجعل الرؤية صعبة.",
+      "example": {
+        "en": "The morning was foggy.",
+        "ar": "كان الصباح ضبابيًا."
+      }
+    },
+    {
+      "word": "cold",
+      "definition": "Having a low temperature.",
+      "arabic": "بارد",
+      "arabic_definition": "درجة حرارة منخفضة.",
+      "example": {
+        "en": "It is very cold in winter.",
+        "ar": "الجو بارد جداً في الشتاء."
+      }
+    },
+    {
+      "word": "hot",
+      "definition": "Having a high temperature.",
+      "arabic": "حار",
+      "arabic_definition": "درجة حرارة عالية.",
+      "example": {
+        "en": "The summer is very hot.",
+        "ar": "الصيف حار جداً."
+      }
+    },
+    {
+      "word": "humid",
+      "definition": "With a lot of moisture in the air.",
+      "arabic": "رطب",
+      "arabic_definition": "مع الكثير من الرطوبة في الجو.",
+      "example": {
+        "en": "The air is humid near the sea.",
+        "ar": "الجو رطب بالقرب من البحر."
+      }
+    },
+    {
+      "word": "freezing",
+      "definition": "Extremely cold.",
+      "arabic": "متجمد",
+      "arabic_definition": "شديد البرودة.",
+      "example": {
+        "en": "It is freezing in the mountains.",
+        "ar": "الجو متجمد في الجبال."
+      }
+    }
+  ]
+}

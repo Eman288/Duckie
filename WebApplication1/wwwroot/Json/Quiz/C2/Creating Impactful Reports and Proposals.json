@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Creating Impactful Reports and Proposals",
+  "questions": [
+    {
+      "question": "What is the first step in creating an effective proposal?",
+      "answers": [ "Understanding the audience and objectives.", "Writing as many details as possible.", "Copying others’ work.", "Ignoring structure and clarity." ],
+      "correct": "Understanding the audience and objectives.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is an executive summary important?",
+      "answers": [ "It provides a quick overview for decision-makers.", "It replaces the full proposal.", "It adds filler text.", "It introduces unrelated ideas." ],
+      "correct": "It provides a quick overview for decision-makers.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should be included in a well-structured proposal?",
+      "answers": [ "Objective, background, approach, and conclusion.", "Only statistics.", "Personal anecdotes.", "Unclear language." ],
+      "correct": "Objective, background, approach, and conclusion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to use data and evidence in reports?",
+      "answers": [ "To build credibility and support conclusions.", "To make the text longer.", "To complicate understanding.", "To skip proofreading." ],
+      "correct": "To build credibility and support conclusions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of visuals in an impactful report?",
+      "answers": [ "To clarify complex data and ideas.", "To replace the text.", "To confuse readers.", "To create clutter." ],
+      "correct": "To clarify complex data and ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should a proposal have a clear structure?",
+      "answers": [ "To guide readers and emphasize key ideas.", "To skip sections.", "To reduce clarity.", "To confuse stakeholders." ],
+      "correct": "To guide readers and emphasize key ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you make your proposal stand out?",
+      "answers": [ "Tailor it to the audience’s needs.", "Use generic language.", "Exclude a summary.", "Make it unnecessarily long." ],
+      "correct": "Tailor it to the audience’s needs.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is proofreading vital for reports?",
+      "answers": [ "To ensure professionalism and precision.", "To lengthen the text.", "To remove structure.", "To obscure key ideas." ],
+      "correct": "To ensure professionalism and precision.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an effective way to end a proposal?",
+      "answers": [ "With a strong call to action.", "With unrelated anecdotes.", "With filler text.", "With a long summary only." ],
+      "correct": "With a strong call to action.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clarity important in a professional report?",
+      "answers": [ "To ensure understanding and actionable outcomes.", "To complicate the language.", "To use as many technical terms as possible.", "To skip details." ],
+      "correct": "To ensure understanding and actionable outcomes.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What tone is best for formal reports?",
+      "answers": [ "Objective and neutral.", "Casual and slang-filled.", "Aggressive and confrontational.", "Overly emotional and personal." ],
+      "correct": "Objective and neutral.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding the audience critical when creating a proposal?",
+      "answers": [ "To address their needs and interests effectively.", "To complicate language unnecessarily.", "To skip understanding.", "To use irrelevant data." ],
+      "correct": "To address their needs and interests effectively.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of including an appendix?",
+      "answers": [ "To provide supplementary information.", "To confuse readers.", "To skip data altogether.", "To complicate structure unnecessarily." ],
+      "correct": "To provide supplementary information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is precision valued in business reports?",
+      "answers": [ "To save time and reduce ambiguity.", "To write longer texts.", "To skip relevant data.", "To overwhelm the reader." ],
+      "correct": "To save time and reduce ambiguity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the goal of a well-written proposal?",
+      "answers": [ "To secure approval or funding.", "To obscure its purpose.", "To complicate understanding.", "To review unrelated literature." ],
+      "correct": "To secure approval or funding.",
+      "voiceUrl": ""
+    }
+  ]
+}

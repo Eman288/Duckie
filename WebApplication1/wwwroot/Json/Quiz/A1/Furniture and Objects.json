@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Furniture and Objects Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'table'?",
+      "answers": [ "كرسي", "طاولة", "خزانة", "باب" ],
+      "correct": "طاولة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is used for sitting?",
+      "answers": [ "Bed", "Chair", "Table", "Wardrobe" ],
+      "correct": "Chair",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'wardrobe'?",
+      "answers": [ "خزانة", "طاولة", "كرسي", "باب" ],
+      "correct": "خزانة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which object is used for sleeping?",
+      "answers": [ "Bed", "Sofa", "Chair", "Table" ],
+      "correct": "Bed",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'sofa'?",
+      "answers": [ "كرسي", "خزانة", "أريكة", "باب" ],
+      "correct": "أريكة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is used to open a room?",
+      "answers": [ "Bed", "Table", "Door", "Chair" ],
+      "correct": "Door",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'window'?",
+      "answers": [ "شباك", "باب", "كرسي", "خزانة" ],
+      "correct": "شباك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which object is used to store clothes?",
+      "answers": [ "Chair", "Bed", "Wardrobe", "Table" ],
+      "correct": "Wardrobe",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'lamp'?",
+      "answers": [ "خزانة", "كرسي", "مصباح", "باب" ],
+      "correct": "مصباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which object gives light in a room?",
+      "answers": [ "Bed", "Chair", "Lamp", "Wardrobe" ],
+      "correct": "Lamp",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'desk'?",
+      "answers": [ "مكتب", "شباك", "باب", "كرسي" ],
+      "correct": "مكتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which object is used for working or studying?",
+      "answers": [ "Bed", "Desk", "Chair", "Wardrobe" ],
+      "correct": "Desk",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'mirror'?",
+      "answers": [ "كرسي", "مرآة", "باب", "خزانة" ],
+      "correct": "مرآة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which object is used to check your reflection?",
+      "answers": [ "Bed", "Mirror", "Wardrobe", "Chair" ],
+      "correct": "Mirror",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'carpet'?",
+      "answers": [ "خزانة", "باب", "سجادة", "كرسي" ],
+      "correct": "سجادة",
+      "voiceUrl": ""
+    }
+  ]
+}

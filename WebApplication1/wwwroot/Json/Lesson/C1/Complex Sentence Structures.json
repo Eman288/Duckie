@@ -1,0 +1,105 @@
+{
+  "lesson": "Complex Sentence Structures",
+  "words": [
+    {
+      "word": "clause",
+      "definition": "A group of words containing a subject and verb.",
+      "arabic": "جملة",
+      "arabic_definition": "مجموعة كلمات تحتوي على فاعل وفعل.",
+      "example": {
+        "en": "Each sentence can have one or more clauses.",
+        "ar": "يمكن أن تحتوي كل جملة على جملة واحدة أو عدة جمل."
+      }
+    },
+    {
+      "word": "subordinate",
+      "definition": "A clause that depends on another clause to make sense.",
+      "arabic": "ثانوي",
+      "arabic_definition": "جملة تعتمد على جملة أخرى لكي تكتمل معناها.",
+      "example": {
+        "en": "A subordinate clause cannot stand alone.",
+        "ar": "لا يمكن للجملة الثانوية أن تقف بمفردها."
+      }
+    },
+    {
+      "word": "main clause",
+      "definition": "The independent part of a complex sentence.",
+      "arabic": "الجملة الرئيسية",
+      "arabic_definition": "القسم المستقل من الجملة المركبة.",
+      "example": {
+        "en": "The main clause provides the central message.",
+        "ar": "توفر الجملة الرئيسية الرسالة المحورية."
+      }
+    },
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses.",
+      "arabic": "حرف عطف",
+      "arabic_definition": "كلمة تستخدم لربط الجمل.",
+      "example": {
+        "en": "Use a conjunction like 'although' to link ideas.",
+        "ar": "استخدم حرف عطف مثل 'although' لربط الأفكار."
+      }
+    },
+    {
+      "word": "relative clause",
+      "definition": "A clause that gives more information about a noun.",
+      "arabic": "جملة الوصل",
+      "arabic_definition": "جملة تقدم معلومات إضافية عن الاسم.",
+      "example": {
+        "en": "The book that you gave me is very interesting.",
+        "ar": "الكتاب الذي أعطيتني إياه شيق جداً."
+      }
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence with two or more independent clauses.",
+      "arabic": "جملة مركبة",
+      "arabic_definition": "جملة تحتوي على جملتين مستقلتين أو أكثر.",
+      "example": {
+        "en": "He came late, but we waited for him.",
+        "ar": "تأخر، لكننا انتظرناه."
+      }
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence with an independent clause and one or more dependent clauses.",
+      "arabic": "جملة معقّدة",
+      "arabic_definition": "جملة تحتوي على جملة مستقلة وجملة تابعة أو عدة جمل تابعة.",
+      "example": {
+        "en": "Although it was raining, they went to the park.",
+        "ar": "على الرغم من هطول المطر، ذهبوا إلى الحديقة."
+      }
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A word used to connect clauses of equal status.",
+      "arabic": "حرف عطف تنسيقي",
+      "arabic_definition": "كلمة تستخدم لربط جمل متساوية.",
+      "example": {
+        "en": "He is tired, but he kept working.",
+        "ar": "كان متعبًا، لكنه واصل العمل."
+      }
+    },
+    {
+      "word": "dependent clause",
+      "definition": "A clause that cannot stand alone as a sentence.",
+      "arabic": "جملة تابعة",
+      "arabic_definition": "جملة لا يمكنها الوقوف بمفردها كجملة مستقلة.",
+      "example": {
+        "en": "Although she was tired, she finished her work.",
+        "ar": "على الرغم من تعبها، أكملت عملها."
+      }
+    },
+    {
+      "word": "complexity",
+      "definition": "The state of being intricate or complicated.",
+      "arabic": "تعقيد",
+      "arabic_definition": "حالة التركيب أو التشابك.",
+      "example": {
+        "en": "The complexity of the sentence makes it challenging to understand.",
+        "ar": "تعقيد الجملة يجعلها صعبة الفهم."
+      }
+    }
+  ]
+}

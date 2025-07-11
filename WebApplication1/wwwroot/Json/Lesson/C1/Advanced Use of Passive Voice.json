@@ -1,0 +1,105 @@
+{
+  "lesson": "Advanced Use of Passive Voice",
+  "words": [
+    {
+      "word": "passive voice",
+      "definition": "A sentence structure where the subject receives the action.",
+      "arabic": "صيغة المبني للمجهول",
+      "arabic_definition": "تركيب جملة حيث يتلقى الفاعل الحدث.",
+      "example": {
+        "en": "The book was written by a famous author.",
+        "ar": "تمت كتابة الكتاب بواسطة مؤلف مشهور."
+      }
+    },
+    {
+      "word": "agent",
+      "definition": "The person or thing that performs the action in a passive sentence.",
+      "arabic": "فاعل",
+      "arabic_definition": "الشخص أو الشيء الذي ينفذ الحدث في جملة مبنية للمجهول.",
+      "example": {
+        "en": "The work was done by the team.",
+        "ar": "تم العمل بواسطة الفريق."
+      }
+    },
+    {
+      "word": "emphasis",
+      "definition": "The special attention given to an element of a sentence.",
+      "arabic": "تركيز",
+      "arabic_definition": "التركيز على عنصر محدد في الجملة.",
+      "example": {
+        "en": "The results were announced yesterday.",
+        "ar": "تم الإعلان عن النتائج بالأمس."
+      }
+    },
+    {
+      "word": "object focus",
+      "definition": "A style of sentence focusing on the object rather than the subject.",
+      "arabic": "تركيز على المفعول",
+      "arabic_definition": "طريقة صياغة تركز على المفعول به بدلًا من الفاعل.",
+      "example": {
+        "en": "The case was solved quickly.",
+        "ar": "تم حل القضية بسرعة."
+      }
+    },
+    {
+      "word": "impersonal construction",
+      "definition": "A passive structure that doesn’t specify the subject.",
+      "arabic": "تركيب غير شخصي",
+      "arabic_definition": "تركيب مبني للمجهول دون تحديد الفاعل.",
+      "example": {
+        "en": "It is said that he is talented.",
+        "ar": "يقال إنه موهوب."
+      }
+    },
+    {
+      "word": "passive infinitive",
+      "definition": "An infinitive verb form in the passive voice.",
+      "arabic": "صيغة المصدر المبنية للمجهول",
+      "arabic_definition": "صيغة مصدر الفعل المبنية للمجهول.",
+      "example": {
+        "en": "The book needs to be read.",
+        "ar": "الكتاب بحاجة إلى قراءة."
+      }
+    },
+    {
+      "word": "passive gerund",
+      "definition": "A gerund form of the verb in passive voice.",
+      "arabic": "اسم مفعول",
+      "arabic_definition": "صيغة الاسم المحايد المبنية للمجهول.",
+      "example": {
+        "en": "I enjoy being invited to meetings.",
+        "ar": "أستمتع بكوني مدعوًا إلى الاجتماعات."
+      }
+    },
+    {
+      "word": "by-phrase",
+      "definition": "A phrase that specifies the agent in a passive sentence.",
+      "arabic": "عبارة \"بواسطة\"",
+      "arabic_definition": "عبارة تحدد الفاعل في جملة مبنية للمجهول.",
+      "example": {
+        "en": "The song was sung by a famous singer.",
+        "ar": "تم غناء الأغنية بواسطة مطرب مشهور."
+      }
+    },
+    {
+      "word": "passive construction",
+      "definition": "A sentence structure where the subject is acted upon.",
+      "arabic": "تركيب مبني للمجهول",
+      "arabic_definition": "تركيب جملة حيث يتم التصرف على الفاعل.",
+      "example": {
+        "en": "The movie was watched by many people.",
+        "ar": "تم مشاهدة الفيلم من قبل العديد من الأشخاص."
+      }
+    },
+    {
+      "word": "clipped passive",
+      "definition": "A passive construction where the agent is omitted.",
+      "arabic": "مبني للمجهول محذوف الفاعل",
+      "arabic_definition": "تركيب مبني للمجهول يتم حذف الفاعل منه.",
+      "example": {
+        "en": "The documents were signed.",
+        "ar": "تم توقيع الوثائق."
+      }
+    }
+  ]
+}

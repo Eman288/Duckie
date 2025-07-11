@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Ordering at Different Places Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'menu'?",
+      "answers": [ "قائمة الطعام", "مطعم", "طلب", "مشروب" ],
+      "correct": "قائمة الطعام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I would like to order'?",
+      "answers": [ "أود أن أطلب", "أود أن أذهب", "أود أن أجلس", "أود أن أشتري" ],
+      "correct": "أود أن أطلب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'waiter'?",
+      "answers": [ "نادل", "طاهي", "زبون", "مدير" ],
+      "correct": "نادل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'fast food'?",
+      "answers": [ "طعام سريع", "طعام صحي", "طعام مطهو", "طعام بارد" ],
+      "correct": "طعام سريع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'burger'?",
+      "answers": [ "برغر", "بيتزا", "سلطة", "مشروب" ],
+      "correct": "برغر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'fries'?",
+      "answers": [ "بطاطس مقلية", "سلطة", "مشروب", "خبز" ],
+      "correct": "بطاطس مقلية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'coffee'?",
+      "answers": [ "قهوة", "شاي", "عصير", "ماء" ],
+      "correct": "قهوة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'tea'?",
+      "answers": [ "شاي", "قهوة", "عصير", "ماء" ],
+      "correct": "شاي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I want it to go'?",
+      "answers": [ "أريدها للتناول خارج المطعم", "أريدها هنا", "أريدها للمنزل", "لا أريد" ],
+      "correct": "أريدها للتناول خارج المطعم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'bill/check please'?",
+      "answers": [ "الحساب من فضلك", "الطعام من فضلك", "الشراب من فضلك", "الكرسي من فضلك" ],
+      "correct": "الحساب من فضلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is it spicy?'",
+      "answers": [ "هل هو حار؟", "هل هو بارد؟", "هل هو ساخن؟", "هل هو بارد؟" ],
+      "correct": "هل هو حار؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I’m allergic to nuts'?",
+      "answers": [ "أنا أعاني من حساسية تجاه المكسرات", "أنا أحب المكسرات", "أنا لا أحب المكسرات", "أنا لا آكل المكسرات" ],
+      "correct": "أنا أعاني من حساسية تجاه المكسرات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Do you have vegetarian options?'",
+      "answers": [ "هل لديكم خيارات نباتية؟", "هل لديكم لحم؟", "هل لديكم سمك؟", "هل لديكم حلويات؟" ],
+      "correct": "هل لديكم خيارات نباتية؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'extra cheese'?",
+      "answers": [ "جبنة إضافية", "صلصة إضافية", "لحم إضافي", "خبز إضافي" ],
+      "correct": "جبنة إضافية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I’d like a glass of water'?",
+      "answers": [ "أود كوباً من الماء", "أود كوباً من العصير", "أود كوباً من الشاي", "أود كوباً من القهوة" ],
+      "correct": "أود كوباً من الماء",
+      "voiceUrl": ""
+    }
+  ]
+}

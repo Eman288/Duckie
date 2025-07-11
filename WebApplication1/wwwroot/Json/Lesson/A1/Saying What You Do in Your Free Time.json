@@ -1,0 +1,105 @@
+{
+  "lesson": "Daily Life",
+  "words": [
+    {
+      "word": "wake up",
+      "definition": "To stop sleeping and become conscious.",
+      "arabic": "استيقظ",
+      "arabic_definition": "أن تتوقف عن النوم وتصبح واعيًا.",
+      "example": {
+        "en": "I wake up at 7 o'clock every day.",
+        "ar": "أستيقظ في الساعة السابعة كل يوم."
+      }
+    },
+    {
+      "word": "brush",
+      "definition": "To clean or smooth something using a brush.",
+      "arabic": "يفرشي",
+      "arabic_definition": "ينظف أو يسوّي شيئًا باستخدام فرشاة.",
+      "example": {
+        "en": "I brush my teeth in the morning.",
+        "ar": "أفرشي أسناني في الصباح."
+      }
+    },
+    {
+      "word": "eat",
+      "definition": "To put food in your mouth and swallow it.",
+      "arabic": "يأكل",
+      "arabic_definition": "وضع الطعام في الفم وابتلاعه.",
+      "example": {
+        "en": "I eat breakfast at 8 AM.",
+        "ar": "أتناول الفطور في الساعة الثامنة صباحًا."
+      }
+    },
+    {
+      "word": "go",
+      "definition": "To move or travel from one place to another.",
+      "arabic": "يذهب",
+      "arabic_definition": "ينتقل أو يسافر من مكان إلى آخر.",
+      "example": {
+        "en": "I go to school by bus.",
+        "ar": "أذهب إلى المدرسة بالحافلة."
+      }
+    },
+    {
+      "word": "school",
+      "definition": "A place where children go to learn.",
+      "arabic": "مدرسة",
+      "arabic_definition": "مكان يذهب إليه الأطفال للتعلم.",
+      "example": {
+        "en": "My school starts at 8 o'clock.",
+        "ar": "مدرستي تبدأ في الساعة الثامنة."
+      }
+    },
+    {
+      "word": "come back",
+      "definition": "To return to a place.",
+      "arabic": "يعود",
+      "arabic_definition": "يرجع إلى مكان ما.",
+      "example": {
+        "en": "I come back home at 3 PM.",
+        "ar": "أعود إلى المنزل في الساعة الثالثة مساءً."
+      }
+    },
+    {
+      "word": "watch",
+      "definition": "To look at something for a period of time.",
+      "arabic": "يشاهد",
+      "arabic_definition": "ينظر إلى شيء لفترة من الزمن.",
+      "example": {
+        "en": "I watch TV after dinner.",
+        "ar": "أشاهد التلفاز بعد العشاء."
+      }
+    },
+    {
+      "word": "play",
+      "definition": "To take part in a game or activity for fun.",
+      "arabic": "يلعب",
+      "arabic_definition": "يشارك في لعبة أو نشاط للمتعة.",
+      "example": {
+        "en": "Children play in the park.",
+        "ar": "الأطفال يلعبون في الحديقة."
+      }
+    },
+    {
+      "word": "sleep",
+      "definition": "To rest with your eyes closed and your body inactive.",
+      "arabic": "ينام",
+      "arabic_definition": "يرتاح وعيناه مغلقتان وجسمه ساكن.",
+      "example": {
+        "en": "I sleep at 10 PM.",
+        "ar": "أنام في الساعة العاشرة مساءً."
+      }
+    },
+    {
+      "word": "daily",
+      "definition": "Happening every day.",
+      "arabic": "يوميًا",
+      "arabic_definition": "يحدث كل يوم.",
+      "example": {
+        "en": "She writes in her diary daily.",
+        "ar": "تكتب في مذكرتها يوميًا."
+      }
+    }
+  ]
+}

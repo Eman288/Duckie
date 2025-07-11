@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about New Discoveries and Innovations",
+  "words": [
+    {
+      "word": "discovery",
+      "definition": "Something found for the first time.",
+      "arabic": "اكتشاف",
+      "arabic_definition": "شيء يتم العثور عليه لأول مرة.",
+      "example": {
+        "en": "The scientist made an important discovery.",
+        "ar": "حقق العالم اكتشافًا مهمًا."
+      }
+    },
+    {
+      "word": "innovation",
+      "definition": "A new idea or method.",
+      "arabic": "ابتكار",
+      "arabic_definition": "فكرة أو طريقة جديدة.",
+      "example": {
+        "en": "This innovation will change how we work.",
+        "ar": "هذا الابتكار سيغير طريقة عملنا."
+      }
+    },
+    {
+      "word": "breakthrough",
+      "definition": "A significant or sudden advance.",
+      "arabic": "طفرة",
+      "arabic_definition": "تقدم كبير أو مفاجئ.",
+      "example": {
+        "en": "The team announced a breakthrough in medicine.",
+        "ar": "أعلن الفريق عن طفرة في الطب."
+      }
+    },
+    {
+      "word": "research",
+      "definition": "The study of a subject to gain knowledge.",
+      "arabic": "بحث",
+      "arabic_definition": "دراسة موضوع للحصول على المعرفة.",
+      "example": {
+        "en": "Research is vital for scientific advancement.",
+        "ar": "البحث أمر حيوي للتقدم العلمي."
+      }
+    },
+    {
+      "word": "patent",
+      "definition": "A legal right to an invention.",
+      "arabic": "براءة اختراع",
+      "arabic_definition": "حق قانوني على اختراع.",
+      "example": {
+        "en": "He registered a patent for his invention.",
+        "ar": "قام بتسجيل براءة اختراع لاختراعه."
+      }
+    },
+    {
+      "word": "development",
+      "definition": "The process of creating or improving.",
+      "arabic": "تطوير",
+      "arabic_definition": "عملية إنشاء شيء أو تحسينه.",
+      "example": {
+        "en": "The company is focusing on the development of new technology.",
+        "ar": "تركز الشركة على تطوير تكنولوجيا جديدة."
+      }
+    },
+    {
+      "word": "prototype",
+      "definition": "An early version of a product.",
+      "arabic": "نموذج أولي",
+      "arabic_definition": "نسخة مبكرة من منتج.",
+      "example": {
+        "en": "The team tested the first prototype of the device.",
+        "ar": "اختبر الفريق أول نموذج أولي للجهاز."
+      }
+    },
+    {
+      "word": "artificial intelligence",
+      "definition": "Technology that mimics human intelligence.",
+      "arabic": "ذكاء اصطناعي",
+      "arabic_definition": "تقنية تحاكي الذكاء البشري.",
+      "example": {
+        "en": "Artificial intelligence is reshaping many industries.",
+        "ar": "يعيد الذكاء الاصطناعي تشكيل العديد من الصناعات."
+      }
+    },
+    {
+      "word": "disruption",
+      "definition": "A radical change in an industry due to new technology.",
+      "arabic": "اضطراب",
+      "arabic_definition": "تغيير جذري في صناعة ما بسبب تقنية جديدة.",
+      "example": {
+        "en": "This invention caused a disruption in the market.",
+        "ar": "تسبب هذا الاختراع باضطراب في السوق."
+      }
+    },
+    {
+      "word": "science",
+      "definition": "The study of the natural world through experiments and observations.",
+      "arabic": "علوم",
+      "arabic_definition": "دراسة الطبيعة من خلال التجارب والملاحظات.",
+      "example": {
+        "en": "Science helps us understand the universe.",
+        "ar": "العلم يساعدنا على فهم الكون."
+      }
+    }
+  ]
+}

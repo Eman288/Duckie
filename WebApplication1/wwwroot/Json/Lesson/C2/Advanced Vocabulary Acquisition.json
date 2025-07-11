@@ -1,0 +1,105 @@
+{
+  "lesson": "Advanced Vocabulary Acquisition",
+  "words": [
+    {
+      "word": "lexicon",
+      "definition": "The vocabulary of a person or language.",
+      "arabic": "المعجم",
+      "arabic_definition": "المفردات التي يستخدمها الشخص أو اللغة.",
+      "example": {
+        "en": "She has a rich lexicon of words.",
+        "ar": "تمتلك معجمًا غنيًا بالكلمات."
+      }
+    },
+    {
+      "word": "register",
+      "definition": "A level or style of language used in different contexts.",
+      "arabic": "السجل اللغوي",
+      "arabic_definition": "مستوى أو نمط اللغة المستخدم وفق السياق.",
+      "example": {
+        "en": "He used a formal register for the speech.",
+        "ar": "استخدم سجلًا لغويًا رسميًا للخطاب."
+      }
+    },
+    {
+      "word": "connotation",
+      "definition": "The associated or emotional meaning of a word.",
+      "arabic": "الدلالة",
+      "arabic_definition": "المعنى المرتبط بالكلمة أو تأثيرها العاطفي.",
+      "example": {
+        "en": "The word 'home' has warm connotations.",
+        "ar": "كلمة 'المنزل' تحمل دلالات دافئة."
+      }
+    },
+    {
+      "word": "denotation",
+      "definition": "The literal or primary meaning of a word.",
+      "arabic": "المعنى الحرفي",
+      "arabic_definition": "المعنى الأساسي أو الحرفي للكلمة.",
+      "example": {
+        "en": "The denotation of 'cat' is a small domesticated animal.",
+        "ar": "المعنى الحرفي لـ'القطة' هو حيوان أليف صغير."
+      }
+    },
+    {
+      "word": "nuance",
+      "definition": "A subtle difference in meaning.",
+      "arabic": "فارق بسيط",
+      "arabic_definition": "اختلاف دقيق في المعنى.",
+      "example": {
+        "en": "He understood the nuances of the conversation.",
+        "ar": "فهم الفوارق الدقيقة للحوار."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "Exactness and accuracy in language.",
+      "arabic": "الدقة",
+      "arabic_definition": "الدقة وصحة استخدام اللغة.",
+      "example": {
+        "en": "Use words with precision when writing an essay.",
+        "ar": "استخدم كلمات دقيقة عند كتابة المقال."
+      }
+    },
+    {
+      "word": "articulate",
+      "definition": "Expressing thoughts clearly and effectively.",
+      "arabic": "واضح",
+      "arabic_definition": "التعبير عن الأفكار بوضوح وفعالية.",
+      "example": {
+        "en": "He was able to articulate complex ideas easily.",
+        "ar": "تمكّن من التعبير عن الأفكار المعقّدة بسهولة."
+      }
+    },
+    {
+      "word": "discerning",
+      "definition": "Having sharp judgment and understanding.",
+      "arabic": "فَطِن",
+      "arabic_definition": "ذو قدرة على الحكم الجيد والفهم العميق.",
+      "example": {
+        "en": "A discerning reader can spot inconsistencies.",
+        "ar": "القارئ الفَطِن يمكنه ملاحظة التناقضات."
+      }
+    },
+    {
+      "word": "erudite",
+      "definition": "Having or showing great knowledge or learning.",
+      "arabic": "واسع الاطلاع",
+      "arabic_definition": "ذو معرفة واسعة أو علم غزير.",
+      "example": {
+        "en": "He gave an erudite lecture on linguistics.",
+        "ar": "ألقى محاضرة واسعة الاطلاع عن علم اللغة."
+      }
+    },
+    {
+      "word": "versatile",
+      "definition": "Able to adapt or be used for many different functions.",
+      "arabic": "متعدد الاستخدامات",
+      "arabic_definition": "قادر على التكيّف أو استخدامه لوظائف عديدة.",
+      "example": {
+        "en": "She is a versatile writer and speaker.",
+        "ar": "إنها كاتبة ومتحدثة متعددة الاستخدامات."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Buying Clothes and Asking for Sizes Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'clothes'?",
+      "answers": [ "ملابس", "أحذية", "قبعات", "حقائب" ],
+      "correct": "ملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'size'?",
+      "answers": [ "مقاس", "لون", "شكل", "نوع" ],
+      "correct": "مقاس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'small size'?",
+      "answers": [ "مقاس صغير", "مقاس كبير", "مقاس متوسط", "مقاس ضخم" ],
+      "correct": "مقاس صغير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'medium size'?",
+      "answers": [ "مقاس متوسط", "مقاس صغير", "مقاس كبير", "مقاس ضخم" ],
+      "correct": "مقاس متوسط",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'large size'?",
+      "answers": [ "مقاس كبير", "مقاس صغير", "مقاس متوسط", "مقاس ضخم" ],
+      "correct": "مقاس كبير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want to try this on'?",
+      "answers": [ "أريد تجربة هذا", "أريد شراء هذا", "أريد رؤية هذا", "أريد بيع هذا" ],
+      "correct": "أريد تجربة هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Does it fit me?'",
+      "answers": [ "هل يناسبني؟", "هل يعجبني؟", "هل أريده؟", "هل أحتاجه؟" ],
+      "correct": "هل يناسبني؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What color do you have?'",
+      "answers": [ "ما الألوان المتوفرة؟", "ما المقاسات المتوفرة؟", "ما الأنواع المتوفرة؟", "ما الأسعار المتوفرة؟" ],
+      "correct": "ما الألوان المتوفرة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like this color'?",
+      "answers": [ "أحب هذا اللون", "لا أحب هذا اللون", "أكره هذا اللون", "لا أريد هذا اللون" ],
+      "correct": "أحب هذا اللون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Do you have it in blue?'",
+      "answers": [ "هل لديكم باللون الأزرق؟", "هل لديكم باللون الأحمر؟", "هل لديكم باللون الأسود؟", "هل لديكم باللون الأبيض؟" ],
+      "correct": "هل لديكم باللون الأزرق؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'How much is this?'",
+      "answers": [ "كم سعر هذا؟", "أين هذا؟", "هل هذا متوفر؟", "هل هذا جديد؟" ],
+      "correct": "كم سعر هذا؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Is there a discount?'",
+      "answers": [ "هل هناك خصم؟", "هل هناك زيادة؟", "هل هناك تغيير؟", "هل هناك مشكلة؟" ],
+      "correct": "هل هناك خصم؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I want to buy this'?",
+      "answers": [ "أريد شراء هذا", "أريد بيع هذا", "أريد تجربة هذا", "أريد رؤية هذا" ],
+      "correct": "أريد شراء هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can I pay by card?'",
+      "answers": [ "هل يمكنني الدفع بالبطاقة؟", "هل يمكنني الدفع نقداً؟", "هل يمكنني الدفع بالشيك؟", "هل يمكنني الدفع بالتقسيط؟" ],
+      "correct": "هل يمكنني الدفع بالبطاقة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Where is the fitting room?'",
+      "answers": [ "أين غرفة القياس؟", "أين الكاشير؟", "أين المخزن؟", "أين المخرج؟" ],
+      "correct": "أين غرفة القياس؟",
+      "voiceUrl": ""
+    }
+  ]
+}

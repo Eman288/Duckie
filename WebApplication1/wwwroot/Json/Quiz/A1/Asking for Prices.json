@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Asking for Prices Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'How much is this?' in Arabic?",
+      "answers": [ "كم سعر هذا؟", "هذا غالي", "ليس عندي نقود", "ليس لدي شيء" ],
+      "correct": "كم سعر هذا؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'How much does this cost?'",
+      "answers": [ "ليس عندي مال", "كم سعر هذا؟", "ليس لدي شيء", "هذا غالي" ],
+      "correct": "كم سعر هذا؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'That is expensive' in Arabic?",
+      "answers": [ "هذا غالي", "ليس عندي مال", "ليس لدي شيء", "هذا رخيص" ],
+      "correct": "هذا غالي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'That is cheap'",
+      "answers": [ "هذا غالي", "هذا رخيص", "ليس عندي شيء", "ليس لدي مال" ],
+      "correct": "هذا رخيص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want this' in Arabic?",
+      "answers": [ "ليس عندي شيء", "ليس لدي مال", "أريد هذا", "هذا غالي" ],
+      "correct": "أريد هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I don't want this'",
+      "answers": [ "ليس عندي شيء", "ليس لدي مال", "لا أريد هذا", "هذا غالي" ],
+      "correct": "لا أريد هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Can you give a discount?' in Arabic?",
+      "answers": [ "هل يمكنك تخفيض السعر؟", "ليس لدي مال", "ليس عندي شيء", "هذا غالي جداً" ],
+      "correct": "هل يمكنك تخفيض السعر؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I want to buy this'",
+      "answers": [ "ليس لدي شيء", "ليس عندي مال", "أريد شراء هذا", "هذا غالي جداً" ],
+      "correct": "أريد شراء هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'That is too expensive' in Arabic?",
+      "answers": [ "ليس لدي مال", "ليس عندي شيء", "هذا غالي جداً", "هذا رخيص جداً" ],
+      "correct": "هذا غالي جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is this on sale?'",
+      "answers": [ "ليس لدي شيء", "ليس عندي مال", "هل هذا عليه تخفيض؟", "هذا غالي جداً" ],
+      "correct": "هل هذا عليه تخفيض؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I will take this' in Arabic?",
+      "answers": [ "ليس لدي شيء", "ليس عندي مال", "سأخذ هذا", "هذا غالي جداً" ],
+      "correct": "سأخذ هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'How much are these?'",
+      "answers": [ "ليس عندي شيء", "ليس لدي مال", "كم سعر هذه؟", "هذا غالي جداً" ],
+      "correct": "كم سعر هذه؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'That is too cheap' in Arabic?",
+      "answers": [ "هذا رخيص جداً", "ليس لدي شيء", "ليس عندي مال", "هذا غالي جداً" ],
+      "correct": "هذا رخيص جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have money'",
+      "answers": [ "ليس لدي مال", "ليس عندي شيء", "عندي مال", "ليس لدي شيء" ],
+      "correct": "عندي مال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have no money' in Arabic?",
+      "answers": [ "ليس لدي شيء", "ليس عندي مال", "ليس لدي طعام", "ليس عندي عمل" ],
+      "correct": "ليس عندي مال",
+      "voiceUrl": ""
+    }
+  ]
+}

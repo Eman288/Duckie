@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Talking About Housework Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'I wash the dishes'?",
+      "answers": [ "أغسل الصحون", "أكتب الدرس", "أخرج من المنزل", "أدرس اللغة الإنجليزية" ],
+      "correct": "أغسل الصحون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I clean the house'?",
+      "answers": [ "أنظف المنزل", "أحضر الطعام", "أتحدث على الهاتف", "أدرس اللغة الإنجليزية" ],
+      "correct": "أنظف المنزل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I make the bed'?",
+      "answers": [ "أرتب السرير", "أخرج من المنزل", "أتحدث على الهاتف", "أشاهد فيلمًا" ],
+      "correct": "أرتب السرير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I cook lunch'?",
+      "answers": [ "أطهو الغداء", "أخرج من المنزل", "أتحدث على الهاتف", "أدرس اللغة الإنجليزية" ],
+      "correct": "أطهو الغداء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I do the laundry'?",
+      "answers": [ "أغسل الملابس", "أكتب الدرس", "أخرج من المنزل", "أتحدث على الهاتف" ],
+      "correct": "أغسل الملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I take out the trash'?",
+      "answers": [ "أخرج القمامة", "أتحدث على الهاتف", "أكتب الدرس", "أشاهد فيلمًا" ],
+      "correct": "أخرج القمامة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I sweep the floor'?",
+      "answers": [ "أكنس الأرض", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أكنس الأرض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I vacuum the carpet'?",
+      "answers": [ "أكنس السجاد", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أكنس السجاد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I iron the clothes'?",
+      "answers": [ "أكوي الملابس", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أكوي الملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I water the plants'?",
+      "answers": [ "أسقي النباتات", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أسقي النباتات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I wash the windows'?",
+      "answers": [ "أغسل النوافذ", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أغسل النوافذ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I dust the furniture'?",
+      "answers": [ "أزيل الغبار عن الأثاث", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أزيل الغبار عن الأثاث",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I clean the bathroom'?",
+      "answers": [ "أنظف الحمام", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أنظف الحمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I set the table'?",
+      "answers": [ "أجهز الطاولة", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أجهز الطاولة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I wash the car'?",
+      "answers": [ "أغسل السيارة", "أتحدث على الهاتف", "أكتب الدرس", "أخرج من المنزل" ],
+      "correct": "أغسل السيارة",
+      "voiceUrl": ""
+    }
+  ]
+}

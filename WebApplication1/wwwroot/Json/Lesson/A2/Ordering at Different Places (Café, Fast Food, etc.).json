@@ -1,0 +1,105 @@
+{
+  "lesson": "Ordering at Different Places (Café, Fast Food, etc.)",
+  "words": [
+    {
+      "word": "order",
+      "definition": "To ask for food or drinks.",
+      "arabic": "طلب",
+      "arabic_definition": "طلب الطعام أو الشراب.",
+      "example": {
+        "en": "I would like to order a coffee.",
+        "ar": "أود طلب قهوة."
+      }
+    },
+    {
+      "word": "café",
+      "definition": "A place that serves drinks and snacks.",
+      "arabic": "مقهى",
+      "arabic_definition": "مكان يقدم المشروبات والوجبات الخفيفة.",
+      "example": {
+        "en": "We met at a café.",
+        "ar": "التقينا في مقهى."
+      }
+    },
+    {
+      "word": "waiter",
+      "definition": "A person who serves customers in a restaurant.",
+      "arabic": "نادل",
+      "arabic_definition": "شخص يخدم العملاء في مطعم.",
+      "example": {
+        "en": "The waiter brought our drinks.",
+        "ar": "أحضر النادل مشروباتنا."
+      }
+    },
+    {
+      "word": "menu",
+      "definition": "A list of available food and drinks.",
+      "arabic": "قائمة الطعام",
+      "arabic_definition": "قائمة بالأطعمة والمشروبات المتاحة.",
+      "example": {
+        "en": "Can I see the menu, please?",
+        "ar": "هل يمكنني رؤية قائمة الطعام، من فضلك؟"
+      }
+    },
+    {
+      "word": "bill",
+      "definition": "The total cost of a meal.",
+      "arabic": "فاتورة",
+      "arabic_definition": "التكلفة الإجمالية للوجبة.",
+      "example": {
+        "en": "Can we have the bill, please?",
+        "ar": "هل يمكننا الحصول على الفاتورة، من فضلك؟"
+      }
+    },
+    {
+      "word": "tip",
+      "definition": "Extra money left for the waiter.",
+      "arabic": "بقشيش",
+      "arabic_definition": "مال إضافي يُترك للنادل.",
+      "example": {
+        "en": "We left a tip for the waiter.",
+        "ar": "تركنا بقشيش للنادل."
+      }
+    },
+    {
+      "word": "takeaway",
+      "definition": "Food that you take out of the restaurant.",
+      "arabic": "وجبة سريعة",
+      "arabic_definition": "طعام تأخذه خارج المطعم.",
+      "example": {
+        "en": "We ordered a takeaway pizza.",
+        "ar": "طلبنا بيتزا جاهزة للخارج."
+      }
+    },
+    {
+      "word": "drive-thru",
+      "definition": "A service that allows you to order from your car.",
+      "arabic": "خدمة الطلب من السيارة",
+      "arabic_definition": "خدمة تتيح لك الطلب من سيارتك.",
+      "example": {
+        "en": "We used the drive-thru to get burgers.",
+        "ar": "استخدمنا خدمة الطلب من السيارة للحصول على البرغر."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "An arrangement to have a table saved.",
+      "arabic": "حجز",
+      "arabic_definition": "ترتيب للحفاظ على طاولة محجوزة.",
+      "example": {
+        "en": "We have a reservation for 7 PM.",
+        "ar": "لدينا حجز الساعة السابعة مساءً."
+      }
+    },
+    {
+      "word": "special",
+      "definition": "A featured dish at a restaurant.",
+      "arabic": "طبق متميز",
+      "arabic_definition": "طبق متميز يتم تقديمه في المطعم.",
+      "example": {
+        "en": "Today's special is chicken pasta.",
+        "ar": "طبق اليوم المتميز هو مكرونة بالدجاج."
+      }
+    }
+  ]
+}

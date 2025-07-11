@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Vocabulary for Business and Economics Quiz",
+  "questions": [
+    {
+      "question": "What does 'revenue' mean?",
+      "answers": [
+        "Total income earned by a business.",
+        "A long vacation.",
+        "A customer review.",
+        "A financial penalty."
+      ],
+      "correct": "Total income earned by a business.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'inflation'?",
+      "answers": [
+        "A general rise in prices.",
+        "A drop in sales.",
+        "A type of loan.",
+        "A fixed price agreement."
+      ],
+      "correct": "A general rise in prices.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'profit margin'?",
+      "answers": [
+        "The percentage of revenue that is kept as profit.",
+        "The total cost of goods.",
+        "A loan agreement.",
+        "A market trend."
+      ],
+      "correct": "The percentage of revenue that is kept as profit.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is NOT related to business vocabulary?",
+      "answers": [
+        "Palette",
+        "Investment",
+        "Revenue",
+        "Capital"
+      ],
+      "correct": "Palette",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'asset' in business terms?",
+      "answers": [
+        "Anything owned by a company that has value.",
+        "A debt that must be paid.",
+        "A job role.",
+        "A sales target."
+      ],
+      "correct": "Anything owned by a company that has value.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'depreciation'?",
+      "answers": [
+        "A decrease in the value of an asset over time.",
+        "An increase in sales.",
+        "A loan agreement.",
+        "A type of investment."
+      ],
+      "correct": "A decrease in the value of an asset over time.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'cash flow'?",
+      "answers": [
+        "The movement of money into and out of a business.",
+        "The price of goods sold.",
+        "A measure of staff productivity.",
+        "A long-term investment."
+      ],
+      "correct": "The movement of money into and out of a business.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'market share' mean?",
+      "answers": [
+        "The portion of the market a company controls.",
+        "The cost of goods sold.",
+        "A measure of revenue only.",
+        "A loan agreement."
+      ],
+      "correct": "The portion of the market a company controls.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'expense' in business?",
+      "answers": [
+        "Costs associated with running a business.",
+        "A source of revenue.",
+        "A long-term investment.",
+        "A measure of staff productivity."
+      ],
+      "correct": "Costs associated with running a business.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'supply and demand'?",
+      "answers": [
+        "The relationship between availability and desire for a product.",
+        "A measure of company profit.",
+        "The cost of goods sold.",
+        "A loan agreement."
+      ],
+      "correct": "The relationship between availability and desire for a product.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'investment'?",
+      "answers": [
+        "Buying an asset with the intention of generating income.",
+        "A fixed expense.",
+        "A loan agreement.",
+        "A measure of employee productivity."
+      ],
+      "correct": "Buying an asset with the intention of generating income.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'gross income'?",
+      "answers": [
+        "Total income before expenses.",
+        "Income after taxes.",
+        "A loan agreement.",
+        "A measure of staff productivity."
+      ],
+      "correct": "Total income before expenses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'net income' mean?",
+      "answers": [
+        "Income after expenses.",
+        "Income before expenses.",
+        "The total market share.",
+        "The cost of goods sold."
+      ],
+      "correct": "Income after expenses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'capital' in a business context?",
+      "answers": [
+        "Resources used to generate income.",
+        "A measure of revenue.",
+        "A loan agreement.",
+        "A staff member."
+      ],
+      "correct": "Resources used to generate income.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'balance sheet' mean?",
+      "answers": [
+        "A financial statement showing assets, liabilities, and equity.",
+        "A sales target.",
+        "A loan agreement.",
+        "A list of staff salaries."
+      ],
+      "correct": "A financial statement showing assets, liabilities, and equity.",
+      "voiceUrl": ""
+    }
+  ]
+}

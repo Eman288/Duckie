@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Talking about Literature and Stories Quiz",
+  "questions": [
+    {
+      "question": "What is the main purpose of literature?",
+      "answers": [
+        "To tell stories and express ideas.",
+        "To sell products.",
+        "To give instructions.",
+        "To advertise."
+      ],
+      "correct": "To tell stories and express ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is a type of literature?",
+      "answers": [
+        "Novel.",
+        "Painting.",
+        "Sculpture.",
+        "Dance."
+      ],
+      "correct": "Novel.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does the term 'plot' refer to in a story?",
+      "answers": [
+        "The sequence of events.",
+        "The setting.",
+        "The main character.",
+        "The title."
+      ],
+      "correct": "The sequence of events.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Who is the 'protagonist'?",
+      "answers": [
+        "The main character.",
+        "The author.",
+        "The narrator.",
+        "The antagonist."
+      ],
+      "correct": "The main character.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'theme' in literature?",
+      "answers": [
+        "The main idea or message.",
+        "The setting.",
+        "The characters.",
+        "The conflict."
+      ],
+      "correct": "The main idea or message.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'genre'?",
+      "answers": [
+        "A category or type of literature.",
+        "A character.",
+        "A setting.",
+        "A chapter."
+      ],
+      "correct": "A category or type of literature.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a literary genre?",
+      "answers": [
+        "Science fiction.",
+        "Sculpture.",
+        "Painting.",
+        "Music."
+      ],
+      "correct": "Science fiction.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'narration'?",
+      "answers": [
+        "The act of telling the story.",
+        "The writing style.",
+        "The setting description.",
+        "The ending."
+      ],
+      "correct": "The act of telling the story.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Who writes literature?",
+      "answers": [
+        "Authors or writers.",
+        "Actors.",
+        "Directors.",
+        "Painters."
+      ],
+      "correct": "Authors or writers.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'character development' mean?",
+      "answers": [
+        "How characters change during a story.",
+        "How a story ends.",
+        "The story's title.",
+        "The book's cover."
+      ],
+      "correct": "How characters change during a story.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'cliffhanger'?",
+      "answers": [
+        "A suspenseful ending that leaves readers wanting more.",
+        "The beginning of a story.",
+        "A happy ending.",
+        "A character's name."
+      ],
+      "correct": "A suspenseful ending that leaves readers wanting more.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a literary device?",
+      "answers": [
+        "Microscope.",
+        "Metaphor.",
+        "Simile.",
+        "Alliteration."
+      ],
+      "correct": "Microscope.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'setting' in literature?",
+      "answers": [
+        "Where and when the story takes place.",
+        "The main idea.",
+        "The plot twist.",
+        "The title."
+      ],
+      "correct": "Where and when the story takes place.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'foreshadowing' mean?",
+      "answers": [
+        "Hints about what will happen later.",
+        "A type of character.",
+        "The story's end.",
+        "The main conflict."
+      ],
+      "correct": "Hints about what will happen later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why do readers enjoy stories?",
+      "answers": [
+        "To learn, feel emotions, and be entertained.",
+        "To do homework.",
+        "To memorize facts.",
+        "To practice spelling."
+      ],
+      "correct": "To learn, feel emotions, and be entertained.",
+      "voiceUrl": ""
+    }
+  ]
+}

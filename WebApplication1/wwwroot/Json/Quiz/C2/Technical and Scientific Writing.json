@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Technical and Scientific Writing",
+  "questions": [
+    {
+      "question": "Why is precision vital in scientific writing?",
+      "answers": [ "To communicate ideas clearly and reduce ambiguity.", "To complicate ideas intentionally.", "To skip making connections clearly.", "To remove precision from results." ],
+      "correct": "To communicate ideas clearly and reduce ambiguity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common feature of technical documents?",
+      "answers": [ "Use of formal language and terminology.", "Use of ambiguous expressions.", "Exclusion of references and evidence.", "Relying on opinion rather than data." ],
+      "correct": "Use of formal language and terminology.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is structure vital in technical writing?",
+      "answers": [ "To guide readers logically through complex ideas.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To guide readers logically through complex ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active voice often used?",
+      "answers": [ "To make instructions and findings direct and clear.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To make instructions and findings direct and clear.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are tables and figures used in scientific papers?",
+      "answers": [ "To summarize and present data clearly.", "To complicate understanding intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To summarize and present data clearly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use a neutral and objective tone?",
+      "answers": [ "To maintain professionalism and credibility.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To maintain professionalism and credibility.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is conciseness vital?",
+      "answers": [ "To convey complex ideas clearly and efficiently.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To convey complex ideas clearly and efficiently.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why must terminology be used consistently?",
+      "answers": [ "To maintain clarity and precision across the text.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To maintain clarity and precision across the text.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review methods and results sections?",
+      "answers": [ "To ensure reproducibility and accuracy of information.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To ensure reproducibility and accuracy of information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is attribution important?",
+      "answers": [ "To give credit and build trust within the scientific community.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To give credit and build trust within the scientific community.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use formal language?",
+      "answers": [ "To adhere to conventions and maintain professionalism.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To adhere to conventions and maintain professionalism.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is precision in describing methods critical?",
+      "answers": [ "To enable replication and verification by others.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To enable replication and verification by others.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review literature in scientific papers?",
+      "answers": [ "To position new research within existing knowledge.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To position new research within existing knowledge.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clarity of results vital?",
+      "answers": [ "To clearly communicate findings to an academic audience.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To clearly communicate findings to an academic audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why adhere to style guides?",
+      "answers": [ "To maintain consistency and professionalism across publications.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from text." ],
+      "correct": "To maintain consistency and professionalism across publications.",
+      "voiceUrl": ""
+    }
+  ]
+}

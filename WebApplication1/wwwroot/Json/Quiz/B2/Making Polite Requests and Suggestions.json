@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Making Polite Requests and Suggestions",
+  "questions": [
+    {
+      "question": "Why is it important to use polite language when making requests?",
+      "answers": [ "To show respect and consideration.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To show respect and consideration.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is a polite way to ask for help?",
+      "answers": [ "'Can you help me, please?'", "'Help me now.'", "'You must help.'", "'Why aren't you helping?'" ],
+      "correct": "Can you help me, please?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to make a suggestion?",
+      "answers": [ "'Maybe we could try this.'", "'You must try this.'", "'Try this right now.'", "'Stop doing what you're doing.'" ],
+      "correct": "Maybe we could try this.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use 'could' or 'would' when making requests?",
+      "answers": [ "To sound more polite and considerate.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To sound more polite and considerate.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of making a polite request?",
+      "answers": [ "'Would you mind opening the window?'", "'Open the window.'", "'Why is this window closed?'", "'I want the window open.'" ],
+      "correct": "Would you mind opening the window?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is tone important when making requests?",
+      "answers": [ "To sound respectful and approachable.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To sound respectful and approachable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of making a suggestion?",
+      "answers": [ "'How about we go for a walk?'", "'You must walk now.'", "'Walk quickly.'", "'Why aren't you walking?'" ],
+      "correct": "How about we go for a walk?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use softeners like 'perhaps' and 'maybe'?",
+      "answers": [ "To sound tentative and polite.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To sound tentative and polite.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'Would you mind...?' imply?",
+      "answers": [ "A polite request.", "A command.", "A rude suggestion.", "A statement of fact." ],
+      "correct": "A polite request.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of making a polite suggestion?",
+      "answers": [ "'Perhaps we could review this later.'", "'Review this now.'", "'Why haven't you reviewed this?'", "'Review this quickly.'" ],
+      "correct": "Perhaps we could review this later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use 'I was wondering if...'?",
+      "answers": [ "To make requests sound softer.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To make requests sound softer.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of making a polite offer?",
+      "answers": [ "'Would you like some help?'", "'Help yourself.'", "'I want you to accept help.'", "'Why haven't you taken help?'" ],
+      "correct": "Would you like some help?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is politeness valued in requests and suggestions?",
+      "answers": [ "To foster cooperation and respect.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To foster cooperation and respect.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a polite way to ask for a favor?",
+      "answers": [ "'Could you do me a favor?'", "'Do this favor now.'", "'Why won't you do a favor?'", "'Give me a favor.'" ],
+      "correct": "Could you do me a favor?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why give alternatives when making suggestions?",
+      "answers": [ "To give others a choice and show consideration.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from requests." ],
+      "correct": "To give others a choice and show consideration.",
+      "voiceUrl": ""
+    }
+  ]
+}

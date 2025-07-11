@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Discussing Social Justice and Equality Quiz",
+  "questions": [
+    {
+      "question": "What is 'social justice'?",
+      "answers": [
+        "Equal access to rights and opportunities for all.",
+        "A new fashion trend.",
+        "A cooking method.",
+        "A popular music style."
+      ],
+      "correct": "Equal access to rights and opportunities for all.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'inequality'?",
+      "answers": [
+        "Unequal treatment or access to resources.",
+        "Equal rights for everyone.",
+        "A cooking technique.",
+        "A musical instrument."
+      ],
+      "correct": "Unequal treatment or access to resources.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is diversity important in society?",
+      "answers": [
+        "It encourages understanding and innovation.",
+        "It creates confusion.",
+        "It has no benefits.",
+        "It is only relevant in history."
+      ],
+      "correct": "It encourages understanding and innovation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'discrimination' mean?",
+      "answers": [
+        "Treating people unfairly based on characteristics like race, gender, or religion.",
+        "Accepting everyone equally.",
+        "A new form of music.",
+        "A cooking style."
+      ],
+      "correct": "Treating people unfairly based on characteristics like race, gender, or religion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'human rights'?",
+      "answers": [
+        "The basic rights every person is entitled to.",
+        "A type of government.",
+        "A rare animal.",
+        "A cooking method."
+      ],
+      "correct": "The basic rights every person is entitled to.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'equal pay'?",
+      "answers": [
+        "People receiving the same wage for the same work, regardless of gender.",
+        "Different salaries for different people.",
+        "A currency.",
+        "A cooking trend."
+      ],
+      "correct": "People receiving the same wage for the same work, regardless of gender.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'inclusivity' important?",
+      "answers": [
+        "It allows everyone to participate and be valued.",
+        "It separates people.",
+        "It only applies to certain jobs.",
+        "It is not important."
+      ],
+      "correct": "It allows everyone to participate and be valued.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'tolerance' mean?",
+      "answers": [
+        "Accepting and respecting differences.",
+        "Forcing people to agree.",
+        "Avoiding conversations.",
+        "Disliking differences."
+      ],
+      "correct": "Accepting and respecting differences.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'advocacy'?",
+      "answers": [
+        "The act of supporting or defending a cause.",
+        "A cooking method.",
+        "A music style.",
+        "A piece of art."
+      ],
+      "correct": "The act of supporting or defending a cause.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'equal access'?",
+      "answers": [
+        "Providing the same opportunities for everyone.",
+        "Limiting opportunities.",
+        "A music festival.",
+        "A cooking recipe."
+      ],
+      "correct": "Providing the same opportunities for everyone.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'a social movement'?",
+      "answers": [
+        "A group working to create social or political change.",
+        "A type of dance.",
+        "A cooking technique.",
+        "A music genre."
+      ],
+      "correct": "A group working to create social or political change.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'equal education' important?",
+      "answers": [
+        "It gives all people the chance to learn and succeed.",
+        "It only benefits wealthy people.",
+        "It applies to certain areas only.",
+        "It is not necessary."
+      ],
+      "correct": "It gives all people the chance to learn and succeed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'prejudice'?",
+      "answers": [
+        "Judging someone unfairly before knowing them.",
+        "Accepting others openly.",
+        "A cooking trend.",
+        "A musical instrument."
+      ],
+      "correct": "Judging someone unfairly before knowing them.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'empathy' important in social justice?",
+      "answers": [
+        "It allows people to understand others’ feelings.",
+        "It separates people.",
+        "It has no role.",
+        "It applies only in music."
+      ],
+      "correct": "It allows people to understand others’ feelings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'activism'?",
+      "answers": [
+        "Taking action to bring about social or political change.",
+        "Doing routine daily work.",
+        "A cooking technique.",
+        "A piece of music."
+      ],
+      "correct": "Taking action to bring about social or political change.",
+      "voiceUrl": ""
+    }
+  ]
+}

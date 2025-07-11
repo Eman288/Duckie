@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 4 - Social Issues and Debates",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'environmental challenges'?",
+      "answers": [ "التحديات البيئية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التحديات البيئية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'social justice' in Arabic?",
+      "answers": [ "العدالة الاجتماعية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "العدالة الاجتماعية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'العولمة'?",
+      "answers": [ "globalization", "daily routine", "work project", "travel map" ],
+      "correct": "globalization",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'government' in Arabic?",
+      "answers": [ "حكومة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "حكومة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'climate change'?",
+      "answers": [ "تغيّر المناخ", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تغيّر المناخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'inequality' in Arabic?",
+      "answers": [ "عدم المساواة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عدم المساواة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القضايا الاجتماعية'?",
+      "answers": [ "social issues", "daily routine", "work project", "travel map" ],
+      "correct": "social issues",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'public policy' in Arabic?",
+      "answers": [ "السياسة العامة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "السياسة العامة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'human rights'?",
+      "answers": [ "حقوق الإنسان", "حافلة", "حقيبة", "حجز" ],
+      "correct": "حقوق الإنسان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'development' in Arabic?",
+      "answers": [ "التنمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التنمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المناقشات السياسية'?",
+      "answers": [ "political debates", "daily routine", "travel map", "work project" ],
+      "correct": "political debates",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'equality' in Arabic?",
+      "answers": [ "المساواة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المساواة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'globalization'?",
+      "answers": [ "العولمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "العولمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'democracy' in Arabic?",
+      "answers": [ "الديمقراطية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الديمقراطية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التنمية الاقتصادية'?",
+      "answers": [ "economic development", "daily routine", "work project", "travel map" ],
+      "correct": "economic development",
+      "voiceUrl": ""
+    }
+  ]
+}

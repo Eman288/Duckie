@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Describing a Past Trip (Past Simple) Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I visited Paris last year' in Arabic?",
+      "answers": [ "زرت باريس العام الماضي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "زرت باريس العام الماضي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We traveled by train'",
+      "answers": [ "سافرنا بالقطار", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سافرنا بالقطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I liked the hotel' in Arabic?",
+      "answers": [ "أعجبني الفندق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعجبني الفندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The trip was very exciting'",
+      "answers": [ "كانت الرحلة مثيرة جداً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كانت الرحلة مثيرة جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'We visited many museums' in Arabic?",
+      "answers": [ "زرنا العديد من المتاحف", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "زرنا العديد من المتاحف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I met new friends'",
+      "answers": [ "تعرفت على أصدقاء جدد", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تعرفت على أصدقاء جدد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I tried traditional food' in Arabic?",
+      "answers": [ "جربت الطعام التقليدي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "جربت الطعام التقليدي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The weather was beautiful'",
+      "answers": [ "كان الطقس جميلاً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كان الطقس جميلاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I came back yesterday' in Arabic?",
+      "answers": [ "عدت بالأمس", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "عدت بالأمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The trip lasted for a week'",
+      "answers": [ "استمرت الرحلة أسبوعاً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "استمرت الرحلة أسبوعاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I flew to London' in Arabic?",
+      "answers": [ "سافرت إلى لندن بالطائرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سافرت إلى لندن بالطائرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We went sightseeing'",
+      "answers": [ "قمنا بجولة سياحية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "قمنا بجولة سياحية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I stayed in a hotel' in Arabic?",
+      "answers": [ "أقمت في فندق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقمت في فندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The flight was long'",
+      "answers": [ "كانت الرحلة طويلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كانت الرحلة طويلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I enjoyed the trip' in Arabic?",
+      "answers": [ "استمتعت بالرحلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "استمتعت بالرحلة",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing Your Job",
+  "words": [
+    {
+      "word": "job",
+      "definition": "A paid position of regular employment.",
+      "arabic": "وظيفة",
+      "arabic_definition": "مهنة يحصل فيها الشخص على أجر منتظم.",
+      "example": {
+        "en": "She has a new job at the bank.",
+        "ar": "لديها وظيفة جديدة في البنك."
+      }
+    },
+    {
+      "word": "company",
+      "definition": "A business organization that sells goods or services.",
+      "arabic": "شركة",
+      "arabic_definition": "منظمة تجارية تبيع السلع أو الخدمات.",
+      "example": {
+        "en": "I work for a software company.",
+        "ar": "أعمل في شركة برمجيات."
+      }
+    },
+    {
+      "word": "boss",
+      "definition": "A person in charge of a worker or organization.",
+      "arabic": "مدير",
+      "arabic_definition": "الشخص المسؤول عن العامل أو المؤسسة.",
+      "example": {
+        "en": "My boss is very friendly.",
+        "ar": "مديري ودود جداً."
+      }
+    },
+    {
+      "word": "colleague",
+      "definition": "A person you work with.",
+      "arabic": "زميل",
+      "arabic_definition": "شخص تعمل معه.",
+      "example": {
+        "en": "I had lunch with my colleagues.",
+        "ar": "تناولت الغداء مع زملائي."
+      }
+    },
+    {
+      "word": "salary",
+      "definition": "The money paid to an employee for work done.",
+      "arabic": "راتب",
+      "arabic_definition": "المال المدفوع للموظف مقابل عمله.",
+      "example": {
+        "en": "She gets a good salary.",
+        "ar": "تتقاضى راتبًا جيدًا."
+      }
+    },
+    {
+      "word": "meeting",
+      "definition": "A planned gathering of people for discussion.",
+      "arabic": "اجتماع",
+      "arabic_definition": "تجمع مخطط له لمجموعة من الأشخاص للمناقشة.",
+      "example": {
+        "en": "We have a meeting at 10 a.m.",
+        "ar": "لدينا اجتماع الساعة العاشرة صباحًا."
+      }
+    },
+    {
+      "word": "office",
+      "definition": "A place where people work at desks.",
+      "arabic": "مكتب",
+      "arabic_definition": "مكان يعمل فيه الناس على مكاتب.",
+      "example": {
+        "en": "My office is on the third floor.",
+        "ar": "مكتبي في الطابق الثالث."
+      }
+    },
+    {
+      "word": "promotion",
+      "definition": "A move to a higher position at work.",
+      "arabic": "ترقية",
+      "arabic_definition": "الانتقال إلى منصب أعلى في العمل.",
+      "example": {
+        "en": "He got a promotion last month.",
+        "ar": "حصل على ترقية الشهر الماضي."
+      }
+    },
+    {
+      "word": "employee",
+      "definition": "A person who works for a company or another person.",
+      "arabic": "موظف",
+      "arabic_definition": "شخص يعمل في شركة أو لدى شخص آخر.",
+      "example": {
+        "en": "The company has 50 employees.",
+        "ar": "تضم الشركة 50 موظفًا."
+      }
+    },
+    {
+      "word": "interview",
+      "definition": "A formal meeting to discuss a job opportunity.",
+      "arabic": "مقابلة",
+      "arabic_definition": "لقاء رسمي لمناقشة فرصة عمل.",
+      "example": {
+        "en": "She has a job interview tomorrow.",
+        "ar": "لديها مقابلة عمل غدًا."
+      }
+    }
+  ]
+}

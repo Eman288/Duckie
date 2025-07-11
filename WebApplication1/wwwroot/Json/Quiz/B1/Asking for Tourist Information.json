@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Asking for Tourist Information Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Where is the tourist information office?' in Arabic?",
+      "answers": [ "أين مكتب المعلومات السياحية؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين مكتب المعلومات السياحية؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Are there any museums nearby?'",
+      "answers": [ "هل توجد متاحف قريبة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل توجد متاحف قريبة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What time does the museum open?' in Arabic?",
+      "answers": [ "متى يفتح المتحف؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "متى يفتح المتحف؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am looking for a map of the city'",
+      "answers": [ "أبحث عن خريطة للمدينة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن خريطة للمدينة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Is this area safe for tourists?' in Arabic?",
+      "answers": [ "هل هذه المنطقة آمنة للسياح؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل هذه المنطقة آمنة للسياح؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can you recommend a good restaurant?'",
+      "answers": [ "هل يمكنك التوصية بمطعم جيد؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل يمكنك التوصية بمطعم جيد؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Where can I buy tickets?' in Arabic?",
+      "answers": [ "أين يمكنني شراء التذاكر؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين يمكنني شراء التذاكر؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Are guided tours available?'",
+      "answers": [ "هل تتوفر جولات سياحية موجهة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل تتوفر جولات سياحية موجهة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'What is the best way to get around?' in Arabic?",
+      "answers": [ "ما هي أفضل طريقة للتنقل؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما هي أفضل طريقة للتنقل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Are there any festivals this weekend?'",
+      "answers": [ "هل توجد مهرجانات نهاية هذا الأسبوع؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل توجد مهرجانات نهاية هذا الأسبوع؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am interested in cultural sights' in Arabic?",
+      "answers": [ "أنا مهتم بالأماكن الثقافية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بالأماكن الثقافية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What are the popular tourist spots?'",
+      "answers": [ "ما هي الأماكن السياحية الشهيرة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما هي الأماكن السياحية الشهيرة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Is this area good for shopping?' in Arabic?",
+      "answers": [ "هل هذه المنطقة جيدة للتسوق؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل هذه المنطقة جيدة للتسوق؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can you recommend a guide?'",
+      "answers": [ "هل يمكنك التوصية بمرشد سياحي؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل يمكنك التوصية بمرشد سياحي؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Where can I find traditional souvenirs?' in Arabic?",
+      "answers": [ "أين يمكنني العثور على الهدايا التذكارية التقليدية؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين يمكنني العثور على الهدايا التذكارية التقليدية؟",
+      "voiceUrl": ""
+    }
+  ]
+}

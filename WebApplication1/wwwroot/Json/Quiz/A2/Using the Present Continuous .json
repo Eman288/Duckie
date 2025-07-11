@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Using the Present Continuous Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'I am working'?",
+      "answers": [ "أنا أعمل", "أنا عملت", "أنا سأعمل", "أنا كنت أعمل" ],
+      "correct": "أنا أعمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'He is cooking'?",
+      "answers": [ "هو يطبخ", "هو طبخ", "هو سيطبخ", "هو طبخ أمس" ],
+      "correct": "هو يطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'They are studying'?",
+      "answers": [ "هم يدرسون", "هم درسوا", "هم سيدرسون", "هم درسوا أمس" ],
+      "correct": "هم يدرسون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We are talking'?",
+      "answers": [ "نحن نتحدث", "نحن تحدثنا", "نحن سنتحدث", "نحن تحدثنا أمس" ],
+      "correct": "نحن نتحدث",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'She is reading a book'?",
+      "answers": [ "هي تقرأ كتابًا", "هي قرأت كتابًا", "هي ستقرأ كتابًا", "هي قرأت كتابًا أمس" ],
+      "correct": "هي تقرأ كتابًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am making breakfast'?",
+      "answers": [ "أنا أصنع الإفطار", "أنا صنعت الإفطار", "أنا سأصنع الإفطار", "أنا صنعت الإفطار أمس" ],
+      "correct": "أنا أصنع الإفطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'He is cleaning the room'?",
+      "answers": [ "هو ينظف الغرفة", "هو نظف الغرفة", "هو سينظف الغرفة", "هو نظف الغرفة أمس" ],
+      "correct": "هو ينظف الغرفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We are having lunch'?",
+      "answers": [ "نحن نتناول الغداء", "نحن تناولنا الغداء", "نحن سنتناول الغداء", "نحن تناولنا الغداء أمس" ],
+      "correct": "نحن نتناول الغداء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'They are working now'?",
+      "answers": [ "هم يعملون الآن", "هم عملوا الآن", "هم سيعملون الآن", "هم عملوا أمس" ],
+      "correct": "هم يعملون الآن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am watching a movie'?",
+      "answers": [ "أنا أشاهد فيلمًا", "أنا شاهدت فيلمًا", "أنا سأشاهد فيلمًا", "أنا شاهدت فيلمًا أمس" ],
+      "correct": "أنا أشاهد فيلمًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'He is listening to music'?",
+      "answers": [ "هو يستمع إلى الموسيقى", "هو استمع إلى الموسيقى", "هو سيستمع إلى الموسيقى", "هو استمع إلى الموسيقى أمس" ],
+      "correct": "هو يستمع إلى الموسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'We are doing our homework'?",
+      "answers": [ "نحن نقوم بواجباتنا", "نحن قمنا بواجباتنا", "نحن سنقوم بواجباتنا", "نحن قمنا بواجباتنا أمس" ],
+      "correct": "نحن نقوم بواجباتنا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am learning Arabic'?",
+      "answers": [ "أنا أتعلم اللغة العربية", "أنا تعلمت اللغة العربية", "أنا سأتعلم اللغة العربية", "أنا تعلمت اللغة العربية أمس" ],
+      "correct": "أنا أتعلم اللغة العربية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'He is eating an apple'?",
+      "answers": [ "هو يأكل تفاحة", "هو أكل تفاحة", "هو سيأكل تفاحة", "هو أكل تفاحة أمس" ],
+      "correct": "هو يأكل تفاحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'They are writing a book'?",
+      "answers": [ "هم يكتبون كتابًا", "هم كتبوا كتابًا", "هم سيكتبون كتابًا", "هم كتبوا كتابًا أمس" ],
+      "correct": "هم يكتبون كتابًا",
+      "voiceUrl": ""
+    }
+  ]
+}

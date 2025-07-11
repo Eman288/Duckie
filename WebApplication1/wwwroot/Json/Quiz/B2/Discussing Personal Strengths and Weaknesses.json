@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 6 - Discussing Personal Strengths and Weaknesses Quiz",
+  "questions": [
+    {
+      "question": "Why is it important to understand your strengths and weaknesses?",
+      "answers": [
+        "To grow and make better decisions.",
+        "To forget about them.",
+        "To ignore opportunities.",
+        "To only focus on cooking."
+      ],
+      "correct": "To grow and make better decisions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a strength?",
+      "answers": [
+        "A skill or quality you do well.",
+        "Something you always fail at.",
+        "Something that has no use.",
+        "Only related to sports."
+      ],
+      "correct": "A skill or quality you do well.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to acknowledge weaknesses?",
+      "answers": [
+        "To understand where you can improve.",
+        "To forget about trying.",
+        "To only focus on strengths.",
+        "To ignore feedback."
+      ],
+      "correct": "To understand where you can improve.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can a weakness help you do?",
+      "answers": [
+        "Develop new skills.",
+        "Achieve nothing.",
+        "Forget about learning.",
+        "Avoid trying."
+      ],
+      "correct": "Develop new skills.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is an example of a strength?",
+      "answers": [
+        "Being organized.",
+        "Never trying new things.",
+        "Giving up quickly.",
+        "Avoiding people."
+      ],
+      "correct": "Being organized.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a way to turn a weakness into a strength?",
+      "answers": [
+        "Practice and learn new methods.",
+        "Give up.",
+        "Ignore it.",
+        "Avoid trying."
+      ],
+      "correct": "Practice and learn new methods.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you ask others for feedback?",
+      "answers": [
+        "To understand how others see your strengths and weaknesses.",
+        "To ignore their opinion.",
+        "To forget about your weaknesses.",
+        "To never listen."
+      ],
+      "correct": "To understand how others see your strengths and weaknesses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is NOT a strength?",
+      "answers": [
+        "Giving up easily.",
+        "Communication skills.",
+        "Time management.",
+        "Creativity."
+      ],
+      "correct": "Giving up easily.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing your strengths valuable for a career?",
+      "answers": [
+        "It helps you find roles that suit you.",
+        "It has no value.",
+        "It doesn’t matter.",
+        "It applies only to sports."
+      ],
+      "correct": "It helps you find roles that suit you.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is accepting your weaknesses helpful?",
+      "answers": [
+        "It allows you to seek help and improve.",
+        "It means you have to fail.",
+        "It means you can ignore them.",
+        "It applies only to cooking."
+      ],
+      "correct": "It allows you to seek help and improve.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a strength for teamwork?",
+      "answers": [
+        "Listening and cooperating.",
+        "Always working alone.",
+        "Never sharing ideas.",
+        "Ignoring teammates."
+      ],
+      "correct": "Listening and cooperating.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to review your strengths periodically?",
+      "answers": [
+        "To adapt to new situations.",
+        "To forget about them.",
+        "To never use them.",
+        "To ignore feedback."
+      ],
+      "correct": "To adapt to new situations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a benefit of working on your weaknesses?",
+      "answers": [
+        "Becoming a more balanced person.",
+        "Forgetting about learning.",
+        "Ignoring areas of improvement.",
+        "Failing more often."
+      ],
+      "correct": "Becoming a more balanced person.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can help you discover hidden strengths?",
+      "answers": [
+        "Trying new activities.",
+        "Doing the same thing every day.",
+        "Never accepting a challenge.",
+        "Staying in your comfort zone."
+      ],
+      "correct": "Trying new activities.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it helpful to set goals related to strengths and weaknesses?",
+      "answers": [
+        "To make a plan for growth.",
+        "To forget about trying.",
+        "To stay the same.",
+        "To ignore feedback."
+      ],
+      "correct": "To make a plan for growth.",
+      "voiceUrl": ""
+    }
+  ]
+}

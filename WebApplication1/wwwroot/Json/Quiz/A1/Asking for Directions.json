@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Asking for Directions Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'Where is the bank?'",
+      "answers": [ "أين البنك؟", "أين المستشفى؟", "أين المدرسة؟", "أين المحطة؟" ],
+      "correct": "أين البنك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Excuse me, where is the park?' in Arabic?",
+      "answers": [ "عفواً، أين الحديقة؟", "عفواً، أين المحطة؟", "عفواً، أين المدرسة؟", "عفواً، أين المستشفى؟" ],
+      "correct": "عفواً، أين الحديقة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is it far?'",
+      "answers": [ "هل هو بعيد؟", "هل هو قريب؟", "هل هو كبير؟", "هل هو صغير؟" ],
+      "correct": "هل هو بعيد؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'It is near' in Arabic?",
+      "answers": [ "إنه قريب", "إنه بعيد", "إنه صغير", "إنه كبير" ],
+      "correct": "إنه قريب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Turn right'",
+      "answers": [ "انعطف يمينًا", "انعطف يسارًا", "اذهب مستقيمًا", "ارجع للخلف" ],
+      "correct": "انعطف يمينًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Turn left' in Arabic?",
+      "answers": [ "انعطف يسارًا", "انعطف يمينًا", "اذهب مستقيمًا", "ارجع للخلف" ],
+      "correct": "انعطف يسارًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Go straight'",
+      "answers": [ "اذهب مستقيمًا", "انعطف يمينًا", "انعطف يسارًا", "ارجع للخلف" ],
+      "correct": "اذهب مستقيمًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Go back' in Arabic?",
+      "answers": [ "ارجع للخلف", "اذهب مستقيمًا", "انعطف يمينًا", "انعطف يسارًا" ],
+      "correct": "ارجع للخلف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'It is next to the school'",
+      "answers": [ "إنه بجوار المدرسة", "إنه خلف المستشفى", "إنه أمام المحطة", "إنه تحت الجسر" ],
+      "correct": "إنه بجوار المدرسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'It is in front of the bank' in Arabic?",
+      "answers": [ "إنه أمام البنك", "إنه خلف المستشفى", "إنه بجوار المحطة", "إنه على اليسار" ],
+      "correct": "إنه أمام البنك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'It is behind the hospital'",
+      "answers": [ "إنه خلف المستشفى", "إنه أمام المحطة", "إنه على اليمين", "إنه على اليسار" ],
+      "correct": "إنه خلف المستشفى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'It is on the left' in Arabic?",
+      "answers": [ "إنه على اليسار", "إنه على اليمين", "إنه مستقيم", "إنه خلف المحطة" ],
+      "correct": "إنه على اليسار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'It is on the right'",
+      "answers": [ "إنه على اليمين", "إنه على اليسار", "إنه مستقيم", "إنه خلف المحطة" ],
+      "correct": "إنه على اليمين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The bank is far from here' in Arabic?",
+      "answers": [ "البنك بعيد عن هنا", "البنك قريب من هنا", "البنك على اليمين", "البنك على اليسار" ],
+      "correct": "البنك بعيد عن هنا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'The park is close'",
+      "answers": [ "الحديقة قريبة", "الحديقة بعيدة", "الحديقة على اليمين", "الحديقة على اليسار" ],
+      "correct": "الحديقة قريبة",
+      "voiceUrl": ""
+    }
+  ]
+}

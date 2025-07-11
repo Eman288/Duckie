@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - The Arts and Literature",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'literature'?",
+      "answers": [ "الأدب", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الأدب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'movies' in Arabic?",
+      "answers": [ "أفلام", "حافلة", "حقيبة", "حجز" ],
+      "correct": "أفلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الفنون البصرية'?",
+      "answers": [ "visual arts", "travel map", "daily routine", "work project" ],
+      "correct": "visual arts",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'music' in Arabic?",
+      "answers": [ "موسيقى", "حافلة", "حقيبة", "حجز" ],
+      "correct": "موسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'critique'?",
+      "answers": [ "نقد", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نقد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'art exhibition' in Arabic?",
+      "answers": [ "معرض فنّي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "معرض فنّي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القصة القصيرة'?",
+      "answers": [ "short story", "daily routine", "travel map", "business trend" ],
+      "correct": "short story",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'art review' in Arabic?",
+      "answers": [ "مراجعة فنّية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مراجعة فنّية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'theatre'?",
+      "answers": [ "مسرح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مسرح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'artistic style' in Arabic?",
+      "answers": [ "أسلوب فنّي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "أسلوب فنّي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القصة'?",
+      "answers": [ "story", "work project", "travel map", "daily routine" ],
+      "correct": "story",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'musician' in Arabic?",
+      "answers": [ "موسيقار", "حافلة", "حقيبة", "حجز" ],
+      "correct": "موسيقار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'art critic'?",
+      "answers": [ "ناقد فنّي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ناقد فنّي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'art form' in Arabic?",
+      "answers": [ "شكل فنّي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "شكل فنّي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المعرض'?",
+      "answers": [ "exhibition", "daily routine", "travel map", "business trend" ],
+      "correct": "exhibition",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Scientific Terminology",
+  "words": [
+    {
+      "word": "hypothesis",
+      "definition": "An idea that can be tested by experiments.",
+      "arabic": "فرضية",
+      "arabic_definition": "فكرة يمكن اختبارها عبر التجارب.",
+      "example": {
+        "en": "The scientist proposed a hypothesis about the results.",
+        "ar": "قدم العالم فرضية حول النتائج."
+      }
+    },
+    {
+      "word": "experiment",
+      "definition": "A test conducted to learn or prove something.",
+      "arabic": "تجربة",
+      "arabic_definition": "اختبار يتم لإثبات شيء ما أو تعلمه.",
+      "example": {
+        "en": "The experiment confirmed the theory.",
+        "ar": "أكدت التجربة النظرية."
+      }
+    },
+    {
+      "word": "data",
+      "definition": "Information collected during an experiment.",
+      "arabic": "بيانات",
+      "arabic_definition": "المعلومات التي يتم جمعها أثناء التجربة.",
+      "example": {
+        "en": "The data revealed an unexpected trend.",
+        "ar": "كشفت البيانات عن اتجاه غير متوقع."
+      }
+    },
+    {
+      "word": "theory",
+      "definition": "A well-tested explanation of a phenomenon.",
+      "arabic": "نظرية",
+      "arabic_definition": "تفسير مثبت لظاهرة ما.",
+      "example": {
+        "en": "The theory explains how gravity works.",
+        "ar": "توضح النظرية كيفية عمل الجاذبية."
+      }
+    },
+    {
+      "word": "variable",
+      "definition": "Something that can be changed or measured in an experiment.",
+      "arabic": "متغير",
+      "arabic_definition": "شيء يمكن تغييره أو قياسه في تجربة.",
+      "example": {
+        "en": "Each variable affects the results differently.",
+        "ar": "كل متغير يؤثر على النتائج بطريقة مختلفة."
+      }
+    },
+    {
+      "word": "observation",
+      "definition": "Careful watching and recording of events.",
+      "arabic": "ملاحظة",
+      "arabic_definition": "المشاهدة الدقيقة وتسجيل الأحداث.",
+      "example": {
+        "en": "Observation is an important part of scientific research.",
+        "ar": "الملاحظة جزء مهم من البحث العلمي."
+      }
+    },
+    {
+      "word": "evidence",
+      "definition": "Information used to support or reject an idea.",
+      "arabic": "دليل",
+      "arabic_definition": "المعلومات التي تستخدم لدعم فكرة أو رفضها.",
+      "example": {
+        "en": "The evidence supports the scientist’s theory.",
+        "ar": "الدليل يدعم نظرية العالم."
+      }
+    },
+    {
+      "word": "accuracy",
+      "definition": "How close a measurement is to the true value.",
+      "arabic": "دقة",
+      "arabic_definition": "مدى قرب القياس من القيمة الحقيقية.",
+      "example": {
+        "en": "Accuracy is crucial in laboratory experiments.",
+        "ar": "الدقة أمر بالغ الأهمية في التجارب المختبرية."
+      }
+    },
+    {
+      "word": "replication",
+      "definition": "Repeating an experiment to confirm its results.",
+      "arabic": "تكرار",
+      "arabic_definition": "إعادة التجربة لتأكيد نتائجها.",
+      "example": {
+        "en": "Replication strengthens the reliability of the results.",
+        "ar": "يعزز التكرار موثوقية النتائج."
+      }
+    },
+    {
+      "word": "analysis",
+      "definition": "The examination of data to understand it.",
+      "arabic": "تحليل",
+      "arabic_definition": "فحص البيانات لفهمها.",
+      "example": {
+        "en": "The analysis revealed important patterns.",
+        "ar": "كشف التحليل عن أنماط مهمة."
+      }
+    }
+  ]
+}

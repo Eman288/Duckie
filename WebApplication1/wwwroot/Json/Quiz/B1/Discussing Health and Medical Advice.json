@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Discussing Health and Medical Advice Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I have a doctor’s appointment' in Arabic?",
+      "answers": [ "لدي موعد طبي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي موعد طبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I take vitamins every morning'",
+      "answers": [ "أتناول الفيتامينات كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الفيتامينات كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I need to rest' in Arabic?",
+      "answers": [ "أحتاج إلى الراحة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحتاج إلى الراحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I should drink more water'",
+      "answers": [ "يجب علي شرب المزيد من الماء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "يجب علي شرب المزيد من الماء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The doctor gave me medicine' in Arabic?",
+      "answers": [ "أعطاني الطبيب دواء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعطاني الطبيب دواء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling better'",
+      "answers": [ "أشعر بتحسن", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بتحسن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a headache' in Arabic?",
+      "answers": [ "لدي صداع", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي صداع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a stomach ache'",
+      "answers": [ "لدي ألم في المعدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي ألم في المعدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am going to the doctor' in Arabic?",
+      "answers": [ "أنا ذاهب إلى الطبيب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا ذاهب إلى الطبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am allergic to nuts'",
+      "answers": [ "أنا حساس للمكسرات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا حساس للمكسرات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I should exercise more' in Arabic?",
+      "answers": [ "يجب علي ممارسة الرياضة أكثر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "يجب علي ممارسة الرياضة أكثر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling tired'",
+      "answers": [ "أشعر بالتعب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بالتعب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a sore throat' in Arabic?",
+      "answers": [ "لدي ألم في الحلق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي ألم في الحلق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The doctor gave me a prescription'",
+      "answers": [ "أعطاني الطبيب وصفة طبية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعطاني الطبيب وصفة طبية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am going to the pharmacy' in Arabic?",
+      "answers": [ "أنا ذاهب إلى الصيدلية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا ذاهب إلى الصيدلية",
+      "voiceUrl": ""
+    }
+  ]
+}

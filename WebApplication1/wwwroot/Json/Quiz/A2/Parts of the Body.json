@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Parts of the Body Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'head'?",
+      "answers": [ "رأس", "قدم", "ذراع", "ظهر" ],
+      "correct": "رأس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'arm'?",
+      "answers": [ "ذراع", "قدم", "رأس", "ظهر" ],
+      "correct": "ذراع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'leg'?",
+      "answers": [ "قدم", "ذراع", "رأس", "فم" ],
+      "correct": "قدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'back'?",
+      "answers": [ "ظهر", "فم", "رأس", "قدم" ],
+      "correct": "ظهر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'mouth'?",
+      "answers": [ "فم", "رأس", "قدم", "ذراع" ],
+      "correct": "فم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'eye'?",
+      "answers": [ "عين", "فم", "قدم", "ذراع" ],
+      "correct": "عين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'ear'?",
+      "answers": [ "أذن", "قدم", "رأس", "ذراع" ],
+      "correct": "أذن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'nose'?",
+      "answers": [ "أنف", "قدم", "فم", "ذراع" ],
+      "correct": "أنف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'knee'?",
+      "answers": [ "ركبة", "رأس", "فم", "ذراع" ],
+      "correct": "ركبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'shoulder'?",
+      "answers": [ "كتف", "رأس", "قدم", "فم" ],
+      "correct": "كتف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hand'?",
+      "answers": [ "يد", "قدم", "فم", "رأس" ],
+      "correct": "يد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'finger'?",
+      "answers": [ "إصبع", "قدم", "فم", "رأس" ],
+      "correct": "إصبع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'tooth'?",
+      "answers": [ "سن", "قدم", "فم", "رأس" ],
+      "correct": "سن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'neck'?",
+      "answers": [ "عنق", "قدم", "فم", "رأس" ],
+      "correct": "عنق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'face'?",
+      "answers": [ "وجه", "قدم", "فم", "رأس" ],
+      "correct": "وجه",
+      "voiceUrl": ""
+    }
+  ]
+}

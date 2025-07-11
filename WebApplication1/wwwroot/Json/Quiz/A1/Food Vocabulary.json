@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Food Vocabulary Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'apple'?",
+      "answers": [ "موز", "تفاحة", "برتقال", "عنب" ],
+      "correct": "تفاحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a fruit?",
+      "answers": [ "خيار", "طماطم", "موز", "خس" ],
+      "correct": "موز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'bread'?",
+      "answers": [ "ماء", "خبز", "حليب", "عصير" ],
+      "correct": "خبز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a vegetable?",
+      "answers": [ "خيار", "حليب", "موز", "خبز" ],
+      "correct": "خيار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'milk'?",
+      "answers": [ "حليب", "شاي", "عصير", "قهوة" ],
+      "correct": "حليب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a drink?",
+      "answers": [ "حليب", "خبز", "خيار", "فلفل" ],
+      "correct": "حليب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'meat'?",
+      "answers": [ "لحم", "حليب", "خيار", "موز" ],
+      "correct": "لحم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a fruit?",
+      "answers": [ "برتقال", "خيار", "بطاطس", "فلفل" ],
+      "correct": "برتقال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'cheese'?",
+      "answers": [ "جبن", "حليب", "بيض", "خيار" ],
+      "correct": "جبن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a breakfast item?",
+      "answers": [ "بيض", "حساء", "لحم", "خيار" ],
+      "correct": "بيض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'fish'?",
+      "answers": [ "سمك", "حساء", "خيار", "موز" ],
+      "correct": "سمك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a drink?",
+      "answers": [ "شاي", "لحم", "خيار", "بطاطس" ],
+      "correct": "شاي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'orange'?",
+      "answers": [ "برتقال", "خيار", "خس", "موز" ],
+      "correct": "برتقال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a dessert?",
+      "answers": [ "كعك", "خيار", "حساء", "سمك" ],
+      "correct": "كعك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'potato'?",
+      "answers": [ "بطاطس", "خيار", "خس", "موز" ],
+      "correct": "بطاطس",
+      "voiceUrl": ""
+    }
+  ]
+}

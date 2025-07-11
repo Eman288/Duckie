@@ -1,0 +1,55 @@
+{
+  "lesson": "Possessive 's and Pronouns",
+  "words": [
+    {
+      "word": "my",
+      "definition": "Belonging to me.",
+      "arabic": "لي / ملكي",
+      "arabic_definition": "يعود إليّ.",
+      "example": {
+        "en": "This is my bag.",
+        "ar": "هذه حقيبتي."
+      }
+    },
+    {
+      "word": "your",
+      "definition": "Belonging to you.",
+      "arabic": "لك / ملكك",
+      "arabic_definition": "يعود لك.",
+      "example": {
+        "en": "Is this your pen?",
+        "ar": "هل هذا قلمك؟"
+      }
+    },
+    {
+      "word": "his",
+      "definition": "Belonging to him.",
+      "arabic": "له / ملكه",
+      "arabic_definition": "يعود له.",
+      "example": {
+        "en": "That is his car.",
+        "ar": "تلك سيارته."
+      }
+    },
+    {
+      "word": "her",
+      "definition": "Belonging to her.",
+      "arabic": "لها / ملكها",
+      "arabic_definition": "يعود لها.",
+      "example": {
+        "en": "Her house is big.",
+        "ar": "منزلها كبير."
+      }
+    },
+    {
+      "word": "'s",
+      "definition": "Used to show possession (apostrophe + s).",
+      "arabic": "ـ's",
+      "arabic_definition": "تُستخدم للدلالة على الملكية.",
+      "example": {
+        "en": "John's book is on the table.",
+        "ar": "كتاب جون على الطاولة."
+      }
+    }
+  ]
+}

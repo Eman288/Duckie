@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Vocabulary for Arts and Humanities Quiz",
+  "questions": [
+    {
+      "question": "What is 'aesthetics'?",
+      "answers": [
+        "The study of beauty and taste.",
+        "A programming language.",
+        "A medical condition.",
+        "A historical date."
+      ],
+      "correct": "The study of beauty and taste.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'metaphor' in literature?",
+      "answers": [
+        "A figure of speech comparing two things.",
+        "A scientific theory.",
+        "A musical instrument.",
+        "A piece of hardware."
+      ],
+      "correct": "A figure of speech comparing two things.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'narration'?",
+      "answers": [
+        "The act of telling a story.",
+        "A programming method.",
+        "A medical term.",
+        "A scientific theory."
+      ],
+      "correct": "The act of telling a story.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'symbolism' in literature?",
+      "answers": [
+        "The use of symbols to represent ideas or qualities.",
+        "A programming technique.",
+        "A medical condition.",
+        "A scientific theory."
+      ],
+      "correct": "The use of symbols to represent ideas or qualities.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'art criticism'?",
+      "answers": [
+        "The evaluation or discussion of artworks.",
+        "A programming language.",
+        "A medical practice.",
+        "A scientific theory."
+      ],
+      "correct": "The evaluation or discussion of artworks.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'metonymy'?",
+      "answers": [
+        "A figure of speech where one thing is replaced by something closely related.",
+        "A medical term.",
+        "A scientific theory.",
+        "A programming method."
+      ],
+      "correct": "A figure of speech where one thing is replaced by something closely related.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'allusion' in literature?",
+      "answers": [
+        "A reference to another text, person, or event.",
+        "A medical condition.",
+        "A programming technique.",
+        "A scientific theory."
+      ],
+      "correct": "A reference to another text, person, or event.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'satire'?",
+      "answers": [
+        "A form of humor that exposes or criticizes human behavior.",
+        "A medical practice.",
+        "A programming method.",
+        "A scientific theory."
+      ],
+      "correct": "A form of humor that exposes or criticizes human behavior.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'expressionism' in art?",
+      "answers": [
+        "A style focusing on representing emotions.",
+        "A medical technique.",
+        "A programming language.",
+        "A scientific theory."
+      ],
+      "correct": "A style focusing on representing emotions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'modernism' in literature?",
+      "answers": [
+        "A movement focusing on experimental forms and ideas.",
+        "A medical theory.",
+        "A programming trend.",
+        "A scientific discovery."
+      ],
+      "correct": "A movement focusing on experimental forms and ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'romanticism' in literature and art?",
+      "answers": [
+        "A movement focusing on emotion, nature, and individuality.",
+        "A programming trend.",
+        "A medical term.",
+        "A scientific theory."
+      ],
+      "correct": "A movement focusing on emotion, nature, and individuality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'impressionism' in art?",
+      "answers": [
+        "A style capturing moments and light.",
+        "A programming technique.",
+        "A medical practice.",
+        "A scientific theory."
+      ],
+      "correct": "A style capturing moments and light.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'context' in literary studies?",
+      "answers": [
+        "The circumstances in which a text was created.",
+        "A programming method.",
+        "A medical term.",
+        "A scientific theory."
+      ],
+      "correct": "The circumstances in which a text was created.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'irony' in literature?",
+      "answers": [
+        "A device where the intended meaning is opposite of the literal one.",
+        "A programming technique.",
+        "A medical term.",
+        "A scientific theory."
+      ],
+      "correct": "A device where the intended meaning is opposite of the literal one.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'tragedy' in literature?",
+      "answers": [
+        "A serious play with a sad or disastrous ending.",
+        "A medical technique.",
+        "A programming method.",
+        "A scientific theory."
+      ],
+      "correct": "A serious play with a sad or disastrous ending.",
+      "voiceUrl": ""
+    }
+  ]
+}

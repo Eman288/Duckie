@@ -1,0 +1,126 @@
+{
+  "lesson": "Unit 1 - Lesson 3 Quiz",
+  "questions": [
+    {
+      "question": "What is the meaning of 'where' in Arabic?",
+      "answers": [
+        "متى",
+        "أين",
+        "من",
+        "لماذا"
+      ],
+      "correct": "أين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to English: 'من أين أنت؟'",
+      "answers": [
+        "Where are you from?",
+        "What is your name?",
+        "How old are you?",
+        "What is your nationality?"
+      ],
+      "correct": "Where are you from?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word is used to ask about place or position?",
+      "answers": [
+        "name",
+        "country",
+        "where",
+        "live"
+      ],
+      "correct": "where",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a nation with borders and government'?",
+      "answers": [
+        "from",
+        "live",
+        "country",
+        "name"
+      ],
+      "correct": "country",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'live' mean?",
+      "answers": [
+        "to die",
+        "to sit",
+        "to reside in a place",
+        "to speak"
+      ],
+      "correct": "to reside in a place",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'country'?",
+      "answers": [
+        "اسم",
+        "العمر",
+        "دولة",
+        "مكان"
+      ],
+      "correct": "دولة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: Where do you ___?",
+      "answers": [
+        "speak",
+        "live",
+        "eat",
+        "come"
+      ],
+      "correct": "live",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which helping verb do we use for 'you'?",
+      "answers": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct": "are",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'speak' mean in Arabic?",
+      "answers": [
+        "يتكلم",
+        "يأكل",
+        "يعيش",
+        "يسافر"
+      ],
+      "correct": "يتكلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate: 'أنا من العراق.'",
+      "answers": [
+        "I am from Iraq.",
+        "I am from Egypt.",
+        "I live in Iraq.",
+        "My name is Iraq."
+      ],
+      "correct": "I am from Iraq.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is a question word?",
+      "answers": [
+        "live",
+        "speak",
+        "where",
+        "country"
+      ],
+      "correct": "where",
+      "voiceUrl": ""
+    }
+  ]
+}

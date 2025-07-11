@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Talking about the Ethics of Science and Technology Quiz",
+  "questions": [
+    {
+      "question": "What are ethics in science and technology?",
+      "answers": [
+        "Principles about right and wrong in research and innovation.",
+        "Cooking techniques.",
+        "Musical styles.",
+        "Dance moves."
+      ],
+      "correct": "Principles about right and wrong in research and innovation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is ethics important in scientific research?",
+      "answers": [
+        "To protect people and the environment.",
+        "It applies only to cooking.",
+        "It applies only to music.",
+        "It applies only to sports."
+      ],
+      "correct": "To protect people and the environment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of an ethical issue in technology?",
+      "answers": [
+        "Privacy concerns related to data collection.",
+        "Better cooking methods.",
+        "More music festivals.",
+        "More dance shows."
+      ],
+      "correct": "Privacy concerns related to data collection.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is consent important in scientific studies?",
+      "answers": [
+        "To respect participants' rights and choices.",
+        "To improve cooking.",
+        "To make better music.",
+        "To learn new dances."
+      ],
+      "correct": "To respect participants' rights and choices.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of an ethical dilemma in medicine?",
+      "answers": [
+        "Deciding who receives limited medical resources.",
+        "Choosing a new recipe.",
+        "Writing music lyrics.",
+        "Learning dance moves."
+      ],
+      "correct": "Deciding who receives limited medical resources.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why must researchers be honest and accurate?",
+      "answers": [
+        "To build trust and advance knowledge.",
+        "To make better music.",
+        "To cook better meals.",
+        "To create new dance moves."
+      ],
+      "correct": "To build trust and advance knowledge.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a risk of using artificial intelligence?",
+      "answers": [
+        "Bias and discrimination.",
+        "Better cooking.",
+        "More music festivals.",
+        "Better dance moves."
+      ],
+      "correct": "Bias and discrimination.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why must researchers consider environmental impacts?",
+      "answers": [
+        "To protect the planet for future generations.",
+        "To make better music.",
+        "To cook better meals.",
+        "To learn new dances."
+      ],
+      "correct": "To protect the planet for future generations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of an ethical concern with genetic engineering?",
+      "answers": [
+        "Potential long-term effects on humans and nature.",
+        "Better cooking.",
+        "More music.",
+        "More dance shows."
+      ],
+      "correct": "Potential long-term effects on humans and nature.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is privacy an important consideration in technology?",
+      "answers": [
+        "To protect personal data and prevent misuse.",
+        "To cook better meals.",
+        "To write better music.",
+        "To create new dance moves."
+      ],
+      "correct": "To protect personal data and prevent misuse.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why must researchers consider the consequences of their work?",
+      "answers": [
+        "To ensure it benefits society and avoids harm.",
+        "To cook better meals.",
+        "To create music.",
+        "To learn new dance moves."
+      ],
+      "correct": "To ensure it benefits society and avoids harm.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a benefit of discussing ethics openly in science?",
+      "answers": [
+        "It promotes trust and accountability.",
+        "It applies only to cooking.",
+        "It applies only to music.",
+        "It applies only to sports."
+      ],
+      "correct": "It promotes trust and accountability.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a potential downside of technology advancement?",
+      "answers": [
+        "It can outpace regulations, leading to misuse.",
+        "Better cooking methods.",
+        "More music festivals.",
+        "Better dance moves."
+      ],
+      "correct": "It can outpace regulations, leading to misuse.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is collaboration important for ethical decisions?",
+      "answers": [
+        "It allows diverse perspectives to guide better choices.",
+        "It applies only to cooking.",
+        "It applies only to music.",
+        "It applies only to sports."
+      ],
+      "correct": "It allows diverse perspectives to guide better choices.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one goal of ethics in science and technology?",
+      "answers": [
+        "To balance progress with responsibility.",
+        "To make better music.",
+        "To cook better meals.",
+        "To learn new dances."
+      ],
+      "correct": "To balance progress with responsibility.",
+      "voiceUrl": ""
+    }
+  ]
+}

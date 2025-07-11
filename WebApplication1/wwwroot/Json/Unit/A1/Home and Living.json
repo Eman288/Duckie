@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 4 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'room'?",
+      "answers": [ "شقة", "غرفة", "حديقة", "باب" ],
+      "correct": "غرفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'kitchen' in Arabic?",
+      "answers": [ "حمام", "مطبخ", "حديقة", "شرفة" ],
+      "correct": "مطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'حمام'?",
+      "answers": [ "kitchen", "bathroom", "garden", "bedroom" ],
+      "correct": "bathroom",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'garden' in Arabic?",
+      "answers": [ "شرفة", "حديقة", "سطح", "حائط" ],
+      "correct": "حديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'furniture' mean in Arabic?",
+      "answers": [ "مفروشات", "باب", "شباك", "شرفة" ],
+      "correct": "مفروشات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'table' in Arabic?",
+      "answers": [ "كرسي", "طاولة", "خزانة", "شباك" ],
+      "correct": "طاولة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'on'?",
+      "answers": [ "تحت", "على", "بين", "خلف" ],
+      "correct": "على",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'under' in Arabic?",
+      "answers": [ "على", "بين", "تحت", "خلف" ],
+      "correct": "تحت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'بين'?",
+      "answers": [ "behind", "between", "under", "next to" ],
+      "correct": "between",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'behind' in Arabic?",
+      "answers": [ "خلف", "بين", "على", "تحت" ],
+      "correct": "خلف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'next to'?",
+      "answers": [ "بين", "خلف", "بجانب", "تحت" ],
+      "correct": "بجانب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following means 'living room'?",
+      "answers": [ "غرفة نوم", "غرفة جلوس", "حمام", "شرفة" ],
+      "correct": "غرفة جلوس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'شرفة'?",
+      "answers": [ "balcony", "bedroom", "kitchen", "table" ],
+      "correct": "balcony",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'door' in Arabic?",
+      "answers": [ "شباك", "باب", "حائط", "خزانة" ],
+      "correct": "باب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'window'?",
+      "answers": [ "باب", "شباك", "حائط", "شرفة" ],
+      "correct": "شباك",
+      "voiceUrl": ""
+    }
+  ]
+}

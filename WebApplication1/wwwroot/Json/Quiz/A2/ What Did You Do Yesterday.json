@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - What Did You Do Yesterday? Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I went to work yesterday' in Arabic?",
+      "answers": [ "ذهبت إلى العمل أمس", "ذهبت للنوم أمس", "ذهبت إلى الحديقة أمس", "ذهبت للطبيب أمس" ],
+      "correct": "ذهبت إلى العمل أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I met my friends yesterday'?",
+      "answers": [ "قابلت أصدقائي أمس", "ذهبت للعمل أمس", "قرأت كتابًا أمس", "ذهبت للنوم أمس" ],
+      "correct": "قابلت أصدقائي أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I watched a movie last night'?",
+      "answers": [ "شاهدت فيلمًا الليلة الماضية", "ذهبت للعمل صباحًا", "ذهبت للنوم صباحًا", "قرأت كتابًا قبل النوم" ],
+      "correct": "شاهدت فيلمًا الليلة الماضية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I visited my family yesterday'?",
+      "answers": [ "زرت عائلتي أمس", "ذهبت للنادي أمس", "شاهدت فيلمًا أمس", "كتبت درسًا أمس" ],
+      "correct": "زرت عائلتي أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I cooked dinner'?",
+      "answers": [ "طهوت العشاء", "قرأت كتابًا", "شاهدت فيلمًا", "خرجت من المنزل" ],
+      "correct": "طهوت العشاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I read a book last night'?",
+      "answers": [ "قرأت كتابًا الليلة الماضية", "شاهدت فيلمًا الليلة الماضية", "خرجت من المنزل", "ذهبت للنادي" ],
+      "correct": "قرأت كتابًا الليلة الماضية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I worked until late'?",
+      "answers": [ "عملت حتى وقت متأخر", "نمت مبكرًا", "شاهدت التلفاز", "خرجت من المنزل" ],
+      "correct": "عملت حتى وقت متأخر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I played football yesterday'?",
+      "answers": [ "لعبت كرة القدم أمس", "شاهدت فيلمًا أمس", "خرجت من المنزل أمس", "عملت طوال النهار أمس" ],
+      "correct": "لعبت كرة القدم أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I went to the park'?",
+      "answers": [ "ذهبت إلى الحديقة", "ذهبت للنادي", "ذهبت للعمل", "ذهبت للنوم" ],
+      "correct": "ذهبت إلى الحديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I called my friends yesterday'?",
+      "answers": [ "اتصلت بأصدقائي أمس", "خرجت من المنزل أمس", "ذهبت للنادي أمس", "شاهدت فيلمًا أمس" ],
+      "correct": "اتصلت بأصدقائي أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I went to the gym'?",
+      "answers": [ "ذهبت إلى النادي الرياضي", "ذهبت للنوم", "ذهبت للعمل", "ذهبت إلى المستشفى" ],
+      "correct": "ذهبت إلى النادي الرياضي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I talked to my boss yesterday'?",
+      "answers": [ "تحدثت مع مديري أمس", "ذهبت للنادي أمس", "خرجت من المنزل أمس", "شاهدت فيلمًا أمس" ],
+      "correct": "تحدثت مع مديري أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I watched a football match'?",
+      "answers": [ "شاهدت مباراة كرة القدم", "ذهبت للنادي", "خرجت من المنزل", "ذهبت للعمل" ],
+      "correct": "شاهدت مباراة كرة القدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I studied yesterday'?",
+      "answers": [ "درست أمس", "خرجت من المنزل أمس", "شاهدت فيلمًا أمس", "ذهبت للنادي أمس" ],
+      "correct": "درست أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I slept early last night'?",
+      "answers": [ "نمت مبكرًا الليلة الماضية", "خرجت من المنزل الليلة الماضية", "شاهدت فيلمًا الليلة الماضية", "ذهبت للنادي الليلة الماضية" ],
+      "correct": "نمت مبكرًا الليلة الماضية",
+      "voiceUrl": ""
+    }
+  ]
+}

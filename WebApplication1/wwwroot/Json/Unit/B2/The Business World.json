@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 2 - The Business World",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'business trends'?",
+      "answers": [ "اتجاهات الأعمال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اتجاهات الأعمال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'professional development' in Arabic?",
+      "answers": [ "التطوير المهني", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التطوير المهني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'تقديم عرض'?",
+      "answers": [ "making a presentation", "travel map", "shopping cart", "daily routine" ],
+      "correct": "making a presentation",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'leadership' in Arabic?",
+      "answers": [ "قيادة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "قيادة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'teamwork'?",
+      "answers": [ "عمل جماعي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عمل جماعي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'negotiation' in Arabic?",
+      "answers": [ "تفاوض", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تفاوض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التخطيط للعمل'?",
+      "answers": [ "work planning", "daily routine", "travel map", "shopping cart" ],
+      "correct": "work planning",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business ethics' in Arabic?",
+      "answers": [ "أخلاقيات العمل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "أخلاقيات العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'public speaking'?",
+      "answers": [ "التحدث أمام الجمهور", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التحدث أمام الجمهور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business strategy' in Arabic?",
+      "answers": [ "استراتيجية الأعمال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "استراتيجية الأعمال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'عقد عمل'?",
+      "answers": [ "work contract", "travel map", "shopping bag", "daily routine" ],
+      "correct": "work contract",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business presentation' in Arabic?",
+      "answers": [ "عرض عمل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عرض عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'negotiation techniques'?",
+      "answers": [ "تقنيات التفاوض", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تقنيات التفاوض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business proposal' in Arabic?",
+      "answers": [ "مقترح عمل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مقترح عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التطوير المهني المستمر'?",
+      "answers": [ "continuous professional development", "daily routine", "travel plan", "shopping trend" ],
+      "correct": "continuous professional development",
+      "voiceUrl": ""
+    }
+  ]
+}

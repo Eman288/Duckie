@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Social Media",
+  "words": [
+    {
+      "word": "social media",
+      "definition": "Websites and apps used to share content and communicate.",
+      "arabic": "وسائل التواصل الاجتماعي",
+      "arabic_definition": "مواقع وتطبيقات تُستخدم لمشاركة المحتوى والتواصل.",
+      "example": {
+        "en": "Many people use social media every day.",
+        "ar": "يستخدم الكثير من الناس وسائل التواصل الاجتماعي يوميًا."
+      }
+    },
+    {
+      "word": "post",
+      "definition": "To share a message, photo, or video online.",
+      "arabic": "ينشر",
+      "arabic_definition": "مشاركة رسالة أو صورة أو فيديو على الإنترنت.",
+      "example": {
+        "en": "She posted a photo of her vacation.",
+        "ar": "نشرت صورة من عطلتها."
+      }
+    },
+    {
+      "word": "like",
+      "definition": "To show that you enjoy or approve something online.",
+      "arabic": "يعجب",
+      "arabic_definition": "إظهار أنك تحب أو توافق على شيء عبر الإنترنت.",
+      "example": {
+        "en": "He liked my post on Facebook.",
+        "ar": "أعجب بمنشوري على فيسبوك."
+      }
+    },
+    {
+      "word": "comment",
+      "definition": "To write a response to a post.",
+      "arabic": "يعلق",
+      "arabic_definition": "كتابة رد على منشور.",
+      "example": {
+        "en": "People commented on the news article.",
+        "ar": "علق الناس على المقال الإخباري."
+      }
+    },
+    {
+      "word": "share",
+      "definition": "To send or show something to others online.",
+      "arabic": "يشارك",
+      "arabic_definition": "إرسال أو عرض شيء للآخرين عبر الإنترنت.",
+      "example": {
+        "en": "She shared a funny video with her friends.",
+        "ar": "شاركت فيديو مضحك مع أصدقائها."
+      }
+    },
+    {
+      "word": "follower",
+      "definition": "A person who subscribes to your social media updates.",
+      "arabic": "متابع",
+      "arabic_definition": "شخص يشترك في تحديثاتك على وسائل التواصل الاجتماعي.",
+      "example": {
+        "en": "He has thousands of followers on Instagram.",
+        "ar": "لديه آلاف المتابعين على إنستغرام."
+      }
+    },
+    {
+      "word": "hashtag",
+      "definition": "A word or phrase preceded by # to categorize content.",
+      "arabic": "وسم",
+      "arabic_definition": "كلمة أو عبارة مسبوقة بـ# لتنظيم المحتوى.",
+      "example": {
+        "en": "Use the hashtag #travel to find travel posts.",
+        "ar": "استخدم الوسم #travel للعثور على منشورات السفر."
+      }
+    },
+    {
+      "word": "privacy",
+      "definition": "Keeping your personal information safe and private.",
+      "arabic": "خصوصية",
+      "arabic_definition": "الحفاظ على معلوماتك الشخصية آمنة وخاصة.",
+      "example": {
+        "en": "You should check your privacy settings regularly.",
+        "ar": "يجب عليك التحقق من إعدادات الخصوصية بانتظام."
+      }
+    },
+    {
+      "word": "profile",
+      "definition": "Your personal page on a social media site.",
+      "arabic": "الصفحة الشخصية",
+      "arabic_definition": "صفحتك الشخصية على موقع التواصل الاجتماعي.",
+      "example": {
+        "en": "I updated my profile picture.",
+        "ar": "قمت بتحديث صورتي الشخصية."
+      }
+    },
+    {
+      "word": "trending",
+      "definition": "Popular or widely discussed topics at the moment.",
+      "arabic": "رائج",
+      "arabic_definition": "موضوعات شائعة أو مطروحة للنقاش حالياً.",
+      "example": {
+        "en": "This topic is trending on Twitter today.",
+        "ar": "هذا الموضوع رائج على تويتر اليوم."
+      }
+    }
+  ]
+}

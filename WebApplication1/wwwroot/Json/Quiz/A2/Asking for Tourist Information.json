@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Asking for Tourist Information Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'Where is the museum?'",
+      "answers": [ "أين المتحف؟", "أين الفندق؟", "أين المطار؟", "أين السوق؟" ],
+      "correct": "أين المتحف؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'How can I get to the city center?'",
+      "answers": [ "كيف أصل إلى وسط المدينة؟", "أين المطار؟", "أين الفندق؟", "أين المتحف؟" ],
+      "correct": "كيف أصل إلى وسط المدينة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is there a bus stop nearby?'",
+      "answers": [ "هل هناك موقف باص قريب؟", "هل هناك مطار قريب؟", "هل هناك سوق قريب؟", "هل هناك فندق قريب؟" ],
+      "correct": "هل هناك موقف باص قريب؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can you help me?'",
+      "answers": [ "هل يمكنك مساعدتي؟", "أين المتحف؟", "أين الفندق؟", "هل هناك موقف باص قريب؟" ],
+      "correct": "هل يمكنك مساعدتي؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am looking for a restaurant'?",
+      "answers": [ "أبحث عن مطعم", "أبحث عن فندق", "أبحث عن سوق", "أبحث عن مطار" ],
+      "correct": "أبحث عن مطعم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Is it far?'",
+      "answers": [ "هل هو بعيد؟", "هل هو قريب؟", "هل هو مفتوح؟", "هل هو مغلق؟" ],
+      "correct": "هل هو بعيد؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'What time does it open?'",
+      "answers": [ "متى يفتح؟", "متى يغلق؟", "أين المتحف؟", "أين الفندق؟" ],
+      "correct": "متى يفتح؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Is it open on weekends?'",
+      "answers": [ "هل هو مفتوح في عطلة نهاية الأسبوع؟", "هل هو مغلق؟", "هل هو بعيد؟", "هل هو قريب؟" ],
+      "correct": "هل هو مفتوح في عطلة نهاية الأسبوع؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Where can I buy tickets?'",
+      "answers": [ "أين يمكنني شراء التذاكر؟", "أين الفندق؟", "أين المطار؟", "أين السوق؟" ],
+      "correct": "أين يمكنني شراء التذاكر؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'How much is the entrance fee?'",
+      "answers": [ "كم سعر تذكرة الدخول؟", "كم سعر الفندق؟", "كم سعر المطار؟", "كم سعر السوق؟" ],
+      "correct": "كم سعر تذكرة الدخول؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is photography allowed?'",
+      "answers": [ "هل التصوير مسموح؟", "هل الطعام مسموح؟", "هل الدخول مسموح؟", "هل الحجز مسموح؟" ],
+      "correct": "هل التصوير مسموح؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Are there guided tours?'",
+      "answers": [ "هل توجد جولات إرشادية؟", "هل توجد أماكن للنوم؟", "هل توجد أماكن للطعام؟", "هل توجد مواقف سيارات؟" ],
+      "correct": "هل توجد جولات إرشادية؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Where is the nearest pharmacy?'",
+      "answers": [ "أين أقرب صيدلية؟", "أين المتحف؟", "أين الفندق؟", "أين السوق؟" ],
+      "correct": "أين أقرب صيدلية؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Is there a restroom?'",
+      "answers": [ "هل هناك مرحاض؟", "هل هناك مطار؟", "هل هناك سوق؟", "هل هناك فندق؟" ],
+      "correct": "هل هناك مرحاض؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Thank you for your help'?",
+      "answers": [ "شكراً لمساعدتك", "شكراً لك", "مرحبا", "وداعاً" ],
+      "correct": "شكراً لمساعدتك",
+      "voiceUrl": ""
+    }
+  ]
+}

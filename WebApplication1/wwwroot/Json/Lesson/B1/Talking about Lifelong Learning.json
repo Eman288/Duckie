@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Lifelong Learning",
+  "words": [
+    {
+      "word": "lifelong learning",
+      "definition": "Continuing to learn throughout life.",
+      "arabic": "التعلم مدى الحياة",
+      "arabic_definition": "مواصلة التعلم طوال الحياة.",
+      "example": {
+        "en": "Lifelong learning helps people stay competitive.",
+        "ar": "يساعد التعلم مدى الحياة الناس على البقاء في المنافسة."
+      }
+    },
+    {
+      "word": "skill development",
+      "definition": "Improving and gaining new abilities.",
+      "arabic": "تطوير المهارات",
+      "arabic_definition": "تحسين واكتساب قدرات جديدة.",
+      "example": {
+        "en": "Skill development is important for career growth.",
+        "ar": "تطوير المهارات مهم للنمو المهني."
+      }
+    },
+    {
+      "word": "workshop",
+      "definition": "A short educational program to teach skills.",
+      "arabic": "ورشة عمل",
+      "arabic_definition": "برنامج تعليمي قصير لتعليم المهارات.",
+      "example": {
+        "en": "I attended a workshop on digital marketing.",
+        "ar": "حضرت ورشة عمل عن التسويق الرقمي."
+      }
+    },
+    {
+      "word": "online course",
+      "definition": "A class taught over the internet.",
+      "arabic": "دورة عبر الإنترنت",
+      "arabic_definition": "درس يُدرس عبر الإنترنت.",
+      "example": {
+        "en": "Many people take online courses to improve their skills.",
+        "ar": "يأخذ الكثيرون دورات عبر الإنترنت لتحسين مهاراتهم."
+      }
+    },
+    {
+      "word": "certificate",
+      "definition": "An official document proving completion of a course.",
+      "arabic": "شهادة",
+      "arabic_definition": "وثيقة رسمية تثبت إكمال دورة.",
+      "example": {
+        "en": "She received a certificate after the training.",
+        "ar": "تلقت شهادة بعد التدريب."
+      }
+    },
+    {
+      "word": "motivation",
+      "definition": "The reason or desire to do something.",
+      "arabic": "تحفيز",
+      "arabic_definition": "السبب أو الرغبة في القيام بشيء ما.",
+      "example": {
+        "en": "Motivation helps people continue learning.",
+        "ar": "التحفيز يساعد الناس على مواصلة التعلم."
+      }
+    },
+    {
+      "word": "self-study",
+      "definition": "Learning by yourself without a teacher.",
+      "arabic": "التعلم الذاتي",
+      "arabic_definition": "التعلم بنفسك دون معلم.",
+      "example": {
+        "en": "I prefer self-study to improve my language skills.",
+        "ar": "أفضل التعلم الذاتي لتحسين مهاراتي اللغوية."
+      }
+    },
+    {
+      "word": "career change",
+      "definition": "Switching to a different job or profession.",
+      "arabic": "تغيير المهنة",
+      "arabic_definition": "الانتقال إلى وظيفة أو مهنة مختلفة.",
+      "example": {
+        "en": "Lifelong learning helps with career changes.",
+        "ar": "يساعد التعلم مدى الحياة في تغيير المهنة."
+      }
+    },
+    {
+      "word": "mentor",
+      "definition": "An experienced person who gives advice and support.",
+      "arabic": "مرشد",
+      "arabic_definition": "شخص ذو خبرة يقدم النصائح والدعم.",
+      "example": {
+        "en": "My mentor helped me develop my skills.",
+        "ar": "ساعدني مرشدي في تطوير مهاراتي."
+      }
+    },
+    {
+      "word": "goal setting",
+      "definition": "Planning what you want to achieve.",
+      "arabic": "تحديد الأهداف",
+      "arabic_definition": "التخطيط لما تريد تحقيقه.",
+      "example": {
+        "en": "Goal setting is important for success in learning.",
+        "ar": "تحديد الأهداف مهم للنجاح في التعلم."
+      }
+    }
+  ]
+}

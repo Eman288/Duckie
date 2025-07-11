@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 1 - Refining Intonation and Pronunciation",
+  "questions": [
+    {
+      "question": "What is 'intonation' in spoken language?",
+      "answers": [
+        "The rise and fall of pitch across a sentence.",
+        "The volume of spoken words.",
+        "The rate of speaking.",
+        "The words chosen for a conversation."
+      ],
+      "correct": "The rise and fall of pitch across a sentence.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is falling intonation typically used in declarative sentences?",
+      "answers": [
+        "To indicate completion or finality.",
+        "To ask questions.",
+        "To show doubt.",
+        "To imply politeness."
+      ],
+      "correct": "To indicate completion or finality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does rising intonation often signal?",
+      "answers": [
+        "A question or uncertainty.",
+        "Finality.",
+        "Anger.",
+        "Boredom."
+      ],
+      "correct": "A question or uncertainty.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these best describes 'stress' in pronunciation?",
+      "answers": [
+        "Giving emphasis to certain syllables or words.",
+        "A quiet, flat tone.",
+        "Speeding up words.",
+        "Pronouncing every sound equally."
+      ],
+      "correct": "Giving emphasis to certain syllables or words.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is word stress important in English?",
+      "answers": [
+        "It affects meaning and comprehension.",
+        "It makes words longer.",
+        "It changes the spelling.",
+        "It removes ambiguity."
+      ],
+      "correct": "It affects meaning and comprehension.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'falling-rising' intonation used for?",
+      "answers": [
+        "Expressing reservation or politeness.",
+        "Announcing a fact.",
+        "Giving a command.",
+        "Listing items."
+      ],
+      "correct": "Expressing reservation or politeness.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of pitch in pronunciation?",
+      "answers": [
+        "To create a melody-like quality in speech.",
+        "To write words correctly.",
+        "To control breathing.",
+        "To remove stress from words."
+      ],
+      "correct": "To create a melody-like quality in speech.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is NOT a feature of pronunciation?",
+      "answers": [
+        "Grammar.",
+        "Intonation.",
+        "Stress.",
+        "Rhythm."
+      ],
+      "correct": "Grammar.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why might native speakers slow down their speech?",
+      "answers": [
+        "For emphasis or clarity.",
+        "To sound shy.",
+        "To make mistakes.",
+        "To use less vocabulary."
+      ],
+      "correct": "For emphasis or clarity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'elision' in pronunciation?",
+      "answers": [
+        "Dropping a sound within a word.",
+        "Adding new sounds.",
+        "Changing word order.",
+        "Increasing word length."
+      ],
+      "correct": "Dropping a sound within a word.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'linking' in spoken English?",
+      "answers": [
+        "Blending words smoothly together.",
+        "Separating words clearly.",
+        "Stressing every word.",
+        "Dropping vowels."
+      ],
+      "correct": "Blending words smoothly together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'chunking' in speech?",
+      "answers": [
+        "Grouping words for natural pauses.",
+        "Stressing every word.",
+        "Dropping sounds.",
+        "Adding silent spaces."
+      ],
+      "correct": "Grouping words for natural pauses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which sound is an example of a 'schwa'?",
+      "answers": [
+        "The 'a' in 'about'.",
+        "The 't' in 'table'.",
+        "The 'k' in 'cake'.",
+        "The 'f' in 'fall'."
+      ],
+      "correct": "The 'a' in 'about'.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is mastering intonation important for advanced learners?",
+      "answers": [
+        "It allows precise communication of nuance and emotion.",
+        "It eliminates grammar mistakes.",
+        "It replaces vocabulary.",
+        "It removes pronunciation rules."
+      ],
+      "correct": "It allows precise communication of nuance and emotion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can inappropriate intonation cause?",
+      "answers": [
+        "Misunderstanding or confusion.",
+        "Better pronunciation.",
+        "More clarity.",
+        "Correct grammatical agreement."
+      ],
+      "correct": "Misunderstanding or confusion.",
+      "voiceUrl": ""
+    }
+  ]
+}

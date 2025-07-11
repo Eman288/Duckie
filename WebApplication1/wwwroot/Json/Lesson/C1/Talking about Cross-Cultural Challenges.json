@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Cross-Cultural Challenges",
+  "words": [
+    {
+      "word": "cultural norms",
+      "definition": "Accepted behavior within a society.",
+      "arabic": "الأعراف الثقافية",
+      "arabic_definition": "السلوك المقبول داخل مجتمع ما.",
+      "example": {
+        "en": "Each country has its own cultural norms.",
+        "ar": "كل بلد له أعرافه الثقافية."
+      }
+    },
+    {
+      "word": "adaptation",
+      "definition": "The process of adjusting to a new culture.",
+      "arabic": "التكيّف",
+      "arabic_definition": "عملية التأقلم مع ثقافة جديدة.",
+      "example": {
+        "en": "Adaptation can be challenging when moving to a new country.",
+        "ar": "يمكن أن يشكّل التكيّف تحديًا عند الانتقال إلى بلد جديد."
+      }
+    },
+    {
+      "word": "etiquette",
+      "definition": "The customary code of behavior in society.",
+      "arabic": "آداب السلوك",
+      "arabic_definition": "القواعد العرفية للسلوك المناسب في المجتمع.",
+      "example": {
+        "en": "Learning local etiquette is important when traveling.",
+        "ar": "تعلّم آداب السلوك المحلية مهم عند السفر."
+      }
+    },
+    {
+      "word": "values",
+      "definition": "Principles or standards of behavior.",
+      "arabic": "القيم",
+      "arabic_definition": "المبادئ أو معايير السلوك.",
+      "example": {
+        "en": "Different cultures have different values.",
+        "ar": "للثقافات المختلفة قيم متنوعة."
+      }
+    },
+    {
+      "word": "communication",
+      "definition": "The act of exchanging information.",
+      "arabic": "التواصل",
+      "arabic_definition": "فعل تبادل المعلومات.",
+      "example": {
+        "en": "Effective communication is key to understanding across cultures.",
+        "ar": "التواصل الفعال هو مفتاح الفهم عبر الثقافات."
+      }
+    },
+    {
+      "word": "integration",
+      "definition": "The process of becoming part of a society.",
+      "arabic": "اندماج",
+      "arabic_definition": "عملية الاندماج في مجتمع ما.",
+      "example": {
+        "en": "Integration takes time and effort.",
+        "ar": "يتطلب الاندماج الوقت والجهد."
+      }
+    },
+    {
+      "word": "prejudice",
+      "definition": "A preconceived opinion about a person or group.",
+      "arabic": "تحيّز",
+      "arabic_definition": "رأي مسبق عن شخص أو مجموعة.",
+      "example": {
+        "en": "We must overcome prejudice to build understanding.",
+        "ar": "علينا التغلب على التحيّز لبناء تفاهم."
+      }
+    },
+    {
+      "word": "diversity",
+      "definition": "The presence of different cultures and ideas.",
+      "arabic": "التنوّع",
+      "arabic_definition": "وجود ثقافات وأفكار متنوعة.",
+      "example": {
+        "en": "The city is known for its diversity.",
+        "ar": "تُعرف المدينة بتنوّعها."
+      }
+    },
+    {
+      "word": "inclusivity",
+      "definition": "The practice of including people from different groups.",
+      "arabic": "شمول",
+      "arabic_definition": "ممارسة إشراك أفراد من مجموعات متنوعة.",
+      "example": {
+        "en": "Inclusivity ensures that all voices are heard.",
+        "ar": "الشمول يضمن سماع جميع الأصوات."
+      }
+    },
+    {
+      "word": "globalization",
+      "definition": "The process by which the world becomes more connected.",
+      "arabic": "العولمة",
+      "arabic_definition": "العملية التي يصبح فيها العالم أكثر ترابطًا.",
+      "example": {
+        "en": "Globalization has increased cross-cultural interactions.",
+        "ar": "زادت العولمة من التفاعل الثقافي عبر الحدود."
+      }
+    }
+  ]
+}

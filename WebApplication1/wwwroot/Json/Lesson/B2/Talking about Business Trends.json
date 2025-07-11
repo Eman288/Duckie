@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Business Trends",
+  "words": [
+    {
+      "word": "trend",
+      "definition": "A general direction in which something is developing.",
+      "arabic": "اتجاه",
+      "arabic_definition": "الاتجاه العام الذي يتطور فيه شيء ما.",
+      "example": {
+        "en": "The trend towards online shopping is growing.",
+        "ar": "الاتجاه نحو التسوق عبر الإنترنت ينمو."
+      }
+    },
+    {
+      "word": "market",
+      "definition": "A place where goods are bought and sold.",
+      "arabic": "السوق",
+      "arabic_definition": "مكان يتم فيه شراء وبيع السلع.",
+      "example": {
+        "en": "The market for smartphones is very competitive.",
+        "ar": "السوق للهواتف الذكية شديد التنافس."
+      }
+    },
+    {
+      "word": "innovation",
+      "definition": "A new method, idea, or product.",
+      "arabic": "ابتكار",
+      "arabic_definition": "طريقة، فكرة، أو منتج جديد.",
+      "example": {
+        "en": "Innovation is vital for business growth.",
+        "ar": "الابتكار مهم لنمو الأعمال."
+      }
+    },
+    {
+      "word": "demand",
+      "definition": "The desire of people to buy a service or goods.",
+      "arabic": "طلب",
+      "arabic_definition": "رغبة الأشخاص في شراء خدمة أو سلعة.",
+      "example": {
+        "en": "There is a high demand for electric cars.",
+        "ar": "هناك طلب كبير على السيارات الكهربائية."
+      }
+    },
+    {
+      "word": "consumer",
+      "definition": "A person who buys goods or services.",
+      "arabic": "مستهلك",
+      "arabic_definition": "شخص يشتري سلعًا أو خدمات.",
+      "example": {
+        "en": "The consumer is looking for quality and affordability.",
+        "ar": "المستهلك يبحث عن الجودة والسعر المناسب."
+      }
+    },
+    {
+      "word": "growth",
+      "definition": "Increase in the size or value of a business.",
+      "arabic": "نمو",
+      "arabic_definition": "زيادة حجم أو قيمة الأعمال.",
+      "example": {
+        "en": "The company is experiencing rapid growth.",
+        "ar": "تشهد الشركة نموًا سريعًا."
+      }
+    },
+    {
+      "word": "decline",
+      "definition": "Decrease in the size or value of a business.",
+      "arabic": "انخفاض",
+      "arabic_definition": "انخفاض حجم أو قيمة الأعمال.",
+      "example": {
+        "en": "The sales of this product are in decline.",
+        "ar": "مبيعات هذا المنتج تشهد انخفاضًا."
+      }
+    },
+    {
+      "word": "competitor",
+      "definition": "A person or company that sells the same products.",
+      "arabic": "منافس",
+      "arabic_definition": "شخص أو شركة تبيع نفس المنتجات.",
+      "example": {
+        "en": "We have many strong competitors in this market.",
+        "ar": "لدينا العديد من المنافسين الأقوياء في هذا السوق."
+      }
+    },
+    {
+      "word": "global",
+      "definition": "Relating to the whole world.",
+      "arabic": "عالمي",
+      "arabic_definition": "متعلق بالعالم كله.",
+      "example": {
+        "en": "The global market is very challenging.",
+        "ar": "السوق العالمي مليء بالتحديات."
+      }
+    },
+    {
+      "word": "investment",
+      "definition": "The action of putting money into a business for profit.",
+      "arabic": "استثمار",
+      "arabic_definition": "فعل وضع المال في عمل للحصول على ربح.",
+      "example": {
+        "en": "Investment in technology is increasing every year.",
+        "ar": "الاستثمار في التكنولوجيا يزيد كل عام."
+      }
+    }
+  ]
+}

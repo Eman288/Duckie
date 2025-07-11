@@ -1,0 +1,85 @@
+{
+  "lesson": "Ordering at a Restaurant",
+  "words": [
+    {
+      "word": "menu",
+      "definition": "A list of food and drinks available in a restaurant.",
+      "arabic": "قائمة الطعام",
+      "arabic_definition": "قائمة بالأطعمة والمشروبات المتوفرة في المطعم.",
+      "example": {
+        "en": "Can I see the menu, please?",
+        "ar": "هل يمكنني رؤية قائمة الطعام من فضلك؟"
+      }
+    },
+    {
+      "word": "waiter",
+      "definition": "A man who serves food in a restaurant.",
+      "arabic": "نادل",
+      "arabic_definition": "رجل يخدم الطعام في المطعم.",
+      "example": {
+        "en": "The waiter brought us the drinks.",
+        "ar": "أحضر لنا النادل المشروبات."
+      }
+    },
+    {
+      "word": "waitress",
+      "definition": "A woman who serves food in a restaurant.",
+      "arabic": "نادلة",
+      "arabic_definition": "امرأة تخدم الطعام في المطعم.",
+      "example": {
+        "en": "The waitress took our order.",
+        "ar": "أخذت النادلة طلبنا."
+      }
+    },
+    {
+      "word": "order",
+      "definition": "To ask for food or drink in a restaurant.",
+      "arabic": "يطلب",
+      "arabic_definition": "أن تطلب طعامًا أو شرابًا في مطعم.",
+      "example": {
+        "en": "We ordered chicken and rice.",
+        "ar": "طلبنا دجاج وأرز."
+      }
+    },
+    {
+      "word": "bill",
+      "definition": "A list showing the price you need to pay for your food.",
+      "arabic": "فاتورة",
+      "arabic_definition": "قائمة توضح السعر الذي يجب دفعه مقابل الطعام.",
+      "example": {
+        "en": "Can I have the bill, please?",
+        "ar": "هل يمكنني الحصول على الفاتورة، من فضلك؟"
+      }
+    },
+    {
+      "word": "table",
+      "definition": "A piece of furniture where people sit to eat.",
+      "arabic": "طاولة",
+      "arabic_definition": "قطعة أثاث يجلس الناس حولها لتناول الطعام.",
+      "example": {
+        "en": "Our table is near the window.",
+        "ar": "طاولتنا بالقرب من النافذة."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "An arrangement to have a table ready at a restaurant.",
+      "arabic": "حجز",
+      "arabic_definition": "ترتيب مسبق للحصول على طاولة جاهزة في المطعم.",
+      "example": {
+        "en": "We have a reservation for two at 7 PM.",
+        "ar": "لدينا حجز لشخصين في الساعة 7 مساءً."
+      }
+    },
+    {
+      "word": "serve",
+      "definition": "To bring food to someone.",
+      "arabic": "يقدم",
+      "arabic_definition": "أن تحضر الطعام لشخص ما.",
+      "example": {
+        "en": "They serve great pasta here.",
+        "ar": "يقدمون معكرونة رائعة هنا."
+      }
+    }
+  ]
+}

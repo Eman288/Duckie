@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Your Home",
+  "words": [
+    {
+      "word": "house",
+      "definition": "A building for people to live in.",
+      "arabic": "منزل",
+      "arabic_definition": "مبنى للعيش فيه.",
+      "example": {
+        "en": "This is a house.",
+        "ar": "هذا منزل."
+      }
+    },
+    {
+      "word": "apartment",
+      "definition": "A set of rooms in a building to live in.",
+      "arabic": "شقة",
+      "arabic_definition": "مجموعة من الغرف للعيش بها في مبنى.",
+      "example": {
+        "en": "This is a apartment.",
+        "ar": "هذا شقة."
+      }
+    },
+    {
+      "word": "balcony",
+      "definition": "A platform on the outside of a building.",
+      "arabic": "شرفة",
+      "arabic_definition": "منصة خارجية في مبنى.",
+      "example": {
+        "en": "This is a balcony.",
+        "ar": "هذا شرفة."
+      }
+    },
+    {
+      "word": "roof",
+      "definition": "The top covering of a building.",
+      "arabic": "سقف",
+      "arabic_definition": "الغطاء العلوي للمبنى.",
+      "example": {
+        "en": "This is a roof.",
+        "ar": "هذا سقف."
+      }
+    },
+    {
+      "word": "window",
+      "definition": "An opening in a wall to let in light and air.",
+      "arabic": "نافذة",
+      "arabic_definition": "فتحة في الحائط لدخول الضوء والهواء.",
+      "example": {
+        "en": "This is a window.",
+        "ar": "هذا نافذة."
+      }
+    },
+    {
+      "word": "door",
+      "definition": "A barrier for opening and closing an entrance.",
+      "arabic": "باب",
+      "arabic_definition": "حاجز لفتح وإغلاق المدخل.",
+      "example": {
+        "en": "This is a door.",
+        "ar": "هذا باب."
+      }
+    },
+    {
+      "word": "garden",
+      "definition": "An area with plants around a house.",
+      "arabic": "حديقة",
+      "arabic_definition": "منطقة بها نباتات حول المنزل.",
+      "example": {
+        "en": "This is a garden.",
+        "ar": "هذا حديقة."
+      }
+    },
+    {
+      "word": "stairs",
+      "definition": "A set of steps inside a building.",
+      "arabic": "سلالم",
+      "arabic_definition": "مجموعة من الدرجات داخل المبنى.",
+      "example": {
+        "en": "This is a stairs.",
+        "ar": "هذا سلالم."
+      }
+    },
+    {
+      "word": "floor",
+      "definition": "The surface you walk on in a room.",
+      "arabic": "أرضية",
+      "arabic_definition": "السطح الذي تمشي عليه في الغرفة.",
+      "example": {
+        "en": "This is a floor.",
+        "ar": "هذا أرضية."
+      }
+    },
+    {
+      "word": "wall",
+      "definition": "The side structure of a room or building.",
+      "arabic": "جدار",
+      "arabic_definition": "الهيكل الجانبي للغرفة أو المبنى.",
+      "example": {
+        "en": "This is a wall.",
+        "ar": "هذا جدار."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Making Persuasive Arguments Quiz",
+  "questions": [
+    {
+      "question": "Why is knowing your audience vital for making a persuasive argument?",
+      "answers": [ "To adapt your approach and examples effectively.", "To only focus on yourself.", "To ignore feedback.", "To complicate the argument unnecessarily." ],
+      "correct": "To adapt your approach and examples effectively.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of evidence in making a persuasive argument?",
+      "answers": [ "To support your claim with credibility.", "To confuse listeners.", "To fill time with statistics.", "To avoid making a point." ],
+      "correct": "To support your claim with credibility.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is a strong opening statement critical for persuasion?",
+      "answers": [ "It captures attention and sets the tone.", "It replaces evidence later.", "It can be ignored after starting.", "It only works in formal settings." ],
+      "correct": "It captures attention and sets the tone.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can emotion be used in persuasion?",
+      "answers": [ "To connect with the listener and make your point memorable.", "To overwhelm the listener.", "To confuse the listener intentionally.", "To replace evidence completely." ],
+      "correct": "To connect with the listener and make your point memorable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is acknowledging opposing views important?",
+      "answers": [ "It shows fairness and strengthens credibility.", "It means accepting defeat.", "It replaces making a point.", "It complicates your argument unnecessarily." ],
+      "correct": "It shows fairness and strengthens credibility.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to respond to objections in a persuasive discussion?",
+      "answers": [ "Acknowledge and refute them clearly and calmly.", "Ignore them completely.", "Get defensive and raise your voice.", "Change the subject quickly." ],
+      "correct": "Acknowledge and refute them clearly and calmly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is focusing on benefits effective in persuasion?",
+      "answers": [ "People relate more easily to benefits than abstract ideas.", "It replaces making an argument.", "It only works in business contexts.", "It complicates your argument unnecessarily." ],
+      "correct": "People relate more easily to benefits than abstract ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is making a strong conclusion vital in persuasion?",
+      "answers": [ "It leaves a lasting impression.", "It allows you to introduce new ideas.", "It replaces making a strong opening statement.", "It has little to no impact." ],
+      "correct": "It leaves a lasting impression.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should language be tailored for the listener?",
+      "answers": [ "To ensure understanding and relatability.", "To impress with complex terms.", "To confuse the listener intentionally.", "To hide the core message." ],
+      "correct": "To ensure understanding and relatability.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is maintaining a confident tone important in persuasion?",
+      "answers": [ "It builds trust and authority.", "It means ignoring questions.", "It replaces making a solid argument.", "It has no role in making an impact." ],
+      "correct": "It builds trust and authority.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can storytelling aid in making a persuasive argument?",
+      "answers": [ "It makes abstract ideas concrete and memorable.", "It replaces evidence.", "It complicates understanding intentionally.", "It is irrelevant in formal settings." ],
+      "correct": "It makes abstract ideas concrete and memorable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is being concise important when making a persuasive point?",
+      "answers": [ "To respect the listener’s time and maintain focus.", "To make the point harder to understand.", "To seem less confident.", "To intentionally skip supporting details." ],
+      "correct": "To respect the listener’s time and maintain focus.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is aligning your argument with the listener’s values effective?",
+      "answers": [ "It makes them more open to accepting your point.", "It replaces making a valid point.", "It complicates your argument unnecessarily.", "It has no role in persuasion." ],
+      "correct": "It makes them more open to accepting your point.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is using a calm and measured tone helpful when making an argument?",
+      "answers": [ "It promotes constructive conversation.", "It replaces making strong points.", "It shows disinterest.", "It complicates making a point clearly." ],
+      "correct": "It promotes constructive conversation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to end a persuasive argument?",
+      "answers": [ "With a clear call to action or takeaway.", "With unrelated statistics.", "With a long and confusing story.", "With a neutral statement." ],
+      "correct": "With a clear call to action or takeaway.",
+      "voiceUrl": ""
+    }
+  ]
+}

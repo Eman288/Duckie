@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Leading and Moderating Discussions",
+  "questions": [
+    {
+      "question": "What is the role of a moderator?",
+      "answers": [ "To guide and facilitate the conversation.", "To dominate the discussion.", "To remain silent throughout.", "To answer all questions personally." ],
+      "correct": "To guide and facilitate the conversation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active listening important in discussions?",
+      "answers": [ "To understand and respond appropriately.", "To focus only on your point.", "To rehearse your speech.", "To win the debate." ],
+      "correct": "To understand and respond appropriately.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good technique for inviting participation?",
+      "answers": [ "Asking open-ended questions.", "Interrupting people.", "Ignoring shy participants.", "Presenting lengthy lectures." ],
+      "correct": "Asking open-ended questions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to manage dominant speakers?",
+      "answers": [ "Acknowledge their point, then invite others to contribute.", "Let them speak uninterrupted.", "Exclude them from future meetings.", "Interrupt them repeatedly." ],
+      "correct": "Acknowledge their point, then invite others to contribute.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is summarizing key points helpful?",
+      "answers": [ "It ensures understanding and agreement.", "It complicates the discussion.", "It ends the conversation prematurely.", "It replaces active listening." ],
+      "correct": "It ensures understanding and agreement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can a moderator handle off-topic remarks?",
+      "answers": [ "Gently steer the conversation back to the agenda.", "Ignore the remark completely.", "Stop the conversation immediately.", "Give long lectures about rules." ],
+      "correct": "Gently steer the conversation back to the agenda.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is body language important for a moderator?",
+      "answers": [ "It conveys attention and encourages participation.", "It replaces spoken words.", "It has no significance in meetings.", "It distracts participants." ],
+      "correct": "It conveys attention and encourages participation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to resolve a disagreement?",
+      "answers": [ "Allow both parties to voice their concerns.", "Assign blame quickly.", "Ignore the issue until it disappears.", "End the meeting abruptly." ],
+      "correct": "Allow both parties to voice their concerns.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is neutrality vital for a moderator?",
+      "answers": [ "It builds trust and encourages open dialogue.", "It allows the moderator to dominate.", "It discourages participation.", "It replaces facts with opinions." ],
+      "correct": "It builds trust and encourages open dialogue.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can a moderator ensure all voices are heard?",
+      "answers": [ "Invite quiet participants to contribute.", "Prioritize louder voices.", "Avoid making eye contact.", "Limit discussion to one person." ],
+      "correct": "Invite quiet participants to contribute.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is setting a clear agenda important?",
+      "answers": [ "It gives structure and direction.", "It removes the need for questions.", "It replaces participant input.", "It guarantees agreement on all points." ],
+      "correct": "It gives structure and direction.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of summarization in a discussion?",
+      "answers": [ "To highlight key ideas and confirm understanding.", "To complicate agreement.", "To end debate prematurely.", "To replace participant input." ],
+      "correct": "To highlight key ideas and confirm understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can a moderator handle a tense conversation?",
+      "answers": [ "Remain calm and neutral.", "Raise their voice.", "Avoid addressing tensions.", "End the discussion abruptly." ],
+      "correct": "Remain calm and neutral.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is time management crucial for a moderator?",
+      "answers": [ "To cover all agenda points effectively.", "To skip important questions.", "To dominate the discussion.", "To delay participant input." ],
+      "correct": "To cover all agenda points effectively.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a sign of an effective moderator?",
+      "answers": [ "Active listening and balanced participation.", "Interrupting participants often.", "Prioritizing certain people.", "Avoiding summarization." ],
+      "correct": "Active listening and balanced participation.",
+      "voiceUrl": ""
+    }
+  ]
+}

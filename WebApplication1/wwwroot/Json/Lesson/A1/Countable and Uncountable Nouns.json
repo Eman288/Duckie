@@ -1,0 +1,85 @@
+{
+  "lesson": "Countable and Uncountable Nouns",
+  "words": [
+    {
+      "word": "countable",
+      "definition": "Things you can count (one apple, two apples).",
+      "arabic": "قابل للعد",
+      "arabic_definition": "أشياء يمكنك عدها (تفاحة، تفاحتان).",
+      "example": {
+        "en": "Apples are countable nouns.",
+        "ar": "التفاح من الأسماء القابلة للعد."
+      }
+    },
+    {
+      "word": "uncountable",
+      "definition": "Things you cannot count individually (milk, water).",
+      "arabic": "غير قابل للعد",
+      "arabic_definition": "أشياء لا يمكنك عدها بشكل فردي (حليب، ماء).",
+      "example": {
+        "en": "Water is an uncountable noun.",
+        "ar": "الماء اسم غير قابل للعد."
+      }
+    },
+    {
+      "word": "some",
+      "definition": "Used with both countable and uncountable nouns to show an unknown amount.",
+      "arabic": "بعض",
+      "arabic_definition": "تُستخدم مع الأسماء المعدودة وغير المعدودة للدلالة على كمية غير معروفة.",
+      "example": {
+        "en": "I have some water.",
+        "ar": "لدي بعض الماء."
+      }
+    },
+    {
+      "word": "any",
+      "definition": "Used in negative and question sentences with both types of nouns.",
+      "arabic": "أي",
+      "arabic_definition": "تُستخدم في الجمل السلبية والأسئلة مع الأسماء المعدودة وغير المعدودة.",
+      "example": {
+        "en": "Do you have any apples?",
+        "ar": "هل لديك أي تفاح؟"
+      }
+    },
+    {
+      "word": "a few",
+      "definition": "Used with countable nouns to show a small number.",
+      "arabic": "قليل (معدود)",
+      "arabic_definition": "تُستخدم مع الأسماء المعدودة للدلالة على عدد قليل.",
+      "example": {
+        "en": "I have a few friends.",
+        "ar": "لدي عدد قليل من الأصدقاء."
+      }
+    },
+    {
+      "word": "a little",
+      "definition": "Used with uncountable nouns to show a small amount.",
+      "arabic": "قليل (غير معدود)",
+      "arabic_definition": "تُستخدم مع الأسماء غير المعدودة للدلالة على كمية قليلة.",
+      "example": {
+        "en": "There is a little milk in the cup.",
+        "ar": "هناك قليل من الحليب في الكوب."
+      }
+    },
+    {
+      "word": "much",
+      "definition": "Used with uncountable nouns to ask or say about large amounts.",
+      "arabic": "كثير (غير معدود)",
+      "arabic_definition": "تُستخدم مع الأسماء غير المعدودة للحديث عن كميات كبيرة.",
+      "example": {
+        "en": "How much water do you need?",
+        "ar": "كم من الماء تحتاج؟"
+      }
+    },
+    {
+      "word": "many",
+      "definition": "Used with countable nouns to ask or say about large numbers.",
+      "arabic": "كثير (معدود)",
+      "arabic_definition": "تُستخدم مع الأسماء المعدودة للحديث عن أعداد كبيرة.",
+      "example": {
+        "en": "How many apples are there?",
+        "ar": "كم عدد التفاحات الموجودة؟"
+      }
+    }
+  ]
+}

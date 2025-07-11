@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 7 - A2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'weather'?",
+      "answers": [ "طقس", "مدينة", "حافلة", "حجز" ],
+      "correct": "طقس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'sunny' in Arabic?",
+      "answers": [ "مشمس", "ممطر", "بارد", "حار" ],
+      "correct": "مشمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'ممطر'?",
+      "answers": [ "rainy", "sunny", "windy", "cold" ],
+      "correct": "rainy",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'windy' in Arabic?",
+      "answers": [ "عاصف", "حار", "بارد", "ممطر" ],
+      "correct": "عاصف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'summer'?",
+      "answers": [ "الصيف", "الشتاء", "الخريف", "الربيع" ],
+      "correct": "الصيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'winter' in Arabic?",
+      "answers": [ "الشتاء", "الصيف", "الخريف", "الربيع" ],
+      "correct": "الشتاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الخريف'?",
+      "answers": [ "fall", "summer", "winter", "spring" ],
+      "correct": "fall",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'spring' in Arabic?",
+      "answers": [ "الربيع", "الصيف", "الخريف", "الشتاء" ],
+      "correct": "الربيع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'mountain'?",
+      "answers": [ "جبل", "نهر", "بحر", "بحيرة" ],
+      "correct": "جبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'river' in Arabic?",
+      "answers": [ "نهر", "بحر", "بحيرة", "جبل" ],
+      "correct": "نهر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'بحر'?",
+      "answers": [ "sea", "mountain", "river", "lake" ],
+      "correct": "sea",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'lake' in Arabic?",
+      "answers": [ "بحيرة", "نهر", "بحر", "جبل" ],
+      "correct": "بحيرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'environment'?",
+      "answers": [ "بيئة", "حيوان", "بحيرة", "نهر" ],
+      "correct": "بيئة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'pollution' in Arabic?",
+      "answers": [ "تلوث", "بيئة", "بحر", "نهر" ],
+      "correct": "تلوث",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حماية البيئة'?",
+      "answers": [ "protecting the environment", "pollution", "rainy weather", "climate change" ],
+      "correct": "protecting the environment",
+      "voiceUrl": ""
+    }
+  ]
+}

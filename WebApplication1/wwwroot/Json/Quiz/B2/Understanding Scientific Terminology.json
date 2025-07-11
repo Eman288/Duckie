@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Understanding Scientific Terminology Quiz",
+  "questions": [
+    {
+      "question": "What does 'hypothesis' mean?",
+      "answers": [
+        "A proposed explanation for an observation.",
+        "A cooking technique.",
+        "A musical style.",
+        "A sports rule."
+      ],
+      "correct": "A proposed explanation for an observation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'data' in science?",
+      "answers": [
+        "Information collected for analysis.",
+        "A musical piece.",
+        "A cooking trend.",
+        "A dance routine."
+      ],
+      "correct": "Information collected for analysis.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'theory' mean in science?",
+      "answers": [
+        "A well-tested explanation of natural events.",
+        "A cooking method.",
+        "A musical trend.",
+        "A dance routine."
+      ],
+      "correct": "A well-tested explanation of natural events.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'experiment'?",
+      "answers": [
+        "A test performed to investigate an idea.",
+        "A musical piece.",
+        "A cooking technique.",
+        "A dance move."
+      ],
+      "correct": "A test performed to investigate an idea.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'variable' mean in science?",
+      "answers": [
+        "Something that can change in an experiment.",
+        "A musical trend.",
+        "A cooking method.",
+        "A dance routine."
+      ],
+      "correct": "Something that can change in an experiment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'conclusion' in a scientific experiment?",
+      "answers": [
+        "A summary of the results and findings.",
+        "A cooking trend.",
+        "A musical style.",
+        "A dance routine."
+      ],
+      "correct": "A summary of the results and findings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'accuracy' mean in a scientific context?",
+      "answers": [
+        "How close a measurement is to the true value.",
+        "A musical technique.",
+        "A cooking method.",
+        "A dance routine."
+      ],
+      "correct": "How close a measurement is to the true value.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'evidence' in science?",
+      "answers": [
+        "Information that supports a claim or theory.",
+        "A musical trend.",
+        "A cooking technique.",
+        "A dance routine."
+      ],
+      "correct": "Information that supports a claim or theory.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'control group'?",
+      "answers": [
+        "The group that doesn’t receive the experimental treatment.",
+        "A cooking trend.",
+        "A musical trend.",
+        "A dance routine."
+      ],
+      "correct": "The group that doesn’t receive the experimental treatment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'replication' mean in science?",
+      "answers": [
+        "Repeating an experiment to verify results.",
+        "A cooking technique.",
+        "A musical trend.",
+        "A dance routine."
+      ],
+      "correct": "Repeating an experiment to verify results.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'peer review' in scientific research?",
+      "answers": [
+        "Review of work by experts in the same field.",
+        "A cooking review.",
+        "A music review.",
+        "A dance review."
+      ],
+      "correct": "Review of work by experts in the same field.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'precision' in measurement?",
+      "answers": [
+        "How closely repeated measurements match.",
+        "A cooking technique.",
+        "A music trend.",
+        "A dance routine."
+      ],
+      "correct": "How closely repeated measurements match.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'model' in science?",
+      "answers": [
+        "A simplified representation of reality.",
+        "A cooking trend.",
+        "A musical technique.",
+        "A dance routine."
+      ],
+      "correct": "A simplified representation of reality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'validity' mean in a scientific context?",
+      "answers": [
+        "How well an experiment measures what it is supposed to measure.",
+        "A cooking trend.",
+        "A music review.",
+        "A dance routine."
+      ],
+      "correct": "How well an experiment measures what it is supposed to measure.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'empirical evidence'?",
+      "answers": [
+        "Evidence based on observations or experiments.",
+        "A musical trend.",
+        "A cooking technique.",
+        "A dance routine."
+      ],
+      "correct": "Evidence based on observations or experiments.",
+      "voiceUrl": ""
+    }
+  ]
+}

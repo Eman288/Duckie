@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Understanding Cultural Nuance and Idioms Quiz",
+  "questions": [
+    {
+      "question": "What is cultural nuance?",
+      "answers": [
+        "Subtle differences in behavior and meaning between cultures.",
+        "Loud and clear communication.",
+        "Universal language understood by all.",
+        "Ignoring cultural differences."
+      ],
+      "correct": "Subtle differences in behavior and meaning between cultures.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding idioms important?",
+      "answers": [
+        "They carry meanings beyond literal words.",
+        "They are always confusing.",
+        "They are unimportant in communication.",
+        "They only appear in written text."
+      ],
+      "correct": "They carry meanings beyond literal words.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does the idiom 'kick the bucket' mean?",
+      "answers": [
+        "To die.",
+        "To be angry.",
+        "To start a project.",
+        "To celebrate."
+      ],
+      "correct": "To die.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can cultural misunderstandings occur?",
+      "answers": [
+        "When people interpret behaviors based on their own culture only.",
+        "When people speak the same language.",
+        "When there is perfect communication.",
+        "When cultures are similar."
+      ],
+      "correct": "When people interpret behaviors based on their own culture only.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common feature of idioms?",
+      "answers": [
+        "Their meanings are not literal.",
+        "They are always literal.",
+        "They only exist in English.",
+        "They never change over time."
+      ],
+      "correct": "Their meanings are not literal.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you be careful using idioms with non-native speakers?",
+      "answers": [
+        "They may not understand the implied meaning.",
+        "They always understand idioms.",
+        "Idioms translate literally.",
+        "Idioms are universal."
+      ],
+      "correct": "They may not understand the implied meaning.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a cultural taboo?",
+      "answers": [
+        "Topics or behaviors that are considered unacceptable in a culture.",
+        "Common greetings.",
+        "Everyday actions.",
+        "Festive traditions."
+      ],
+      "correct": "Topics or behaviors that are considered unacceptable in a culture.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do gestures vary across cultures?",
+      "answers": [
+        "The same gesture can have different meanings in different cultures.",
+        "Gestures are universal.",
+        "Gestures are only used in some countries.",
+        "Gestures always mean the same."
+      ],
+      "correct": "The same gesture can have different meanings in different cultures.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does the idiom 'break the ice' mean?",
+      "answers": [
+        "To initiate conversation and reduce tension.",
+        "To shatter ice physically.",
+        "To end a meeting abruptly.",
+        "To freeze a situation."
+      ],
+      "correct": "To initiate conversation and reduce tension.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to learn about cultural norms?",
+      "answers": [
+        "To communicate respectfully and avoid offense.",
+        "To ignore cultural differences.",
+        "To change your culture.",
+        "It is not important."
+      ],
+      "correct": "To communicate respectfully and avoid offense.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does the idiom 'cost an arm and a leg' mean?",
+      "answers": [
+        "Something very expensive.",
+        "Something cheap.",
+        "A physical injury.",
+        "A funny joke."
+      ],
+      "correct": "Something very expensive.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can language reflect culture?",
+      "answers": [
+        "Through idioms, expressions, and communication styles unique to each culture.",
+        "Languages are all the same.",
+        "Language does not reflect culture.",
+        "Only grammar reflects culture."
+      ],
+      "correct": "Through idioms, expressions, and communication styles unique to each culture.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you are unsure about a cultural behavior?",
+      "answers": [
+        "Ask politely and observe carefully.",
+        "Ignore it and act as usual.",
+        "Mock the behavior.",
+        "Assume it is the same as your culture."
+      ],
+      "correct": "Ask politely and observe carefully.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an idiom?",
+      "answers": [
+        "A phrase with a meaning different from its literal words.",
+        "A simple sentence.",
+        "A technical term.",
+        "A type of punctuation."
+      ],
+      "correct": "A phrase with a meaning different from its literal words.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why do idioms make language interesting?",
+      "answers": [
+        "They add color and expressiveness to speech.",
+        "They make language harder to understand.",
+        "They are confusing and should be avoided.",
+        "They have no real meaning."
+      ],
+      "correct": "They add color and expressiveness to speech.",
+      "voiceUrl": ""
+    }
+  ]
+}

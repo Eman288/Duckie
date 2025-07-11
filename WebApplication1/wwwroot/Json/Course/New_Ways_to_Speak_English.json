@@ -1,0 +1,445 @@
+﻿{
+  "lesson": "Full English Evaluation Exam (A1-C2)",
+  "questions": [
+    {
+      "question": "What is the English word for 'كتاب'?",
+      "answers": [
+        "book",
+        "table",
+        "door",
+        "chair"
+      ],
+      "correct": "book",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a color?",
+      "answers": [
+        "apple",
+        "blue",
+        "run",
+        "sit"
+      ],
+      "correct": "blue",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'شكرا' in English?",
+      "answers": [
+        "hello",
+        "thanks",
+        "no",
+        "go"
+      ],
+      "correct": "thanks",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'goodbye'?",
+      "answers": [
+        "hello",
+        "goodbye",
+        "thanks",
+        "yes"
+      ],
+      "correct": "goodbye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'cat' in Arabic?",
+      "answers": [
+        "كلب",
+        "قطة",
+        "طائرة",
+        "شجرة"
+      ],
+      "correct": "قطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to English: 'نعم'",
+      "answers": [
+        "no",
+        "yes",
+        "go",
+        "wait"
+      ],
+      "correct": "yes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a polite request'?",
+      "answers": [
+        "no",
+        "thanks",
+        "please",
+        "hello"
+      ],
+      "correct": "please",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'وداعا' in English?",
+      "answers": [
+        "hello",
+        "goodbye",
+        "no",
+        "wait"
+      ],
+      "correct": "goodbye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is the opposite of 'no'?",
+      "answers": [
+        "yes",
+        "goodbye",
+        "thank you",
+        "hello"
+      ],
+      "correct": "yes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'hello' in Arabic?",
+      "answers": [
+        "شكرا",
+        "وداعا",
+        "مرحبا",
+        "نعم"
+      ],
+      "correct": "مرحبا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "He ___ to the park every morning.",
+      "answers": [
+        "go",
+        "goes",
+        "went",
+        "gone"
+      ],
+      "correct": "goes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "My sister is ___ doctor.",
+      "answers": [
+        "a",
+        "an",
+        "some",
+        "many"
+      ],
+      "correct": "a",
+      "voiceUrl": ""
+    },
+    {
+      "question": "I am ___ than my brother.",
+      "answers": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "correct": "taller",
+      "voiceUrl": ""
+    },
+    {
+      "question": "We ___ to the party last night.",
+      "answers": [
+        "go",
+        "went",
+        "gone",
+        "going"
+      ],
+      "correct": "went",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Can you ___ the door?",
+      "answers": [
+        "open",
+        "opens",
+        "opening",
+        "opened"
+      ],
+      "correct": "open",
+      "voiceUrl": ""
+    },
+    {
+      "question": "She is ___ student in the class.",
+      "answers": [
+        "better",
+        "the best",
+        "good",
+        "well"
+      ],
+      "correct": "the best",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the synonym of 'happy'?",
+      "answers": [
+        "sad",
+        "angry",
+        "cheerful",
+        "tired"
+      ],
+      "correct": "cheerful",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which sentence is in the past tense?",
+      "answers": [
+        "I walk to school.",
+        "I am walking.",
+        "I walked to school.",
+        "I will walk."
+      ],
+      "correct": "I walked to school.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "If it ___ tomorrow, we will stay inside.",
+      "answers": [
+        "rain",
+        "rains",
+        "raining",
+        "rainy"
+      ],
+      "correct": "rains",
+      "voiceUrl": ""
+    },
+    {
+      "question": "I have ___ my homework.",
+      "answers": [
+        "do",
+        "did",
+        "done",
+        "doing"
+      ],
+      "correct": "done",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book ___ she gave me was very interesting.",
+      "answers": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "correct": "which",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Although it was raining, we ___ for a walk.",
+      "answers": [
+        "go",
+        "went",
+        "are going",
+        "gone"
+      ],
+      "correct": "went",
+      "voiceUrl": ""
+    },
+    {
+      "question": "If I ___ more time, I would help you.",
+      "answers": [
+        "had",
+        "have",
+        "will have",
+        "am having"
+      ],
+      "correct": "had",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The test was ___ difficult than I expected.",
+      "answers": [
+        "most",
+        "more",
+        "many",
+        "much"
+      ],
+      "correct": "more",
+      "voiceUrl": ""
+    },
+    {
+      "question": "I am looking forward ___ my vacation.",
+      "answers": [
+        "to",
+        "at",
+        "on",
+        "in"
+      ],
+      "correct": "to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "It is vital that he ___ on time.",
+      "answers": [
+        "arrives",
+        "arrive",
+        "arrived",
+        "arriving"
+      ],
+      "correct": "arrive",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The novel ___ by Jane Austen was published in 1813.",
+      "answers": [
+        "writing",
+        "written",
+        "wrote",
+        "write"
+      ],
+      "correct": "written",
+      "voiceUrl": ""
+    },
+    {
+      "question": "I wish I ___ play the piano.",
+      "answers": [
+        "can",
+        "could",
+        "will",
+        "would"
+      ],
+      "correct": "could",
+      "voiceUrl": ""
+    },
+    {
+      "question": "This project will be finished by the end of next month, ___?",
+      "answers": [
+        "won't it",
+        "isn't it",
+        "don't it",
+        "didn't it"
+      ],
+      "correct": "won't it",
+      "voiceUrl": ""
+    },
+    {
+      "question": "No sooner ___ the train left than she arrived.",
+      "answers": [
+        "had",
+        "have",
+        "did",
+        "was"
+      ],
+      "correct": "had",
+      "voiceUrl": ""
+    },
+    {
+      "question": "He speaks as if he ___ the manager.",
+      "answers": [
+        "is",
+        "was",
+        "were",
+        "be"
+      ],
+      "correct": "were",
+      "voiceUrl": ""
+    },
+    {
+      "question": "It is imperative that she ___ the documents tonight.",
+      "answers": [
+        "submit",
+        "submits",
+        "submitted",
+        "submitting"
+      ],
+      "correct": "submit",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The scientist, ___ theory was revolutionary, changed modern physics.",
+      "answers": [
+        "whom",
+        "whose",
+        "which",
+        "who"
+      ],
+      "correct": "whose",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Had I known about the traffic, I ___ earlier.",
+      "answers": [
+        "would leave",
+        "would have left",
+        "had left",
+        "am leaving"
+      ],
+      "correct": "would have left",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Not only ___ the project, but she also presented it.",
+      "answers": [
+        "she finished",
+        "did she finish",
+        "she finishes",
+        "finishing she"
+      ],
+      "correct": "did she finish",
+      "voiceUrl": ""
+    },
+    {
+      "question": "He can scarcely ___ the shock of the news.",
+      "answers": [
+        "believe",
+        "believed",
+        "believing",
+        "believes"
+      ],
+      "correct": "believe",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The CEO insisted that every employee ___ the meeting.",
+      "answers": [
+        "attend",
+        "attends",
+        "attended",
+        "is attending"
+      ],
+      "correct": "attend",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book, ___ I had borrowed from the library, was fascinating.",
+      "answers": [
+        "that",
+        "what",
+        "which",
+        "whom"
+      ],
+      "correct": "which",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Provided that she ___ enough time, she will complete the assignment.",
+      "answers": [
+        "is given",
+        "gives",
+        "gave",
+        "giving"
+      ],
+      "correct": "is given",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Rarely ___ such a beautiful scene.",
+      "answers": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "I had seen"
+      ],
+      "correct": "have I seen",
+      "voiceUrl": ""
+    }
+  ]
+}

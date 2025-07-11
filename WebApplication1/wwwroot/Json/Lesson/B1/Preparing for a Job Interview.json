@@ -1,0 +1,105 @@
+{
+  "lesson": "Preparing for a Job Interview",
+  "words": [
+    {
+      "word": "interview",
+      "definition": "A meeting to ask questions before hiring.",
+      "arabic": "مقابلة عمل",
+      "arabic_definition": "اجتماع لطرح أسئلة قبل التوظيف.",
+      "example": {
+        "en": "She has a job interview tomorrow.",
+        "ar": "لديها مقابلة عمل غداً."
+      }
+    },
+    {
+      "word": "resume",
+      "definition": "A summary of education and work experience.",
+      "arabic": "السيرة الذاتية",
+      "arabic_definition": "ملخص التعليم والخبرة العملية.",
+      "example": {
+        "en": "Make sure your resume is up to date.",
+        "ar": "تأكد من أن سيرتك الذاتية محدثة."
+      }
+    },
+    {
+      "word": "applicant",
+      "definition": "A person who applies for a job.",
+      "arabic": "متقدم للوظيفة",
+      "arabic_definition": "شخص يتقدم لوظيفة.",
+      "example": {
+        "en": "There were many applicants for the position.",
+        "ar": "كان هناك العديد من المتقدمين للوظيفة."
+      }
+    },
+    {
+      "word": "question",
+      "definition": "Something you ask to get information.",
+      "arabic": "سؤال",
+      "arabic_definition": "شيء تسأله للحصول على معلومات.",
+      "example": {
+        "en": "They asked many questions during the interview.",
+        "ar": "طرحوا العديد من الأسئلة أثناء المقابلة."
+      }
+    },
+    {
+      "word": "answer",
+      "definition": "What you say in reply to a question.",
+      "arabic": "إجابة",
+      "arabic_definition": "ما تقوله ردًا على سؤال.",
+      "example": {
+        "en": "Give clear answers to the questions.",
+        "ar": "أعطِ إجابات واضحة للأسئلة."
+      }
+    },
+    {
+      "word": "prepare",
+      "definition": "To get ready for something.",
+      "arabic": "يُحضّر",
+      "arabic_definition": "يستعد لشيء ما.",
+      "example": {
+        "en": "Prepare your answers before the interview.",
+        "ar": "حضّر إجاباتك قبل المقابلة."
+      }
+    },
+    {
+      "word": "nervous",
+      "definition": "Feeling worried or anxious.",
+      "arabic": "متوتر",
+      "arabic_definition": "شعور بالقلق أو التوتر.",
+      "example": {
+        "en": "It's normal to feel nervous before an interview.",
+        "ar": "من الطبيعي أن تشعر بالتوتر قبل المقابلة."
+      }
+    },
+    {
+      "word": "strength",
+      "definition": "A good quality or skill.",
+      "arabic": "قوة / ميزة",
+      "arabic_definition": "صفة أو مهارة جيدة.",
+      "example": {
+        "en": "Talk about your strengths during the interview.",
+        "ar": "تحدث عن نقاط قوتك أثناء المقابلة."
+      }
+    },
+    {
+      "word": "weakness",
+      "definition": "An area that needs improvement.",
+      "arabic": "ضعف / نقطة ضعف",
+      "arabic_definition": "مجال يحتاج إلى تحسين.",
+      "example": {
+        "en": "Be honest about your weaknesses.",
+        "ar": "كن صريحًا بشأن نقاط ضعفك."
+      }
+    },
+    {
+      "word": "follow-up",
+      "definition": "Contacting the employer after the interview.",
+      "arabic": "متابعة",
+      "arabic_definition": "التواصل مع صاحب العمل بعد المقابلة.",
+      "example": {
+        "en": "Send a follow-up email to thank the interviewer.",
+        "ar": "أرسل بريدًا إلكترونيًا للمتابعة وشكر المحاور."
+      }
+    }
+  ]
+}

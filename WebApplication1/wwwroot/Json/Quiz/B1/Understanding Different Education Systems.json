@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Understanding Different Education Systems Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'The education system is different in every country' in Arabic?",
+      "answers": [ "نظام التعليم مختلف في كل بلد", "نظام التعليم هو نفسه", "أنا لا أدرس", "أنا ألعب" ],
+      "correct": "نظام التعليم مختلف في كل بلد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Primary school is for young children'?",
+      "answers": [ "المدرسة الابتدائية للأطفال الصغار", "الجامعة للكبار فقط", "أنا ألعب", "أنا أدرس" ],
+      "correct": "المدرسة الابتدائية للأطفال الصغار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Secondary school comes after primary school' in Arabic?",
+      "answers": [ "المدرسة الثانوية تأتي بعد الابتدائية", "الابتدائية بعد الثانوية", "أنا ألعب", "أنا أدرس" ],
+      "correct": "المدرسة الثانوية تأتي بعد الابتدائية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'University education lasts several years'?",
+      "answers": [ "التعليم الجامعي يستمر عدة سنوات", "التعليم قصير", "أنا ألعب", "أنا أدرس" ],
+      "correct": "التعليم الجامعي يستمر عدة سنوات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Vocational training teaches practical skills' in Arabic?",
+      "answers": [ "التدريب المهني يعلم مهارات عملية", "التدريب النظري فقط", "أنا ألعب", "أنا أدرس" ],
+      "correct": "التدريب المهني يعلم مهارات عملية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Some countries have free education'?",
+      "answers": [ "بعض الدول لديها تعليم مجاني", "التعليم مكلف", "أنا ألعب", "أنا أدرس" ],
+      "correct": "بعض الدول لديها تعليم مجاني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Education systems vary worldwide' in Arabic?",
+      "answers": [ "أنظمة التعليم تختلف حول العالم", "أنظمة التعليم متشابهة", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أنظمة التعليم تختلف حول العالم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Kindergarten is for very young children'?",
+      "answers": [ "رياض الأطفال للأطفال الصغار جداً", "المدرسة الثانوية للأطفال", "أنا ألعب", "أنا أدرس" ],
+      "correct": "رياض الأطفال للأطفال الصغار جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Some countries use a semester system' in Arabic?",
+      "answers": [ "بعض الدول تستخدم نظام الفصل الدراسي", "بعض الدول لا تستخدم الفصول", "أنا ألعب", "أنا أدرس" ],
+      "correct": "بعض الدول تستخدم نظام الفصل الدراسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Exams are held at the end of the year'?",
+      "answers": [ "الامتحانات تجرى في نهاية العام", "الامتحانات في بداية العام", "أنا ألعب", "أنا أدرس" ],
+      "correct": "الامتحانات تجرى في نهاية العام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Students get grades for their work' in Arabic?",
+      "answers": [ "يحصل الطلاب على درجات", "لا يحصل الطلاب على درجات", "أنا ألعب", "أنا أدرس" ],
+      "correct": "يحصل الطلاب على درجات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Some schools have uniforms'?",
+      "answers": [ "بعض المدارس لديها زي رسمي", "جميع المدارس لا تملك زي", "أنا ألعب", "أنا أدرس" ],
+      "correct": "بعض المدارس لديها زي رسمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Distance learning is becoming popular' in Arabic?",
+      "answers": [ "التعلم عن بعد أصبح شائعاً", "التعلم وجهاً لوجه فقط", "أنا ألعب", "أنا أدرس" ],
+      "correct": "التعلم عن بعد أصبح شائعاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Teachers have different qualifications'?",
+      "answers": [ "المعلمون لديهم مؤهلات مختلفة", "المعلمون جميعهم متشابهون", "أنا ألعب", "أنا أدرس" ],
+      "correct": "المعلمون لديهم مؤهلات مختلفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Education is important for everyone' in Arabic?",
+      "answers": [ "التعليم مهم للجميع", "التعليم غير مهم", "أنا ألعب", "أنا أدرس" ],
+      "correct": "التعليم مهم للجميع",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 1 - Handling Disagreement and Conflict Quiz",
+  "questions": [
+    {
+      "question": "What is a polite way to disagree in a conversation?",
+      "answers": [
+        "I see your point, but I think...",
+        "You are wrong!",
+        "That's nonsense!",
+        "Shut up!"
+      ],
+      "correct": "I see your point, but I think...",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase is used to calm a conflict?",
+      "answers": [
+        "Let's find a solution together.",
+        "You always make mistakes.",
+        "I don't want to talk to you.",
+        "That's your problem."
+      ],
+      "correct": "Let's find a solution together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I understand your opinion, but I disagree' politely?",
+      "answers": [
+        "I respect your opinion, but I have a different view.",
+        "You're wrong and I am right.",
+        "That's stupid.",
+        "You don't know anything."
+      ],
+      "correct": "I respect your opinion, but I have a different view.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is NOT a good way to handle conflict?",
+      "answers": [
+        "Ignoring the problem.",
+        "Listening carefully.",
+        "Expressing feelings calmly.",
+        "Seeking compromise."
+      ],
+      "correct": "Ignoring the problem.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you avoid in a disagreement?",
+      "answers": [
+        "Raising your voice.",
+        "Using clear examples.",
+        "Staying calm.",
+        "Asking questions."
+      ],
+      "correct": "Raising your voice.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'finding common ground' mean?",
+      "answers": [
+        "Agreeing on something you both accept.",
+        "Ignoring the other person.",
+        "Winning the argument.",
+        "Being silent."
+      ],
+      "correct": "Agreeing on something you both accept.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you express disagreement respectfully?",
+      "answers": [
+        "I see it differently because...",
+        "You're wrong.",
+        "No way!",
+        "Stop talking."
+      ],
+      "correct": "I see it differently because...",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a good phrase to end a conflict?",
+      "answers": [
+        "Let's agree to disagree.",
+        "You lost.",
+        "I don't care anymore.",
+        "You're terrible."
+      ],
+      "correct": "Let's agree to disagree.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'compromise' mean in conflict resolution?",
+      "answers": [
+        "Both sides give something to reach an agreement.",
+        "One side wins completely.",
+        "Ignoring the problem.",
+        "Avoiding the conversation."
+      ],
+      "correct": "Both sides give something to reach an agreement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can active listening help in disagreements?",
+      "answers": [
+        "By understanding the other person's point of view.",
+        "By interrupting frequently.",
+        "By ignoring feelings.",
+        "By changing the subject."
+      ],
+      "correct": "By understanding the other person's point of view.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good response to a disagreement?",
+      "answers": [
+        "That's an interesting perspective.",
+        "You're wrong!",
+        "I don't want to listen.",
+        "That's stupid."
+      ],
+      "correct": "That's an interesting perspective.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you react if someone gets angry during a disagreement?",
+      "answers": [
+        "Stay calm and listen.",
+        "Get angry back.",
+        "Ignore them.",
+        "Walk away immediately."
+      ],
+      "correct": "Stay calm and listen.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to avoid blaming during conflicts?",
+      "answers": [
+        "It prevents making the situation worse.",
+        "It shows you are right.",
+        "It ends the conversation fast.",
+        "It makes people angry."
+      ],
+      "correct": "It prevents making the situation worse.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase shows empathy in a disagreement?",
+      "answers": [
+        "I understand why you feel that way.",
+        "You should feel ashamed.",
+        "You're wrong and that's final.",
+        "I don't care."
+      ],
+      "correct": "I understand why you feel that way.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you stay respectful when disagreeing?",
+      "answers": [
+        "Avoid insults and focus on ideas.",
+        "Raise your voice to be heard.",
+        "Ignore the other person.",
+        "Change the subject."
+      ],
+      "correct": "Avoid insults and focus on ideas.",
+      "voiceUrl": ""
+    }
+  ]
+}

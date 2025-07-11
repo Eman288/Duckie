@@ -1,0 +1,105 @@
+{
+  "lesson": "Modals and Subjunctive Forms in Context",
+  "words": [
+    {
+      "word": "should",
+      "definition": "Used for advice or recommendations.",
+      "arabic": "ينبغي",
+      "arabic_definition": "تستخدم للنصيحة أو التوصيات.",
+      "example": {
+        "en": "You should review your notes before the exam.",
+        "ar": "ينبغي أن تراجع ملاحظاتك قبل الامتحان."
+      }
+    },
+    {
+      "word": "could",
+      "definition": "Used for possibility or politeness.",
+      "arabic": "يمكن",
+      "arabic_definition": "تستخدم للإمكانية أو التحدث بلطف.",
+      "example": {
+        "en": "You could ask for help if needed.",
+        "ar": "يمكنك طلب المساعدة عند الحاجة."
+      }
+    },
+    {
+      "word": "would",
+      "definition": "Used for hypothetical situations.",
+      "arabic": "سي",
+      "arabic_definition": "تستخدم للحالات الافتراضية.",
+      "example": {
+        "en": "I would travel more if I had more money.",
+        "ar": "كنت سأسافر أكثر لو كان لدي المزيد من المال."
+      }
+    },
+    {
+      "word": "might",
+      "definition": "Used for expressing a possibility.",
+      "arabic": "ربما",
+      "arabic_definition": "تستخدم للتعبير عن الاحتمالية.",
+      "example": {
+        "en": "It might rain later.",
+        "ar": "ربما ستمطر لاحقًا."
+      }
+    },
+    {
+      "word": "subjunctive",
+      "definition": "A verb form used to express wishes or hypothetical scenarios.",
+      "arabic": "صيغة الشرط",
+      "arabic_definition": "صيغة تستخدم للتعبير عن الأمنيات أو الاحتمالات.",
+      "example": {
+        "en": "I recommend that she be present.",
+        "ar": "أوصي بأن تكون حاضرة."
+      }
+    },
+    {
+      "word": "demand",
+      "definition": "To ask for something forcefully.",
+      "arabic": "مطالبة",
+      "arabic_definition": "طلب شيء بلهجة حازمة.",
+      "example": {
+        "en": "He demands that the results be announced soon.",
+        "ar": "يطالب بأن يتم الإعلان عن النتائج قريبًا."
+      }
+    },
+    {
+      "word": "insist",
+      "definition": "To state firmly that something must be done.",
+      "arabic": "الإصرار",
+      "arabic_definition": "التأكيد على ضرورة القيام بشيء.",
+      "example": {
+        "en": "They insist that the agreement be signed.",
+        "ar": "أصرّوا على توقيع الاتفاق."
+      }
+    },
+    {
+      "word": "recommend",
+      "definition": "To suggest that something is a good idea.",
+      "arabic": "التوصية",
+      "arabic_definition": "اقتراح شيء على أنه فكرة جيدة.",
+      "example": {
+        "en": "I recommend that you review the documents.",
+        "ar": "أوصي بأن تراجع الوثائق."
+      }
+    },
+    {
+      "word": "propose",
+      "definition": "To put forth an idea for consideration.",
+      "arabic": "اقتراح",
+      "arabic_definition": "عرض فكرة للنظر فيها.",
+      "example": {
+        "en": "He proposed that we reschedule the meeting.",
+        "ar": "اقترح أن نعيد جدولة الاجتماع."
+      }
+    },
+    {
+      "word": "suggest",
+      "definition": "To mention an idea for consideration.",
+      "arabic": "اقتراح",
+      "arabic_definition": "ذكر فكرة للنظر فيها.",
+      "example": {
+        "en": "I suggest that we review the budget.",
+        "ar": "أقترح أن نراجع الميزانية."
+      }
+    }
+  ]
+}

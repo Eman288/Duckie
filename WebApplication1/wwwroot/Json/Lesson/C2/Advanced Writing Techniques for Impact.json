@@ -1,0 +1,105 @@
+{
+  "lesson": "Advanced Writing Techniques for Impact",
+  "words": [
+    {
+      "word": "coherence",
+      "definition": "The quality of being logical and consistent.",
+      "arabic": "ترابط",
+      "arabic_definition": "جودة الاتساق والمنطق.",
+      "example": {
+        "en": "Coherence is vital for making an essay easy to understand.",
+        "ar": "الترابط ضروري لجعل المقال سهل الفهم."
+      }
+    },
+    {
+      "word": "conciseness",
+      "definition": "Expressing much in few words.",
+      "arabic": "الإيجاز",
+      "arabic_definition": "التعبير عن الكثير باستخدام كلمات قليلة.",
+      "example": {
+        "en": "Conciseness improves readability.",
+        "ar": "الإيجاز يحسن قابلية القراءة."
+      }
+    },
+    {
+      "word": "emphasis",
+      "definition": "Special importance placed upon a word or idea.",
+      "arabic": "التأكيد",
+      "arabic_definition": "الأهمية الخاصة الموضوعة على كلمة أو فكرة.",
+      "example": {
+        "en": "He used bold text for emphasis.",
+        "ar": "استخدم نصًا عريضًا للتأكيد."
+      }
+    },
+    {
+      "word": "meticulous",
+      "definition": "Careful and precise.",
+      "arabic": "دقيق",
+      "arabic_definition": "حريص ومتكامل.",
+      "example": {
+        "en": "Her writing is meticulous and well-researched.",
+        "ar": "كتاباتها دقيقة ومدعومة بالأبحاث."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "Exactness and accuracy.",
+      "arabic": "الدقة",
+      "arabic_definition": "الصحة والدقة.",
+      "example": {
+        "en": "Technical documents require precision.",
+        "ar": "تتطلب الوثائق التقنية الدقة."
+      }
+    },
+    {
+      "word": "fluency",
+      "definition": "The ability to write smoothly and effectively.",
+      "arabic": "طلاقة",
+      "arabic_definition": "القدرة على الكتابة بسلاسة وفعالية.",
+      "example": {
+        "en": "Fluency allows ideas to flow naturally.",
+        "ar": "تمكّن الطلاقة الأفكار من التدفق بشكل طبيعي."
+      }
+    },
+    {
+      "word": "articulation",
+      "definition": "Clear and precise expression.",
+      "arabic": "التعبير الواضح",
+      "arabic_definition": "التعبير بوضوح ودقة.",
+      "example": {
+        "en": "Articulation is vital in formal writing.",
+        "ar": "التعبير الواضح ضروري في الكتابة الرسمية."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The attitude of a piece of writing.",
+      "arabic": "نغمة",
+      "arabic_definition": "موقف النص أو طريقة التعبير.",
+      "example": {
+        "en": "The tone of the essay was serious and authoritative.",
+        "ar": "كانت نغمة المقال جدية وذات سلطة."
+      }
+    },
+    {
+      "word": "structure",
+      "definition": "The organization of ideas in writing.",
+      "arabic": "البنية",
+      "arabic_definition": "ترتيب وتنظيم الأفكار في الكتابة.",
+      "example": {
+        "en": "A strong structure makes an essay more compelling.",
+        "ar": "البنية القوية تجعل المقال أقرب للإقناع."
+      }
+    },
+    {
+      "word": "revision",
+      "definition": "The process of making changes to improve writing.",
+      "arabic": "المراجعة",
+      "arabic_definition": "عملية إجراء تغييرات لتحسين الكتابة.",
+      "example": {
+        "en": "Revision is a vital step in the writing process.",
+        "ar": "المراجعة خطوة مهمة في عملية الكتابة."
+      }
+    }
+  ]
+}

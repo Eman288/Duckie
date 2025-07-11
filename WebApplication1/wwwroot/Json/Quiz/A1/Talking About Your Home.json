@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Talking About Your Home Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'This is my house' in Arabic?",
+      "answers": [ "هذا بيتي", "هذا باب", "هذه غرفتي", "هذا مكتبي" ],
+      "correct": "هذا بيتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'My room'?",
+      "answers": [ "بيتي", "غرفتي", "حمامي", "مكتبي" ],
+      "correct": "غرفتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The kitchen is big' in Arabic?",
+      "answers": [ "المطبخ صغير", "المطبخ كبير", "الغرفة كبيرة", "المكتب كبير" ],
+      "correct": "المطبخ كبير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I live in an apartment'?",
+      "answers": [ "أعيش في شقة", "أعيش في مكتب", "أعيش في بيت", "أعيش في حديقة" ],
+      "correct": "أعيش في شقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The bathroom is clean' in Arabic?",
+      "answers": [ "الحمام نظيف", "الغرفة كبيرة", "المكتب صغير", "المطبخ واسع" ],
+      "correct": "الحمام نظيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My bed is comfortable'?",
+      "answers": [ "سريري مريح", "كرسي مريح", "مكتب مريح", "باب مريح" ],
+      "correct": "سريري مريح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a garden' in Arabic?",
+      "answers": [ "عندي حديقة", "عندي مكتب", "عندي باب", "عندي حمام" ],
+      "correct": "عندي حديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'The living room is spacious'?",
+      "answers": [ "الصالة واسعة", "الغرفة صغيرة", "المكتب كبير", "المطبخ مريح" ],
+      "correct": "الصالة واسعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a desk in my room' in Arabic?",
+      "answers": [ "عندي مكتب في غرفتي", "عندي باب في غرفتي", "عندي سرير في مكتبي", "عندي مطبخ في غرفتي" ],
+      "correct": "عندي مكتب في غرفتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My house has three rooms'?",
+      "answers": [ "بيتي يحتوي على ثلاث غرف", "بيتي يحتوي على باب", "بيتي يحتوي على مكتب", "بيتي يحتوي على حمام" ],
+      "correct": "بيتي يحتوي على ثلاث غرف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The bedroom is next to the bathroom' in Arabic?",
+      "answers": [ "الغرفة بجانب الحمام", "المكتب تحت الحمام", "الغرفة على الحمام", "المكتب بجانب الباب" ],
+      "correct": "الغرفة بجانب الحمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My room has a bed and a desk'?",
+      "answers": [ "غرفتي تحتوي على سرير ومكتب", "غرفتي تحتوي على باب ونافذة", "غرفتي تحتوي على حمام ومكتب", "غرفتي تحتوي على باب ومكتب" ],
+      "correct": "غرفتي تحتوي على سرير ومكتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'The kitchen is near the living room' in Arabic?",
+      "answers": [ "المطبخ قريب من الصالة", "المكتب بعيد عن الصالة", "الغرفة قريبة من المكتب", "الباب قريب من الحديقة" ],
+      "correct": "المطبخ قريب من الصالة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My house is beautiful'?",
+      "answers": [ "بيتي جميل", "بيتي كبير", "بيتي صغير", "بيتي مريح" ],
+      "correct": "بيتي جميل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like my room' in Arabic?",
+      "answers": [ "أحب غرفتي", "أحب مكتبي", "أحب بابي", "أحب شرفتي" ],
+      "correct": "أحب غرفتي",
+      "voiceUrl": ""
+    }
+  ]
+}

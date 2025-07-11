@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - At the Airport Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Where is the check-in counter?' in Arabic?",
+      "answers": [ "أين مكتب تسجيل الوصول؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين مكتب تسجيل الوصول؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My flight is at 5 PM'",
+      "answers": [ "رحلتي الساعة الخامسة مساءً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "رحلتي الساعة الخامسة مساءً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a boarding pass' in Arabic?",
+      "answers": [ "لدي بطاقة صعود", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي بطاقة صعود",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where is the gate?'",
+      "answers": [ "أين البوابة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين البوابة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My luggage is too heavy' in Arabic?",
+      "answers": [ "حقيبتي ثقيلة جداً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "حقيبتي ثقيلة جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a connecting flight'",
+      "answers": [ "لدي رحلة متصلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي رحلة متصلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I lost my passport' in Arabic?",
+      "answers": [ "فقدت جواز سفري", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "فقدت جواز سفري",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My flight is delayed'",
+      "answers": [ "تم تأجيل رحلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم تأجيل رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for the departure gate' in Arabic?",
+      "answers": [ "أبحث عن بوابة المغادرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن بوابة المغادرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'May I have a window seat?'",
+      "answers": [ "هل يمكنني الحصول على مقعد بجوار النافذة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هل يمكنني الحصول على مقعد بجوار النافذة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My gate has changed' in Arabic?",
+      "answers": [ "تم تغيير بوابتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم تغيير بوابتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a lot of baggage'",
+      "answers": [ "لدي الكثير من الحقائب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي الكثير من الحقائب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Where can I pick up my luggage?' in Arabic?",
+      "answers": [ "أين يمكنني استلام أمتعتي؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أين يمكنني استلام أمتعتي؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My flight has been cancelled'",
+      "answers": [ "تم إلغاء رحلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم إلغاء رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am traveling for work' in Arabic?",
+      "answers": [ "أنا مسافر للعمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مسافر للعمل",
+      "voiceUrl": ""
+    }
+  ]
+}

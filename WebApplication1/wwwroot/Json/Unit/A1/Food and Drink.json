@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 5 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'food'?",
+      "answers": [ "ماء", "طعام", "كتاب", "شاي" ],
+      "correct": "طعام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'drink' in Arabic?",
+      "answers": [ "خضار", "مشروب", "طبق", "فطور" ],
+      "correct": "مشروب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'فطور'?",
+      "answers": [ "dinner", "breakfast", "lunch", "snack" ],
+      "correct": "breakfast",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'dinner' in Arabic?",
+      "answers": [ "غداء", "فطور", "عشاء", "حلوى" ],
+      "correct": "عشاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'fruit' mean in Arabic?",
+      "answers": [ "خضار", "فاكهة", "لحمة", "ماء" ],
+      "correct": "فاكهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'vegetables' in Arabic?",
+      "answers": [ "خضار", "لحمة", "فاكهة", "حلوى" ],
+      "correct": "خضار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'meat'?",
+      "answers": [ "خضار", "لحمة", "حلوى", "ماء" ],
+      "correct": "لحمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'dessert' in Arabic?",
+      "answers": [ "حلوى", "خضار", "فطور", "عشاء" ],
+      "correct": "حلوى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'مشروب'?",
+      "answers": [ "fruit", "drink", "meal", "meat" ],
+      "correct": "drink",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'countable' in context of food?",
+      "answers": [ "apple", "water", "milk", "rice" ],
+      "correct": "apple",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'uncountable' in context of drinks?",
+      "answers": [ "milk", "burger", "potato", "fruit" ],
+      "correct": "milk",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'menu'?",
+      "answers": [ "قائمة الطعام", "حلوى", "خضار", "شاي" ],
+      "correct": "قائمة الطعام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'order' in a restaurant context?",
+      "answers": [ "حجز", "طلب", "قائمة", "حلوى" ],
+      "correct": "طلب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'I like pizza' mean in Arabic?",
+      "answers": [ "أنا أحب البيتزا", "أنا أشرب البيتزا", "أنا أكل البيتزا", "أنا أكره البيتزا" ],
+      "correct": "أنا أحب البيتزا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'I don’t like fish' in Arabic?",
+      "answers": [ "أنا أحب السمك", "أنا لا أحب السمك", "أنا أطلب السمك", "أنا أصنع السمك" ],
+      "correct": "أنا لا أحب السمك",
+      "voiceUrl": ""
+    }
+  ]
+}

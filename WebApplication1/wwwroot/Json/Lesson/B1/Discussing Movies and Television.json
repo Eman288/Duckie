@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Movies and Television",
+  "words": [
+    {
+      "word": "movie",
+      "definition": "A story told through moving pictures shown in a cinema or on TV.",
+      "arabic": "فيلم",
+      "arabic_definition": "قصة تُروى من خلال صور متحركة تُعرض في السينما أو التلفزيون.",
+      "example": {
+        "en": "We watched a new movie last night.",
+        "ar": "شاهدنا فيلماً جديداً الليلة الماضية."
+      }
+    },
+    {
+      "word": "actor",
+      "definition": "A person who performs in movies or TV shows.",
+      "arabic": "ممثل",
+      "arabic_definition": "شخص يؤدي أدواراً في الأفلام أو البرامج التلفزيونية.",
+      "example": {
+        "en": "The actor won an award for his performance.",
+        "ar": "فاز الممثل بجائزة عن أدائه."
+      }
+    },
+    {
+      "word": "director",
+      "definition": "A person who controls how a movie or show is made.",
+      "arabic": "مخرج",
+      "arabic_definition": "شخص يوجه كيفية صناعة الفيلم أو العرض.",
+      "example": {
+        "en": "The director decided to change the ending.",
+        "ar": "قرر المخرج تغيير النهاية."
+      }
+    },
+    {
+      "word": "episode",
+      "definition": "One part of a TV series.",
+      "arabic": "حلقة",
+      "arabic_definition": "جزء واحد من مسلسل تلفزيوني.",
+      "example": {
+        "en": "I watched the first episode of the series.",
+        "ar": "شاهدت الحلقة الأولى من المسلسل."
+      }
+    },
+    {
+      "word": "plot",
+      "definition": "The main story of a movie or show.",
+      "arabic": "حبكة القصة",
+      "arabic_definition": "القصة الرئيسية للفيلم أو العرض.",
+      "example": {
+        "en": "The movie has an interesting plot.",
+        "ar": "الفيلم لديه حبكة قصة مثيرة."
+      }
+    },
+    {
+      "word": "genre",
+      "definition": "A category of movies or shows, like comedy or drama.",
+      "arabic": "نوع",
+      "arabic_definition": "فئة من الأفلام أو البرامج مثل الكوميديا أو الدراما.",
+      "example": {
+        "en": "My favorite genre is action.",
+        "ar": "نوعي المفضل هو الأكشن."
+      }
+    },
+    {
+      "word": "series",
+      "definition": "A set of related TV episodes.",
+      "arabic": "مسلسل",
+      "arabic_definition": "مجموعة من الحلقات التلفزيونية المرتبطة.",
+      "example": {
+        "en": "The series is very popular worldwide.",
+        "ar": "المسلسل شائع جداً في جميع أنحاء العالم."
+      }
+    },
+    {
+      "word": "subtitles",
+      "definition": "Words shown on screen to translate or transcribe dialogue.",
+      "arabic": "ترجمة نصية",
+      "arabic_definition": "كلمات تظهر على الشاشة لترجمة أو نسخ الحوار.",
+      "example": {
+        "en": "I watched the movie with English subtitles.",
+        "ar": "شاهدت الفيلم مع ترجمة إنجليزية."
+      }
+    },
+    {
+      "word": "commercial",
+      "definition": "A short advertisement shown during TV breaks.",
+      "arabic": "إعلان تجاري",
+      "arabic_definition": "إعلان قصير يُعرض أثناء فواصل التلفزيون.",
+      "example": {
+        "en": "The commercial was very funny.",
+        "ar": "كان الإعلان التجاري مضحكًا جدًا."
+      }
+    },
+    {
+      "word": "review",
+      "definition": "An opinion about a movie or show.",
+      "arabic": "مراجعة",
+      "arabic_definition": "رأي حول فيلم أو برنامج.",
+      "example": {
+        "en": "The movie got good reviews from critics.",
+        "ar": "حصل الفيلم على مراجعات جيدة من النقاد."
+      }
+    }
+  ]
+}

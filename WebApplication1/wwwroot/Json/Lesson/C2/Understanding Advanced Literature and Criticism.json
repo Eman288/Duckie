@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Advanced Literature and Criticism",
+  "words": [
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech that describes one thing as another.",
+      "arabic": "استعارة",
+      "arabic_definition": "طريقة بلاغية تصف شيئًا على أنه شيء آخر.",
+      "example": {
+        "en": "The book used a powerful metaphor for life.",
+        "ar": "استخدم الكتاب استعارة مؤثرة للحياة."
+      }
+    },
+    {
+      "word": "allusion",
+      "definition": "A reference to another piece of literature or event.",
+      "arabic": "إشارة أدبية",
+      "arabic_definition": "إشارة إلى عمل أدبي آخر أو حدث.",
+      "example": {
+        "en": "The poem contains an allusion to Shakespeare.",
+        "ar": "تحتوي القصيدة على إشارة إلى شكسبير."
+      }
+    },
+    {
+      "word": "critique",
+      "definition": "A detailed analysis and assessment of a piece of work.",
+      "arabic": "نقد",
+      "arabic_definition": "تحليل وتقييم مفصل لعمل ما.",
+      "example": {
+        "en": "He wrote a critique of the novel.",
+        "ar": "كتب نقدًا للرواية."
+      }
+    },
+    {
+      "word": "narrative",
+      "definition": "A spoken or written account of events.",
+      "arabic": "سرد",
+      "arabic_definition": "حكاية مكتوبة أو محكية للأحداث.",
+      "example": {
+        "en": "The book has a strong narrative voice.",
+        "ar": "للكتاب صوت سرد قوي."
+      }
+    },
+    {
+      "word": "irony",
+      "definition": "The use of words to imply the opposite of their literal meaning.",
+      "arabic": "السخرية",
+      "arabic_definition": "استخدام كلمات تشير إلى عكس معناها الحرفي.",
+      "example": {
+        "en": "The scene is full of bitter irony.",
+        "ar": "المشهد مليء بالسخرية اللاذعة."
+      }
+    },
+    {
+      "word": "theme",
+      "definition": "The central idea or subject of a piece of work.",
+      "arabic": "موضوع",
+      "arabic_definition": "الفكرة المحورية أو موضوع العمل.",
+      "example": {
+        "en": "The theme of the novel is resilience.",
+        "ar": "موضوع الرواية هو المرونة."
+      }
+    },
+    {
+      "word": "motif",
+      "definition": "A recurring element or symbol in a piece of work.",
+      "arabic": "فكرة مكررة",
+      "arabic_definition": "عنصر أو رمز متكرر في عمل أدبي.",
+      "example": {
+        "en": "The author uses a bird motif throughout the book.",
+        "ar": "استخدم المؤلف فكرة الطائر مكررة طوال الكتاب."
+      }
+    },
+    {
+      "word": "allegory",
+      "definition": "A story with a symbolic, deeper meaning.",
+      "arabic": "قصة رمزية",
+      "arabic_definition": "قصة تحمل معنى أعمق ورمزي.",
+      "example": {
+        "en": "The book is an allegory about human nature.",
+        "ar": "الكتاب هو قصة رمزية عن طبيعة البشر."
+      }
+    },
+    {
+      "word": "satire",
+      "definition": "The use of humor or exaggeration to criticize.",
+      "arabic": "الهجاء",
+      "arabic_definition": "استخدام الفكاهة أو المبالغة للنقد.",
+      "example": {
+        "en": "The play is a satire of modern politics.",
+        "ar": "المسرحية هجاء للسياسة الحديثة."
+      }
+    },
+    {
+      "word": "analogy",
+      "definition": "A comparison between two things for explanation.",
+      "arabic": "التشبيه",
+      "arabic_definition": "مقارنة بين شيئين لأغراض توضيحية.",
+      "example": {
+        "en": "He used an analogy to clarify the theory.",
+        "ar": "استخدم تشبيهًا لشرح النظرية."
+      }
+    }
+  ]
+}

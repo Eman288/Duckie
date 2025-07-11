@@ -1,0 +1,105 @@
+{
+  "lesson": "Asking for Tourist Information",
+  "words": [
+    {
+      "word": "information desk",
+      "definition": "A place where you can ask questions and get help.",
+      "arabic": "مكتب الاستعلامات",
+      "arabic_definition": "مكان يمكنك من طرح الأسئلة والحصول على المساعدة.",
+      "example": {
+        "en": "I went to the information desk for a map.",
+        "ar": "ذهبت إلى مكتب الاستعلامات للحصول على خريطة."
+      }
+    },
+    {
+      "word": "brochure",
+      "definition": "A small booklet about places to visit.",
+      "arabic": "كتيب",
+      "arabic_definition": "كتيب صغير عن الأماكن التي يمكن زيارتها.",
+      "example": {
+        "en": "I took a brochure about the museum.",
+        "ar": "أخذت كتيبًا عن المتحف."
+      }
+    },
+    {
+      "word": "attraction",
+      "definition": "A place that is popular with visitors.",
+      "arabic": "معلم سياحي",
+      "arabic_definition": "مكان يحظى بشعبية لدى الزوار.",
+      "example": {
+        "en": "The Eiffel Tower is a famous attraction.",
+        "ar": "برج إيفل معلم سياحي مشهور."
+      }
+    },
+    {
+      "word": "opening hours",
+      "definition": "The times when a place is open.",
+      "arabic": "ساعات العمل",
+      "arabic_definition": "الأوقات التي يتم فيها فتح المكان.",
+      "example": {
+        "en": "What are the opening hours of the museum?",
+        "ar": "ما هي ساعات عمل المتحف؟"
+      }
+    },
+    {
+      "word": "ticket price",
+      "definition": "The cost of entry.",
+      "arabic": "سعر التذكرة",
+      "arabic_definition": "تكلفة الدخول.",
+      "example": {
+        "en": "The ticket price is $10.",
+        "ar": "سعر التذكرة هو 10 دولارات."
+      }
+    },
+    {
+      "word": "map",
+      "definition": "A drawing of an area that shows places.",
+      "arabic": "خريطة",
+      "arabic_definition": "رسم لمنطقة توضح الأماكن.",
+      "example": {
+        "en": "We used a map to find the park.",
+        "ar": "استخدمنا خريطة للعثور على الحديقة."
+      }
+    },
+    {
+      "word": "tour guide",
+      "definition": "A person who shows and explains sights.",
+      "arabic": "مرشد سياحي",
+      "arabic_definition": "شخص يأخذ الزوار ويشرح لهم عن الأماكن.",
+      "example": {
+        "en": "The tour guide was very friendly.",
+        "ar": "كان المرشد السياحي ودودًا جدًا."
+      }
+    },
+    {
+      "word": "museum",
+      "definition": "A place where historical or cultural objects are kept.",
+      "arabic": "متحف",
+      "arabic_definition": "مكان يتم فيه حفظ القطع التاريخية أو الثقافية.",
+      "example": {
+        "en": "We visited a museum to learn about the history.",
+        "ar": "زرنا متحفًا لنتعرف على التاريخ."
+      }
+    },
+    {
+      "word": "landmark",
+      "definition": "A famous site in a city.",
+      "arabic": "معلم",
+      "arabic_definition": "مكان متميز ومشهور في مدينة.",
+      "example": {
+        "en": "Big Ben is a landmark in London.",
+        "ar": "بيج بن معلم متميز في لندن."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "A booking for a service or activity.",
+      "arabic": "حجز",
+      "arabic_definition": "حجز لخدمة أو نشاط.",
+      "example": {
+        "en": "I made a reservation for the tour.",
+        "ar": "حجزت جولة سياحية."
+      }
+    }
+  ]
+}

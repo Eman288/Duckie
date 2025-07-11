@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Discussing Movies and Television Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I like watching movies' in Arabic?",
+      "answers": [ "أحب مشاهدة الأفلام", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب مشاهدة الأفلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My favorite movie is a comedy'",
+      "answers": [ "فيلمي المفضل هو فيلم كوميدي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "فيلمي المفضل هو فيلم كوميدي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch the news every evening' in Arabic?",
+      "answers": [ "أشاهد الأخبار كل مساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأخبار كل مساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like action movies'",
+      "answers": [ "أحب أفلام الأكشن", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب أفلام الأكشن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'This series is very popular' in Arabic?",
+      "answers": [ "هذا المسلسل شائع جداً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هذا المسلسل شائع جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch documentaries'",
+      "answers": [ "أشاهد الأفلام الوثائقية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأفلام الوثائقية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like watching sports' in Arabic?",
+      "answers": [ "أحب مشاهدة الرياضة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب مشاهدة الرياضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I prefer movies with subtitles'",
+      "answers": [ "أفضل الأفلام التي تحتوي على ترجمة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أفضل الأفلام التي تحتوي على ترجمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'This actor is very famous' in Arabic?",
+      "answers": [ "هذا الممثل مشهور جداً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هذا الممثل مشهور جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like animated movies'",
+      "answers": [ "أحب الأفلام المتحركة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب الأفلام المتحركة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch movies with my family' in Arabic?",
+      "answers": [ "أشاهد الأفلام مع عائلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد الأفلام مع عائلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I don’t like horror movies'",
+      "answers": [ "لا أحب أفلام الرعب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لا أحب أفلام الرعب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch television in the evening' in Arabic?",
+      "answers": [ "أشاهد التلفاز في المساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد التلفاز في المساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like movies based on true stories'",
+      "answers": [ "أحب الأفلام المبنية على قصص حقيقية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب الأفلام المبنية على قصص حقيقية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am a big fan of this show' in Arabic?",
+      "answers": [ "أنا معجب كبير بهذا البرنامج", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا معجب كبير بهذا البرنامج",
+      "voiceUrl": ""
+    }
+  ]
+}

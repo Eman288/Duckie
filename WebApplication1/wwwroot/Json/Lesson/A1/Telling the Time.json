@@ -1,0 +1,105 @@
+{
+  "lesson": "Telling the Time",
+  "words": [
+    {
+      "word": "clock",
+      "definition": "A device used to tell time.",
+      "arabic": "ساعة",
+      "arabic_definition": "جهاز يُستخدم لمعرفة الوقت.",
+      "example": {
+        "en": "The clock shows 3 o'clock.",
+        "ar": "الساعة تُظهر الثالثة تماماً."
+      }
+    },
+    {
+      "word": "o'clock",
+      "definition": "Used to specify the hour.",
+      "arabic": "تماماً",
+      "arabic_definition": "تُستخدم لتحديد الساعة.",
+      "example": {
+        "en": "It is six o'clock.",
+        "ar": "إنها السادسة تماماً."
+      }
+    },
+    {
+      "word": "half past",
+      "definition": "Thirty minutes past the hour.",
+      "arabic": "والنصف",
+      "arabic_definition": "ثلاثون دقيقة بعد الساعة.",
+      "example": {
+        "en": "It is half past seven.",
+        "ar": "إنها السابعة والنصف."
+      }
+    },
+    {
+      "word": "quarter past",
+      "definition": "Fifteen minutes after the hour.",
+      "arabic": "والربع",
+      "arabic_definition": "خمس عشرة دقيقة بعد الساعة.",
+      "example": {
+        "en": "It is quarter past eight.",
+        "ar": "إنها الثامنة والربع."
+      }
+    },
+    {
+      "word": "quarter to",
+      "definition": "Fifteen minutes before the hour.",
+      "arabic": "إلا ربع",
+      "arabic_definition": "خمس عشرة دقيقة قبل الساعة.",
+      "example": {
+        "en": "It is quarter to nine.",
+        "ar": "إنها التاسعة إلا ربع."
+      }
+    },
+    {
+      "word": "minute",
+      "definition": "A unit of time equal to 60 seconds.",
+      "arabic": "دقيقة",
+      "arabic_definition": "وحدة زمنية تساوي 60 ثانية.",
+      "example": {
+        "en": "There are 60 minutes in an hour.",
+        "ar": "هناك 60 دقيقة في الساعة."
+      }
+    },
+    {
+      "word": "hour",
+      "definition": "A period of time equal to 60 minutes.",
+      "arabic": "ساعة",
+      "arabic_definition": "فترة زمنية تساوي 60 دقيقة.",
+      "example": {
+        "en": "I waited for one hour.",
+        "ar": "انتظرت لمدة ساعة."
+      }
+    },
+    {
+      "word": "AM",
+      "definition": "Time from midnight to noon.",
+      "arabic": "صباحاً",
+      "arabic_definition": "الوقت من منتصف الليل حتى الظهر.",
+      "example": {
+        "en": "He gets up at 7 AM.",
+        "ar": "يستيقظ في السابعة صباحاً."
+      }
+    },
+    {
+      "word": "PM",
+      "definition": "Time from noon to midnight.",
+      "arabic": "مساءً",
+      "arabic_definition": "الوقت من الظهر حتى منتصف الليل.",
+      "example": {
+        "en": "She sleeps at 10 PM.",
+        "ar": "تنام في العاشرة مساءً."
+      }
+    },
+    {
+      "word": "time",
+      "definition": "What is measured in hours and minutes.",
+      "arabic": "الوقت",
+      "arabic_definition": "ما يُقاس بالساعات والدقائق.",
+      "example": {
+        "en": "What time is it?",
+        "ar": "كم الساعة؟"
+      }
+    }
+  ]
+}

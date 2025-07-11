@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Understanding Mental Health Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I am feeling stressed' in Arabic?",
+      "answers": [ "أشعر بالتوتر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بالتوتر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling anxious'",
+      "answers": [ "أشعر بالقلق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بالقلق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am trying to relax' in Arabic?",
+      "answers": [ "أحاول الاسترخاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحاول الاسترخاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I need a break'",
+      "answers": [ "أحتاج إلى استراحة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحتاج إلى استراحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am tired' in Arabic?",
+      "answers": [ "أنا متعب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا متعب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling sad'",
+      "answers": [ "أشعر بالحزن", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بالحزن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am trying to stay calm' in Arabic?",
+      "answers": [ "أحاول البقاء هادئاً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحاول البقاء هادئاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling overwhelmed'",
+      "answers": [ "أشعر بأنني منهك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بأنني منهك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am feeling happy' in Arabic?",
+      "answers": [ "أشعر بالسعادة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بالسعادة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am looking for help'",
+      "answers": [ "أبحث عن مساعدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن مساعدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am focusing on self-care' in Arabic?",
+      "answers": [ "أركز على العناية بنفسي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أركز على العناية بنفسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am practicing mindfulness'",
+      "answers": [ "أمارس اليقظة الذهنية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أمارس اليقظة الذهنية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am trying to reduce stress' in Arabic?",
+      "answers": [ "أحاول تقليل التوتر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحاول تقليل التوتر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am making time for relaxation'",
+      "answers": [ "أخصص وقتاً للاسترخاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أخصص وقتاً للاسترخاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am talking to a counselor' in Arabic?",
+      "answers": [ "أتحدث إلى مستشار", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتحدث إلى مستشار",
+      "voiceUrl": ""
+    }
+  ]
+}

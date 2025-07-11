@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - At the Supermarket Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'shopping cart'?",
+      "answers": [ "عربة التسوق", "كيس", "رف", "ثلاجة" ],
+      "correct": "عربة التسوق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'price tag'?",
+      "answers": [ "بطاقة السعر", "سلة", "رف", "كاشير" ],
+      "correct": "بطاقة السعر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cashier'?",
+      "answers": [ "صراف", "زبون", "مدير", "موظف" ],
+      "correct": "صراف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'fresh vegetables'?",
+      "answers": [ "خضروات طازجة", "فاكهة طازجة", "لحوم طازجة", "خبز طازج" ],
+      "correct": "خضروات طازجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'fruit section'?",
+      "answers": [ "قسم الفواكه", "قسم الخضروات", "قسم اللحوم", "قسم المشروبات" ],
+      "correct": "قسم الفواكه",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'discount'?",
+      "answers": [ "خصم", "زيادة", "سعر", "فاتورة" ],
+      "correct": "خصم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'receipt'?",
+      "answers": [ "إيصال", "فاتورة", "سعر", "كوبون" ],
+      "correct": "إيصال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to pay'?",
+      "answers": [ "يدفع", "يشتري", "يأخذ", "يبيع" ],
+      "correct": "يدفع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'shopping list'?",
+      "answers": [ "قائمة التسوق", "عربة التسوق", "سلة التسوق", "فاتورة التسوق" ],
+      "correct": "قائمة التسوق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to choose'?",
+      "answers": [ "يختار", "يبيع", "يدفع", "يشتري" ],
+      "correct": "يختار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'How much does this cost?'",
+      "answers": [ "كم سعر هذا؟", "أين هذا؟", "هل هذا متوفر؟", "هل هذا طازج؟" ],
+      "correct": "كم سعر هذا؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where is the bakery?'",
+      "answers": [ "أين المخبز؟", "أين السوبرماركت؟", "أين الفواكه؟", "أين الخضروات؟" ],
+      "correct": "أين المخبز؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I need a bag'?",
+      "answers": [ "أحتاج كيساً", "أحتاج عربة", "أحتاج قائمة", "أحتاج سعر" ],
+      "correct": "أحتاج كيساً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Is this organic?'",
+      "answers": [ "هل هذا عضوي؟", "هل هذا طازج؟", "هل هذا نظيف؟", "هل هذا مكلف؟" ],
+      "correct": "هل هذا عضوي؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I want to return this'?",
+      "answers": [ "أريد إعادة هذا", "أريد شراء هذا", "أريد دفع هذا", "أريد اختيار هذا" ],
+      "correct": "أريد إعادة هذا",
+      "voiceUrl": ""
+    }
+  ]
+}

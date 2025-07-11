@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Travel Problems and Solutions Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'My flight was delayed'?",
+      "answers": [ "تم تأخير رحلتي", "تم إلغاء رحلتي", "وصلت في الوقت المحدد", "رحلتي كانت على الوقت" ],
+      "correct": "تم تأخير رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I lost my passport'?",
+      "answers": [ "فقدت جواز سفري", "وجدت جواز سفري", "حصلت على جواز سفر جديد", "جواز سفري سليم" ],
+      "correct": "فقدت جواز سفري",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My luggage is missing'?",
+      "answers": [ "أمتعتي مفقودة", "أمتعتي موجودة", "أمتعتي مع الطائرة", "أمتعتي على المطار" ],
+      "correct": "أمتعتي مفقودة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I need help'?",
+      "answers": [ "أحتاج مساعدة", "لست بحاجة لمساعدة", "أنا بخير", "لا أريد مساعدة" ],
+      "correct": "أحتاج مساعدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Where is the lost and found?'",
+      "answers": [ "أين مكتب المفقودات؟", "أين مكتب الطيران؟", "أين مكتب الحجوزات؟", "أين مكتب الجمارك؟" ],
+      "correct": "أين مكتب المفقودات؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Can you call a taxi?'",
+      "answers": [ "هل يمكنك طلب تاكسي؟", "هل يمكنك إلغاء التاكسي؟", "هل يمكنك دفع التاكسي؟", "هل يمكنك قيادة التاكسي؟" ],
+      "correct": "هل يمكنك طلب تاكسي؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My hotel reservation was canceled'?",
+      "answers": [ "تم إلغاء حجز الفندق", "تم تأكيد حجز الفندق", "تم تعديل حجز الفندق", "تم حجز الفندق" ],
+      "correct": "تم إلغاء حجز الفندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The room is dirty'?",
+      "answers": [ "الغرفة متسخة", "الغرفة نظيفة", "الفندق جيد", "الحجز ناجح" ],
+      "correct": "الغرفة متسخة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I lost my wallet'?",
+      "answers": [ "فقدت محفظتي", "وجدت محفظتي", "لدي محفظة", "محفظتي في الفندق" ],
+      "correct": "فقدت محفظتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where is the nearest hospital?'",
+      "answers": [ "أين أقرب مستشفى؟", "أين الفندق؟", "أين المطار؟", "أين السوق؟" ],
+      "correct": "أين أقرب مستشفى؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Is there a pharmacy nearby?'",
+      "answers": [ "هل توجد صيدلية قريبة؟", "هل توجد مستشفى قريبة؟", "هل توجد محطة قطار؟", "هل توجد محطة حافلات؟" ],
+      "correct": "هل توجد صيدلية قريبة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The taxi is late'?",
+      "answers": [ "التاكسي متأخر", "التاكسي مبكر", "التاكسي على الوقت", "التاكسي هنا" ],
+      "correct": "التاكسي متأخر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I need a doctor'?",
+      "answers": [ "أحتاج إلى طبيب", "لست بحاجة إلى طبيب", "أنا بخير", "لا أريد طبيب" ],
+      "correct": "أحتاج إلى طبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where is the police station?'",
+      "answers": [ "أين مركز الشرطة؟", "أين المستشفى؟", "أين الفندق؟", "أين المطار؟" ],
+      "correct": "أين مركز الشرطة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Please help me'?",
+      "answers": [ "من فضلك ساعدني", "لا أحتاج مساعدة", "أنا بخير", "شكراً" ],
+      "correct": "من فضلك ساعدني",
+      "voiceUrl": ""
+    }
+  ]
+}

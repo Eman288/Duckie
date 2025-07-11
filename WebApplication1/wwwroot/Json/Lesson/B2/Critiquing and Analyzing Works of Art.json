@@ -1,0 +1,105 @@
+{
+  "lesson": "Critiquing and Analyzing Works of Art",
+  "words": [
+    {
+      "word": "critique",
+      "definition": "A detailed review and evaluation.",
+      "arabic": "نقد",
+      "arabic_definition": "مراجعة وتقييم مفصل.",
+      "example": {
+        "en": "He gave a fair critique of the painting.",
+        "ar": "قدم نقدًا عادلًا للوحة."
+      }
+    },
+    {
+      "word": "interpretation",
+      "definition": "The act of explaining the meaning of something.",
+      "arabic": "تفسير",
+      "arabic_definition": "فعل توضيح معنى شيء ما.",
+      "example": {
+        "en": "The viewer gave an interesting interpretation of the artwork.",
+        "ar": "قدم المشاهد تفسيرًا مثيرًا للعمل الفني."
+      }
+    },
+    {
+      "word": "symbolism",
+      "definition": "The use of symbols to represent ideas.",
+      "arabic": "رمزية",
+      "arabic_definition": "استخدام الرموز لتمثيل الأفكار.",
+      "example": {
+        "en": "The painting uses rich symbolism.",
+        "ar": "تستخدم اللوحة رمزية غنية."
+      }
+    },
+    {
+      "word": "aesthetic",
+      "definition": "Concerning beauty or artistic taste.",
+      "arabic": "جمالي",
+      "arabic_definition": "متعلق بالجمال أو الذوق الفني.",
+      "example": {
+        "en": "The artwork has a strong aesthetic appeal.",
+        "ar": "للعمل الفني جاذبية جمالية عالية."
+      }
+    },
+    {
+      "word": "evaluate",
+      "definition": "To assess the quality or value of something.",
+      "arabic": "يقيم",
+      "arabic_definition": "تقييم جودة أو قيمة شيء ما.",
+      "example": {
+        "en": "The teacher asked the students to evaluate the sculpture.",
+        "ar": "طلب المعلم من الطلاب تقييم التمثال."
+      }
+    },
+    {
+      "word": "artistic",
+      "definition": "Having or showing skill in the arts.",
+      "arabic": "فني",
+      "arabic_definition": "امتلاك أو إظهار مهارة في الفنون.",
+      "example": {
+        "en": "The piece has great artistic value.",
+        "ar": "للعمل قيمة فنية عالية."
+      }
+    },
+    {
+      "word": "balance",
+      "definition": "A state where elements are arranged harmoniously.",
+      "arabic": "توازن",
+      "arabic_definition": "حالة يتم فيها ترتيب العناصر بتناغم.",
+      "example": {
+        "en": "The balance of color and shape is impressive.",
+        "ar": "التوازن بين اللون والشكل مدهش."
+      }
+    },
+    {
+      "word": "expression",
+      "definition": "The way feelings or ideas are shown.",
+      "arabic": "تعبير",
+      "arabic_definition": "طريقة يتم بها عرض المشاعر أو الأفكار.",
+      "example": {
+        "en": "The expression of emotion in the painting is strong.",
+        "ar": "التعبير عن المشاعر في اللوحة قوي."
+      }
+    },
+    {
+      "word": "theme",
+      "definition": "The main subject of an artwork.",
+      "arabic": "موضوع",
+      "arabic_definition": "الموضوع الرئيسي للعمل الفني.",
+      "example": {
+        "en": "The theme of the artwork is nature.",
+        "ar": "موضوع العمل الفني هو الطبيعة."
+      }
+    },
+    {
+      "word": "inspiration",
+      "definition": "The process of being creatively influenced.",
+      "arabic": "إلهام",
+      "arabic_definition": "عملية التأثر إبداعياً.",
+      "example": {
+        "en": "The artist found inspiration in the sea.",
+        "ar": "وجد الفنان إلهامًا من البحر."
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Discussing Movies and Theatre Quiz",
+  "questions": [
+    {
+      "question": "What is a 'director' in movies?",
+      "answers": [
+        "The person who guides the film's artistic vision.",
+        "The main actor.",
+        "The audience.",
+        "The screenwriter."
+      ],
+      "correct": "The person who guides the film's artistic vision.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the 'plot' of a movie or play?",
+      "answers": [
+        "The sequence of events.",
+        "The actors’ names.",
+        "The music.",
+        "The costumes."
+      ],
+      "correct": "The sequence of events.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'scene'?",
+      "answers": [
+        "A part of a movie or play happening in one place and time.",
+        "The whole story.",
+        "The audience.",
+        "The script."
+      ],
+      "correct": "A part of a movie or play happening in one place and time.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'cast' mean?",
+      "answers": [
+        "The actors in a movie or play.",
+        "The director.",
+        "The audience.",
+        "The script."
+      ],
+      "correct": "The actors in a movie or play.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'stage design'?",
+      "answers": [
+        "The creation of the physical setting for a play.",
+        "The script.",
+        "The acting style.",
+        "The costumes."
+      ],
+      "correct": "The creation of the physical setting for a play.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a movie genre?",
+      "answers": [
+        "Comedy.",
+        "Poetry.",
+        "Painting.",
+        "Sculpture."
+      ],
+      "correct": "Comedy.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'script'?",
+      "answers": [
+        "The written text of a play or movie.",
+        "The acting.",
+        "The audience.",
+        "The director."
+      ],
+      "correct": "The written text of a play or movie.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'acting' involve?",
+      "answers": [
+        "Performing a character in a movie or play.",
+        "Directing the movie.",
+        "Writing the script.",
+        "Designing costumes."
+      ],
+      "correct": "Performing a character in a movie or play.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'theatre'?",
+      "answers": [
+        "A place where plays are performed.",
+        "A movie camera.",
+        "An actor’s home.",
+        "A script."
+      ],
+      "correct": "A place where plays are performed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'review'?",
+      "answers": [
+        "An evaluation or critique of a movie or play.",
+        "A script.",
+        "A stage design.",
+        "An actor’s role."
+      ],
+      "correct": "An evaluation or critique of a movie or play.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'director’s cut'?",
+      "answers": [
+        "A version of a movie edited by the director.",
+        "An actor’s performance.",
+        "The script.",
+        "The soundtrack."
+      ],
+      "correct": "A version of a movie edited by the director.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'improv' mean in theatre?",
+      "answers": [
+        "Acting without a script.",
+        "Reading lines exactly.",
+        "Directing the play.",
+        "Designing costumes."
+      ],
+      "correct": "Acting without a script.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'monologue'?",
+      "answers": [
+        "A long speech by one character.",
+        "A song.",
+        "A group scene.",
+        "The ending."
+      ],
+      "correct": "A long speech by one character.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are costumes important in theatre?",
+      "answers": [
+        "They help show characters and setting.",
+        "They are for comfort only.",
+        "They make noise.",
+        "They are not important."
+      ],
+      "correct": "They help show characters and setting.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'blockbuster' movie?",
+      "answers": [
+        "A very successful and popular movie.",
+        "A small film.",
+        "An old movie.",
+        "A documentary."
+      ],
+      "correct": "A very successful and popular movie.",
+      "voiceUrl": ""
+    }
+  ]
+}

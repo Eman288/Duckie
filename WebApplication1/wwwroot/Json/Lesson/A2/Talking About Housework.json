@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Housework",
+  "words": [
+    {
+      "word": "clean",
+      "definition": "To make something not dirty.",
+      "arabic": "ينظف",
+      "arabic_definition": "يجعل الشيء نظيفاً.",
+      "example": {
+        "en": "I clean my room every weekend.",
+        "ar": "أنظف غرفتي كل عطلة نهاية أسبوع."
+      }
+    },
+    {
+      "word": "laundry",
+      "definition": "Clothes that need to be washed or have been washed.",
+      "arabic": "غسيل",
+      "arabic_definition": "الملابس التي تحتاج إلى غسيل أو تم غسلها.",
+      "example": {
+        "en": "She does the laundry on Sundays.",
+        "ar": "تغسل الملابس يوم الأحد."
+      }
+    },
+    {
+      "word": "vacuum",
+      "definition": "To clean the floor using a vacuum cleaner.",
+      "arabic": "ينظف بالمكنسة الكهربائية",
+      "arabic_definition": "ينظف الأرضية باستخدام مكنسة كهربائية.",
+      "example": {
+        "en": "He vacuums the carpet every day.",
+        "ar": "ينظف السجادة بالمكنسة الكهربائية كل يوم."
+      }
+    },
+    {
+      "word": "dishes",
+      "definition": "Plates, cups, and other things used for eating or cooking.",
+      "arabic": "أطباق",
+      "arabic_definition": "الأطباق والأكواب والأدوات المستخدمة للأكل أو الطهي.",
+      "example": {
+        "en": "I hate washing the dishes.",
+        "ar": "أكره غسل الأطباق."
+      }
+    },
+    {
+      "word": "sweep",
+      "definition": "To clean a floor using a broom.",
+      "arabic": "يمسح الأرضية",
+      "arabic_definition": "ينظف الأرضية باستخدام مكنسة.",
+      "example": {
+        "en": "She sweeps the floor every morning.",
+        "ar": "تمسح الأرضية كل صباح."
+      }
+    },
+    {
+      "word": "mop",
+      "definition": "To wash or wipe a floor using a mop.",
+      "arabic": "يمسح بالممسحة",
+      "arabic_definition": "يغسل أو يمسح الأرضية باستخدام ممسحة.",
+      "example": {
+        "en": "I mop the kitchen floor twice a week.",
+        "ar": "أمسح أرضية المطبخ مرتين في الأسبوع."
+      }
+    },
+    {
+      "word": "housework",
+      "definition": "Work done to keep a house clean and tidy.",
+      "arabic": "أعمال منزلية",
+      "arabic_definition": "العمل الذي يتم للحفاظ على نظافة وترتيب المنزل.",
+      "example": {
+        "en": "We share the housework equally.",
+        "ar": "نقسم الأعمال المنزلية بالتساوي."
+      }
+    },
+    {
+      "word": "dust",
+      "definition": "To remove dirt from surfaces.",
+      "arabic": "ينفض الغبار",
+      "arabic_definition": "يزيل الغبار عن الأسطح.",
+      "example": {
+        "en": "She dusts the shelves every day.",
+        "ar": "تنفض الغبار عن الرفوف كل يوم."
+      }
+    },
+    {
+      "word": "take out the trash",
+      "definition": "To remove garbage from the house.",
+      "arabic": "يخرج القمامة",
+      "arabic_definition": "يخرج القمامة من المنزل.",
+      "example": {
+        "en": "He takes out the trash every night.",
+        "ar": "يخرج القمامة كل ليلة."
+      }
+    },
+    {
+      "word": "tidy",
+      "definition": "To make things neat and orderly.",
+      "arabic": "يرتب",
+      "arabic_definition": "يجعل الأشياء مرتبة ومنظمة.",
+      "example": {
+        "en": "I need to tidy my desk.",
+        "ar": "أحتاج إلى ترتيب مكتبي."
+      }
+    }
+  ]
+}

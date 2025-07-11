@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Talking about Career Goals Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I want to advance in my career' in Arabic?",
+      "answers": [ "أرغب في التقدم في مسيرتي المهنية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أرغب في التقدم في مسيرتي المهنية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My goal is to become a manager'",
+      "answers": [ "هدفي أن أصبح مديرًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هدفي أن أصبح مديرًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for professional growth' in Arabic?",
+      "answers": [ "أبحث عن نمو مهني", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن نمو مهني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want to gain more experience'",
+      "answers": [ "أرغب في اكتساب المزيد من الخبرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أرغب في اكتساب المزيد من الخبرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am interested in learning new skills' in Arabic?",
+      "answers": [ "أنا مهتم بتعلم مهارات جديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بتعلم مهارات جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My ambition is to lead a team'",
+      "answers": [ "طموحي هو قيادة فريق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "طموحي هو قيادة فريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I want to work for a multinational company' in Arabic?",
+      "answers": [ "أرغب في العمل لدى شركة متعددة الجنسيات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أرغب في العمل لدى شركة متعددة الجنسيات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My goal is to learn a new language'",
+      "answers": [ "هدفي هو تعلم لغة جديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هدفي هو تعلم لغة جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am planning to pursue further studies' in Arabic?",
+      "answers": [ "أخطط لمواصلة الدراسة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أخطط لمواصلة الدراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I want to build strong professional relationships'",
+      "answers": [ "أرغب في بناء علاقات مهنية قوية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أرغب في بناء علاقات مهنية قوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am interested in a leadership role' in Arabic?",
+      "answers": [ "أنا مهتم بدور قيادي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بدور قيادي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My goal is to work in an international company'",
+      "answers": [ "هدفي هو العمل في شركة دولية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هدفي هو العمل في شركة دولية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am passionate about continuous learning' in Arabic?",
+      "answers": [ "أنا شغوف بالتعلم المستمر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا شغوف بالتعلم المستمر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am open to new career opportunities'",
+      "answers": [ "أنا منفتح على فرص عمل جديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا منفتح على فرص عمل جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My goal is to achieve a senior position' in Arabic?",
+      "answers": [ "هدفي هو الوصول إلى منصب رفيع", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "هدفي هو الوصول إلى منصب رفيع",
+      "voiceUrl": ""
+    }
+  ]
+}

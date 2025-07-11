@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Building Strong Friendships Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Trust is important in a friendship' in Arabic?",
+      "answers": [ "الثقة مهمة في الصداقة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الثقة مهمة في الصداقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'A good friend is always there for you'",
+      "answers": [ "الصديق الجيد موجود دائمًا من أجلك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الصديق الجيد موجود دائمًا من أجلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Listening is a key part of friendship' in Arabic?",
+      "answers": [ "الاستماع جزء مهم من الصداقة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الاستماع جزء مهم من الصداقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Honesty is the best policy'",
+      "answers": [ "الصدق هو أفضل سياسة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الصدق هو أفضل سياسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Friends support each other' in Arabic?",
+      "answers": [ "الأصدقاء يدعمون بعضهم البعض", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الأصدقاء يدعمون بعضهم البعض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'A strong friendship is built over time'",
+      "answers": [ "الصداقة القوية تبنى على مرور الوقت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الصداقة القوية تبنى على مرور الوقت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I can count on my friends' in Arabic?",
+      "answers": [ "يمكنني الاعتماد على أصدقائي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "يمكنني الاعتماد على أصدقائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Good friends respect each other'",
+      "answers": [ "الأصدقاء الجيدون يحترمون بعضهم البعض", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الأصدقاء الجيدون يحترمون بعضهم البعض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Friends make life better' in Arabic?",
+      "answers": [ "الأصدقاء يجعلون الحياة أفضل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الأصدقاء يجعلون الحياة أفضل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'A true friend is loyal'",
+      "answers": [ "الصديق الحقيقي مخلص", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الصديق الحقيقي مخلص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'We have a lot of memories together' in Arabic?",
+      "answers": [ "لدينا الكثير من الذكريات معًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدينا الكثير من الذكريات معًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Trust is the foundation of friendship'",
+      "answers": [ "الثقة هي أساس الصداقة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الثقة هي أساس الصداقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I value our friendship' in Arabic?",
+      "answers": [ "أقدر صداقتنا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقدر صداقتنا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Friends help each other in difficult times'",
+      "answers": [ "الأصدقاء يساعدون بعضهم البعض في الأوقات الصعبة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الأصدقاء يساعدون بعضهم البعض في الأوقات الصعبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'A strong friendship lasts a lifetime' in Arabic?",
+      "answers": [ "الصداقة القوية تدوم طوال الحياة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الصداقة القوية تدوم طوال الحياة",
+      "voiceUrl": ""
+    }
+  ]
+}

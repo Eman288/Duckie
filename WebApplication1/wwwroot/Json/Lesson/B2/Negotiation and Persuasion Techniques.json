@@ -1,0 +1,105 @@
+{
+  "lesson": "Negotiation and Persuasion Techniques",
+  "words": [
+    {
+      "word": "negotiate",
+      "definition": "To discuss in order to reach an agreement.",
+      "arabic": "يتفاوض",
+      "arabic_definition": "يناقش من أجل التوصل إلى اتفاق.",
+      "example": {
+        "en": "We will negotiate the terms of the contract.",
+        "ar": "سنتفاوض على شروط العقد."
+      }
+    },
+    {
+      "word": "persuade",
+      "definition": "To convince someone to do or believe something.",
+      "arabic": "يقنع",
+      "arabic_definition": "إقناع شخص بفعل شيء أو تصديق شيء.",
+      "example": {
+        "en": "She tried to persuade him to accept the offer.",
+        "ar": "حاولت إقناعه بقبول العرض."
+      }
+    },
+    {
+      "word": "agreement",
+      "definition": "A mutual decision or understanding.",
+      "arabic": "اتفاق",
+      "arabic_definition": "قرار مشترك أو تفاهم.",
+      "example": {
+        "en": "They came to an agreement after long negotiations.",
+        "ar": "توصلوا إلى اتفاق بعد مفاوضات طويلة."
+      }
+    },
+    {
+      "word": "compromise",
+      "definition": "Accepting some demands to reach an agreement.",
+      "arabic": "تسوية",
+      "arabic_definition": "قبول بعض المطالب للتوصل إلى اتفاق.",
+      "example": {
+        "en": "A compromise was necessary to solve the issue.",
+        "ar": "كانت التسوية ضرورية لحل القضية."
+      }
+    },
+    {
+      "word": "convince",
+      "definition": "Make someone believe or agree with an idea.",
+      "arabic": "يقنع",
+      "arabic_definition": "جعل شخص ما يصدق فكرة أو يوافق عليها.",
+      "example": {
+        "en": "He tried to convince the client to accept the proposal.",
+        "ar": "حاول إقناع العميل بقبول الاقتراح."
+      }
+    },
+    {
+      "word": "mutual",
+      "definition": "Shared by both parties.",
+      "arabic": "متبادل",
+      "arabic_definition": "شيء يشترك فيه الطرفان.",
+      "example": {
+        "en": "Trust and respect are mutual in negotiations.",
+        "ar": "الثقة والاحترام متبادلان في المفاوضات."
+      }
+    },
+    {
+      "word": "bargain",
+      "definition": "To discuss prices or conditions to reach an agreement.",
+      "arabic": "مساومة",
+      "arabic_definition": "مناقشة الأسعار أو الشروط للتوصل إلى اتفاق.",
+      "example": {
+        "en": "They started to bargain over the contract terms.",
+        "ar": "بدأوا بالمساومة على شروط العقد."
+      }
+    },
+    {
+      "word": "influence",
+      "definition": "The ability to affect a person or situation.",
+      "arabic": "تأثير",
+      "arabic_definition": "القدرة على التأثير على شخص أو موقف.",
+      "example": {
+        "en": "He used his influence to help the team.",
+        "ar": "استخدم تأثيره لمساعدة الفريق."
+      }
+    },
+    {
+      "word": "concession",
+      "definition": "Something granted in a negotiation.",
+      "arabic": "تنازل",
+      "arabic_definition": "شيء يتم منحه أثناء التفاوض.",
+      "example": {
+        "en": "He offered a concession to win the deal.",
+        "ar": "قدم تنازلًا للحصول على الصفقة."
+      }
+    },
+    {
+      "word": "assertive",
+      "definition": "Confident and direct in expressing needs or opinions.",
+      "arabic": "حازم",
+      "arabic_definition": "واثق ومباشر في التعبير عن الاحتياجات أو الآراء.",
+      "example": {
+        "en": "She was assertive during the negotiation.",
+        "ar": "كانت حازمة أثناء التفاوض."
+      }
+    }
+  ]
+}

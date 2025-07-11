@@ -1,0 +1,105 @@
+{
+  "lesson": "What Did You Do Yesterday?",
+  "words": [
+    {
+      "word": "yesterday",
+      "definition": "The day before today.",
+      "arabic": "أمس",
+      "arabic_definition": "اليوم الذي يسبق اليوم.",
+      "example": {
+        "en": "I went shopping yesterday.",
+        "ar": "ذهبت للتسوق أمس."
+      }
+    },
+    {
+      "word": "went",
+      "definition": "Past tense of 'go'.",
+      "arabic": "ذهب",
+      "arabic_definition": "الزمن الماضي من 'يذهب'.",
+      "example": {
+        "en": "She went to the park.",
+        "ar": "ذهبت إلى الحديقة."
+      }
+    },
+    {
+      "word": "did",
+      "definition": "Past tense of 'do'.",
+      "arabic": "فعل",
+      "arabic_definition": "الزمن الماضي من 'يفعل'.",
+      "example": {
+        "en": "What did you do yesterday?",
+        "ar": "ماذا فعلت أمس؟"
+      }
+    },
+    {
+      "word": "bought",
+      "definition": "Past tense of 'buy'.",
+      "arabic": "اشترى",
+      "arabic_definition": "الزمن الماضي من 'يشتري'.",
+      "example": {
+        "en": "I bought a new shirt.",
+        "ar": "اشتريت قميصًا جديدًا."
+      }
+    },
+    {
+      "word": "saw",
+      "definition": "Past tense of 'see'.",
+      "arabic": "رأى",
+      "arabic_definition": "الزمن الماضي من 'يرى'.",
+      "example": {
+        "en": "They saw a movie.",
+        "ar": "شاهدوا فيلماً."
+      }
+    },
+    {
+      "word": "ate",
+      "definition": "Past tense of 'eat'.",
+      "arabic": "أكل",
+      "arabic_definition": "الزمن الماضي من 'يأكل'.",
+      "example": {
+        "en": "We ate pizza.",
+        "ar": "أكلنا بيتزا."
+      }
+    },
+    {
+      "word": "visited",
+      "definition": "Went to see someone or a place.",
+      "arabic": "زار",
+      "arabic_definition": "ذهب لزيارة شخص أو مكان.",
+      "example": {
+        "en": "He visited his grandparents.",
+        "ar": "زار أجداده."
+      }
+    },
+    {
+      "word": "wrote",
+      "definition": "Past tense of 'write'.",
+      "arabic": "كتب",
+      "arabic_definition": "الزمن الماضي من 'يكتب'.",
+      "example": {
+        "en": "She wrote a letter.",
+        "ar": "كتبت رسالة."
+      }
+    },
+    {
+      "word": "slept",
+      "definition": "Past tense of 'sleep'.",
+      "arabic": "نام",
+      "arabic_definition": "الزمن الماضي من 'ينام'.",
+      "example": {
+        "en": "I slept early last night.",
+        "ar": "نمت مبكرًا الليلة الماضية."
+      }
+    },
+    {
+      "word": "made",
+      "definition": "Past tense of 'make'.",
+      "arabic": "صنع",
+      "arabic_definition": "الزمن الماضي من 'يصنع'.",
+      "example": {
+        "en": "He made a cake.",
+        "ar": "صنع كعكة."
+      }
+    }
+  ]
+}

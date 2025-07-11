@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Discussing School and University Life Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I go to school every day' in Arabic?",
+      "answers": [ "أذهب إلى المدرسة كل يوم", "أنا لا أذهب إلى المدرسة", "أنا ألعب", "أنا أعمل" ],
+      "correct": "أذهب إلى المدرسة كل يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I study at university'?",
+      "answers": [ "أدرس في الجامعة", "أنا لا أدرس في الجامعة", "أنا ألعب", "أنا أعمل" ],
+      "correct": "أدرس في الجامعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have many friends at school' in Arabic?",
+      "answers": [ "لدي الكثير من الأصدقاء في المدرسة", "لا أملك أصدقاء", "أنا ألعب", "أنا أدرس" ],
+      "correct": "لدي الكثير من الأصدقاء في المدرسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend lectures every week'?",
+      "answers": [ "أحضر المحاضرات كل أسبوع", "أنا لا أحضر", "أنا ألعب", "أنا أعمل" ],
+      "correct": "أحضر المحاضرات كل أسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I participate in school activities' in Arabic?",
+      "answers": [ "أشارك في أنشطة المدرسة", "أنا لا أشارك", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أشارك في أنشطة المدرسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have exams next week'?",
+      "answers": [ "لدي امتحانات الأسبوع المقبل", "أنا لا أدرس", "أنا ألعب", "أنا أعمل" ],
+      "correct": "لدي امتحانات الأسبوع المقبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I live in the dormitory' in Arabic?",
+      "answers": [ "أعيش في السكن الجامعي", "أنا أعيش في المنزل", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أعيش في السكن الجامعي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I use the library often'?",
+      "answers": [ "أستخدم المكتبة كثيراً", "أنا لا أستخدم المكتبة", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أستخدم المكتبة كثيراً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like my professors' in Arabic?",
+      "answers": [ "أحب أساتذتي", "أنا لا أحب أساتذتي", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحب أساتذتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend study groups'?",
+      "answers": [ "أحضر مجموعات الدراسة", "أنا لا أحضر", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحضر مجموعات الدراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I work part-time while studying' in Arabic?",
+      "answers": [ "أعمل بدوام جزئي أثناء الدراسة", "أنا لا أعمل", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أعمل بدوام جزئي أثناء الدراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I need to improve my grades'?",
+      "answers": [ "أحتاج إلى تحسين درجاتي", "أنا راضٍ عن درجاتي", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحتاج إلى تحسين درجاتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I enjoy campus life' in Arabic?",
+      "answers": [ "أستمتع بحياة الجامعة", "أنا لا أحب الجامعة", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أستمتع بحياة الجامعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend classes regularly'?",
+      "answers": [ "أحضر الدروس بانتظام", "أنا لا أحضر", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أحضر الدروس بانتظام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am graduating this year' in Arabic?",
+      "answers": [ "سأتخرج هذا العام", "لن أتخرج هذا العام", "أنا ألعب", "أنا أدرس" ],
+      "correct": "سأتخرج هذا العام",
+      "voiceUrl": ""
+    }
+  ]
+}

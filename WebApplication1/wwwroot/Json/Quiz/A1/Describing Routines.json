@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 2 - Describing Routines Quiz",
+  "questions": [
+    {
+      "question": "What does 'usually' mean in Arabic?",
+      "answers": [
+        "أبداً",
+        "عادةً",
+        "أحياناً",
+        "دائمًا"
+      ],
+      "correct": "عادةً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these describes 'always'?",
+      "answers": [
+        "Every time",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": "Every time",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the opposite of 'never'?",
+      "answers": [
+        "rarely",
+        "sometimes",
+        "always",
+        "seldom"
+      ],
+      "correct": "always",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'عادةً'?",
+      "answers": [
+        "always",
+        "usually",
+        "rarely",
+        "never"
+      ],
+      "correct": "usually",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ go jogging on weekends.",
+      "answers": [
+        "never",
+        "always",
+        "usually",
+        "rarely"
+      ],
+      "correct": "usually",
+      "voiceUrl": ""
+    }
+  ]
+}

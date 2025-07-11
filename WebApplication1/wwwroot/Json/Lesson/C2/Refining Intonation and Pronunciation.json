@@ -1,0 +1,105 @@
+{
+  "lesson": "Refining Intonation and Pronunciation",
+  "words": [
+    {
+      "word": "intonation",
+      "definition": "The rise and fall of the voice when speaking.",
+      "arabic": "التنغيم",
+      "arabic_definition": "ارتفاع وانخفاض الصوت أثناء الحديث.",
+      "example": {
+        "en": "Correct intonation can change the meaning of a sentence.",
+        "ar": "التنغيم الصحيح يمكن أن يغير معنى الجملة."
+      }
+    },
+    {
+      "word": "stress",
+      "definition": "The emphasis placed on certain syllables.",
+      "arabic": "التشديد",
+      "arabic_definition": "التأكيد على مقاطع محددة من الكلمة.",
+      "example": {
+        "en": "Word stress is important for pronunciation.",
+        "ar": "التشديد على الكلمات مهم للنطق."
+      }
+    },
+    {
+      "word": "articulation",
+      "definition": "The clear pronunciation of words.",
+      "arabic": "نطق",
+      "arabic_definition": "التلفظ بالكلمات بوضوح.",
+      "example": {
+        "en": "Good articulation improves understanding.",
+        "ar": "النطق الجيد يحسن الفهم."
+      }
+    },
+    {
+      "word": "elision",
+      "definition": "The omission of certain sounds in speech.",
+      "arabic": "الحذف اللفظي",
+      "arabic_definition": "حذف أصوات محددة أثناء الكلام.",
+      "example": {
+        "en": "In fast speech, elision is common.",
+        "ar": "الحذف اللفظي شائع أثناء الكلام السريع."
+      }
+    },
+    {
+      "word": "linking",
+      "definition": "The practice of joining words in speech.",
+      "arabic": "الربط",
+      "arabic_definition": "ربط الكلمات أثناء الحديث.",
+      "example": {
+        "en": "Linking words creates smooth speech.",
+        "ar": "ربط الكلمات يساعد على سلاسة الحديث."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The general quality or character of the voice.",
+      "arabic": "نبرة",
+      "arabic_definition": "الصوت أو طابعه عند الحديث.",
+      "example": {
+        "en": "Use a friendly tone when introducing yourself.",
+        "ar": "استخدم نبرة ودودة عند تقديم نفسك."
+      }
+    },
+    {
+      "word": "enunciation",
+      "definition": "The act of pronouncing words clearly.",
+      "arabic": "التلفظ",
+      "arabic_definition": "نطق الكلمات بوضوح.",
+      "example": {
+        "en": "Enunciation is vital in public speaking.",
+        "ar": "التلفظ بوضوح ضروري عند التحدث أمام الجمهور."
+      }
+    },
+    {
+      "word": "rhythm",
+      "definition": "The pattern of sounds and silences in speech.",
+      "arabic": "الإيقاع",
+      "arabic_definition": "نمط الأصوات والسكتات أثناء الكلام.",
+      "example": {
+        "en": "Poets use rhythm to make their words memorable.",
+        "ar": "يستخدم الشعراء الإيقاع لجعل كلماتهم مميزة."
+      }
+    },
+    {
+      "word": "inflection",
+      "definition": "A change in pitch or tone of the voice.",
+      "arabic": "التغيير في طبقة الصوت",
+      "arabic_definition": "تغيير درجة أو نبرة الصوت.",
+      "example": {
+        "en": "Inflection gives emotion to spoken words.",
+        "ar": "يعطي التغيير في طبقة الصوت عاطفة للكلمات المنطوقة."
+      }
+    },
+    {
+      "word": "clipped speech",
+      "definition": "Speech where words are shortened or spoken sharply.",
+      "arabic": "كلام مقتضب",
+      "arabic_definition": "كلام يتم فيه نطق الكلمات بشكل مختصر وحاد.",
+      "example": {
+        "en": "Her clipped speech gave an air of authority.",
+        "ar": "حديثها المختصر أظهر سلطة وحزمًا."
+      }
+    }
+  ]
+}

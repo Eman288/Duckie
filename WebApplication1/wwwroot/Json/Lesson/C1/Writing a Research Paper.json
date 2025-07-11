@@ -1,0 +1,105 @@
+{
+  "lesson": "Writing a Research Paper",
+  "words": [
+    {
+      "word": "thesis",
+      "definition": "The main argument or claim of a research paper.",
+      "arabic": "أطروحة",
+      "arabic_definition": "الحجة الرئيسية أو الادعاء الأساسي لورقة بحث.",
+      "example": {
+        "en": "The thesis clearly stated the paper’s objective.",
+        "ar": "حددت الأطروحة بوضوح الهدف من الورقة البحثية."
+      }
+    },
+    {
+      "word": "abstract",
+      "definition": "A brief summary of a research paper.",
+      "arabic": "ملخّص",
+      "arabic_definition": "موجز قصير لورقة بحث.",
+      "example": {
+        "en": "The abstract gives an overview of the study.",
+        "ar": "يعطي الملخّص نظرة عامة على الدراسة."
+      }
+    },
+    {
+      "word": "literature review",
+      "definition": "A review of existing research and studies.",
+      "arabic": "مراجعة الأدبيات",
+      "arabic_definition": "مراجعة للأبحاث والدراسات المنشورة.",
+      "example": {
+        "en": "The literature review identifies gaps in the research.",
+        "ar": "تحدد مراجعة الأدبيات الفجوات في البحث."
+      }
+    },
+    {
+      "word": "methodology",
+      "definition": "The process or approach used in a research paper.",
+      "arabic": "منهجية",
+      "arabic_definition": "العملية أو النهج المستخدم في البحث.",
+      "example": {
+        "en": "The methodology explains how the data was collected.",
+        "ar": "توضح المنهجية كيفية جمع البيانات."
+      }
+    },
+    {
+      "word": "data analysis",
+      "definition": "The process of interpreting data.",
+      "arabic": "تحليل البيانات",
+      "arabic_definition": "عملية تفسير البيانات.",
+      "example": {
+        "en": "Data analysis is a critical part of any research.",
+        "ar": "تحليل البيانات جزء مهم من أي بحث."
+      }
+    },
+    {
+      "word": "results",
+      "definition": "The findings or outcomes of a study.",
+      "arabic": "النتائج",
+      "arabic_definition": "الاكتشافات أو النتائج التي توصلت إليها الدراسة.",
+      "example": {
+        "en": "The results support the hypothesis.",
+        "ar": "تدعم النتائج الفرضية."
+      }
+    },
+    {
+      "word": "discussion",
+      "definition": "A section explaining the significance of results.",
+      "arabic": "مناقشة",
+      "arabic_definition": "قسم يوضح أهمية النتائج.",
+      "example": {
+        "en": "The discussion links results with existing literature.",
+        "ar": "تربط المناقشة النتائج بالأدبيات السابقة."
+      }
+    },
+    {
+      "word": "conclusion",
+      "definition": "The final summary and takeaway of a paper.",
+      "arabic": "خاتمة",
+      "arabic_definition": "الملخّص النهائي والدروس المستفادة من البحث.",
+      "example": {
+        "en": "The conclusion suggests further areas for research.",
+        "ar": "تقترح الخاتمة مجالات إضافية للبحث."
+      }
+    },
+    {
+      "word": "citation",
+      "definition": "A reference to a source used in the paper.",
+      "arabic": "اقتباس",
+      "arabic_definition": "مرجع لمصدر مستخدم في البحث.",
+      "example": {
+        "en": "Each claim is supported by a proper citation.",
+        "ar": "كل ادعاء مرفق باقتباس صحيح."
+      }
+    },
+    {
+      "word": "plagiarism",
+      "definition": "The act of using someone else’s work as your own.",
+      "arabic": "انتحال",
+      "arabic_definition": "استخدام عمل شخص آخر على أنه عملك.",
+      "example": {
+        "en": "Plagiarism is strictly prohibited in academic writing.",
+        "ar": "الانتحال محظور تمامًا في الكتابة الأكاديمية."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing the Impact of Technology on Society",
+  "words": [
+    {
+      "word": "digitalization",
+      "definition": "The process of converting information into digital form.",
+      "arabic": "الرقمنة",
+      "arabic_definition": "عملية تحويل المعلومات إلى شكل رقمي.",
+      "example": {
+        "en": "Digitalization has transformed how we work.",
+        "ar": "حولت الرقمنة طريقة عملنا."
+      }
+    },
+    {
+      "word": "automation",
+      "definition": "The use of machines or technology to do work.",
+      "arabic": "الأتمتة",
+      "arabic_definition": "استخدام الآلات أو التكنولوجيا للقيام بالأعمال.",
+      "example": {
+        "en": "Automation increases efficiency in factories.",
+        "ar": "الأتمتة تزيد من الكفاءة في المصانع."
+      }
+    },
+    {
+      "word": "privacy",
+      "definition": "The right to keep personal information protected.",
+      "arabic": "خصوصية",
+      "arabic_definition": "الحق في الحفاظ على سرية المعلومات الشخصية.",
+      "example": {
+        "en": "Privacy is a major concern in the digital age.",
+        "ar": "الخصوصية هي مصدر قلق كبير في العصر الرقمي."
+      }
+    },
+    {
+      "word": "connectivity",
+      "definition": "The state of being connected online.",
+      "arabic": "الاتصال",
+      "arabic_definition": "حالة الاتصال عبر الانترنت.",
+      "example": {
+        "en": "Better connectivity improves access to information.",
+        "ar": "الاتصال الأفضل يحسن الوصول إلى المعلومات."
+      }
+    },
+    {
+      "word": "innovation",
+      "definition": "The creation of new ideas, methods, or products.",
+      "arabic": "ابتكار",
+      "arabic_definition": "إنشاء أفكار أو طرق أو منتجات جديدة.",
+      "example": {
+        "en": "Technology drives innovation across industries.",
+        "ar": "التكنولوجيا تقود الابتكار عبر الصناعات."
+      }
+    },
+    {
+      "word": "disruption",
+      "definition": "A significant change caused by new technology.",
+      "arabic": "اضطراب",
+      "arabic_definition": "تغيير كبير تسببت به التكنولوجيا.",
+      "example": {
+        "en": "The internet caused a disruption in traditional media.",
+        "ar": "تسبب الانترنت باضطراب في الإعلام التقليدي."
+      }
+    },
+    {
+      "word": "digital divide",
+      "definition": "The gap between those who have access to technology and those who do not.",
+      "arabic": "الفجوة الرقمية",
+      "arabic_definition": "الفجوة بين من لديهم إمكانية الوصول للتكنولوجيا ومن لا يملكونها.",
+      "example": {
+        "en": "The digital divide affects rural communities.",
+        "ar": "الفجوة الرقمية تؤثر على المجتمعات الريفية."
+      }
+    },
+    {
+      "word": "artificial intelligence",
+      "definition": "Technology that mimics human thinking.",
+      "arabic": "ذكاء اصطناعي",
+      "arabic_definition": "التكنولوجيا التي تحاكي تفكير الإنسان.",
+      "example": {
+        "en": "Artificial intelligence is used in many industries.",
+        "ar": "يستخدم الذكاء الاصطناعي في العديد من الصناعات."
+      }
+    },
+    {
+      "word": "ethics",
+      "definition": "Principles that govern behavior.",
+      "arabic": "أخلاقيات",
+      "arabic_definition": "المبادئ التي تحكم السلوك.",
+      "example": {
+        "en": "We must consider ethics when using new technology.",
+        "ar": "علينا مراعاة الأخلاقيات عند استخدام التكنولوجيا الجديدة."
+      }
+    },
+    {
+      "word": "globalization",
+      "definition": "The process of interaction between people and countries across the world.",
+      "arabic": "العولمة",
+      "arabic_definition": "عملية التفاعل بين الناس والدول على مستوى العالم.",
+      "example": {
+        "en": "Technology has accelerated globalization.",
+        "ar": "لقد سرَّعت التكنولوجيا العولمة."
+      }
+    }
+  ]
+}

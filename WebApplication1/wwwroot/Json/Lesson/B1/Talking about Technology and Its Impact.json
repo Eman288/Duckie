@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Technology and Its Impact",
+  "words": [
+    {
+      "word": "technology",
+      "definition": "The use of scientific knowledge for practical purposes.",
+      "arabic": "تكنولوجيا",
+      "arabic_definition": "استخدام المعرفة العلمية للأغراض العملية.",
+      "example": {
+        "en": "Technology has changed our lives.",
+        "ar": "غيرت التكنولوجيا حياتنا."
+      }
+    },
+    {
+      "word": "device",
+      "definition": "A machine or tool made for a specific purpose.",
+      "arabic": "جهاز",
+      "arabic_definition": "آلة أو أداة مصنوعة لغرض معين.",
+      "example": {
+        "en": "I use my phone as a device for communication.",
+        "ar": "أستخدم هاتفي كجهاز للتواصل."
+      }
+    },
+    {
+      "word": "innovation",
+      "definition": "A new idea or method.",
+      "arabic": "ابتكار",
+      "arabic_definition": "فكرة أو طريقة جديدة.",
+      "example": {
+        "en": "Innovation drives progress.",
+        "ar": "الابتكار يدفع التقدم."
+      }
+    },
+    {
+      "word": "impact",
+      "definition": "The strong effect something has.",
+      "arabic": "تأثير",
+      "arabic_definition": "التأثير القوي لشيء ما.",
+      "example": {
+        "en": "Technology has a positive impact on education.",
+        "ar": "للتكنولوجيا تأثير إيجابي على التعليم."
+      }
+    },
+    {
+      "word": "internet",
+      "definition": "A global network connecting computers.",
+      "arabic": "الإنترنت",
+      "arabic_definition": "شبكة عالمية تربط الحواسيب.",
+      "example": {
+        "en": "The internet allows us to communicate easily.",
+        "ar": "يسمح لنا الإنترنت بالتواصل بسهولة."
+      }
+    },
+    {
+      "word": "artificial intelligence",
+      "definition": "Technology that can perform tasks usually done by humans.",
+      "arabic": "الذكاء الاصطناعي",
+      "arabic_definition": "تكنولوجيا تقوم بمهام عادةً يقوم بها البشر.",
+      "example": {
+        "en": "Artificial intelligence is growing rapidly.",
+        "ar": "الذكاء الاصطناعي ينمو بسرعة."
+      }
+    },
+    {
+      "word": "privacy",
+      "definition": "The right to keep personal information secret.",
+      "arabic": "خصوصية",
+      "arabic_definition": "الحق في الحفاظ على المعلومات الشخصية سرية.",
+      "example": {
+        "en": "Privacy is important when using technology.",
+        "ar": "الخصوصية مهمة عند استخدام التكنولوجيا."
+      }
+    },
+    {
+      "word": "cybersecurity",
+      "definition": "Protecting computers and data from attacks.",
+      "arabic": "الأمن السيبراني",
+      "arabic_definition": "حماية الحواسيب والبيانات من الهجمات.",
+      "example": {
+        "en": "Cybersecurity helps protect sensitive information.",
+        "ar": "يساعد الأمن السيبراني في حماية المعلومات الحساسة."
+      }
+    },
+    {
+      "word": "smartphone",
+      "definition": "A mobile phone with advanced features.",
+      "arabic": "هاتف ذكي",
+      "arabic_definition": "هاتف محمول يحتوي على ميزات متقدمة.",
+      "example": {
+        "en": "Most people own a smartphone nowadays.",
+        "ar": "يمتلك معظم الناس هاتفًا ذكيًا هذه الأيام."
+      }
+    },
+    {
+      "word": "software",
+      "definition": "Programs used by a computer or device.",
+      "arabic": "برنامج",
+      "arabic_definition": "برامج تستخدمها الحواسيب أو الأجهزة.",
+      "example": {
+        "en": "The software needs to be updated regularly.",
+        "ar": "يجب تحديث البرنامج بانتظام."
+      }
+    }
+  ]
+}

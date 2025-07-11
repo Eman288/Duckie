@@ -1,0 +1,105 @@
+{
+  "lesson": "Writing a CV and Cover Letter",
+  "words": [
+    {
+      "word": "CV",
+      "definition": "A document that shows your skills and experience.",
+      "arabic": "السيرة الذاتية",
+      "arabic_definition": "وثيقة تعرض مهاراتك وخبراتك.",
+      "example": {
+        "en": "Make sure your CV is clear and easy to read.",
+        "ar": "تأكد من أن سيرتك الذاتية واضحة وسهلة القراءة."
+      }
+    },
+    {
+      "word": "cover letter",
+      "definition": "A letter sent with a CV explaining your interest.",
+      "arabic": "رسالة التقديم",
+      "arabic_definition": "رسالة تُرسل مع السيرة الذاتية توضح اهتمامك.",
+      "example": {
+        "en": "Write a cover letter for each job you apply for.",
+        "ar": "اكتب رسالة تقديم لكل وظيفة تتقدم لها."
+      }
+    },
+    {
+      "word": "skill",
+      "definition": "The ability to do something well.",
+      "arabic": "مهارة",
+      "arabic_definition": "القدرة على القيام بشيء جيدًا.",
+      "example": {
+        "en": "List your skills clearly in your CV.",
+        "ar": "اذكر مهاراتك بوضوح في سيرتك الذاتية."
+      }
+    },
+    {
+      "word": "experience",
+      "definition": "The work or activities you have done before.",
+      "arabic": "خبرة",
+      "arabic_definition": "العمل أو الأنشطة التي قمت بها سابقًا.",
+      "example": {
+        "en": "Include relevant experience in your CV.",
+        "ar": "أدرج الخبرة المناسبة في سيرتك الذاتية."
+      }
+    },
+    {
+      "word": "education",
+      "definition": "Your studies and qualifications.",
+      "arabic": "التعليم",
+      "arabic_definition": "دراستك ومؤهلاتك.",
+      "example": {
+        "en": "List your education in reverse order.",
+        "ar": "أدرج تعليمك بترتيب عكسي."
+      }
+    },
+    {
+      "word": "reference",
+      "definition": "A person who can recommend you.",
+      "arabic": "مرجع",
+      "arabic_definition": "شخص يمكنه التوصية بك.",
+      "example": {
+        "en": "Include references if requested by the employer.",
+        "ar": "أدرج مراجع إذا طلبها صاحب العمل."
+      }
+    },
+    {
+      "word": "format",
+      "definition": "The way information is organized in a document.",
+      "arabic": "تنسيق",
+      "arabic_definition": "طريقة تنظيم المعلومات في الوثيقة.",
+      "example": {
+        "en": "Use a clean format for your CV.",
+        "ar": "استخدم تنسيقًا نظيفًا لسيرتك الذاتية."
+      }
+    },
+    {
+      "word": "objective",
+      "definition": "A short statement about your career goals.",
+      "arabic": "الهدف",
+      "arabic_definition": "بيان قصير عن أهدافك المهنية.",
+      "example": {
+        "en": "Write an objective at the top of your CV.",
+        "ar": "اكتب الهدف في أعلى سيرتك الذاتية."
+      }
+    },
+    {
+      "word": "proofread",
+      "definition": "To check for mistakes before sending.",
+      "arabic": "مراجعة",
+      "arabic_definition": "التحقق من الأخطاء قبل الإرسال.",
+      "example": {
+        "en": "Always proofread your documents carefully.",
+        "ar": "راجع مستنداتك دائمًا بعناية."
+      }
+    },
+    {
+      "word": "professional",
+      "definition": "Having the qualities expected in a job.",
+      "arabic": "مهني",
+      "arabic_definition": "امتلاك الصفات المتوقعة في العمل.",
+      "example": {
+        "en": "Keep your CV professional and polite.",
+        "ar": "حافظ على سيرتك الذاتية مهنية ولطيفة."
+      }
+    }
+  ]
+}

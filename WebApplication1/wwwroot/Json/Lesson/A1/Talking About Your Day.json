@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Your Day",
+  "words": [
+    {
+      "word": "wake up",
+      "definition": "To stop sleeping and become conscious.",
+      "arabic": "يستيقظ",
+      "arabic_definition": "أن يتوقف عن النوم ويصبح واعياً.",
+      "example": {
+        "en": "I wake up at 7 AM.",
+        "ar": "أستيقظ في السابعة صباحاً."
+      }
+    },
+    {
+      "word": "get dressed",
+      "definition": "To put on clothes.",
+      "arabic": "يرتدي الملابس",
+      "arabic_definition": "أن يلبس الملابس.",
+      "example": {
+        "en": "She gets dressed quickly.",
+        "ar": "هي ترتدي ملابسها بسرعة."
+      }
+    },
+    {
+      "word": "eat breakfast",
+      "definition": "To have the first meal of the day.",
+      "arabic": "يتناول الإفطار",
+      "arabic_definition": "أن يتناول أول وجبة في اليوم.",
+      "example": {
+        "en": "They eat breakfast at 8.",
+        "ar": "يتناولون الإفطار في الساعة الثامنة."
+      }
+    },
+    {
+      "word": "go to work",
+      "definition": "To travel to your job.",
+      "arabic": "يذهب إلى العمل",
+      "arabic_definition": "أن يذهب إلى وظيفته.",
+      "example": {
+        "en": "I go to work by bus.",
+        "ar": "أذهب إلى العمل بالحافلة."
+      }
+    },
+    {
+      "word": "come home",
+      "definition": "To return to one's house.",
+      "arabic": "يعود إلى المنزل",
+      "arabic_definition": "أن يعود إلى بيته.",
+      "example": {
+        "en": "He comes home at 5 PM.",
+        "ar": "يعود إلى المنزل في الخامسة مساءً."
+      }
+    },
+    {
+      "word": "watch TV",
+      "definition": "To look at television programs.",
+      "arabic": "يشاهد التلفاز",
+      "arabic_definition": "أن يشاهد برامج التلفاز.",
+      "example": {
+        "en": "We watch TV after dinner.",
+        "ar": "نشاهد التلفاز بعد العشاء."
+      }
+    },
+    {
+      "word": "go to bed",
+      "definition": "To lie down in bed to sleep.",
+      "arabic": "يذهب إلى السرير",
+      "arabic_definition": "أن يذهب إلى السرير للنوم.",
+      "example": {
+        "en": "She goes to bed at 10 PM.",
+        "ar": "تذهب إلى السرير في العاشرة مساءً."
+      }
+    },
+    {
+      "word": "brush teeth",
+      "definition": "To clean your teeth with a brush.",
+      "arabic": "ينظف أسنانه",
+      "arabic_definition": "أن ينظف أسنانه بالفرشاة.",
+      "example": {
+        "en": "I brush my teeth twice a day.",
+        "ar": "أنظف أسناني مرتين في اليوم."
+      }
+    },
+    {
+      "word": "take a shower",
+      "definition": "To clean your body with water.",
+      "arabic": "يأخذ دشاً",
+      "arabic_definition": "أن ينظف جسده بالماء.",
+      "example": {
+        "en": "He takes a shower in the morning.",
+        "ar": "يأخذ دشاً في الصباح."
+      }
+    },
+    {
+      "word": "have lunch",
+      "definition": "To eat the midday meal.",
+      "arabic": "يتناول الغداء",
+      "arabic_definition": "أن يتناول وجبة منتصف النهار.",
+      "example": {
+        "en": "We have lunch at 1 PM.",
+        "ar": "نتناول الغداء في الساعة الواحدة."
+      }
+    }
+  ]
+}

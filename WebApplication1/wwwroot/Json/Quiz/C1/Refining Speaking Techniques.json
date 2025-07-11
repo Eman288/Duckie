@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Refining Speaking Techniques Quiz",
+  "questions": [
+    {
+      "question": "Why is pausing important in spoken communication?",
+      "answers": [ "It allows the listener to process information.", "It makes you forget your ideas.", "It shows a lack of preparation.", "It means you aren’t confident." ],
+      "correct": "It allows the listener to process information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of intonation when speaking?",
+      "answers": [ "To express emotion and keep listener engaged.", "To confuse the listener.", "To make speech harder to understand.", "To replace words with sound effects." ],
+      "correct": "To express emotion and keep listener engaged.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clarity important in advanced speaking?",
+      "answers": [ "To ensure the listener understands the message.", "To make the listener guess your meaning.", "To hide information intentionally.", "To use as many filler words as possible." ],
+      "correct": "To ensure the listener understands the message.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can body language support spoken communication?",
+      "answers": [ "It emphasizes key points.", "It replaces verbal language entirely.", "It should be ignored when speaking.", "It has no impact on communication." ],
+      "correct": "It emphasizes key points.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to practice refining your speaking technique?",
+      "answers": [ "Recording and listening to yourself.", "Avoiding conversation.", "Never seeking feedback.", "Relying only on filler words." ],
+      "correct": "Recording and listening to yourself.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is using a varied vocabulary important in advanced speaking?",
+      "answers": [ "To be precise and captivating.", "To confuse the listener intentionally.", "To make your speech too long.", "To only use complex words regardless of context." ],
+      "correct": "To be precise and captivating.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can a speaker adjust their tone effectively?",
+      "answers": [ "By aligning tone with context and audience.", "By always sounding monotone.", "By ignoring the audience’s feelings.", "By sounding the same in every situation." ],
+      "correct": "By aligning tone with context and audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is making eye contact important in communication?",
+      "answers": [ "It builds trust and engagement.", "It is always intimidating.", "It means forgetting your words.", "It has no role in speaking." ],
+      "correct": "It builds trust and engagement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an effective way to reduce filler words when speaking?",
+      "answers": [ "Pause and think before responding.", "Speak quickly to cover gaps.", "Memorize long texts.", "Never practice aloud." ],
+      "correct": "Pause and think before responding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is varying pitch beneficial for advanced speaking?",
+      "answers": [ "It maintains listener interest.", "It confuses the listener.", "It replaces meaningful words.", "It has no effect on engagement." ],
+      "correct": "It maintains listener interest.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can storytelling enhance advanced speaking?",
+      "answers": [ "It makes the message more memorable.", "It adds irrelevant information.", "It replaces evidence.", "It complicates understanding." ],
+      "correct": "It makes the message more memorable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is adapting language to the audience important?",
+      "answers": [ "To aid understanding and build connections.", "To make things harder for the listener.", "To use words no one knows.", "To reduce relatability." ],
+      "correct": "To aid understanding and build connections.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can a speaker do to sound more confident?",
+      "answers": [ "Control breathing and maintain a steady pace.", "Speak as quickly as possible.", "Avoid making eye contact.", "Never pause when speaking." ],
+      "correct": "Control breathing and maintain a steady pace.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active listening vital for refining speaking techniques?",
+      "answers": [ "It improves responses and understanding.", "It delays responses unnecessarily.", "It replaces speaking altogether.", "It has no role in speaking technique." ],
+      "correct": "It improves responses and understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can feedback help in refining speaking skills?",
+      "answers": [ "It provides insights for improvement.", "It discourages progress.", "It guarantees error-free speaking.", "It is irrelevant for advanced speakers." ],
+      "correct": "It provides insights for improvement.",
+      "voiceUrl": ""
+    }
+  ]
+}

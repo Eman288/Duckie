@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Plans for the Future",
+  "words": [
+    {
+      "word": "vision",
+      "definition": "A picture or idea of the future.",
+      "arabic": "رؤية",
+      "arabic_definition": "صورة أو فكرة عن المستقبل.",
+      "example": {
+        "en": "My vision is to build a successful company.",
+        "ar": "رؤيتي هي بناء شركة ناجحة."
+      }
+    },
+    {
+      "word": "strategy",
+      "definition": "A plan for achieving a goal.",
+      "arabic": "استراتيجية",
+      "arabic_definition": "خطة لتحقيق الهدف.",
+      "example": {
+        "en": "We have a solid strategy for entering new markets.",
+        "ar": "لدينا استراتيجية متينة لدخول أسواق جديدة."
+      }
+    },
+    {
+      "word": "priorities",
+      "definition": "The things that are most important.",
+      "arabic": "أولويات",
+      "arabic_definition": "الأشياء الأكثر أهمية.",
+      "example": {
+        "en": "Setting priorities is vital when planning your future.",
+        "ar": "تحديد الأولويات أمر حيوي عند التخطيط لمستقبلك."
+      }
+    },
+    {
+      "word": "milestone",
+      "definition": "An important point in a process.",
+      "arabic": "معلم",
+      "arabic_definition": "نقطة مهمة في عملية ما.",
+      "example": {
+        "en": "Reaching this milestone is a great achievement.",
+        "ar": "الوصول إلى هذا المعلم يعد إنجازًا عظيمًا."
+      }
+    },
+    {
+      "word": "objective",
+      "definition": "A goal that someone aims to achieve.",
+      "arabic": "هدف",
+      "arabic_definition": "غاية يسعى الشخص لتحقيقها.",
+      "example": {
+        "en": "My objective is to finish the project by December.",
+        "ar": "هدفي هو إنهاء المشروع بحلول ديسمبر."
+      }
+    },
+    {
+      "word": "timeline",
+      "definition": "A plan of events arranged by date.",
+      "arabic": "جدول زمني",
+      "arabic_definition": "خطة أحداث مرتبة حسب التاريخ.",
+      "example": {
+        "en": "We created a timeline for the launch.",
+        "ar": "قمنا بإنشاء جدول زمني للإطلاق."
+      }
+    },
+    {
+      "word": "visionary",
+      "definition": "A person with ideas about the future.",
+      "arabic": "صاحب رؤية",
+      "arabic_definition": "شخص لديه أفكار عن المستقبل.",
+      "example": {
+        "en": "He is a visionary leader.",
+        "ar": "إنه قائد صاحب رؤية."
+      }
+    },
+    {
+      "word": "commitment",
+      "definition": "A promise or decision to do something.",
+      "arabic": "التزام",
+      "arabic_definition": "وعد أو قرار بفعل شيء.",
+      "example": {
+        "en": "Commitment is needed to achieve long-term success.",
+        "ar": "يلزم الالتزام لتحقيق النجاح على المدى الطويل."
+      }
+    },
+    {
+      "word": "adaptation",
+      "definition": "Adjusting plans as needed.",
+      "arabic": "تكيف",
+      "arabic_definition": "تعديل الخطط حسب الحاجة.",
+      "example": {
+        "en": "Adaptation is key when dealing with unexpected changes.",
+        "ar": "التكيف ضروري عند التعامل مع التغيرات غير المتوقعة."
+      }
+    },
+    {
+      "word": "long‑term",
+      "definition": "Something that lasts a long time.",
+      "arabic": "طويل الأمد",
+      "arabic_definition": "شيء يستمر لفترة طويلة.",
+      "example": {
+        "en": "My long‑term goal is to run a successful business.",
+        "ar": "هدفي طويل الأمد هو إدارة عمل ناجح."
+      }
+    }
+  ]
+}

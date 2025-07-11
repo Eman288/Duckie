@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Talking About Parties and Celebrations Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'party'?",
+      "answers": [ "حفلة", "عيد", "اجتماع", "مهرجان" ],
+      "correct": "حفلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'celebration'?",
+      "answers": [ "احتفال", "مشكلة", "حفلة", "حدث" ],
+      "correct": "احتفال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'birthday'?",
+      "answers": [ "عيد ميلاد", "حفلة", "زفاف", "احتفال" ],
+      "correct": "عيد ميلاد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'wedding'?",
+      "answers": [ "زفاف", "حفلة", "عيد", "احتفال" ],
+      "correct": "زفاف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'guests'?",
+      "answers": [ "ضيوف", "أصدقاء", "عائلة", "زملاء" ],
+      "correct": "ضيوف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'music'?",
+      "answers": [ "موسيقى", "طعام", "مشروب", "رقص" ],
+      "correct": "موسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'dancing'?",
+      "answers": [ "رقص", "مشروب", "طعام", "موسيقى" ],
+      "correct": "رقص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'cake'?",
+      "answers": [ "كيك", "خبز", "فاكهة", "مشروب" ],
+      "correct": "كيك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'gifts'?",
+      "answers": [ "هدايا", "زينة", "طعام", "موسيقى" ],
+      "correct": "هدايا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'fun'?",
+      "answers": [ "مرح", "حزن", "خوف", "قلق" ],
+      "correct": "مرح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to invite'?",
+      "answers": [ "يدعو", "يذهب", "يأتي", "يعمل" ],
+      "correct": "يدعو",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to celebrate'?",
+      "answers": [ "يحتفل", "يشتكي", "يحزن", "يعمل" ],
+      "correct": "يحتفل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'decorations'?",
+      "answers": [ "زينة", "هدايا", "طعام", "موسيقى" ],
+      "correct": "زينة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to enjoy'?",
+      "answers": [ "يستمتع", "يحزن", "يشتكي", "يعمل" ],
+      "correct": "يستمتع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to dance'?",
+      "answers": [ "يرقص", "يغني", "يلعب", "يقرأ" ],
+      "correct": "يرقص",
+      "voiceUrl": ""
+    }
+  ]
+}

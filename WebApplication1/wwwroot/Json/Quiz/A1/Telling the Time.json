@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 2 - Telling the Time Quiz",
+  "questions": [
+    {
+      "question": "What does 'o'clock' mean?",
+      "answers": [
+        "An hour on the clock",
+        "Half an hour",
+        "A calendar date",
+        "Midnight"
+      ],
+      "correct": "An hour on the clock",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'quarter' as in time?",
+      "answers": [
+        "نصف",
+        "ثلث",
+        "ربع",
+        "دقيقة"
+      ],
+      "correct": "ربع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 30 minutes past the hour?",
+      "answers": [
+        "quarter past",
+        "half past",
+        "o'clock",
+        "quarter to"
+      ],
+      "correct": "half past",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'It's quarter to three' to Arabic.",
+      "answers": [
+        "إنها الثالثة تماماً",
+        "إنها الثالثة إلا ربعاً",
+        "إنها الثالثة والنصف",
+        "إنها الثانية والربع"
+      ],
+      "correct": "إنها الثالثة إلا ربعاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'midnight' mean?",
+      "answers": [
+        "12 PM",
+        "6 AM",
+        "12 AM",
+        "3 PM"
+      ],
+      "correct": "12 AM",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lesson": "Describing Distance and Location",
+  "words": [
+    {
+      "word": "near",
+      "definition": "At a short distance from something.",
+      "arabic": "قريب",
+      "arabic_definition": "على مسافة قصيرة من شيء ما.",
+      "example": {
+        "en": "The school is near the library.",
+        "ar": "المدرسة قريبة من المكتبة."
+      }
+    },
+    {
+      "word": "far",
+      "definition": "At a great distance.",
+      "arabic": "بعيد",
+      "arabic_definition": "على مسافة بعيدة.",
+      "example": {
+        "en": "My house is far from here.",
+        "ar": "منزلي بعيد عن هنا."
+      }
+    },
+    {
+      "word": "next to",
+      "definition": "Immediately beside something.",
+      "arabic": "بجانب",
+      "arabic_definition": "مباشرة بجانب شيء ما.",
+      "example": {
+        "en": "The post office is next to the bank.",
+        "ar": "مكتب البريد بجانب البنك."
+      }
+    },
+    {
+      "word": "in front of",
+      "definition": "At the front side of something.",
+      "arabic": "أمام",
+      "arabic_definition": "في الجهة الأمامية من شيء ما.",
+      "example": {
+        "en": "The bus stop is in front of the school.",
+        "ar": "موقف الحافلات أمام المدرسة."
+      }
+    },
+    {
+      "word": "behind",
+      "definition": "At the back of something.",
+      "arabic": "خلف",
+      "arabic_definition": "في الجزء الخلفي من شيء ما.",
+      "example": {
+        "en": "The car is parked behind the building.",
+        "ar": "السيارة متوقفة خلف المبنى."
+      }
+    }
+  ]
+}

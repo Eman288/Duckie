@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Daily Routines at Work Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'I arrive at work at 9 AM'?",
+      "answers": [ "أصل إلى العمل الساعة التاسعة صباحًا", "أخرج من العمل الساعة التاسعة صباحًا", "أتحدث على الهاتف الساعة التاسعة صباحًا", "أكتب رسالة الساعة التاسعة صباحًا" ],
+      "correct": "أصل إلى العمل الساعة التاسعة صباحًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a meeting in the morning'?",
+      "answers": [ "لدي اجتماع صباحًا", "أخرج من العمل صباحًا", "أتحدث على الهاتف صباحًا", "أكتب درسًا صباحًا" ],
+      "correct": "لدي اجتماع صباحًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I send emails'?",
+      "answers": [ "أرسل رسائل البريد الإلكتروني", "أتحدث على الهاتف", "أكتب درسًا", "أخرج من العمل" ],
+      "correct": "أرسل رسائل البريد الإلكتروني",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have lunch at 12 PM'?",
+      "answers": [ "أتناول الغداء الساعة الثانية عشرة ظهرًا", "أخرج من العمل الساعة الثانية عشرة ظهرًا", "أتحدث على الهاتف الساعة الثانية عشرة ظهرًا", "أكتب درسًا الساعة الثانية عشرة ظهرًا" ],
+      "correct": "أتناول الغداء الساعة الثانية عشرة ظهرًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I work on my computer'?",
+      "answers": [ "أعمل على الحاسوب", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أعمل على الحاسوب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I call clients in the afternoon'?",
+      "answers": [ "أتصل بالعملاء بعد الظهر", "أكتب درسًا بعد الظهر", "أخرج من العمل بعد الظهر", "أتحدث على الهاتف بعد الظهر" ],
+      "correct": "أتصل بالعملاء بعد الظهر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I write reports'?",
+      "answers": [ "أكتب التقارير", "أتحدث على الهاتف", "أخرج من العمل", "أتصل بالأصدقاء" ],
+      "correct": "أكتب التقارير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have a coffee break'?",
+      "answers": [ "أتناول استراحة القهوة", "أخرج من العمل", "أتحدث على الهاتف", "أكتب درسًا" ],
+      "correct": "أتناول استراحة القهوة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I finish work at 5 PM'?",
+      "answers": [ "أنهي العمل الساعة الخامسة مساءً", "أخرج من العمل الساعة التاسعة صباحًا", "أتحدث على الهاتف الساعة الخامسة مساءً", "أكتب درسًا الساعة الخامسة مساءً" ],
+      "correct": "أنهي العمل الساعة الخامسة مساءً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I tidy my desk'?",
+      "answers": [ "أرتب مكتبي", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أرتب مكتبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I review documents'?",
+      "answers": [ "أراجع الوثائق", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أراجع الوثائق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend a training'?",
+      "answers": [ "أحضر تدريبًا", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أحضر تدريبًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I make phone calls'?",
+      "answers": [ "أجري مكالمات هاتفية", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أجري مكالمات هاتفية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I organize files'?",
+      "answers": [ "أرتب الملفات", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أرتب الملفات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I prepare a presentation'?",
+      "answers": [ "أجهز عرضًا تقديميًا", "أتحدث على الهاتف", "أخرج من العمل", "أكتب درسًا" ],
+      "correct": "أجهز عرضًا تقديميًا",
+      "voiceUrl": ""
+    }
+  ]
+}

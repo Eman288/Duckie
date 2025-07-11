@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Modals and Subjunctive Forms in Context Quiz",
+  "questions": [
+    {
+      "question": "Which is an example of a modal verb used for obligation?",
+      "answers": [
+        "Must",
+        "Should",
+        "May",
+        "Can"
+      ],
+      "correct": "Must",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the subjunctive mood used for?",
+      "answers": [
+        "To express wishes, demands, or hypothetical situations.",
+        "To state facts.",
+        "To ask questions.",
+        "To give instructions."
+      ],
+      "correct": "To express wishes, demands, or hypothetical situations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a subjunctive sentence?",
+      "answers": [
+        "I suggest that he be on time.",
+        "He is on time.",
+        "He was on time.",
+        "He will be on time."
+      ],
+      "correct": "I suggest that he be on time.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which modal verb is used for possibility?",
+      "answers": [
+        "Might",
+        "Must",
+        "Should",
+        "Will"
+      ],
+      "correct": "Might",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common use for 'should'?",
+      "answers": [
+        "To give advice or recommendations.",
+        "To express certainty.",
+        "To talk about obligations only.",
+        "To state absolute facts."
+      ],
+      "correct": "To give advice or recommendations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which sentence uses a modal verb for permission?",
+      "answers": [
+        "May I borrow your pen?",
+        "He must work tonight.",
+        "She should rest.",
+        "They will help us."
+      ],
+      "correct": "May I borrow your pen?",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the difference between 'must' and 'should'?",
+      "answers": [
+        "'Must' is used for strong obligation, 'should' for recommendations.",
+        "They have the same meaning.",
+        "'Must' is weaker than 'should'.",
+        "'Should' is used for permission."
+      ],
+      "correct": "'Must' is used for strong obligation, 'should' for recommendations.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a subjunctive form example?",
+      "answers": [
+        "He goes to school.",
+        "I recommend that he go to school.",
+        "It is vital that she be present.",
+        "I request that you be quiet."
+      ],
+      "correct": "He goes to school.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a modal verb?",
+      "answers": [
+        "Run",
+        "Should",
+        "Must",
+        "May"
+      ],
+      "correct": "Run",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is the subjunctive used in formal contexts?",
+      "answers": [
+        "To express urgency, demands, or suggestions.",
+        "To state facts.",
+        "To ask questions.",
+        "To express habitual behavior."
+      ],
+      "correct": "To express urgency, demands, or suggestions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a modal verb in context?",
+      "answers": [
+        "You must wear a helmet.",
+        "He goes to work.",
+        "They play in the garden.",
+        "We watched the movie."
+      ],
+      "correct": "You must wear a helmet.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a use for modal verbs?",
+      "answers": [
+        "To state absolute truths.",
+        "To express possibility.",
+        "To give advice.",
+        "To express obligation."
+      ],
+      "correct": "To state absolute truths.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are modals used in academic writing?",
+      "answers": [
+        "To express nuances of possibility, necessity, and obligation.",
+        "To make statements sound too strong.",
+        "To remove clarity.",
+        "To state opinions as facts."
+      ],
+      "correct": "To express nuances of possibility, necessity, and obligation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which sentence uses a subjunctive verb correctly?",
+      "answers": [
+        "It is vital that she be present.",
+        "She is present.",
+        "He goes to work.",
+        "We play soccer."
+      ],
+      "correct": "It is vital that she be present.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common use of the subjunctive mood?",
+      "answers": [
+        "To express wishes, suggestions, or demands.",
+        "To state facts.",
+        "To make questions.",
+        "To give instructions only."
+      ],
+      "correct": "To express wishes, suggestions, or demands.",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 1 - Discussing Identity and Culture Quiz",
+  "questions": [
+    {
+      "question": "What does 'culture' mean?",
+      "answers": [
+        "The customs, traditions, and beliefs of a group of people.",
+        "A type of food.",
+        "A sport.",
+        "A language."
+      ],
+      "correct": "The customs, traditions, and beliefs of a group of people.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'identity'?",
+      "answers": [
+        "Who a person is, including their personality and culture.",
+        "A type of clothing.",
+        "A building.",
+        "A language."
+      ],
+      "correct": "Who a person is, including their personality and culture.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of cultural tradition?",
+      "answers": [
+        "Celebrating national holidays.",
+        "Playing video games.",
+        "Watching TV.",
+        "Sleeping."
+      ],
+      "correct": "Celebrating national holidays.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can we learn about other cultures?",
+      "answers": [
+        "By traveling, reading, and talking to people.",
+        "By ignoring them.",
+        "By only staying home.",
+        "By refusing to listen."
+      ],
+      "correct": "By traveling, reading, and talking to people.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a stereotype?",
+      "answers": [
+        "A general and often incorrect idea about a group of people.",
+        "A fact.",
+        "A kind of food.",
+        "A language."
+      ],
+      "correct": "A general and often incorrect idea about a group of people.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to respect other cultures?",
+      "answers": [
+        "To promote understanding and peace.",
+        "To argue with them.",
+        "To ignore them.",
+        "To be better than them."
+      ],
+      "correct": "To promote understanding and peace.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can culture influence behavior?",
+      "answers": [
+        "It shapes how people act and communicate.",
+        "It has no effect.",
+        "It controls weather.",
+        "It decides what food is eaten."
+      ],
+      "correct": "It shapes how people act and communicate.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of cultural identity?",
+      "answers": [
+        "Speaking a native language.",
+        "Playing sports.",
+        "Watching TV.",
+        "Sleeping."
+      ],
+      "correct": "Speaking a native language.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'diversity' mean?",
+      "answers": [
+        "Variety of different people and cultures.",
+        "Same people everywhere.",
+        "A single culture.",
+        "A food dish."
+      ],
+      "correct": "Variety of different people and cultures.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do holidays reflect culture?",
+      "answers": [
+        "They celebrate important traditions and history.",
+        "They are random days.",
+        "They have no meaning.",
+        "They are only for fun."
+      ],
+      "correct": "They celebrate important traditions and history.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is learning about culture important?",
+      "answers": [
+        "It helps us understand and respect others.",
+        "It's not important.",
+        "It's boring.",
+        "It's only for students."
+      ],
+      "correct": "It helps us understand and respect others.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is cultural heritage?",
+      "answers": [
+        "The legacy of physical artifacts and intangible attributes of a group.",
+        "A new invention.",
+        "A sport.",
+        "A language."
+      ],
+      "correct": "The legacy of physical artifacts and intangible attributes of a group.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of cultural expression?",
+      "answers": [
+        "Music, dance, and art.",
+        "Watching TV.",
+        "Playing games.",
+        "Sleeping."
+      ],
+      "correct": "Music, dance, and art.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can culture change over time?",
+      "answers": [
+        "Through contact with other cultures and new ideas.",
+        "It never changes.",
+        "It changes only in schools.",
+        "It changes by accident."
+      ],
+      "correct": "Through contact with other cultures and new ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does it mean to have a multicultural society?",
+      "answers": [
+        "A community made up of many cultures.",
+        "Only one culture.",
+        "No culture at all.",
+        "A food market."
+      ],
+      "correct": "A community made up of many cultures.",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Booking Transport and Accommodation",
+  "words": [
+    {
+      "word": "train",
+      "definition": "A long vehicle that moves on tracks.",
+      "arabic": "قطار",
+      "arabic_definition": "مركبة طويلة تتحرك على القضبان.",
+      "example": {
+        "en": "We will take a train to Berlin.",
+        "ar": "سنستقل القطار إلى برلين."
+      }
+    },
+    {
+      "word": "bus",
+      "definition": "A large vehicle for transporting people.",
+      "arabic": "حافلة",
+      "arabic_definition": "مركبة كبيرة لنقل الأشخاص.",
+      "example": {
+        "en": "The bus is very comfortable.",
+        "ar": "الحافلة مريحة جداً."
+      }
+    },
+    {
+      "word": "hotel",
+      "definition": "A place where people pay to stay.",
+      "arabic": "فندق",
+      "arabic_definition": "مكان يقيم فيه الأشخاص مقابل المال.",
+      "example": {
+        "en": "We booked a hotel near the beach.",
+        "ar": "حجزنا فندقًا بالقرب من الشاطئ."
+      }
+    },
+    {
+      "word": "hostel",
+      "definition": "A low-cost accommodation.",
+      "arabic": "نزل",
+      "arabic_definition": "مكان إقامة منخفض التكلفة.",
+      "example": {
+        "en": "We stayed at a hostel in the city.",
+        "ar": "أقمنا في نزل داخل المدينة."
+      }
+    },
+    {
+      "word": "flight",
+      "definition": "A journey by airplane.",
+      "arabic": "رحلة جوية",
+      "arabic_definition": "رحلة بواسطة طائرة.",
+      "example": {
+        "en": "The flight was delayed.",
+        "ar": "تم تأخير الرحلة الجوية."
+      }
+    },
+    {
+      "word": "boarding pass",
+      "definition": "A card required to get on the plane.",
+      "arabic": "بطاقة صعود",
+      "arabic_definition": "بطاقة مطلوبة لركوب الطائرة.",
+      "example": {
+        "en": "I have my boarding pass ready.",
+        "ar": "لدي بطاقة الصعود جاهزة."
+      }
+    },
+    {
+      "word": "check-in",
+      "definition": "The process of registering for a flight.",
+      "arabic": "تسجيل الدخول",
+      "arabic_definition": "عملية التسجيل قبل الرحلة.",
+      "example": {
+        "en": "Check-in starts three hours before the flight.",
+        "ar": "يبدأ تسجيل الدخول قبل ثلاث ساعات من الرحلة."
+      }
+    },
+    {
+      "word": "one-way ticket",
+      "definition": "A ticket for a trip in one direction.",
+      "arabic": "تذكرة ذهاب",
+      "arabic_definition": "تذكرة لرحلة باتجاه واحد.",
+      "example": {
+        "en": "He bought a one-way ticket to London.",
+        "ar": "اشترى تذكرة ذهاب إلى لندن."
+      }
+    },
+    {
+      "word": "round-trip ticket",
+      "definition": "A ticket for going and returning.",
+      "arabic": "تذكرة ذهاب وعودة",
+      "arabic_definition": "تذكرة للذهاب والعودة.",
+      "example": {
+        "en": "We booked a round-trip ticket.",
+        "ar": "حجزنا تذكرة ذهاب وعودة."
+      }
+    },
+    {
+      "word": "reservation number",
+      "definition": "A code for your booking.",
+      "arabic": "رقم الحجز",
+      "arabic_definition": "رمز خاص بحجزك.",
+      "example": {
+        "en": "My reservation number is 12345.",
+        "ar": "رقم حجزي هو 12345."
+      }
+    }
+  ]
+}

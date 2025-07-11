@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 6 - Personal Growth and Goals",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'personal strength'?",
+      "answers": [ "قوة شخصية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "قوة شخصية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'weakness' in Arabic?",
+      "answers": [ "نقطة ضعف", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نقطة ضعف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الدافع'?",
+      "answers": [ "motivation", "daily routine", "work project", "travel map" ],
+      "correct": "motivation",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'ambition' in Arabic?",
+      "answers": [ "طموح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "طموح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'making future plans'?",
+      "answers": [ "وضع خطط للمستقبل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "وضع خطط للمستقبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'goal' in Arabic?",
+      "answers": [ "هدف", "حافلة", "حقيبة", "حجز" ],
+      "correct": "هدف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التخطيط الشخصي'?",
+      "answers": [ "personal planning", "daily routine", "work project", "travel map" ],
+      "correct": "personal planning",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'vision' in Arabic?",
+      "answers": [ "رؤية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "رؤية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'success'?",
+      "answers": [ "نجاح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نجاح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'motivation and ambition' in Arabic?",
+      "answers": [ "الدافع والطموح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدافع والطموح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القوة الداخلية'?",
+      "answers": [ "inner strength", "daily routine", "work project", "travel map" ],
+      "correct": "inner strength",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'self-improvement' in Arabic?",
+      "answers": [ "تحسين الذات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تحسين الذات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'future aspirations'?",
+      "answers": [ "تطلعات المستقبل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تطلعات المستقبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'long-term goal' in Arabic?",
+      "answers": [ "هدف طويل الأمد", "حافلة", "حقيبة", "حجز" ],
+      "correct": "هدف طويل الأمد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'تحديد الأولويات'?",
+      "answers": [ "prioritizing", "daily routine", "work project", "travel map" ],
+      "correct": "prioritizing",
+      "voiceUrl": ""
+    }
+  ]
+}

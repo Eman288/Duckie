@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 2 - Negotiation and Persuasion Techniques Quiz",
+  "questions": [
+    {
+      "question": "What is negotiation?",
+      "answers": [
+        "A process to reach an agreement by discussion.",
+        "A fight.",
+        "Ignoring problems.",
+        "Telling others what to do."
+      ],
+      "correct": "A process to reach an agreement by discussion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which skill is important for successful negotiation?",
+      "answers": [
+        "Listening carefully.",
+        "Talking only.",
+        "Interrupting others.",
+        "Ignoring opinions."
+      ],
+      "correct": "Listening carefully.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'persuasion' mean?",
+      "answers": [
+        "Convincing someone to agree with your idea.",
+        "Forcing someone.",
+        "Ignoring others.",
+        "Arguing loudly."
+      ],
+      "correct": "Convincing someone to agree with your idea.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is preparation important in negotiation?",
+      "answers": [
+        "It helps understand your goals and the other side's interests.",
+        "It wastes time.",
+        "It is not needed.",
+        "It confuses people."
+      ],
+      "correct": "It helps understand your goals and the other side's interests.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase can start a negotiation politely?",
+      "answers": [
+        "Let's discuss how we can work together.",
+        "You must accept this.",
+        "I will win.",
+        "No way."
+      ],
+      "correct": "Let's discuss how we can work together.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'win-win' solution?",
+      "answers": [
+        "An agreement that benefits both sides.",
+        "One side wins only.",
+        "No agreement.",
+        "One side loses."
+      ],
+      "correct": "An agreement that benefits both sides.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can body language affect negotiation?",
+      "answers": [
+        "It shows confidence or openness.",
+        "It has no effect.",
+        "It confuses people.",
+        "It is bad."
+      ],
+      "correct": "It shows confidence or openness.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is patience important in negotiation?",
+      "answers": [
+        "It allows time for careful discussion and better deals.",
+        "It wastes time.",
+        "It shows weakness.",
+        "It is unnecessary."
+      ],
+      "correct": "It allows time for careful discussion and better deals.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'BATNA' stand for in negotiation?",
+      "answers": [
+        "Best Alternative To a Negotiated Agreement.",
+        "Bad Agreement.",
+        "Best Agreement.",
+        "Business Agreement."
+      ],
+      "correct": "Best Alternative To a Negotiated Agreement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you respond to criticism during negotiation?",
+      "answers": [
+        "Listen calmly and respond respectfully.",
+        "Get angry.",
+        "Ignore it.",
+        "Walk away."
+      ],
+      "correct": "Listen calmly and respond respectfully.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is asking questions important in negotiation?",
+      "answers": [
+        "To understand the other side’s needs and interests.",
+        "To confuse them.",
+        "To waste time.",
+        "To interrupt."
+      ],
+      "correct": "To understand the other side’s needs and interests.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'compromise'?",
+      "answers": [
+        "Each side gives something to reach an agreement.",
+        "One side wins completely.",
+        "No agreement.",
+        "Avoiding discussion."
+      ],
+      "correct": "Each side gives something to reach an agreement.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role does listening play in persuasion?",
+      "answers": [
+        "It helps understand concerns and build trust.",
+        "It wastes time.",
+        "It shows weakness.",
+        "It is unnecessary."
+      ],
+      "correct": "It helps understand concerns and build trust.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can emotions affect negotiation?",
+      "answers": [
+        "They can help or hurt the process depending on how they are managed.",
+        "They have no effect.",
+        "They always help.",
+        "They always hurt."
+      ],
+      "correct": "They can help or hurt the process depending on how they are managed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clarity important in persuasion?",
+      "answers": [
+        "Clear ideas are easier to understand and accept.",
+        "It wastes time.",
+        "It confuses people.",
+        "It is unimportant."
+      ],
+      "correct": "Clear ideas are easier to understand and accept.",
+      "voiceUrl": ""
+    }
+  ]
+}

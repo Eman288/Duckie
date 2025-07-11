@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 2 - Talking about Business Trends Quiz",
+  "questions": [
+    {
+      "question": "What is a 'business trend'?",
+      "answers": [
+        "A general direction in which business is developing.",
+        "A type of product.",
+        "A business mistake.",
+        "A person in business."
+      ],
+      "correct": "A general direction in which business is developing.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is an example of a current business trend?",
+      "answers": [
+        "Remote working.",
+        "Using paper maps.",
+        "Fax machines.",
+        "Typewriters."
+      ],
+      "correct": "Remote working.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'market demand' mean?",
+      "answers": [
+        "How many customers want a product or service.",
+        "The price of a product.",
+        "The location of a store.",
+        "The number of employees."
+      ],
+      "correct": "How many customers want a product or service.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is important when analyzing business trends?",
+      "answers": [
+        "Studying customer behavior and market changes.",
+        "Ignoring the market.",
+        "Selling only old products.",
+        "Copying competitors exactly."
+      ],
+      "correct": "Studying customer behavior and market changes.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'increase quickly'?",
+      "answers": [
+        "To skyrocket.",
+        "To decline.",
+        "To fall.",
+        "To disappear."
+      ],
+      "correct": "To skyrocket.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do businesses respond to new trends?",
+      "answers": [
+        "By adapting their products and services.",
+        "By ignoring customers.",
+        "By keeping everything the same.",
+        "By stopping production."
+      ],
+      "correct": "By adapting their products and services.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'innovation' mean in business?",
+      "answers": [
+        "Introducing new ideas or methods.",
+        "Making old products.",
+        "Selling things cheaply.",
+        "Hiring new staff."
+      ],
+      "correct": "Introducing new ideas or methods.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'startup'?",
+      "answers": [
+        "A new company just beginning business.",
+        "A large corporation.",
+        "A failing business.",
+        "An old company."
+      ],
+      "correct": "A new company just beginning business.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a sign of a positive business trend?",
+      "answers": [
+        "Increased sales and customer interest.",
+        "Decreased profits.",
+        "Losing customers.",
+        "Higher costs."
+      ],
+      "correct": "Increased sales and customer interest.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'sustainability' in business?",
+      "answers": [
+        "Practices that do not harm the environment.",
+        "Making quick profits.",
+        "Ignoring laws.",
+        "Increasing waste."
+      ],
+      "correct": "Practices that do not harm the environment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can technology affect business trends?",
+      "answers": [
+        "By creating new opportunities and changing how business works.",
+        "By stopping growth.",
+        "By reducing communication.",
+        "By making things harder."
+      ],
+      "correct": "By creating new opportunities and changing how business works.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'market share' mean?",
+      "answers": [
+        "The percentage of total sales a company has in its market.",
+        "The price of a product.",
+        "The size of a store.",
+        "The number of employees."
+      ],
+      "correct": "The percentage of total sales a company has in its market.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a business challenge?",
+      "answers": [
+        "Increased competition.",
+        "More customers.",
+        "Higher profits.",
+        "Better products."
+      ],
+      "correct": "Increased competition.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is market research important?",
+      "answers": [
+        "It helps businesses understand customer needs.",
+        "It wastes time.",
+        "It is not useful.",
+        "It increases costs only."
+      ],
+      "correct": "It helps businesses understand customer needs.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'to forecast' mean in business?",
+      "answers": [
+        "To predict future trends or sales.",
+        "To make a mistake.",
+        "To lose money.",
+        "To hire employees."
+      ],
+      "correct": "To predict future trends or sales.",
+      "voiceUrl": ""
+    }
+  ]
+}

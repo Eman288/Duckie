@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Describing Where Things Are Quiz",
+  "questions": [
+    {
+      "question": "The book is ___ the table.",
+      "answers": [ "under", "on", "behind", "next to" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The cat is ___ the bed.",
+      "answers": [ "under", "on", "next to", "behind" ],
+      "correct": "under",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The lamp is ___ the desk.",
+      "answers": [ "on", "behind", "under", "next to" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The chair is ___ the table.",
+      "answers": [ "next to", "behind", "under", "on" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The mirror is ___ the wall.",
+      "answers": [ "on", "under", "next to", "behind" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The shoes are ___ the bed.",
+      "answers": [ "behind", "next to", "under", "on" ],
+      "correct": "under",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The box is ___ the door.",
+      "answers": [ "behind", "next to", "under", "on" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The painting is ___ the bed.",
+      "answers": [ "on", "behind", "above", "under" ],
+      "correct": "above",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book is ___ the shelf.",
+      "answers": [ "on", "under", "next to", "behind" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The table is ___ the chair.",
+      "answers": [ "next to", "behind", "on", "under" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The rug is ___ the floor.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The clock is ___ the wall.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The backpack is ___ the bed.",
+      "answers": [ "on", "next to", "behind", "under" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The lamp is ___ the shelf.",
+      "answers": [ "on", "under", "next to", "behind" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book is ___ the desk.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    }
+  ]
+}

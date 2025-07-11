@@ -1,0 +1,55 @@
+{
+  "lesson": "Places in a City",
+  "words": [
+    {
+      "word": "library",
+      "definition": "A place where people can borrow books and use resources for study.",
+      "arabic": "مكتبة",
+      "arabic_definition": "مكان يمكن فيه استعارة الكتب واستخدام الموارد للدراسة.",
+      "example": {
+        "en": "I go to the library to read.",
+        "ar": "أذهب إلى المكتبة للقراءة."
+      }
+    },
+    {
+      "word": "hospital",
+      "definition": "A place where sick or injured people are given medical care.",
+      "arabic": "مستشفى",
+      "arabic_definition": "مكان يتم فيه تقديم الرعاية الطبية للمرضى أو المصابين.",
+      "example": {
+        "en": "He is in the hospital.",
+        "ar": "هو في المستشفى."
+      }
+    },
+    {
+      "word": "park",
+      "definition": "A public area with grass and trees where people can relax.",
+      "arabic": "حديقة",
+      "arabic_definition": "مكان عام به عشب وأشجار يمكن للناس الاسترخاء فيه.",
+      "example": {
+        "en": "Children play in the park.",
+        "ar": "الأطفال يلعبون في الحديقة."
+      }
+    },
+    {
+      "word": "bank",
+      "definition": "A place where people keep or borrow money.",
+      "arabic": "بنك",
+      "arabic_definition": "مكان يحتفظ فيه الناس بأموالهم أو يقترضون منها.",
+      "example": {
+        "en": "She went to the bank to deposit money.",
+        "ar": "ذهبت إلى البنك لإيداع المال."
+      }
+    },
+    {
+      "word": "supermarket",
+      "definition": "A large store where people buy food and household items.",
+      "arabic": "سوبر ماركت",
+      "arabic_definition": "متجر كبير يشتري منه الناس الطعام والأدوات المنزلية.",
+      "example": {
+        "en": "We buy groceries at the supermarket.",
+        "ar": "نشتري البقالة من السوبر ماركت."
+      }
+    }
+  ]
+}

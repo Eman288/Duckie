@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Talking about Exercise and Diet Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I exercise every morning' in Arabic?",
+      "answers": [ "أتمرن كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتمرن كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like to eat vegetables'",
+      "answers": [ "أحب تناول الخضار", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب تناول الخضار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I drink a lot of water' in Arabic?",
+      "answers": [ "أشرب الكثير من الماء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشرب الكثير من الماء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I run every evening'",
+      "answers": [ "أجري كل مساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أجري كل مساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I eat fruit every day' in Arabic?",
+      "answers": [ "أتناول الفاكهة كل يوم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الفاكهة كل يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I go to the gym three times a week'",
+      "answers": [ "أذهب إلى النادي ثلاث مرات أسبوعياً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أذهب إلى النادي ثلاث مرات أسبوعياً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I try to eat a balanced diet' in Arabic?",
+      "answers": [ "أحاول تناول نظام غذائي متوازن", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحاول تناول نظام غذائي متوازن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I do yoga in the morning'",
+      "answers": [ "أمارس اليوغا صباحاً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أمارس اليوغا صباحاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like to walk every evening' in Arabic?",
+      "answers": [ "أحب المشي كل مساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب المشي كل مساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I try to avoid sugary drinks'",
+      "answers": [ "أحاول تجنب المشروبات المحلاة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحاول تجنب المشروبات المحلاة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I eat breakfast every morning' in Arabic?",
+      "answers": [ "أتناول الإفطار كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الإفطار كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like to play sports'",
+      "answers": [ "أحب ممارسة الرياضة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب ممارسة الرياضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a healthy lunch' in Arabic?",
+      "answers": [ "أتناول غداء صحياً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول غداء صحياً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I eat a lot of vegetables'",
+      "answers": [ "أتناول الكثير من الخضار", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الكثير من الخضار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don’t drink soda' in Arabic?",
+      "answers": [ "أنا لا أشرب المشروبات الغازية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا لا أشرب المشروبات الغازية",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 7 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'city'?",
+      "answers": [ "مدينة", "قرية", "شارع", "حديقة" ],
+      "correct": "مدينة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'street' in Arabic?",
+      "answers": [ "مدينة", "شارع", "حافلة", "خريطة" ],
+      "correct": "شارع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'خريطة'?",
+      "answers": [ "city", "map", "bus", "car" ],
+      "correct": "map",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'bus' in Arabic?",
+      "answers": [ "حافلة", "سيارة", "خريطة", "شارع" ],
+      "correct": "حافلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'car'?",
+      "answers": [ "حافلة", "سيارة", "مدينة", "خريطة" ],
+      "correct": "سيارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'train' in Arabic?",
+      "answers": [ "قطار", "شارع", "خريطة", "حافلة" ],
+      "correct": "قطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'station'?",
+      "answers": [ "محطة", "مدينة", "شارع", "خريطة" ],
+      "correct": "محطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'near' in Arabic?",
+      "answers": [ "قريب", "بعيد", "مدينة", "خريطة" ],
+      "correct": "قريب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'بعيد'?",
+      "answers": [ "near", "far", "inside", "on" ],
+      "correct": "far",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'next to' in Arabic?",
+      "answers": [ "خلف", "بجانب", "بعيد", "فوق" ],
+      "correct": "بجانب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'behind'?",
+      "answers": [ "خلف", "فوق", "قريب", "بعيد" ],
+      "correct": "خلف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to ask for directions'?",
+      "answers": [ "السؤال عن الاتجاهات", "الحافلة", "المحطة", "الخريطة" ],
+      "correct": "السؤال عن الاتجاهات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'اتبع هذه الخريطة'?",
+      "answers": [ "Read this book", "Follow this map", "Wait here", "Go straight" ],
+      "correct": "Follow this map",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'go straight' in Arabic?",
+      "answers": [ "انعطف يمينًا", "اذهب مباشرة", "ارجع", "قف هنا" ],
+      "correct": "اذهب مباشرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'turn right'?",
+      "answers": [ "انعطف يسارًا", "انعطف يمينًا", "ارجع", "اذهب مباشرة" ],
+      "correct": "انعطف يمينًا",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Expressing Likes and Dislikes in Social Settings",
+  "words": [
+    {
+      "word": "enjoy",
+      "definition": "To like or have fun doing something.",
+      "arabic": "يستمتع",
+      "arabic_definition": "أن يحب أو يجد متعة بعمل شيء.",
+      "example": {
+        "en": "I enjoy talking with friends.",
+        "ar": "أستمتع بالحديث مع الأصدقاء."
+      }
+    },
+    {
+      "word": "dislike",
+      "definition": "To not like something.",
+      "arabic": "يكره",
+      "arabic_definition": "ألا يحب شيئًا.",
+      "example": {
+        "en": "I dislike crowded places.",
+        "ar": "أكره الأماكن المزدحمة."
+      }
+    },
+    {
+      "word": "prefer",
+      "definition": "To like one thing more than another.",
+      "arabic": "يفضل",
+      "arabic_definition": "أن يحب شيئًا على غيره.",
+      "example": {
+        "en": "I prefer tea over coffee.",
+        "ar": "أفضل الشاي على القهوة."
+      }
+    },
+    {
+      "word": "agree",
+      "definition": "To have the same opinion.",
+      "arabic": "يتفق",
+      "arabic_definition": "أن يحمل نفس الرأي.",
+      "example": {
+        "en": "I agree with your idea.",
+        "ar": "أتفق مع فكرتك."
+      }
+    },
+    {
+      "word": "disagree",
+      "definition": "To have a different opinion.",
+      "arabic": "لا يتفق",
+      "arabic_definition": "أن يحمل رأيًا مختلفًا.",
+      "example": {
+        "en": "I disagree with this decision.",
+        "ar": "لا أتفق مع هذا القرار."
+      }
+    },
+    {
+      "word": "like",
+      "definition": "To have a positive feeling about something.",
+      "arabic": "يعجب",
+      "arabic_definition": "أن يحمل شعورًا إيجابيًا نحو شيء.",
+      "example": {
+        "en": "I like going to parties.",
+        "ar": "يعجبني الذهاب إلى الحفلات."
+      }
+    },
+    {
+      "word": "love",
+      "definition": "To have a strong affection for something.",
+      "arabic": "يحب",
+      "arabic_definition": "أن يحمل مودة كبيرة نحو شيء.",
+      "example": {
+        "en": "I love spending time with friends.",
+        "ar": "أحب قضاء الوقت مع الأصدقاء."
+      }
+    },
+    {
+      "word": "hate",
+      "definition": "To strongly dislike.",
+      "arabic": "يكره",
+      "arabic_definition": "أن لا يحب شيئًا بشدة.",
+      "example": {
+        "en": "He hates being late.",
+        "ar": "يكره التأخر عن الموعد."
+      }
+    },
+    {
+      "word": "excited",
+      "definition": "Feeling happy and enthusiastic.",
+      "arabic": "متحمس",
+      "arabic_definition": "يشعر بالسعادة والحماس.",
+      "example": {
+        "en": "I am excited about the party.",
+        "ar": "أنا متحمس للحفلة."
+      }
+    },
+    {
+      "word": "bored",
+      "definition": "Feeling tired or uninterested.",
+      "arabic": "يشعر بالملل",
+      "arabic_definition": "يشعر بالتعب أو عدم الاهتمام.",
+      "example": {
+        "en": "I am bored with this conversation.",
+        "ar": "أشعر بالملل من هذه المحادثة."
+      }
+    }
+  ]
+}

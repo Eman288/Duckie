@@ -1,0 +1,96 @@
+{
+  "lesson": "Unit 5 - Talking About Meals Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'breakfast'?",
+      "answers": [ "فطور", "غداء", "عشاء", "وجبة" ],
+      "correct": "فطور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'lunch'?",
+      "answers": [ "غداء", "فطور", "عشاء", "وجبة" ],
+      "correct": "غداء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'dinner'?",
+      "answers": [ "عشاء", "فطور", "غداء", "وجبة" ],
+      "correct": "عشاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am hungry'?",
+      "answers": [ "أنا جائع", "أنا شبعان", "أنا عطشان", "أنا متعب" ],
+      "correct": "أنا جائع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'vegetables'?",
+      "answers": [ "خضروات", "فاكهة", "لحوم", "مشروبات" ],
+      "correct": "خضروات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'fruits'?",
+      "answers": [ "فاكهة", "خضروات", "لحوم", "مشروبات" ],
+      "correct": "فاكهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'meat'?",
+      "answers": [ "لحوم", "خضروات", "فاكهة", "مشروبات" ],
+      "correct": "لحوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'drink'?",
+      "answers": [ "مشروب", "طعام", "لحم", "خبز" ],
+      "correct": "مشروب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like to eat'?",
+      "answers": [ "أحب أن آكل", "أحب أن أشرب", "أنا جائع", "أنا شبعان" ],
+      "correct": "أحب أن آكل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I don’t like spicy food'?",
+      "answers": [ "لا أحب الطعام الحار", "أحب الطعام الحار", "أنا جائع", "أنا عطشان" ],
+      "correct": "لا أحب الطعام الحار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'breakfast is important'?",
+      "answers": [ "الإفطار مهم", "الغداء مهم", "العشاء مهم", "الطعام مهم" ],
+      "correct": "الإفطار مهم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I eat three meals a day'?",
+      "answers": [ "آكل ثلاث وجبات في اليوم", "آكل وجبة واحدة في اليوم", "آكل فقط في الليل", "لا آكل" ],
+      "correct": "آكل ثلاث وجبات في اليوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'healthy food'?",
+      "answers": [ "طعام صحي", "طعام غير صحي", "طعام حار", "طعام بارد" ],
+      "correct": "طعام صحي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I prefer fruits'?",
+      "answers": [ "أفضل الفاكهة", "أفضل اللحوم", "أفضل المشروبات", "أفضل الخبز" ],
+      "correct": "أفضل الفاكهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'snack'?",
+      "answers": [ "وجبة خفيفة", "وجبة رئيسية", "فطور", "غداء" ],
+      "correct": "وجبة خفيفة",
+      "voiceUrl": ""
+    }
+  ]
+}
+

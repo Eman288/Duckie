@@ -1,0 +1,105 @@
+{
+  "lesson": "At the Airport",
+  "words": [
+    {
+      "word": "boarding pass",
+      "definition": "A document that allows you to get on the plane.",
+      "arabic": "بطاقة الصعود إلى الطائرة",
+      "arabic_definition": "وثيقة تسمح لك بالصعود إلى الطائرة.",
+      "example": {
+        "en": "Show your boarding pass at the gate.",
+        "ar": "اعرض بطاقة الصعود إلى الطائرة عند البوابة."
+      }
+    },
+    {
+      "word": "security check",
+      "definition": "The process of checking passengers for dangerous items.",
+      "arabic": "فحص أمني",
+      "arabic_definition": "عملية تفتيش الركاب للبحث عن أشياء خطيرة.",
+      "example": {
+        "en": "We waited in line for the security check.",
+        "ar": "انتظرنا في الطابور للفحص الأمني."
+      }
+    },
+    {
+      "word": "customs",
+      "definition": "The place where your bags are checked when entering a country.",
+      "arabic": "الجمارك",
+      "arabic_definition": "المكان الذي يتم فيه تفتيش حقائبك عند دخول بلد.",
+      "example": {
+        "en": "The customs officer asked to see my passport.",
+        "ar": "طلب موظف الجمارك رؤية جواز سفري."
+      }
+    },
+    {
+      "word": "gate",
+      "definition": "The place where passengers get on the plane.",
+      "arabic": "بوابة الصعود",
+      "arabic_definition": "المكان الذي يصعد منه الركاب إلى الطائرة.",
+      "example": {
+        "en": "Our flight is boarding at gate 12.",
+        "ar": "رحلتنا ستبدأ الصعود من البوابة 12."
+      }
+    },
+    {
+      "word": "delay",
+      "definition": "When a flight leaves later than planned.",
+      "arabic": "تأخير",
+      "arabic_definition": "عندما تغادر الرحلة في وقت متأخر عن المخطط.",
+      "example": {
+        "en": "Our flight had a two-hour delay.",
+        "ar": "كان لدى رحلتنا تأخير لمدة ساعتين."
+      }
+    },
+    {
+      "word": "lounge",
+      "definition": "A comfortable waiting area for passengers.",
+      "arabic": "صالة الانتظار",
+      "arabic_definition": "منطقة انتظار مريحة للركاب.",
+      "example": {
+        "en": "We waited in the lounge before boarding.",
+        "ar": "انتظرنا في صالة الانتظار قبل الصعود."
+      }
+    },
+    {
+      "word": "carry-on",
+      "definition": "A small bag you take on the plane with you.",
+      "arabic": "حقيبة يد",
+      "arabic_definition": "حقيبة صغيرة تأخذها معك على الطائرة.",
+      "example": {
+        "en": "I packed my laptop in my carry-on bag.",
+        "ar": "وضعت حاسوبي المحمول في حقيبة اليد."
+      }
+    },
+    {
+      "word": "check-in counter",
+      "definition": "The place where you register for your flight.",
+      "arabic": "مكتب تسجيل الوصول",
+      "arabic_definition": "المكان الذي تسجل فيه لرحلتك.",
+      "example": {
+        "en": "We went to the check-in counter to get our boarding passes.",
+        "ar": "ذهبنا إلى مكتب تسجيل الوصول للحصول على بطاقات الصعود."
+      }
+    },
+    {
+      "word": "flight attendant",
+      "definition": "A person who helps passengers on a plane.",
+      "arabic": "مضيف طيران",
+      "arabic_definition": "شخص يساعد الركاب على الطائرة.",
+      "example": {
+        "en": "The flight attendant gave us safety instructions.",
+        "ar": "قدم مضيف الطيران تعليمات السلامة لنا."
+      }
+    },
+    {
+      "word": "passport control",
+      "definition": "The place where your passport is checked before leaving or entering a country.",
+      "arabic": "مراقبة الجوازات",
+      "arabic_definition": "المكان الذي يتم فيه فحص جواز سفرك قبل الخروج أو الدخول إلى بلد.",
+      "example": {
+        "en": "We waited in line at passport control.",
+        "ar": "انتظرنا في الطابور عند مراقبة الجوازات."
+      }
+    }
+  ]
+}

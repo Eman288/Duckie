@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Places in a City Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'school'?",
+      "answers": [ "مدرسة", "مستشفى", "مكتب البريد", "مركز التسوق" ],
+      "correct": "مدرسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'hospital'?",
+      "answers": [ "مستشفى", "مدرسة", "مكتب البريد", "مركز التسوق" ],
+      "correct": "مستشفى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'post office'?",
+      "answers": [ "مكتب البريد", "مدرسة", "مستشفى", "مركز التسوق" ],
+      "correct": "مكتب البريد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'shopping mall'?",
+      "answers": [ "مكتب البريد", "مركز التسوق", "مستشفى", "مدرسة" ],
+      "correct": "مركز التسوق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'bank'?",
+      "answers": [ "مستشفى", "مدرسة", "مكتب البريد", "بنك" ],
+      "correct": "بنك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'restaurant'?",
+      "answers": [ "مطعم", "مكتب البريد", "مستشفى", "مدرسة" ],
+      "correct": "مطعم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hotel'?",
+      "answers": [ "فندق", "مستشفى", "مدرسة", "مكتب البريد" ],
+      "correct": "فندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'bus station'?",
+      "answers": [ "مكتب البريد", "مستشفى", "مدرسة", "محطة حافلات" ],
+      "correct": "محطة حافلات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'police station'?",
+      "answers": [ "مكتب البريد", "مستشفى", "مركز الشرطة", "مدرسة" ],
+      "correct": "مركز الشرطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'market'?",
+      "answers": [ "السوق", "المستشفى", "البنك", "المكتب" ],
+      "correct": "السوق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'library'?",
+      "answers": [ "المكتبة", "المستشفى", "المكتب", "البنك" ],
+      "correct": "المكتبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'cinema'?",
+      "answers": [ "السينما", "المستشفى", "البنك", "المكتب" ],
+      "correct": "السينما",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'park'?",
+      "answers": [ "حديقة", "المستشفى", "البنك", "المكتب" ],
+      "correct": "حديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'train station'?",
+      "answers": [ "محطة القطار", "المستشفى", "البنك", "المكتب" ],
+      "correct": "محطة القطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'café'?",
+      "answers": [ "مقهى", "المستشفى", "البنك", "المكتب" ],
+      "correct": "مقهى",
+      "voiceUrl": ""
+    }
+  ]
+}

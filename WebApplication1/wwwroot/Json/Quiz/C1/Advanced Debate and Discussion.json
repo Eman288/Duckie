@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Advanced Debate and Discussion Quiz",
+  "questions": [
+    {
+      "question": "Why is understanding both sides of an argument important in a debate?",
+      "answers": [ "To form balanced and compelling arguments.", "To always agree with the opposing side.", "To forget your point of view.", "To only focus on one side." ],
+      "correct": "To form balanced and compelling arguments.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a counterargument in a debate?",
+      "answers": [ "A response to an opposing point of view.", "A statement unrelated to the topic.", "A way to ignore the other person.", "A claim that supports only your side." ],
+      "correct": "A response to an opposing point of view.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is evidence crucial in debates and discussions?",
+      "answers": [ "It strengthens the argument and adds credibility.", "It complicates the discussion unnecessarily.", "It replaces the need for reasoning.", "It always causes confusion." ],
+      "correct": "It strengthens the argument and adds credibility.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to disagree respectfully in a discussion?",
+      "answers": [ "Use neutral language and acknowledge the other person’s point.", "Interrupt and raise your voice.", "Reject their opinion outright.", "Change the subject abruptly." ],
+      "correct": "Use neutral language and acknowledge the other person’s point.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active listening vital in debates and discussions?",
+      "answers": [ "To understand and respond appropriately.", "To forget your point.", "To dominate the conversation.", "To make the discussion longer." ],
+      "correct": "To understand and respond appropriately.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can asking questions improve a debate?",
+      "answers": [ "It encourages deeper understanding and exploration.", "It prevents a strong argument.", "It means you have no opinion.", "It replaces making a statement." ],
+      "correct": "It encourages deeper understanding and exploration.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to stay calm during debates?",
+      "answers": [ "To communicate more effectively and think clearly.", "To confuse the listener.", "To forget your argument.", "To appear uninterested." ],
+      "correct": "To communicate more effectively and think clearly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role do examples play in a debate?",
+      "answers": [ "They make abstract ideas more concrete.", "They complicate understanding.", "They are irrelevant.", "They only work for specific topics." ],
+      "correct": "They make abstract ideas more concrete.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is acknowledging the opposing side important?",
+      "answers": [ "It demonstrates open-mindedness and strengthens credibility.", "It means accepting defeat.", "It replaces making an argument.", "It complicates making a point." ],
+      "correct": "It demonstrates open-mindedness and strengthens credibility.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is a strong opening statement vital in a debate?",
+      "answers": [ "It captures attention and sets the tone.", "It guarantees victory.", "It replaces evidence.", "It can be ignored later." ],
+      "correct": "It captures attention and sets the tone.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can summarizing key points help in discussions?",
+      "answers": [ "It clarifies ideas for both sides.", "It complicates understanding.", "It replaces making an argument.", "It is only for endings." ],
+      "correct": "It clarifies ideas for both sides.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding your audience important in debates?",
+      "answers": [ "To use language and examples that resonate.", "To ignore their interests.", "To only speak in technical terms.", "To focus exclusively on winning." ],
+      "correct": "To use language and examples that resonate.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is concluding effectively important in a debate?",
+      "answers": [ "To leave a strong final impression.", "To forget all prior arguments.", "To introduce new ideas unnecessarily.", "To focus only on opposing points." ],
+      "correct": "To leave a strong final impression.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is acknowledging valid points from the opposing side valuable?",
+      "answers": [ "It builds trust and strengthens your argument.", "It means you have lost.", "It is irrelevant to debates.", "It replaces making counterpoints." ],
+      "correct": "It builds trust and strengthens your argument.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the best way to end a debate or discussion?",
+      "answers": [ "With a concise summary and strong concluding statement.", "With a long unrelated story.", "With a series of questions only.", "By repeating every point from the debate." ],
+      "correct": "With a concise summary and strong concluding statement.",
+      "voiceUrl": ""
+    }
+  ]
+}

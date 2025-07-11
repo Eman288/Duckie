@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Language for Political and Social Discourse",
+  "questions": [
+    {
+      "question": "Why is neutral language vital in political discussions?",
+      "answers": [ "To maintain objectivity and foster constructive dialogue.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from arguments." ],
+      "correct": "To maintain objectivity and foster constructive dialogue.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why define key terms in social debates?",
+      "answers": [ "To clarify ideas and reduce misunderstandings.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from arguments." ],
+      "correct": "To clarify ideas and reduce misunderstandings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why consider cultural context in discourse?",
+      "answers": [ "To build trust and understanding across differences.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from arguments." ],
+      "correct": "To build trust and understanding across differences.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use evidence-based statements?",
+      "answers": [ "To build credibility and support arguments.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To build credibility and support arguments.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why adjust language for varied audiences?",
+      "answers": [ "To ensure accessibility and resonance with listeners.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from arguments." ],
+      "correct": "To ensure accessibility and resonance with listeners.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use respectful language in debates?",
+      "answers": [ "To foster constructive and inclusive discussion.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To foster constructive and inclusive discussion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why consider tone in political discourse?",
+      "answers": [ "To maintain trust and reduce polarization.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discussions." ],
+      "correct": "To maintain trust and reduce polarization.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review statistics and data used?",
+      "answers": [ "To ensure accuracy and reliability of evidence.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To ensure accuracy and reliability of evidence.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why understand historical context?",
+      "answers": [ "To provide depth and nuance to arguments.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To provide depth and nuance to arguments.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why consider stakeholders’ interests?",
+      "answers": [ "To foster more balanced and constructive discussions.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To foster more balanced and constructive discussions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why balance emotion and reason?",
+      "answers": [ "To appeal to both heart and mind effectively.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To appeal to both heart and mind effectively.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why review sources for reliability?",
+      "answers": [ "To maintain credibility and build trust.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To maintain credibility and build trust.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why structure arguments clearly?",
+      "answers": [ "To aid understanding and emphasize key points.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To aid understanding and emphasize key points.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why acknowledge opposing views?",
+      "answers": [ "To demonstrate open-mindedness and foster constructive debate.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To demonstrate open-mindedness and foster constructive debate.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use inclusive language?",
+      "answers": [ "To create a sense of belonging and respect for diverse audiences.", "To complicate wording intentionally.", "To skip making connections clearly.", "To remove precision from discourse." ],
+      "correct": "To create a sense of belonging and respect for diverse audiences.",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - At the Airport Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'airport'?",
+      "answers": [ "مطار", "محطة قطار", "ميناء", "فندق" ],
+      "correct": "مطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'boarding pass'?",
+      "answers": [ "بطاقة صعود", "تذكرة", "جواز سفر", "خطة سفر" ],
+      "correct": "بطاقة صعود",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'luggage'?",
+      "answers": [ "أمتعة", "رحلة", "سفر", "حجز" ],
+      "correct": "أمتعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'customs'?",
+      "answers": [ "الجمارك", "المطار", "الرحلة", "السفر" ],
+      "correct": "الجمارك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'security check'?",
+      "answers": [ "فحص الأمان", "الجمارك", "المطار", "رحلة" ],
+      "correct": "فحص الأمان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'gate'?",
+      "answers": [ "بوابة", "رحلة", "سفر", "مطار" ],
+      "correct": "بوابة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'passport control'?",
+      "answers": [ "مراقبة الجوازات", "الجمارك", "رحلة", "سفر" ],
+      "correct": "مراقبة الجوازات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'flight delay'?",
+      "answers": [ "تأخير الرحلة", "إلغاء الرحلة", "رحلة", "مطار" ],
+      "correct": "تأخير الرحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'departure'?",
+      "answers": [ "مغادرة", "وصول", "رحلة", "سفر" ],
+      "correct": "مغادرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'arrival'?",
+      "answers": [ "وصول", "مغادرة", "رحلة", "سفر" ],
+      "correct": "وصول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'check-in desk'?",
+      "answers": [ "مكتب التسجيل", "مكتب الاستعلامات", "مكتب الجمارك", "مكتب الحجز" ],
+      "correct": "مكتب التسجيل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'baggage claim'?",
+      "answers": [ "استلام الأمتعة", "فحص الأمان", "الجمارك", "مطار" ],
+      "correct": "استلام الأمتعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'customs officer'?",
+      "answers": [ "موظف الجمارك", "موظف المطار", "موظف الطيران", "موظف الفندق" ],
+      "correct": "موظف الجمارك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'flight number'?",
+      "answers": [ "رقم الرحلة", "رقم الجواز", "رقم التذكرة", "رقم الحجز" ],
+      "correct": "رقم الرحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'boarding gate'?",
+      "answers": [ "بوابة الصعود", "مكتب الحجز", "مكتب التسجيل", "مكتب الاستعلامات" ],
+      "correct": "بوابة الصعود",
+      "voiceUrl": ""
+    }
+  ]
+}

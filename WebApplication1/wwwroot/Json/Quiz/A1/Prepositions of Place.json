@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Prepositions of Place Quiz",
+  "questions": [
+    {
+      "question": "The book is ___ the table.",
+      "answers": [ "in", "on", "behind", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The cat is ___ the bed.",
+      "answers": [ "under", "on", "behind", "next to" ],
+      "correct": "under",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The clock is ___ the wall.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The pencil is ___ the book.",
+      "answers": [ "on", "behind", "next to", "under" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The shoes are ___ the door.",
+      "answers": [ "behind", "next to", "under", "on" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The picture is ___ the wall.",
+      "answers": [ "behind", "next to", "on", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The dog is ___ the table.",
+      "answers": [ "under", "behind", "on", "next to" ],
+      "correct": "under",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The lamp is ___ the desk.",
+      "answers": [ "next to", "under", "on", "behind" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book is ___ the bed.",
+      "answers": [ "under", "behind", "on", "next to" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The box is ___ the closet.",
+      "answers": [ "behind", "next to", "under", "on" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The ball is ___ the table.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "under",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The phone is ___ the desk.",
+      "answers": [ "next to", "on", "under", "behind" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The book is ___ the lamp.",
+      "answers": [ "behind", "next to", "under", "on" ],
+      "correct": "next to",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The pen is ___ the book.",
+      "answers": [ "behind", "on", "next to", "under" ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "The cat is ___ the closet.",
+      "answers": [ "next to", "behind", "under", "on" ],
+      "correct": "behind",
+      "voiceUrl": ""
+    }
+  ]
+}

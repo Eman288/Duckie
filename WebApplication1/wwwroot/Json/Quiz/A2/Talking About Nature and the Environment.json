@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Talking About Nature and the Environment Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'tree'?",
+      "answers": [ "شجرة", "زهرة", "عشب", "حيوان" ],
+      "correct": "شجرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'river'?",
+      "answers": [ "نهر", "بحر", "مطر", "بحيرة" ],
+      "correct": "نهر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'mountain'?",
+      "answers": [ "جبل", "وادي", "صحراء", "غابة" ],
+      "correct": "جبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'forest'?",
+      "answers": [ "غابة", "صحراء", "وادي", "بحر" ],
+      "correct": "غابة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'animal'?",
+      "answers": [ "حيوان", "نبات", "شجرة", "زهرة" ],
+      "correct": "حيوان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'flower'?",
+      "answers": [ "زهرة", "شجرة", "عشب", "نهر" ],
+      "correct": "زهرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'clean air'?",
+      "answers": [ "هواء نظيف", "هواء ملوث", "ماء نظيف", "ماء ملوث" ],
+      "correct": "هواء نظيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'pollution'?",
+      "answers": [ "تلوث", "نظافة", "تنظيف", "حماية" ],
+      "correct": "تلوث",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'recycling'?",
+      "answers": [ "إعادة التدوير", "تلوث", "تنظيف", "حماية" ],
+      "correct": "إعادة التدوير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'protect the environment'?",
+      "answers": [ "حماية البيئة", "تلويث البيئة", "إفساد البيئة", "إزالة البيئة" ],
+      "correct": "حماية البيئة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'nature'?",
+      "answers": [ "طبيعة", "مدينة", "شارع", "مبنى" ],
+      "correct": "طبيعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'desert'?",
+      "answers": [ "صحراء", "غابة", "وادي", "جبل" ],
+      "correct": "صحراء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'lake'?",
+      "answers": [ "بحيرة", "نهر", "بحر", "وادي" ],
+      "correct": "بحيرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'valley'?",
+      "answers": [ "وادي", "جبل", "صحراء", "غابة" ],
+      "correct": "وادي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to plant'?",
+      "answers": [ "يزرع", "يحصد", "ينظف", "يقطف" ],
+      "correct": "يزرع",
+      "voiceUrl": ""
+    }
+  ]
+}

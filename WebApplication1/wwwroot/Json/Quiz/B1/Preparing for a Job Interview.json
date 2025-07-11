@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Preparing for a Job Interview Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I am well-prepared for this interview' in Arabic?",
+      "answers": [ "أنا مستعد جيدًا لهذه المقابلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مستعد جيدًا لهذه المقابلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What are your strengths?'",
+      "answers": [ "ما نقاط قوتك؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ما نقاط قوتك؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have experience in this field' in Arabic?",
+      "answers": [ "لدي خبرة في هذا المجال", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي خبرة في هذا المجال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Why do you want this job?'",
+      "answers": [ "لماذا تريد هذه الوظيفة؟", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لماذا تريد هذه الوظيفة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am passionate about my work' in Arabic?",
+      "answers": [ "أنا شغوف بعملي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا شغوف بعملي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I can work well in a team'",
+      "answers": [ "أستطيع العمل جيدًا ضمن فريق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستطيع العمل جيدًا ضمن فريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am organized and detail-oriented' in Arabic?",
+      "answers": [ "أنا منظم وأهتم بالتفاصيل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا منظم وأهتم بالتفاصيل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am looking for a new challenge'",
+      "answers": [ "أبحث عن تحدٍ جديد", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن تحدٍ جديد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I can adapt quickly' in Arabic?",
+      "answers": [ "أستطيع التكيف بسرعة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستطيع التكيف بسرعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am interested in this position'",
+      "answers": [ "أنا مهتم بهذا المنصب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا مهتم بهذا المنصب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have good communication skills' in Arabic?",
+      "answers": [ "لدي مهارات تواصل جيدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي مهارات تواصل جيدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am proficient in using computer programs'",
+      "answers": [ "أتقن استخدام برامج الكمبيوتر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتقن استخدام برامج الكمبيوتر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am a quick learner' in Arabic?",
+      "answers": [ "أنا أتعلم بسرعة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا أتعلم بسرعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am confident in my abilities'",
+      "answers": [ "أنا واثق من قدراتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا واثق من قدراتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am available to start immediately' in Arabic?",
+      "answers": [ "أنا جاهز لبدء العمل فورًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنا جاهز لبدء العمل فورًا",
+      "voiceUrl": ""
+    }
+  ]
+}

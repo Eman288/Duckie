@@ -1,0 +1,105 @@
+{
+  "lesson": "Travel Problems and Solutions",
+  "words": [
+    {
+      "word": "delay",
+      "definition": "When something happens later than planned.",
+      "arabic": "تأخير",
+      "arabic_definition": "عندما يحدث شيء في وقت متأخر عن المخطط.",
+      "example": {
+        "en": "Our flight was delayed by two hours.",
+        "ar": "تأخرت رحلتنا لمدة ساعتين."
+      }
+    },
+    {
+      "word": "lost",
+      "definition": "Unable to find your way or belongings.",
+      "arabic": "ضائع",
+      "arabic_definition": "غير قادر على إيجاد طريقك أو ممتلكاتك.",
+      "example": {
+        "en": "I lost my luggage at the airport.",
+        "ar": "فقدت أمتعتي في المطار."
+      }
+    },
+    {
+      "word": "cancel",
+      "definition": "To decide not to continue with plans.",
+      "arabic": "يلغي",
+      "arabic_definition": "يقرر عدم الاستمرار في الخطط.",
+      "example": {
+        "en": "The hotel canceled our reservation.",
+        "ar": "ألغى الفندق حجزنا."
+      }
+    },
+    {
+      "word": "emergency",
+      "definition": "A sudden serious situation needing quick action.",
+      "arabic": "طوارئ",
+      "arabic_definition": "حالة خطيرة مفاجئة تحتاج إلى تصرف سريع.",
+      "example": {
+        "en": "In case of emergency, call this number.",
+        "ar": "في حالة الطوارئ، اتصل بهذا الرقم."
+      }
+    },
+    {
+      "word": "broken",
+      "definition": "Not working or damaged.",
+      "arabic": "معطل",
+      "arabic_definition": "لا يعمل أو تالف.",
+      "example": {
+        "en": "The hotel elevator was broken.",
+        "ar": "كان مصعد الفندق معطلًا."
+      }
+    },
+    {
+      "word": "help desk",
+      "definition": "A place where you can get help or information.",
+      "arabic": "مكتب المساعدة",
+      "arabic_definition": "مكان يمكنك الحصول فيه على المساعدة أو المعلومات.",
+      "example": {
+        "en": "I went to the help desk to report the problem.",
+        "ar": "ذهبت إلى مكتب المساعدة للإبلاغ عن المشكلة."
+      }
+    },
+    {
+      "word": "refund",
+      "definition": "Money returned after canceling a service or purchase.",
+      "arabic": "استرداد المال",
+      "arabic_definition": "أموال تُعاد بعد إلغاء خدمة أو شراء.",
+      "example": {
+        "en": "I got a refund for the canceled flight.",
+        "ar": "تلقيت استردادًا للرحلة الملغاة."
+      }
+    },
+    {
+      "word": "insurance",
+      "definition": "Protection that covers you against problems or accidents.",
+      "arabic": "تأمين",
+      "arabic_definition": "حماية تغطيك ضد المشاكل أو الحوادث.",
+      "example": {
+        "en": "Travel insurance can help if you lose your luggage.",
+        "ar": "يمكن أن يساعد التأمين على السفر إذا فقدت أمتعتك."
+      }
+    },
+    {
+      "word": "complaint",
+      "definition": "A statement about something wrong or bad.",
+      "arabic": "شكوى",
+      "arabic_definition": "بيان عن شيء خاطئ أو سيئ.",
+      "example": {
+        "en": "I made a complaint about the noisy room.",
+        "ar": "قدمت شكوى بشأن الغرفة الصاخبة."
+      }
+    },
+    {
+      "word": "solution",
+      "definition": "A way to fix a problem.",
+      "arabic": "حل",
+      "arabic_definition": "طريقة لإصلاح مشكلة.",
+      "example": {
+        "en": "The hotel offered a solution to our problem.",
+        "ar": "عرض الفندق حلاً لمشكلتنا."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 1 - A2 Quiz",
+  "questions": [
+    {
+      "question": "Which of the following means 'hobby' in Arabic?",
+      "answers": [ "هواية", "عمل", "مدرسة", "مكتب" ],
+      "correct": "هواية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'خطة'?",
+      "answers": [ "party", "plan", "work", "game" ],
+      "correct": "plan",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'weekend' in Arabic?",
+      "answers": [ "عطلة نهاية الأسبوع", "الخريف", "المكتب", "الصيف" ],
+      "correct": "عطلة نهاية الأسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'daily routine'?",
+      "answers": [ "جدول يومي", "مكتب عمل", "خطة عمل", "موسم" ],
+      "correct": "جدول يومي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'أمس'?",
+      "answers": [ "tomorrow", "today", "yesterday", "weekend" ],
+      "correct": "yesterday",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following means 'to relax' in Arabic?",
+      "answers": [ "يرتاح", "يلعب", "يسافر", "يرسم" ],
+      "correct": "يرتاح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hiking'?",
+      "answers": [ "المشي لمسافات طويلة", "السباحة", "التزلج", "القراءة" ],
+      "correct": "المشي لمسافات طويلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to visit' in Arabic?",
+      "answers": [ "يزور", "يلعب", "يرسم", "يسبح" ],
+      "correct": "يزور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'قمت بزيارة صديقي أمس'?",
+      "answers": [ "I called my friend yesterday", "I visited my friend yesterday", "I walked with my friend yesterday", "I went swimming with my friend yesterday" ],
+      "correct": "I visited my friend yesterday",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to draw' in Arabic?",
+      "answers": [ "يرسم", "يلعب", "يسبح", "يرتاح" ],
+      "correct": "يرسم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'weekend plans'?",
+      "answers": [ "خطط عطلة نهاية الأسبوع", "جدول عمل", "خطة عمل يومية", "أحداث اليوم" ],
+      "correct": "خطط عطلة نهاية الأسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to play sports' in Arabic?",
+      "answers": [ "يمارس الرياضة", "يسبح", "يرسم", "يكتب" ],
+      "correct": "يمارس الرياضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'استرحت يوم أمس'?",
+      "answers": [ "I worked yesterday", "I rested yesterday", "I travelled yesterday", "I drew yesterday" ],
+      "correct": "I rested yesterday",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to walk' in Arabic?",
+      "answers": [ "يسبح", "يمشي", "يرسم", "يلعب" ],
+      "correct": "يمشي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'daily routine'?",
+      "answers": [ "جدول يومي", "خطة أسبوعية", "مكتب عمل", "قائمة طعام" ],
+      "correct": "جدول يومي",
+      "voiceUrl": ""
+    }
+  ]
+}

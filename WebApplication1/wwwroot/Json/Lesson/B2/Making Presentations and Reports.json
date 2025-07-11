@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Presentations and Reports",
+  "words": [
+    {
+      "word": "present",
+      "definition": "To give information or show something to an audience.",
+      "arabic": "يعرض",
+      "arabic_definition": "تقديم معلومات أو عرض شيء على جمهور.",
+      "example": {
+        "en": "She will present the sales results.",
+        "ar": "ستعرض نتائج المبيعات."
+      }
+    },
+    {
+      "word": "report",
+      "definition": "A formal account of an event or situation.",
+      "arabic": "تقرير",
+      "arabic_definition": "حساب رسمي لحدث أو موقف.",
+      "example": {
+        "en": "He wrote a detailed report for the manager.",
+        "ar": "كتب تقريرًا مفصلًا للمدير."
+      }
+    },
+    {
+      "word": "slide",
+      "definition": "A page of a presentation.",
+      "arabic": "شريحة",
+      "arabic_definition": "صفحة من عرض تقديمي.",
+      "example": {
+        "en": "The slide shows sales trends over the year.",
+        "ar": "تعرض الشريحة اتجاهات المبيعات على مدار العام."
+      }
+    },
+    {
+      "word": "highlight",
+      "definition": "To emphasize or point out the most important part.",
+      "arabic": "يسلط الضوء",
+      "arabic_definition": "التأكيد على أهم جزء.",
+      "example": {
+        "en": "The chart highlights an important trend.",
+        "ar": "يسلط الرسم البياني الضوء على اتجاه مهم."
+      }
+    },
+    {
+      "word": "summary",
+      "definition": "A short version of longer information.",
+      "arabic": "ملخّص",
+      "arabic_definition": "نسخة قصيرة من معلومات طويلة.",
+      "example": {
+        "en": "The summary gives an overview of the project.",
+        "ar": "يعطي الملخّص نظرة عامة على المشروع."
+      }
+    },
+    {
+      "word": "data",
+      "definition": "Information or facts.",
+      "arabic": "بيانات",
+      "arabic_definition": "معلومات أو حقائق.",
+      "example": {
+        "en": "We collected data for the annual review.",
+        "ar": "قمنا بجمع البيانات للمراجعة السنوية."
+      }
+    },
+    {
+      "word": "audience",
+      "definition": "People watching or listening to a presentation.",
+      "arabic": "جمهور",
+      "arabic_definition": "الأشخاص الذين يشاهدون أو يستمعون إلى عرض تقديمي.",
+      "example": {
+        "en": "The audience was very engaged during the talk.",
+        "ar": "كان الجمهور متفاعلًا للغاية أثناء الحديث."
+      }
+    },
+    {
+      "word": "conclusion",
+      "definition": "The final part of a presentation or report.",
+      "arabic": "خاتمة",
+      "arabic_definition": "الجزء الأخير من عرض تقديمي أو تقرير.",
+      "example": {
+        "en": "He gave a strong conclusion to his speech.",
+        "ar": "قدم خاتمة قوية لخطابه."
+      }
+    },
+    {
+      "word": "graphic",
+      "definition": "An image or chart used in a presentation.",
+      "arabic": "رسم بياني",
+      "arabic_definition": "صورة أو مخطط يستخدم في عرض تقديمي.",
+      "example": {
+        "en": "The graphic illustrates the trend clearly.",
+        "ar": "يوضح الرسم البياني الاتجاه بوضوح."
+      }
+    },
+    {
+      "word": "prepare",
+      "definition": "To get ready for an event or activity.",
+      "arabic": "يجهّز",
+      "arabic_definition": "الإعداد لحدث أو نشاط.",
+      "example": {
+        "en": "She spent hours preparing the presentation.",
+        "ar": "قضت ساعات في إعداد العرض التقديمي."
+      }
+    }
+  ]
+}

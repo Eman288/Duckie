@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Small Talk",
+  "words": [
+    {
+      "word": "greet",
+      "definition": "To say hello when you meet someone.",
+      "arabic": "يلقي التحية",
+      "arabic_definition": "يلقي السلام على شخص عند لقائه.",
+      "example": {
+        "en": "We greet each other every morning.",
+        "ar": "نلقي التحية على بعضنا كل صباح."
+      }
+    },
+    {
+      "word": "chat",
+      "definition": "A friendly, informal conversation.",
+      "arabic": "دردشة",
+      "arabic_definition": "محادثة ودية وغير رسمية.",
+      "example": {
+        "en": "We had a chat about the weekend.",
+        "ar": "أجرينا دردشة عن عطلة نهاية الأسبوع."
+      }
+    },
+    {
+      "word": "weather",
+      "definition": "The state of the atmosphere.",
+      "arabic": "الطقس",
+      "arabic_definition": "حالة الجو.",
+      "example": {
+        "en": "Talking about the weather is a common way to make small talk.",
+        "ar": "التحدث عن الطقس طريقة شائعة لفتح محادثة."
+      }
+    },
+    {
+      "word": "hobbies",
+      "definition": "Activities people do for fun.",
+      "arabic": "الهوايات",
+      "arabic_definition": "الأنشطة التي يقوم بها الناس للاستمتاع.",
+      "example": {
+        "en": "What are your favorite hobbies?",
+        "ar": "ما هي هواياتك المفضلة؟"
+      }
+    },
+    {
+      "word": "introductions",
+      "definition": "The act of presenting people to each other.",
+      "arabic": "التقديم",
+      "arabic_definition": "فعل تعريف الأشخاص على بعضهم البعض.",
+      "example": {
+        "en": "She made introductions between friends.",
+        "ar": "قامت بتقديم الأصدقاء لبعضهم."
+      }
+    },
+    {
+      "word": "opinion",
+      "definition": "What someone thinks about a subject.",
+      "arabic": "رأي",
+      "arabic_definition": "ما يعتقده الشخص عن موضوع ما.",
+      "example": {
+        "en": "I gave my opinion about the movie.",
+        "ar": "أعطيت رأيي عن الفيلم."
+      }
+    },
+    {
+      "word": "common interests",
+      "definition": "Shared topics or activities people like.",
+      "arabic": "اهتمامات مشتركة",
+      "arabic_definition": "مواضيع أو أنشطة يشترك فيها الأشخاص.",
+      "example": {
+        "en": "We discovered we have common interests.",
+        "ar": "اكتشفنا أن لدينا اهتمامات مشتركة."
+      }
+    },
+    {
+      "word": "polite",
+      "definition": "Having good manners when talking to people.",
+      "arabic": "مهذب",
+      "arabic_definition": "ذو سلوك جيد عند الحديث مع الأشخاص.",
+      "example": {
+        "en": "He is always polite when he talks to strangers.",
+        "ar": "هو دائمًا مهذب عند الحديث مع الغرباء."
+      }
+    },
+    {
+      "word": "conversation starter",
+      "definition": "A phrase or question used to begin talking.",
+      "arabic": "مفتاح المحادثة",
+      "arabic_definition": "جملة أو سؤال لبدء المحادثة.",
+      "example": {
+        "en": "A smile can be a great conversation starter.",
+        "ar": "يمكن للابتسامة أن تكون مفتاح محادثة رائع."
+      }
+    },
+    {
+      "word": "listen",
+      "definition": "To pay attention to someone talking.",
+      "arabic": "ينصت",
+      "arabic_definition": "يركز على كلام الشخص المتحدث.",
+      "example": {
+        "en": "It's important to listen during conversations.",
+        "ar": "من المهم الإنصات أثناء المحادثات."
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 2 - Daily Life Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'eat'?",
+      "answers": [
+        "يشرب",
+        "يأكل",
+        "ينام",
+        "يكتب"
+      ],
+      "correct": "يأكل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'wake up' mean?",
+      "answers": [
+        "To begin sleeping",
+        "To stop sleeping and become conscious",
+        "To eat breakfast",
+        "To brush your hair"
+      ],
+      "correct": "To stop sleeping and become conscious",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 'مدرسة'?",
+      "answers": [
+        "school",
+        "home",
+        "library",
+        "store"
+      ],
+      "correct": "school",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ my teeth in the morning.",
+      "answers": [
+        "watch",
+        "eat",
+        "brush",
+        "go"
+      ],
+      "correct": "brush",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the meaning of 'come back'?",
+      "answers": [
+        "To go",
+        "To leave",
+        "To return",
+        "To enter"
+      ],
+      "correct": "To return",
+      "voiceUrl": ""
+    }
+  ]
+}

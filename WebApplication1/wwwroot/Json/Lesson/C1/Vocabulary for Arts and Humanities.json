@@ -1,0 +1,105 @@
+{
+  "lesson": "Vocabulary for Arts and Humanities",
+  "words": [
+    {
+      "word": "aesthetic",
+      "definition": "Concerned with beauty or the nature of beauty.",
+      "arabic": "جمالي",
+      "arabic_definition": "يتعلق بالجمال أو طبيعة الجمال.",
+      "example": {
+        "en": "The painting has an aesthetic quality.",
+        "ar": "تمتلك اللوحة جودة جمالية."
+      }
+    },
+    {
+      "word": "criticism",
+      "definition": "The analysis and judgment of a piece of work.",
+      "arabic": "نقد",
+      "arabic_definition": "تحليل عمل ما وإبداء الحكم عليه.",
+      "example": {
+        "en": "Literary criticism is an important part of literature studies.",
+        "ar": "النقد الأدبي جزء مهم من دراسة الأدب."
+      }
+    },
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech that describes one thing as another.",
+      "arabic": "استعارة",
+      "arabic_definition": "صيغة بلاغية تصف شيئًا على أنه شيء آخر.",
+      "example": {
+        "en": "The poem uses a metaphor for life.",
+        "ar": "تستخدم القصيدة استعارة للحياة."
+      }
+    },
+    {
+      "word": "symbolism",
+      "definition": "The use of symbols to represent ideas.",
+      "arabic": "رمزية",
+      "arabic_definition": "استخدام الرموز لتمثيل الأفكار.",
+      "example": {
+        "en": "The film uses strong symbolism throughout.",
+        "ar": "يستخدم الفيلم رمزية قوية طوال الوقت."
+      }
+    },
+    {
+      "word": "narrative",
+      "definition": "A spoken or written account of events.",
+      "arabic": "سرد",
+      "arabic_definition": "حكاية مكتوبة أو محكية عن أحداث.",
+      "example": {
+        "en": "The book has an engaging narrative.",
+        "ar": "الكتاب يحتوي على سرد جذاب."
+      }
+    },
+    {
+      "word": "theme",
+      "definition": "The central idea of a piece of literature or art.",
+      "arabic": "موضوع",
+      "arabic_definition": "الفكرة المحورية لعمل أدبي أو فني.",
+      "example": {
+        "en": "The theme of the play is redemption.",
+        "ar": "موضوع المسرحية هو الفداء."
+      }
+    },
+    {
+      "word": "context",
+      "definition": "The circumstances or setting that surround an event.",
+      "arabic": "السياق",
+      "arabic_definition": "الظروف المحيطة بحدث ما.",
+      "example": {
+        "en": "Understanding the context of the novel is important.",
+        "ar": "فهم سياق الرواية مهم."
+      }
+    },
+    {
+      "word": "motif",
+      "definition": "A recurring theme or element in a piece of literature.",
+      "arabic": "فكرة مكررة",
+      "arabic_definition": "فكرة تتكرر ضمن عمل أدبي.",
+      "example": {
+        "en": "The motif of isolation appears throughout the book.",
+        "ar": "تظهر فكرة العزلة طوال الكتاب."
+      }
+    },
+    {
+      "word": "allusion",
+      "definition": "A reference to another work of literature, person, or event.",
+      "arabic": "إشارة",
+      "arabic_definition": "مرجع إلى عمل أدبي آخر، شخص، أو حدث.",
+      "example": {
+        "en": "The poem contains an allusion to ancient myths.",
+        "ar": "تحتوي القصيدة على إشارة إلى الأساطير القديمة."
+      }
+    },
+    {
+      "word": "critique",
+      "definition": "A detailed evaluation of a piece of work.",
+      "arabic": "نقد",
+      "arabic_definition": "تقييم مفصل لعمل ما.",
+      "example": {
+        "en": "The review offered a strong critique of the film.",
+        "ar": "قدم المقال نقدًا قويًا للفيلم."
+      }
+    }
+  ]
+}

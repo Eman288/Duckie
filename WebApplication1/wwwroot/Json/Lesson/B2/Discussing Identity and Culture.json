@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Identity and Culture",
+  "words": [
+    {
+      "word": "identity",
+      "definition": "The characteristics that make a person unique.",
+      "arabic": "الهوية",
+      "arabic_definition": "الصفات التي تميّز الشخص.",
+      "example": {
+        "en": "My identity is shaped by my culture and heritage.",
+        "ar": "تتشكّل هويتي من ثقافتي وتراثي."
+      }
+    },
+    {
+      "word": "culture",
+      "definition": "The traditions, beliefs, and habits of a group.",
+      "arabic": "ثقافة",
+      "arabic_definition": "التقاليد والمعتقدات والعادات لمجموعة.",
+      "example": {
+        "en": "Each culture has its own customs.",
+        "ar": "لكل ثقافة عاداتها وتقاليدها."
+      }
+    },
+    {
+      "word": "heritage",
+      "definition": "Traditions and history passed down from previous generations.",
+      "arabic": "تراث",
+      "arabic_definition": "التقاليد والتاريخ التي يتم توارثها من الأجيال السابقة.",
+      "example": {
+        "en": "I am proud of my heritage.",
+        "ar": "أنا فخور بتراثي."
+      }
+    },
+    {
+      "word": "diversity",
+      "definition": "Variety of people from different cultures and traditions.",
+      "arabic": "تنوع",
+      "arabic_definition": "وجود أفراد من ثقافات وتقاليد مختلفة.",
+      "example": {
+        "en": "The city is known for its cultural diversity.",
+        "ar": "تشتهر المدينة بتنوعها الثقافي."
+      }
+    },
+    {
+      "word": "values",
+      "definition": "Beliefs about what is right and important.",
+      "arabic": "القيم",
+      "arabic_definition": "المعتقدات حول ما هو صحيح ومهم.",
+      "example": {
+        "en": "Honesty and respect are important values.",
+        "ar": "الصراحة والاحترام قيم مهمة."
+      }
+    },
+    {
+      "word": "assimilation",
+      "definition": "The process of adapting to another culture.",
+      "arabic": "الاندماج",
+      "arabic_definition": "عملية التكيّف مع ثقافة أخرى.",
+      "example": {
+        "en": "He went through a period of assimilation after moving to the new country.",
+        "ar": "مر بفترة اندماج بعد انتقاله إلى البلد الجديد."
+      }
+    },
+    {
+      "word": "tradition",
+      "definition": "A long-established belief or way of doing things.",
+      "arabic": "تقليد",
+      "arabic_definition": "اعتقاد طويل الأمد أو طريقة معتادة للقيام بالأشياء.",
+      "example": {
+        "en": "My family has a tradition of gathering every summer.",
+        "ar": "تمتلك عائلتي تقليدًا يتمثل في الاجتماع كل صيف."
+      }
+    },
+    {
+      "word": "globalization",
+      "definition": "The process of making connections between people and places across the world.",
+      "arabic": "العولمة",
+      "arabic_definition": "عملية إقامة روابط بين الأشخاص والأماكن عبر العالم.",
+      "example": {
+        "en": "Globalization has brought many cultures closer.",
+        "ar": "قرّبت العولمة العديد من الثقافات."
+      }
+    },
+    {
+      "word": "belief",
+      "definition": "Something a person feels is true.",
+      "arabic": "اعتقاد",
+      "arabic_definition": "شيء يشعر الشخص أنه صحيح.",
+      "example": {
+        "en": "Everyone has their own belief about life.",
+        "ar": "لكل شخص اعتقاده الخاص عن الحياة."
+      }
+    },
+    {
+      "word": "integration",
+      "definition": "Bringing people from different groups together.",
+      "arabic": "اندماج",
+      "arabic_definition": "جمع أفراد من مجموعات مختلفة معًا.",
+      "example": {
+        "en": "The integration of cultures makes society stronger.",
+        "ar": "اندماج الثقافات يجعل المجتمع أقوى."
+      }
+    }
+  ]
+}

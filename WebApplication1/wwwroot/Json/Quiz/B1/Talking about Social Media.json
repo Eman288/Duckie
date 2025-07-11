@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Talking about Social Media Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I use social media every day' in Arabic?",
+      "answers": [ "أستخدم وسائل التواصل الاجتماعي يومياً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم وسائل التواصل الاجتماعي يومياً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like sharing photos online'",
+      "answers": [ "أحب مشاركة الصور على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب مشاركة الصور على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have many friends online' in Arabic?",
+      "answers": [ "لدي الكثير من الأصدقاء على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي الكثير من الأصدقاء على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch videos on social media'",
+      "answers": [ "أشاهد مقاطع الفيديو على وسائل التواصل الاجتماعي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد مقاطع الفيديو على وسائل التواصل الاجتماعي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I comment on posts' in Arabic?",
+      "answers": [ "أعلق على المنشورات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعلق على المنشورات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I send messages to friends online'",
+      "answers": [ "أرسل رسائل إلى أصدقائي على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أرسل رسائل إلى أصدقائي على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I use Instagram every morning' in Arabic?",
+      "answers": [ "أستخدم إنستغرام كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم إنستغرام كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I post stories online'",
+      "answers": [ "أنشر القصص على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أنشر القصص على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I follow friends and family online' in Arabic?",
+      "answers": [ "أتابع الأصدقاء والعائلة على الانترنت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتابع الأصدقاء والعائلة على الانترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I watch live streams'",
+      "answers": [ "أشاهد البث المباشر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد البث المباشر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like this post' in Arabic?",
+      "answers": [ "أعجبني هذا المنشور", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعجبني هذا المنشور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I use social media to learn'",
+      "answers": [ "أستخدم وسائل التواصل الاجتماعي للتعلم", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستخدم وسائل التواصل الاجتماعي للتعلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I read online news every morning' in Arabic?",
+      "answers": [ "أقرأ الأخبار على الانترنت كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ الأخبار على الانترنت كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have an online group with friends'",
+      "answers": [ "لدي مجموعة على الانترنت مع أصدقائي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي مجموعة على الانترنت مع أصدقائي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like making video calls' in Arabic?",
+      "answers": [ "أحب إجراء المكالمات المرئية", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحب إجراء المكالمات المرئية",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Parties and Celebrations",
+  "words": [
+    {
+      "word": "party",
+      "definition": "A social gathering for fun.",
+      "arabic": "حفلة",
+      "arabic_definition": "تجمع اجتماعي للاستمتاع.",
+      "example": {
+        "en": "I went to a birthday party.",
+        "ar": "ذهبت إلى حفلة عيد ميلاد."
+      }
+    },
+    {
+      "word": "gift",
+      "definition": "Something you give someone to celebrate.",
+      "arabic": "هدية",
+      "arabic_definition": "شيء تقدمه لشخص ما احتفالًا.",
+      "example": {
+        "en": "I gave her a gift for her graduation.",
+        "ar": "أعطيتها هدية بمناسبة تخرجها."
+      }
+    },
+    {
+      "word": "balloon",
+      "definition": "A colorful object used for decoration.",
+      "arabic": "بالون",
+      "arabic_definition": "شيء ملون يستخدم للزينة.",
+      "example": {
+        "en": "The room was full of balloons.",
+        "ar": "كانت الغرفة مليئة بالبالونات."
+      }
+    },
+    {
+      "word": "cake",
+      "definition": "A sweet dessert served on special occasions.",
+      "arabic": "كعكة",
+      "arabic_definition": "حلوى تقدم في المناسبات الخاصة.",
+      "example": {
+        "en": "We cut the birthday cake.",
+        "ar": "قطعنا كعكة عيد الميلاد."
+      }
+    },
+    {
+      "word": "music",
+      "definition": "Sounds that people listen to for enjoyment.",
+      "arabic": "موسيقى",
+      "arabic_definition": "الأصوات التي يسمعها الناس للاستمتاع.",
+      "example": {
+        "en": "The party had great music.",
+        "ar": "كانت الموسيقى رائعة في الحفلة."
+      }
+    },
+    {
+      "word": "dance",
+      "definition": "Moving to music.",
+      "arabic": "يرقص",
+      "arabic_definition": "الحركة على أنغام الموسيقى.",
+      "example": {
+        "en": "Everyone started to dance.",
+        "ar": "بدأ الجميع بالرقص."
+      }
+    },
+    {
+      "word": "celebration",
+      "definition": "An event marking a special occasion.",
+      "arabic": "احتفال",
+      "arabic_definition": "حدث يتم بمناسبة مميزة.",
+      "example": {
+        "en": "It was a big celebration with friends.",
+        "ar": "كان احتفالًا كبيرًا مع الأصدقاء."
+      }
+    },
+    {
+      "word": "decorations",
+      "definition": "Items used to make a place look festive.",
+      "arabic": "زينة",
+      "arabic_definition": "أشياء تستخدم لإعطاء مظهر احتفالي.",
+      "example": {
+        "en": "We put up colorful decorations.",
+        "ar": "علقنا زينة ملونة."
+      }
+    },
+    {
+      "word": "toast",
+      "definition": "A short speech and drink to honor someone.",
+      "arabic": "نخب",
+      "arabic_definition": "خطاب قصير ومشروب لتكريم شخص.",
+      "example": {
+        "en": "He gave a toast to the happy couple.",
+        "ar": "قدم نخبًا للزوجين السعيدين."
+      }
+    },
+    {
+      "word": "guest list",
+      "definition": "Names of people invited.",
+      "arabic": "قائمة الضيوف",
+      "arabic_definition": "أسماء الأشخاص المدعوين.",
+      "example": {
+        "en": "We have a long guest list for the wedding.",
+        "ar": "لدينا قائمة طويلة من الضيوف للزفاف."
+      }
+    }
+  ]
+}

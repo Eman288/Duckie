@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 2 - Making Presentations and Reports Quiz",
+  "questions": [
+    {
+      "question": "What is important to do before a presentation?",
+      "answers": [
+        "Prepare and practice your speech.",
+        "Ignore your audience.",
+        "Read your slides word-for-word.",
+        "Start without preparation."
+      ],
+      "correct": "Prepare and practice your speech.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you start a presentation?",
+      "answers": [
+        "With a greeting and an introduction.",
+        "By shouting.",
+        "With silence.",
+        "By telling a joke only."
+      ],
+      "correct": "With a greeting and an introduction.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What helps keep audience attention?",
+      "answers": [
+        "Using visuals and clear language.",
+        "Speaking very fast.",
+        "Reading from notes all the time.",
+        "Ignoring questions."
+      ],
+      "correct": "Using visuals and clear language.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should reports be written?",
+      "answers": [
+        "Clearly and logically.",
+        "Confusingly.",
+        "With slang.",
+        "Very briefly without detail."
+      ],
+      "correct": "Clearly and logically.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to end a presentation?",
+      "answers": [
+        "Summarize key points and thank the audience.",
+        "Stop suddenly.",
+        "Say nothing.",
+        "Leave without goodbye."
+      ],
+      "correct": "Summarize key points and thank the audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you don't know an answer during a presentation?",
+      "answers": [
+        "Say you will find out and follow up later.",
+        "Ignore the question.",
+        "Make up an answer.",
+        "Change the subject."
+      ],
+      "correct": "Say you will find out and follow up later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How long should a presentation be?",
+      "answers": [
+        "Long enough to cover the topic, but not too long.",
+        "As long as possible.",
+        "Very short with little detail.",
+        "Only one minute."
+      ],
+      "correct": "Long enough to cover the topic, but not too long.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'visual aid'?",
+      "answers": [
+        "Images, charts, or videos used to support a presentation.",
+        "A speech.",
+        "A report.",
+        "A microphone."
+      ],
+      "correct": "Images, charts, or videos used to support a presentation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is eye contact important?",
+      "answers": [
+        "It helps connect with your audience.",
+        "It is rude.",
+        "It distracts listeners.",
+        "It is unnecessary."
+      ],
+      "correct": "It helps connect with your audience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should a report include?",
+      "answers": [
+        "An introduction, body, and conclusion.",
+        "Only pictures.",
+        "Jokes.",
+        "Random information."
+      ],
+      "correct": "An introduction, body, and conclusion.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you organize ideas in a report?",
+      "answers": [
+        "Using headings and paragraphs.",
+        "Writing everything in one paragraph.",
+        "Using only bullet points.",
+        "Mixing ideas randomly."
+      ],
+      "correct": "Using headings and paragraphs.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What tone is best for professional reports?",
+      "answers": [
+        "Formal and clear.",
+        "Informal and casual.",
+        "Funny and playful.",
+        "Angry and aggressive."
+      ],
+      "correct": "Formal and clear.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you practice your presentation?",
+      "answers": [
+        "To improve confidence and smooth delivery.",
+        "To waste time.",
+        "To memorize everything word for word.",
+        "To confuse yourself."
+      ],
+      "correct": "To improve confidence and smooth delivery.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is important when using slides?",
+      "answers": [
+        "Keep text short and use visuals.",
+        "Write paragraphs on each slide.",
+        "Use many colors and fonts.",
+        "Read slides silently."
+      ],
+      "correct": "Keep text short and use visuals.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you handle nervousness during presentations?",
+      "answers": [
+        "Take deep breaths and practice beforehand.",
+        "Ignore it.",
+        "Speak very fast.",
+        "Avoid eye contact."
+      ],
+      "correct": "Take deep breaths and practice beforehand.",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Family Members",
+  "words": [
+    {
+      "word": "father",
+      "definition": "A male parent.",
+      "arabic": "أب",
+      "arabic_definition": "الوالد الذكر.",
+      "example": {
+        "en": "My father is a doctor.",
+        "ar": "والدي طبيب."
+      }
+    },
+    {
+      "word": "mother",
+      "definition": "A female parent.",
+      "arabic": "أم",
+      "arabic_definition": "الوالدة الأنثى.",
+      "example": {
+        "en": "Her mother is kind.",
+        "ar": "والدتها لطيفة."
+      }
+    },
+    {
+      "word": "brother",
+      "definition": "A male sibling.",
+      "arabic": "أخ",
+      "arabic_definition": "الأخ الذكر.",
+      "example": {
+        "en": "I have one brother.",
+        "ar": "لدي أخ واحد."
+      }
+    },
+    {
+      "word": "sister",
+      "definition": "A female sibling.",
+      "arabic": "أخت",
+      "arabic_definition": "الأخت الأنثى.",
+      "example": {
+        "en": "My sister is younger than me.",
+        "ar": "أختي أصغر مني."
+      }
+    },
+    {
+      "word": "grandfather",
+      "definition": "The father of one's father or mother.",
+      "arabic": "جد",
+      "arabic_definition": "والد الأب أو الأم.",
+      "example": {
+        "en": "My grandfather lives in the village.",
+        "ar": "جدي يعيش في القرية."
+      }
+    },
+    {
+      "word": "grandmother",
+      "definition": "The mother of one's father or mother.",
+      "arabic": "جدة",
+      "arabic_definition": "والدة الأب أو الأم.",
+      "example": {
+        "en": "His grandmother bakes cookies.",
+        "ar": "جدته تخبز البسكويت."
+      }
+    },
+    {
+      "word": "son",
+      "definition": "A male child.",
+      "arabic": "ابن",
+      "arabic_definition": "الولد الذكر.",
+      "example": {
+        "en": "They have one son.",
+        "ar": "لديهم ابن واحد."
+      }
+    },
+    {
+      "word": "daughter",
+      "definition": "A female child.",
+      "arabic": "ابنة",
+      "arabic_definition": "الولد الأنثى.",
+      "example": {
+        "en": "Their daughter is five years old.",
+        "ar": "ابنتهم تبلغ من العمر خمس سنوات."
+      }
+    },
+    {
+      "word": "parents",
+      "definition": "A person's father and mother.",
+      "arabic": "الوالدين",
+      "arabic_definition": "الأب والأم.",
+      "example": {
+        "en": "My parents are at home.",
+        "ar": "والديّ في المنزل."
+      }
+    },
+    {
+      "word": "uncle",
+      "definition": "The brother of your father or mother.",
+      "arabic": "عم / خال",
+      "arabic_definition": "أخو الأب أو الأم.",
+      "example": {
+        "en": "My uncle lives in Dubai.",
+        "ar": "عمي يعيش في دبي."
+      }
+    }
+  ]
+}

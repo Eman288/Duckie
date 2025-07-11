@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Travel Problems and Solutions Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I lost my luggage' in Arabic?",
+      "answers": [ "فقدت حقيبتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "فقدت حقيبتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'My flight was cancelled'",
+      "answers": [ "تم إلغاء رحلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم إلغاء رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I missed my connecting flight' in Arabic?",
+      "answers": [ "فاتتني رحلة الترانزيت", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "فاتتني رحلة الترانزيت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I forgot my passport'",
+      "answers": [ "نسيت جواز سفري", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "نسيت جواز سفري",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My reservation was cancelled' in Arabic?",
+      "answers": [ "تم إلغاء حجزي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم إلغاء حجزي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The hotel was fully booked'",
+      "answers": [ "الفندق محجوز بالكامل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "الفندق محجوز بالكامل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I need help' in Arabic?",
+      "answers": [ "أحتاج إلى مساعدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحتاج إلى مساعدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am feeling unwell'",
+      "answers": [ "أشعر بتوعك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشعر بتوعك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My wallet was stolen' in Arabic?",
+      "answers": [ "سُرقت محفظتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "سُرقت محفظتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I can’t find my gate'",
+      "answers": [ "لا أستطيع العثور على بوابتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لا أستطيع العثور على بوابتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'My flight was delayed' in Arabic?",
+      "answers": [ "تم تأخير رحلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تم تأخير رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I lost my boarding pass'",
+      "answers": [ "فقدت بطاقة صعود الطائرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "فقدت بطاقة صعود الطائرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am looking for the customer service desk' in Arabic?",
+      "answers": [ "أبحث عن مكتب خدمة العملاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أبحث عن مكتب خدمة العملاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'The taxi didn’t arrive'",
+      "answers": [ "لم تصل سيارة الأجرة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لم تصل سيارة الأجرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a problem with my ticket' in Arabic?",
+      "answers": [ "لدي مشكلة في تذكرتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "لدي مشكلة في تذكرتي",
+      "voiceUrl": ""
+    }
+  ]
+}

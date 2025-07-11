@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What does 'family' mean in Arabic?",
+      "answers": [ "عائلة", "مدينة", "ساعة", "مدرسة" ],
+      "correct": "عائلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'brother' in Arabic?",
+      "answers": [ "أخ", "أم", "أب", "ابن" ],
+      "correct": "أخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أم'?",
+      "answers": [ "father", "brother", "mother", "friend" ],
+      "correct": "mother",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'father'?",
+      "answers": [ "أخ", "أب", "جد", "أم" ],
+      "correct": "أب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'sister'?",
+      "answers": [ "ابنة", "أخت", "زوجة", "جدّة" ],
+      "correct": "أخت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'friend'?",
+      "answers": [ "زميل", "صديق", "جار", "أخ" ],
+      "correct": "صديق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'ابن'?",
+      "answers": [ "father", "brother", "son", "cousin" ],
+      "correct": "son",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'wife' in Arabic?",
+      "answers": [ "زوج", "زوجة", "ابنة", "أم" ],
+      "correct": "زوجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'grandfather'?",
+      "answers": [ "جد", "خال", "أخ", "ابن" ],
+      "correct": "جد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'grandmother'?",
+      "answers": [ "خالة", "جدّة", "أخت", "أم" ],
+      "correct": "جدّة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'aunt'?",
+      "answers": [ "خالة", "ابنة", "جدّة", "أخ" ],
+      "correct": "خالة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'possessive' mean in the context of family?",
+      "answers": [ "belonging to someone", "a family member", "a place", "a routine activity" ],
+      "correct": "belonging to someone",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of a possessive form in English?",
+      "answers": [ "John's book", "John book", "Book John", "John is book" ],
+      "correct": "John's book",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'his sister'?",
+      "answers": [ "أخته", "أخوه", "أمه", "جدته" ],
+      "correct": "أخته",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which sentence is an example of using possessive 's' correctly?",
+      "answers": [ "Sarah book", "Sarah's book", "Sarah a book", "Sarah in book" ],
+      "correct": "Sarah's book",
+      "voiceUrl": ""
+    }
+  ]
+}

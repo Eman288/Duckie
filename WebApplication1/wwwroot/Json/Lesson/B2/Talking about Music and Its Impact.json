@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Music and Its Impact",
+  "words": [
+    {
+      "word": "melody",
+      "definition": "A sequence of musical notes.",
+      "arabic": "لحن",
+      "arabic_definition": "سلسلة من النغمات الموسيقية.",
+      "example": {
+        "en": "The melody is very beautiful.",
+        "ar": "اللحن رائع جداً."
+      }
+    },
+    {
+      "word": "rhythm",
+      "definition": "The pattern of beats in music.",
+      "arabic": "إيقاع",
+      "arabic_definition": "نمط الضربات الموسيقية.",
+      "example": {
+        "en": "The song has a catchy rhythm.",
+        "ar": "الأغنية لها إيقاع جذاب."
+      }
+    },
+    {
+      "word": "lyrics",
+      "definition": "The words of a song.",
+      "arabic": "كلمات الأغنية",
+      "arabic_definition": "كلمات الأغنية.",
+      "example": {
+        "en": "The lyrics of this song are very meaningful.",
+        "ar": "كلمات هذه الأغنية ذات معنى عميق."
+      }
+    },
+    {
+      "word": "harmony",
+      "definition": "The combination of musical notes.",
+      "arabic": "انسجام",
+      "arabic_definition": "تركيب عدة نغمات موسيقية معًا.",
+      "example": {
+        "en": "The harmony of the instruments is beautiful.",
+        "ar": "انسجام الآلات الموسيقية رائع."
+      }
+    },
+    {
+      "word": "genre",
+      "definition": "A style or category of music.",
+      "arabic": "نوع موسيقي",
+      "arabic_definition": "فئة أو نمط من الموسيقى.",
+      "example": {
+        "en": "My favorite music genre is jazz.",
+        "ar": "نوع الموسيقى المفضل لدي هو الجاز."
+      }
+    },
+    {
+      "word": "melancholy",
+      "definition": "A feeling of deep sadness.",
+      "arabic": "حزن",
+      "arabic_definition": "شعور عميق بالحزن.",
+      "example": {
+        "en": "The music has a melancholy mood.",
+        "ar": "الموسيقى لها طابع حزين."
+      }
+    },
+    {
+      "word": "tempo",
+      "definition": "The speed at which music is played.",
+      "arabic": "سرعة الإيقاع",
+      "arabic_definition": "السرعة التي يتم عزف الموسيقى بها.",
+      "example": {
+        "en": "The song has a very fast tempo.",
+        "ar": "الأغنية ذات إيقاع سريع جداً."
+      }
+    },
+    {
+      "word": "composer",
+      "definition": "A person who writes music.",
+      "arabic": "ملحن",
+      "arabic_definition": "شخص يكتب الموسيقى.",
+      "example": {
+        "en": "Mozart was a famous composer.",
+        "ar": "كان موزارت ملحنًا مشهورًا."
+      }
+    },
+    {
+      "word": "inspire",
+      "definition": "To motivate or give ideas.",
+      "arabic": "يلهم",
+      "arabic_definition": "تحفيز أو تقديم الأفكار.",
+      "example": {
+        "en": "The music inspired her to write a poem.",
+        "ar": "ألهمتها الموسيقى لكتابة قصيدة."
+      }
+    },
+    {
+      "word": "emotions",
+      "definition": "Strong feelings like joy or sadness.",
+      "arabic": "المشاعر",
+      "arabic_definition": "الأحاسيس القوية مثل الفرح أو الحزن.",
+      "example": {
+        "en": "The music expressed deep emotions.",
+        "ar": "عبّرت الموسيقى عن مشاعر عميقة."
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 6 - Talking about Motivation and Ambition Quiz",
+  "questions": [
+    {
+      "question": "What is motivation?",
+      "answers": [
+        "The drive to achieve a goal.",
+        "A reason to give up.",
+        "Something you forget quickly.",
+        "Ignoring what you want."
+      ],
+      "correct": "The drive to achieve a goal.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is ambition important?",
+      "answers": [
+        "It gives direction to your efforts.",
+        "It makes you forget your goals.",
+        "It allows you to do nothing.",
+        "It has no value."
+      ],
+      "correct": "It gives direction to your efforts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can help you stay motivated when working towards a goal?",
+      "answers": [
+        "Setting smaller milestones.",
+        "Giving up quickly.",
+        "Avoiding feedback.",
+        "Ignoring your interests."
+      ],
+      "correct": "Setting smaller milestones.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is an example of an ambitious goal?",
+      "answers": [
+        "Learning a new language in a year.",
+        "Doing nothing for a year.",
+        "Refusing to learn new things.",
+        "Ignoring opportunities."
+      ],
+      "correct": "Learning a new language in a year.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it helpful to write down your ambitions?",
+      "answers": [
+        "It makes them more concrete.",
+        "It means you can forget them.",
+        "It gives no benefits.",
+        "It means you can ignore them."
+      ],
+      "correct": "It makes them more concrete.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can reduce motivation?",
+      "answers": [
+        "Negative self-talk.",
+        "Setting realistic goals.",
+        "Rewarding yourself.",
+        "Celebrating small wins."
+      ],
+      "correct": "Negative self-talk.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is ambition linked to personal growth?",
+      "answers": [
+        "It encourages you to learn and try new things.",
+        "It has no benefits.",
+        "It means you never change.",
+        "It encourages you to stay in the same place."
+      ],
+      "correct": "It encourages you to learn and try new things.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one way to stay motivated long term?",
+      "answers": [
+        "Break big goals into smaller steps.",
+        "Never review your progress.",
+        "Ignore setbacks.",
+        "Give up quickly."
+      ],
+      "correct": "Break big goals into smaller steps.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to balance ambition with rest?",
+      "answers": [
+        "To prevent burnout.",
+        "To forget about your goal.",
+        "To work slower.",
+        "To lose interest."
+      ],
+      "correct": "To prevent burnout.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What can help maintain motivation in challenging times?",
+      "answers": [
+        "Remembering why you started.",
+        "Giving up.",
+        "Ignoring feedback.",
+        "Doing less every day."
+      ],
+      "correct": "Remembering why you started.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it helpful to surround yourself with ambitious people?",
+      "answers": [
+        "They can inspire and motivate you.",
+        "They can make you forget your goals.",
+        "They can cause confusion.",
+        "They can slow down your progress."
+      ],
+      "correct": "They can inspire and motivate you.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a realistic ambition?",
+      "answers": [
+        "Learning a new skill in 3 months.",
+        "Flying to the moon tomorrow.",
+        "Buying a house with no income.",
+        "Ignoring feedback and learning."
+      ],
+      "correct": "Learning a new skill in 3 months.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to review your goals regularly?",
+      "answers": [
+        "To measure progress and adjust when needed.",
+        "To forget about them.",
+        "To stay in the same place.",
+        "To never review them."
+      ],
+      "correct": "To measure progress and adjust when needed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is self-discipline key to achieving ambitious goals?",
+      "answers": [
+        "It ensures you stay focused despite challenges.",
+        "It means you can forget your goal.",
+        "It has no role.",
+        "It allows you to do nothing."
+      ],
+      "correct": "It ensures you stay focused despite challenges.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is visualizing your goal helpful?",
+      "answers": [
+        "It makes it feel more achievable.",
+        "It has no benefit.",
+        "It makes you forget about it.",
+        "It encourages laziness."
+      ],
+      "correct": "It makes it feel more achievable.",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Motivation and Ambition",
+  "words": [
+    {
+      "word": "motivation",
+      "definition": "The reason for acting or behaving a certain way.",
+      "arabic": "الدافع",
+      "arabic_definition": "سبب التصرف أو السلوك بطريقة معينة.",
+      "example": {
+        "en": "My motivation is to build a successful career.",
+        "ar": "دافعي هو بناء مهنة ناجحة."
+      }
+    },
+    {
+      "word": "ambition",
+      "definition": "A strong desire to achieve something.",
+      "arabic": "طموح",
+      "arabic_definition": "رغبة كبيرة في تحقيق شيء ما.",
+      "example": {
+        "en": "Her ambition is to become a doctor.",
+        "ar": "طموحها هو أن تصبح طبيبة."
+      }
+    },
+    {
+      "word": "goal",
+      "definition": "A target or result a person aims for.",
+      "arabic": "هدف",
+      "arabic_definition": "نتيجة يسعى الشخص لتحقيقها.",
+      "example": {
+        "en": "My goal is to improve my English skills.",
+        "ar": "هدفي هو تحسين مهاراتي في اللغة الإنجليزية."
+      }
+    },
+    {
+      "word": "determination",
+      "definition": "The quality of trying hard despite difficulties.",
+      "arabic": "عزيمة",
+      "arabic_definition": "صفة المحاولة بجد على الرغم من الصعوبات.",
+      "example": {
+        "en": "With determination, he achieved his biggest dream.",
+        "ar": "بالعزيمة، حقق أكبر حلم له."
+      }
+    },
+    {
+      "word": "inspiration",
+      "definition": "Something that encourages a person to act.",
+      "arabic": "إلهام",
+      "arabic_definition": "شيء يشجع الشخص على العمل.",
+      "example": {
+        "en": "Her success was an inspiration to others.",
+        "ar": "كان نجاحها مصدر إلهام للآخرين."
+      }
+    },
+    {
+      "word": "vision",
+      "definition": "A mental picture of a desired future.",
+      "arabic": "رؤية",
+      "arabic_definition": "صورة ذهنية للمستقبل المرغوب.",
+      "example": {
+        "en": "A strong vision can guide you to success.",
+        "ar": "الرؤية القوية يمكنها توجيهك إلى النجاح."
+      }
+    },
+    {
+      "word": "passion",
+      "definition": "A strong interest or love for something.",
+      "arabic": "شغف",
+      "arabic_definition": "اهتمام كبير وحب لشيء ما.",
+      "example": {
+        "en": "Her passion for music inspired her to practice every day.",
+        "ar": "شغفها بالموسيقى ألهمها للتدرب يومياً."
+      }
+    },
+    {
+      "word": "commitment",
+      "definition": "A promise or firm decision to do something.",
+      "arabic": "التزام",
+      "arabic_definition": "وعد أو قرار قوي للقيام بشيء.",
+      "example": {
+        "en": "Achieving a goal needs hard work and commitment.",
+        "ar": "تحقيق الهدف يحتاج إلى العمل الجاد والالتزام."
+      }
+    },
+    {
+      "word": "resilience",
+      "definition": "The ability to recover quickly from difficulties.",
+      "arabic": "مرونة",
+      "arabic_definition": "القدرة على التعافي بسرعة من الصعوبات.",
+      "example": {
+        "en": "Resilience is important when working towards ambitious goals.",
+        "ar": "المرونة مهمة عند العمل على أهداف طموحة."
+      }
+    },
+    {
+      "word": "optimism",
+      "definition": "Hopefulness about the future.",
+      "arabic": "تفاؤل",
+      "arabic_definition": "الأمل بشأن المستقبل.",
+      "example": {
+        "en": "Optimism can help you overcome obstacles.",
+        "ar": "يمكن للتفاؤل أن يساعدك على تجاوز العقبات."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing School and University Life",
+  "words": [
+    {
+      "word": "school",
+      "definition": "A place where children go to learn.",
+      "arabic": "مدرسة",
+      "arabic_definition": "مكان يذهب إليه الأطفال للتعلم.",
+      "example": {
+        "en": "I go to school every weekday.",
+        "ar": "أذهب إلى المدرسة كل يوم في الأسبوع."
+      }
+    },
+    {
+      "word": "university",
+      "definition": "A place where students study after high school.",
+      "arabic": "جامعة",
+      "arabic_definition": "مكان يدرس فيه الطلاب بعد الثانوية.",
+      "example": {
+        "en": "She studies at the university.",
+        "ar": "هي تدرس في الجامعة."
+      }
+    },
+    {
+      "word": "classmate",
+      "definition": "A person in the same class as you.",
+      "arabic": "زميل صف",
+      "arabic_definition": "شخص في نفس الصف الدراسي.",
+      "example": {
+        "en": "My classmates are very friendly.",
+        "ar": "زملائي في الصف ودودون جدًا."
+      }
+    },
+    {
+      "word": "professor",
+      "definition": "A university teacher.",
+      "arabic": "أستاذ جامعي",
+      "arabic_definition": "مدرس في الجامعة.",
+      "example": {
+        "en": "The professor explained the topic clearly.",
+        "ar": "شرح الأستاذ الموضوع بوضوح."
+      }
+    },
+    {
+      "word": "semester",
+      "definition": "Half of the academic year.",
+      "arabic": "فصل دراسي",
+      "arabic_definition": "نصف السنة الدراسية.",
+      "example": {
+        "en": "This semester is very busy.",
+        "ar": "هذا الفصل الدراسي مشغول جدًا."
+      }
+    },
+    {
+      "word": "campus",
+      "definition": "The land and buildings of a university.",
+      "arabic": "حرم الجامعة",
+      "arabic_definition": "أرض ومباني الجامعة.",
+      "example": {
+        "en": "The campus is large and beautiful.",
+        "ar": "الحرم الجامعي كبير وجميل."
+      }
+    },
+    {
+      "word": "schedule",
+      "definition": "A plan showing when classes happen.",
+      "arabic": "جدول",
+      "arabic_definition": "خطة تبين مواعيد الدروس.",
+      "example": {
+        "en": "My class schedule is full this week.",
+        "ar": "جدول دروسي ممتلئ هذا الأسبوع."
+      }
+    },
+    {
+      "word": "assignment",
+      "definition": "Homework or projects given by teachers.",
+      "arabic": "واجب",
+      "arabic_definition": "الواجبات أو المشاريع التي يعطيها المعلمون.",
+      "example": {
+        "en": "I finished my assignment early.",
+        "ar": "أنهيت واجبي مبكرًا."
+      }
+    },
+    {
+      "word": "club",
+      "definition": "A group of students who meet for activities.",
+      "arabic": "نادي",
+      "arabic_definition": "مجموعة من الطلاب يجتمعون لأنشطة.",
+      "example": {
+        "en": "I joined the music club at university.",
+        "ar": "انضممت إلى نادي الموسيقى في الجامعة."
+      }
+    },
+    {
+      "word": "graduation",
+      "definition": "The ceremony when students finish their studies.",
+      "arabic": "التخرج",
+      "arabic_definition": "الحفل عندما ينهي الطلاب دراستهم.",
+      "example": {
+        "en": "Her graduation was last month.",
+        "ar": "كان حفل تخرجها الشهر الماضي."
+      }
+    }
+  ]
+}

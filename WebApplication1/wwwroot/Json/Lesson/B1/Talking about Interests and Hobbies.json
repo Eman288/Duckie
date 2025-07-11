@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Interests and Hobbies",
+  "words": [
+    {
+      "word": "hobbies",
+      "definition": "Activities people do in their free time.",
+      "arabic": "الهوايات",
+      "arabic_definition": "الأنشطة التي يمارسها الأشخاص في أوقات فراغهم.",
+      "example": {
+        "en": "Reading is one of my favorite hobbies.",
+        "ar": "القراءة واحدة من هواياتي المفضلة."
+      }
+    },
+    {
+      "word": "interest",
+      "definition": "Something a person likes or is curious about.",
+      "arabic": "اهتمام",
+      "arabic_definition": "شيء يحبه الشخص أو لديه فضول تجاهه.",
+      "example": {
+        "en": "He has an interest in cooking.",
+        "ar": "لديه اهتمام بالطهي."
+      }
+    },
+    {
+      "word": "share",
+      "definition": "To give a part of something to others.",
+      "arabic": "يشارك",
+      "arabic_definition": "يعطي جزءًا من شيء للآخرين.",
+      "example": {
+        "en": "We can share our interests with each other.",
+        "ar": "يمكننا مشاركة اهتماماتنا مع بعضنا البعض."
+      }
+    },
+    {
+      "word": "passion",
+      "definition": "A strong interest in or love for something.",
+      "arabic": "شغف",
+      "arabic_definition": "اهتمام قوي أو حب لشيء ما.",
+      "example": {
+        "en": "Art is her biggest passion.",
+        "ar": "الفن هو شغفها الأكبر."
+      }
+    },
+    {
+      "word": "creative",
+      "definition": "Having ideas to make new things.",
+      "arabic": "مبدع",
+      "arabic_definition": "يمتلك أفكارًا لابتكار أشياء جديدة.",
+      "example": {
+        "en": "He is very creative when it comes to design.",
+        "ar": "إنه مبدع جداً عندما يتعلق الأمر بالتصميم."
+      }
+    },
+    {
+      "word": "explore",
+      "definition": "To try new things or learn more about a subject.",
+      "arabic": "يستكشف",
+      "arabic_definition": "يجرب أشياء جديدة أو يتعلم المزيد عن موضوع ما.",
+      "example": {
+        "en": "I like to explore new places in my free time.",
+        "ar": "أحب استكشاف أماكن جديدة في وقت فراغي."
+      }
+    },
+    {
+      "word": "art",
+      "definition": "Creative activity like painting, drawing, or sculpture.",
+      "arabic": "فن",
+      "arabic_definition": "نشاط إبداعي كالرسم، التصوير، أو النحت.",
+      "example": {
+        "en": "Art is a beautiful way to express feelings.",
+        "ar": "الفن طريقة جميلة للتعبير عن المشاعر."
+      }
+    },
+    {
+      "word": "sport",
+      "definition": "A physical activity with rules.",
+      "arabic": "رياضة",
+      "arabic_definition": "نشاط بدني له قواعد.",
+      "example": {
+        "en": "Football is my favorite sport.",
+        "ar": "كرة القدم هي رياضتي المفضلة."
+      }
+    },
+    {
+      "word": "travel",
+      "definition": "To go to new places.",
+      "arabic": "السفر",
+      "arabic_definition": "الذهاب إلى أماكن جديدة.",
+      "example": {
+        "en": "I like to travel and learn about new cultures.",
+        "ar": "أحب السفر والتعرف على ثقافات جديدة."
+      }
+    },
+    {
+      "word": "learn",
+      "definition": "To gain knowledge or a new skill.",
+      "arabic": "يتعلم",
+      "arabic_definition": "يكتسب معرفة أو مهارة جديدة.",
+      "example": {
+        "en": "He wants to learn how to play the piano.",
+        "ar": "يرغب في تعلم العزف على البيانو."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Rooms in the House Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'kitchen'?",
+      "answers": [ "المطبخ", "الغرفة", "الحمام", "الصالة" ],
+      "correct": "المطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room do you sleep in?",
+      "answers": [ "Living room", "Bedroom", "Kitchen", "Bathroom" ],
+      "correct": "Bedroom",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'bathroom'?",
+      "answers": [ "الغرفة", "الحمام", "الصالة", "المكتب" ],
+      "correct": "الحمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Where do you cook food?",
+      "answers": [ "Bedroom", "Kitchen", "Living room", "Bathroom" ],
+      "correct": "Kitchen",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'living room'?",
+      "answers": [ "الصالة", "الغرفة", "المكتب", "المطبخ" ],
+      "correct": "الصالة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room is used for eating meals?",
+      "answers": [ "Bedroom", "Dining room", "Bathroom", "Kitchen" ],
+      "correct": "Dining room",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'bedroom'?",
+      "answers": [ "الغرفة", "المكتب", "الصالة", "المطبخ" ],
+      "correct": "الغرفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room has a shower or bathtub?",
+      "answers": [ "Living room", "Bathroom", "Kitchen", "Bedroom" ],
+      "correct": "Bathroom",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'dining room'?",
+      "answers": [ "المكتب", "الصالة", "غرفة الطعام", "المطبخ" ],
+      "correct": "غرفة الطعام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Where would you find a bed?",
+      "answers": [ "Kitchen", "Living room", "Bedroom", "Bathroom" ],
+      "correct": "Bedroom",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room is used for watching TV and relaxing?",
+      "answers": [ "Bathroom", "Living room", "Bedroom", "Kitchen" ],
+      "correct": "Living room",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'hallway'?",
+      "answers": [ "الممر", "المكتب", "الغرفة", "الصالة" ],
+      "correct": "الممر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room is used for working or studying?",
+      "answers": [ "Kitchen", "Living room", "Office", "Bathroom" ],
+      "correct": "Office",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'garden'?",
+      "answers": [ "المكتب", "الغرفة", "الحديقة", "المطبخ" ],
+      "correct": "الحديقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room has a sink, oven, and refrigerator?",
+      "answers": [ "Bathroom", "Kitchen", "Bedroom", "Living room" ],
+      "correct": "Kitchen",
+      "voiceUrl": ""
+    }
+  ]
+}

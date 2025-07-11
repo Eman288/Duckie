@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Advanced Use of Passive Voice Quiz",
+  "questions": [
+    {
+      "question": "What is passive voice used for?",
+      "answers": [
+        "To focus on the object rather than the subject.",
+        "To emphasize the subject.",
+        "To reduce formality.",
+        "To always use active voice."
+      ],
+      "correct": "To focus on the object rather than the subject.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of passive voice?",
+      "answers": [
+        "The book was written by a famous author.",
+        "The famous author writes books.",
+        "He is writing a book.",
+        "They wrote a book."
+      ],
+      "correct": "The book was written by a famous author.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use passive voice in academic writing?",
+      "answers": [
+        "To focus on the result or object of an action.",
+        "To make it less formal.",
+        "To confuse readers.",
+        "To emphasize the subject only."
+      ],
+      "correct": "To focus on the result or object of an action.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT an example of passive voice?",
+      "answers": [
+        "He wrote the article.",
+        "The article was written by him.",
+        "The book was published in 2021.",
+        "The results were analyzed thoroughly."
+      ],
+      "correct": "He wrote the article.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How is passive voice formed?",
+      "answers": [
+        "With a form of 'to be' + past participle.",
+        "With only a subject and a verb.",
+        "With only a verb in present tense.",
+        "With no subject."
+      ],
+      "correct": "With a form of 'to be' + past participle.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is an example of passive voice in the future tense?",
+      "answers": [
+        "The results will be announced tomorrow.",
+        "He will announce the results.",
+        "They announced the results.",
+        "He is announcing the results."
+      ],
+      "correct": "The results will be announced tomorrow.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a reason to use passive voice?",
+      "answers": [
+        "To highlight the action or object.",
+        "To make the subject more noticeable.",
+        "To always use active voice.",
+        "To shorten text unnecessarily."
+      ],
+      "correct": "To highlight the action or object.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT an example of passive voice?",
+      "answers": [
+        "He will present the paper.",
+        "The paper was presented by him.",
+        "The paper has been presented.",
+        "The paper will be presented."
+      ],
+      "correct": "He will present the paper.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why might passive voice be used in scientific writing?",
+      "answers": [
+        "To emphasize the process rather than the researcher.",
+        "To hide details.",
+        "To reduce precision.",
+        "To make it harder to understand."
+      ],
+      "correct": "To emphasize the process rather than the researcher.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is NOT a passive voice construction?",
+      "answers": [
+        "She writes the paper.",
+        "The paper was written by her.",
+        "The paper has been published.",
+        "The paper will be reviewed."
+      ],
+      "correct": "She writes the paper.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the passive voice form of 'They designed the building'?",
+      "answers": [
+        "The building was designed by them.",
+        "They were designed by the building.",
+        "The building is designed by them.",
+        "The building has designed them."
+      ],
+      "correct": "The building was designed by them.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a benefit of using passive voice?",
+      "answers": [
+        "Hiding the subject intentionally.",
+        "Focusing on the object.",
+        "Highlighting the result.",
+        "Shortening a sentence."
+      ],
+      "correct": "Shortening a sentence.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why can passive voice be challenging for learners?",
+      "answers": [
+        "It reverses the order of subject and object.",
+        "It is always used in spoken language.",
+        "It removes verbs.",
+        "It is only used in questions."
+      ],
+      "correct": "It reverses the order of subject and object.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which tense can be used in passive voice?",
+      "answers": [
+        "All tenses can be used.",
+        "Only the present tense.",
+        "Only the future tense.",
+        "Only the past tense."
+      ],
+      "correct": "All tenses can be used.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a passive voice signal?",
+      "answers": [
+        "Active subject.",
+        "'By' phrase.",
+        "'Was' or 'is' + past participle.",
+        "'Have been' + past participle."
+      ],
+      "correct": "Active subject.",
+      "voiceUrl": ""
+    }
+  ]
+}

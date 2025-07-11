@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Participating in Professional Meetings Quiz",
+  "questions": [
+    {
+      "question": "What is important to do before a professional meeting?",
+      "answers": [ "Prepare the agenda and materials.", "Arrive late.", "Ignore the agenda.", "Distract others." ],
+      "correct": "Prepare the agenda and materials.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active participation important in meetings?",
+      "answers": [ "It helps share ideas and clarify points.", "It wastes time.", "It annoys others.", "It is optional." ],
+      "correct": "It helps share ideas and clarify points.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you handle disagreements in meetings?",
+      "answers": [ "Discuss respectfully and look for solutions.", "Ignore others.", "Raise your voice.", "Leave the meeting." ],
+      "correct": "Discuss respectfully and look for solutions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is listening carefully crucial during meetings?",
+      "answers": [ "To understand others’ viewpoints.", "To prepare your next comment.", "To ignore others.", "To multitask." ],
+      "correct": "To understand others’ viewpoints.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you don’t understand something in a meeting?",
+      "answers": [ "Ask for clarification politely.", "Stay silent.", "Interrupt rudely.", "Leave the room." ],
+      "correct": "Ask for clarification politely.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is staying on topic important in meetings?",
+      "answers": [ "To make meetings efficient.", "To waste time.", "To confuse others.", "To avoid responsibility." ],
+      "correct": "To make meetings efficient.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you contribute ideas effectively?",
+      "answers": [ "Be clear, concise, and relevant.", "Speak as much as possible.", "Ignore others’ opinions.", "Make unrelated comments." ],
+      "correct": "Be clear, concise, and relevant.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is following up after meetings important?",
+      "answers": [ "To confirm decisions and next steps.", "It is unnecessary.", "It wastes time.", "It annoys participants." ],
+      "correct": "To confirm decisions and next steps.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to handle interruptions?",
+      "answers": [ "Politely ask to finish your point.", "Interrupt back.", "Stay silent.", "Leave the meeting." ],
+      "correct": "Politely ask to finish your point.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is punctuality important for meetings?",
+      "answers": [ "It shows respect and professionalism.", "It is unimportant.", "It delays the meeting.", "It annoys others." ],
+      "correct": "It shows respect and professionalism.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of the meeting chairperson?",
+      "answers": [ "To guide the meeting and keep it on track.", "To ignore participants.", "To interrupt frequently.", "To speak only." ],
+      "correct": "To guide the meeting and keep it on track.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is clear communication essential in meetings?",
+      "answers": [ "To avoid misunderstandings.", "To confuse listeners.", "To waste time.", "To dominate conversations." ],
+      "correct": "To avoid misunderstandings.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you prepare for meetings effectively?",
+      "answers": [ "Review agenda and background info beforehand.", "Ignore preparation.", "Prepare unrelated topics.", "Arrive late." ],
+      "correct": "Review agenda and background info beforehand.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you disagree with a point?",
+      "answers": [ "Express disagreement respectfully with reasons.", "Ignore it.", "Argue loudly.", "Leave the meeting." ],
+      "correct": "Express disagreement respectfully with reasons.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is taking meeting minutes important?",
+      "answers": [ "To record decisions and actions for reference.", "It wastes time.", "It is the chairperson’s only job.", "It is unnecessary." ],
+      "correct": "To record decisions and actions for reference.",
+      "voiceUrl": ""
+    }
+  ]
+}

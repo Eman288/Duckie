@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Making Travel Plans Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'travel'?",
+      "answers": [ "سفر", "طيران", "حجز", "رحلة" ],
+      "correct": "سفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'plan'?",
+      "answers": [ "خطة", "حجز", "رحلة", "سفر" ],
+      "correct": "خطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'destination'?",
+      "answers": [ "وجهة", "رحلة", "طريق", "مطار" ],
+      "correct": "وجهة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'book a ticket'?",
+      "answers": [ "حجز تذكرة", "سفر", "رحلة", "مطار" ],
+      "correct": "حجز تذكرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'passport'?",
+      "answers": [ "جواز سفر", "بطاقة هوية", "تذكرة", "خطة" ],
+      "correct": "جواز سفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'departure date'?",
+      "answers": [ "تاريخ المغادرة", "تاريخ الوصول", "حجز", "خطة" ],
+      "correct": "تاريخ المغادرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'travel insurance'?",
+      "answers": [ "تأمين السفر", "خطة السفر", "تذكرة", "رحلة" ],
+      "correct": "تأمين السفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'trip'?",
+      "answers": [ "رحلة", "خطة", "سفر", "مطار" ],
+      "correct": "رحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'holiday'?",
+      "answers": [ "عطلة", "سفر", "رحلة", "خطة" ],
+      "correct": "عطلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to cancel'?",
+      "answers": [ "إلغاء", "حجز", "سفر", "رحلة" ],
+      "correct": "إلغاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to confirm'?",
+      "answers": [ "تأكيد", "إلغاء", "حجز", "سفر" ],
+      "correct": "تأكيد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'itinerary'?",
+      "answers": [ "جدول الرحلة", "حجز", "سفر", "رحلة" ],
+      "correct": "جدول الرحلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to pack'?",
+      "answers": [ "حزم", "سفر", "رحلة", "حجز" ],
+      "correct": "حزم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'travel agent'?",
+      "answers": [ "وكيل سفر", "مطار", "خطة", "تذكرة" ],
+      "correct": "وكيل سفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'to reserve'?",
+      "answers": [ "حجز", "سفر", "رحلة", "إلغاء" ],
+      "correct": "حجز",
+      "voiceUrl": ""
+    }
+  ]
+}

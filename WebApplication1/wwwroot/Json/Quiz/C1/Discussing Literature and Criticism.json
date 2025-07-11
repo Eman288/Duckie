@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Discussing Literature and Criticism Quiz",
+  "questions": [
+    {
+      "question": "What is literary criticism?",
+      "answers": [
+        "The study and evaluation of literary works.",
+        "Writing stories.",
+        "Ignoring books.",
+        "Only praising books."
+      ],
+      "correct": "The study and evaluation of literary works.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a theme in literature?",
+      "answers": [
+        "The central idea or message of a work.",
+        "The main character.",
+        "The setting of the story.",
+        "A type of poem."
+      ],
+      "correct": "The central idea or message of a work.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does a plot refer to?",
+      "answers": [
+        "The sequence of events in a story.",
+        "The book cover.",
+        "The author’s biography.",
+        "The main idea."
+      ],
+      "correct": "The sequence of events in a story.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is character development important?",
+      "answers": [
+        "It shows how characters change and grow.",
+        "It makes stories boring.",
+        "It is unnecessary.",
+        "It confuses readers."
+      ],
+      "correct": "It shows how characters change and grow.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is symbolism in literature?",
+      "answers": [
+        "Using symbols to represent ideas or concepts.",
+        "Literal descriptions only.",
+        "Random images.",
+        "Ignoring details."
+      ],
+      "correct": "Using symbols to represent ideas or concepts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a critique?",
+      "answers": [
+        "An analysis evaluating strengths and weaknesses.",
+        "Only negative comments.",
+        "Ignoring a work.",
+        "A summary only."
+      ],
+      "correct": "An analysis evaluating strengths and weaknesses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding the historical context important?",
+      "answers": [
+        "It helps interpret the work’s meaning and themes.",
+        "It is not important.",
+        "It distracts readers.",
+        "It makes stories confusing."
+      ],
+      "correct": "It helps interpret the work’s meaning and themes.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a narrative point of view?",
+      "answers": [
+        "The perspective from which a story is told.",
+        "The setting.",
+        "The main event.",
+        "The author’s opinion."
+      ],
+      "correct": "The perspective from which a story is told.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does tone mean in literature?",
+      "answers": [
+        "The author’s attitude toward the subject.",
+        "The length of the story.",
+        "The number of chapters.",
+        "The font style."
+      ],
+      "correct": "The author’s attitude toward the subject.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is foreshadowing?",
+      "answers": [
+        "Hints or clues about future events.",
+        "A sudden surprise.",
+        "A type of character.",
+        "An ending."
+      ],
+      "correct": "Hints or clues about future events.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a metaphor?",
+      "answers": [
+        "A figure of speech comparing two things directly.",
+        "Literal meaning.",
+        "A question.",
+        "A type of poem."
+      ],
+      "correct": "A figure of speech comparing two things directly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is dialogue important in literature?",
+      "answers": [
+        "It reveals character and advances the plot.",
+        "It is filler only.",
+        "It is unnecessary.",
+        "It distracts readers."
+      ],
+      "correct": "It reveals character and advances the plot.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the climax of a story?",
+      "answers": [
+        "The turning point or most intense moment.",
+        "The introduction.",
+        "The ending only.",
+        "A minor event."
+      ],
+      "correct": "The turning point or most intense moment.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the difference between prose and poetry?",
+      "answers": [
+        "Prose is ordinary writing; poetry uses rhythm and meter.",
+        "They are the same.",
+        "Poetry is always longer.",
+        "Prose uses rhyme only."
+      ],
+      "correct": "Prose is ordinary writing; poetry uses rhythm and meter.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to read critically?",
+      "answers": [
+        "To analyze and understand deeper meanings.",
+        "To memorize texts.",
+        "To skip difficult parts.",
+        "To accept everything as true."
+      ],
+      "correct": "To analyze and understand deeper meanings.",
+      "voiceUrl": ""
+    }
+  ]
+}

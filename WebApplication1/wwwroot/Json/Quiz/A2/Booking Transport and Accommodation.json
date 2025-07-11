@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 4 - Booking Transport and Accommodation Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'hotel'?",
+      "answers": [ "فندق", "مطار", "حجز", "سفر" ],
+      "correct": "فندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'bus'?",
+      "answers": [ "حافلة", "سيارة", "طائرة", "قطار" ],
+      "correct": "حافلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'train'?",
+      "answers": [ "قطار", "طائرة", "سيارة", "حافلة" ],
+      "correct": "قطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'flight'?",
+      "answers": [ "رحلة طيران", "قطار", "حافلة", "سيارة" ],
+      "correct": "رحلة طيران",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'reservation'?",
+      "answers": [ "حجز", "سفر", "رحلة", "مطار" ],
+      "correct": "حجز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'room'?",
+      "answers": [ "غرفة", "رحلة", "سفر", "حجز" ],
+      "correct": "غرفة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'price'?",
+      "answers": [ "سعر", "حجز", "سفر", "رحلة" ],
+      "correct": "سعر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to cancel'?",
+      "answers": [ "إلغاء", "حجز", "سفر", "رحلة" ],
+      "correct": "إلغاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'check-in'?",
+      "answers": [ "تسجيل الوصول", "تسجيل المغادرة", "حجز", "سفر" ],
+      "correct": "تسجيل الوصول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'check-out'?",
+      "answers": [ "تسجيل المغادرة", "تسجيل الوصول", "حجز", "سفر" ],
+      "correct": "تسجيل المغادرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'suite'?",
+      "answers": [ "جناح", "غرفة", "حجز", "سفر" ],
+      "correct": "جناح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'single room'?",
+      "answers": [ "غرفة مفردة", "غرفة مزدوجة", "جناح", "حجز" ],
+      "correct": "غرفة مفردة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'double room'?",
+      "answers": [ "غرفة مزدوجة", "غرفة مفردة", "جناح", "حجز" ],
+      "correct": "غرفة مزدوجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'to book'?",
+      "answers": [ "حجز", "إلغاء", "سفر", "رحلة" ],
+      "correct": "حجز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'driver'?",
+      "answers": [ "سائق", "مضيف", "ضابط", "مرشد" ],
+      "correct": "سائق",
+      "voiceUrl": ""
+    }
+  ]
+}

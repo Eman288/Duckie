@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Workplace Culture and Etiquette Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'It is important to be respectful at work' in Arabic?",
+      "answers": [ "من المهم أن تحترم الآخرين في العمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "من المهم أن تحترم الآخرين في العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Always arrive on time'",
+      "answers": [ "احضر دائمًا في الوقت المحدد", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "احضر دائمًا في الوقت المحدد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Dress appropriately for the office' in Arabic?",
+      "answers": [ "ارتدِ ملابس مناسبة للعمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ارتدِ ملابس مناسبة للعمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Avoid personal phone calls at work'",
+      "answers": [ "تجنب المكالمات الشخصية أثناء العمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تجنب المكالمات الشخصية أثناء العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Be polite to colleagues' in Arabic?",
+      "answers": [ "كن مهذبًا مع زملائك", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كن مهذبًا مع زملائك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Listen carefully during meetings'",
+      "answers": [ "استمع جيدًا أثناء الاجتماعات", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "استمع جيدًا أثناء الاجتماعات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Help teammates when needed' in Arabic?",
+      "answers": [ "ساعد زملاءك عند الحاجة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "ساعد زملاءك عند الحاجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Respect company policies'",
+      "answers": [ "احترم سياسات الشركة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "احترم سياسات الشركة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Avoid gossiping in the office' in Arabic?",
+      "answers": [ "تجنب النميمة في المكتب", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تجنب النميمة في المكتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Give constructive feedback'",
+      "answers": [ "قدم ملاحظات بناءة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "قدم ملاحظات بناءة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Work well in a team' in Arabic?",
+      "answers": [ "اعمل جيدًا ضمن فريق", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "اعمل جيدًا ضمن فريق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Maintain a positive attitude'",
+      "answers": [ "حافظ على موقف إيجابي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "حافظ على موقف إيجابي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Be open to new ideas' in Arabic?",
+      "answers": [ "كن منفتحًا على الأفكار الجديدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "كن منفتحًا على الأفكار الجديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Avoid using inappropriate language'",
+      "answers": [ "تجنب استخدام اللغة غير الملائمة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تجنب استخدام اللغة غير الملائمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Always communicate clearly' in Arabic?",
+      "answers": [ "تحدث بوضوح دائمًا", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "تحدث بوضوح دائمًا",
+      "voiceUrl": ""
+    }
+  ]
+}

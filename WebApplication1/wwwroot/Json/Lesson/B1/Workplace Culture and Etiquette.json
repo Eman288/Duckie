@@ -1,0 +1,105 @@
+{
+  "lesson": "Workplace Culture and Etiquette",
+  "words": [
+    {
+      "word": "culture",
+      "definition": "The beliefs and habits of a group of people.",
+      "arabic": "ثقافة",
+      "arabic_definition": "معتقدات وعادات مجموعة من الناس.",
+      "example": {
+        "en": "Every company has its own culture.",
+        "ar": "لكل شركة ثقافتها الخاصة."
+      }
+    },
+    {
+      "word": "etiquette",
+      "definition": "The rules for polite behavior.",
+      "arabic": "آداب السلوك",
+      "arabic_definition": "القواعد للسلوك المهذب.",
+      "example": {
+        "en": "Good etiquette is important at work.",
+        "ar": "الآداب الجيدة مهمة في العمل."
+      }
+    },
+    {
+      "word": "punctual",
+      "definition": "Always on time.",
+      "arabic": "دقيق في المواعيد",
+      "arabic_definition": "دائمًا في الوقت المحدد.",
+      "example": {
+        "en": "She is punctual and never late.",
+        "ar": "هي دقيقة ولا تتأخر أبدًا."
+      }
+    },
+    {
+      "word": "dress code",
+      "definition": "The required way to dress at work.",
+      "arabic": "قواعد اللباس",
+      "arabic_definition": "طريقة اللبس المطلوبة في العمل.",
+      "example": {
+        "en": "The office has a smart dress code.",
+        "ar": "المكتب لديه قواعد لباس رسمية."
+      }
+    },
+    {
+      "word": "teamwork",
+      "definition": "Working well with others.",
+      "arabic": "العمل الجماعي",
+      "arabic_definition": "العمل بشكل جيد مع الآخرين.",
+      "example": {
+        "en": "Teamwork helps finish tasks faster.",
+        "ar": "العمل الجماعي يساعد على إنجاز المهام أسرع."
+      }
+    },
+    {
+      "word": "respect",
+      "definition": "Polite behavior towards others.",
+      "arabic": "احترام",
+      "arabic_definition": "سلوك مهذب تجاه الآخرين.",
+      "example": {
+        "en": "Respect your colleagues and managers.",
+        "ar": "احترم زملاءك والمديرين."
+      }
+    },
+    {
+      "word": "deadline",
+      "definition": "The time something must be finished.",
+      "arabic": "موعد نهائي",
+      "arabic_definition": "الوقت المحدد لإنهاء شيء ما.",
+      "example": {
+        "en": "Meet your deadlines to keep the job.",
+        "ar": "التزم بالمواعيد النهائية للحفاظ على الوظيفة."
+      }
+    },
+    {
+      "word": "feedback",
+      "definition": "Advice or criticism about your work.",
+      "arabic": "ملاحظات",
+      "arabic_definition": "نصائح أو انتقادات حول عملك.",
+      "example": {
+        "en": "Ask for feedback to improve your skills.",
+        "ar": "اطلب الملاحظات لتحسين مهاراتك."
+      }
+    },
+    {
+      "word": "motivation",
+      "definition": "The desire to do well.",
+      "arabic": "الدافع",
+      "arabic_definition": "الرغبة في القيام بالأفضل.",
+      "example": {
+        "en": "Motivation helps you work harder.",
+        "ar": "الدافع يساعدك على العمل بجد."
+      }
+    },
+    {
+      "word": "conflict",
+      "definition": "A disagreement or problem between people.",
+      "arabic": "صراع",
+      "arabic_definition": "خلاف أو مشكلة بين الأشخاص.",
+      "example": {
+        "en": "Solve conflicts quickly to keep peace.",
+        "ar": "حل الصراعات بسرعة للحفاظ على السلام."
+      }
+    }
+  ]
+}

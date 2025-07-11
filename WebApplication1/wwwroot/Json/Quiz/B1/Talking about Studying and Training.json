@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Talking about Studying and Training Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I study every day' in Arabic?",
+      "answers": [ "أدرس كل يوم", "لا أدرس", "أنا أعمل", "أنا ألعب" ],
+      "correct": "أدرس كل يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I am taking a training course'?",
+      "answers": [ "أنا أحضر دورة تدريبية", "أنا أعمل", "أنا ألعب", "أنا أنام" ],
+      "correct": "أنا أحضر دورة تدريبية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I like learning new skills' in Arabic?",
+      "answers": [ "أحب تعلم مهارات جديدة", "أنا متعب", "أنا مشغول", "أنا لا أحب التعلم" ],
+      "correct": "أحب تعلم مهارات جديدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend classes online'?",
+      "answers": [ "أحضر دروساً عبر الإنترنت", "أنا لا أذهب إلى المدرسة", "أنا أذهب إلى النادي", "أنا ألعب كرة القدم" ],
+      "correct": "أحضر دروساً عبر الإنترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am studying for an exam' in Arabic?",
+      "answers": [ "أدرس للامتحان", "أنا ألعب", "أنا أنام", "أنا أقرأ كتاباً" ],
+      "correct": "أدرس للامتحان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I practice every day'?",
+      "answers": [ "أتمرن كل يوم", "أنا أعمل", "أنا أذهب إلى العمل", "أنا أتدرب" ],
+      "correct": "أتمرن كل يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I learn by doing' in Arabic?",
+      "answers": [ "أتعلم بالممارسة", "أنا أدرس فقط", "أنا لا أتعلم", "أنا ألعب" ],
+      "correct": "أتعلم بالممارسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I attend a workshop'?",
+      "answers": [ "أحضر ورشة عمل", "أنا أدرس في المدرسة", "أنا ألعب", "أنا أنام" ],
+      "correct": "أحضر ورشة عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I take notes during lessons' in Arabic?",
+      "answers": [ "أدون الملاحظات أثناء الدروس", "أنا لا أدوّن", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أدون الملاحظات أثناء الدروس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I ask questions in class'?",
+      "answers": [ "أطرح أسئلة في الصف", "أنا لا أسأل", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أطرح أسئلة في الصف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I have a study group' in Arabic?",
+      "answers": [ "لدي مجموعة دراسة", "أنا أدرس وحدي", "أنا ألعب", "أنا أذهب للنادي" ],
+      "correct": "لدي مجموعة دراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I review my lessons regularly'?",
+      "answers": [ "أراجع دروسي بانتظام", "أنا لا أراجع", "أنا ألعب", "أنا أعمل" ],
+      "correct": "أراجع دروسي بانتظام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I use a computer for studying' in Arabic?",
+      "answers": [ "أستخدم الكمبيوتر للدراسة", "أنا لا أستخدم الكمبيوتر", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أستخدم الكمبيوتر للدراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I prepare for exams'?",
+      "answers": [ "أستعد للامتحانات", "أنا ألعب", "أنا لا أدرس", "أنا أعمل" ],
+      "correct": "أستعد للامتحانات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I enjoy learning new things' in Arabic?",
+      "answers": [ "أستمتع بتعلم أشياء جديدة", "أنا أكره التعلم", "أنا ألعب", "أنا أدرس" ],
+      "correct": "أستمتع بتعلم أشياء جديدة",
+      "voiceUrl": ""
+    }
+  ]
+}

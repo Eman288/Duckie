@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - Understanding Advanced Literature and Criticism",
+  "questions": [
+    {
+      "question": "What is a primary focus of advanced literary criticism?",
+      "answers": [ "Analyzing themes, structure, and style.", "Memorizing book titles.", "Writing book summaries.", "Listing character names only." ],
+      "correct": "Analyzing themes, structure, and style.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is context important in literature?",
+      "answers": [ "It shapes meaning and interpretation.", "It has no impact on the text.", "It replaces character analysis.", "It makes texts harder to understand." ],
+      "correct": "It shapes meaning and interpretation.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common approach in advanced literary criticism?",
+      "answers": [ "Applying theoretical frameworks.", "Skipping character analysis.", "Ignoring historical context.", "Avoiding textual evidence." ],
+      "correct": "Applying theoretical frameworks.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'deconstruction' in literary theory?",
+      "answers": [ "A method for finding hidden meanings and inconsistencies.", "A technique for making reading harder.", "A way of ignoring the author’s intention.", "A method for focusing only on character names." ],
+      "correct": "A method for finding hidden meanings and inconsistencies.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is comparing works across periods important?",
+      "answers": [ "To understand evolving styles and ideas.", "To memorize publication dates.", "To skip critical thinking.", "To focus only on character names." ],
+      "correct": "To understand evolving styles and ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role does the reader play in literary criticism?",
+      "answers": [ "Actively interpreting and creating meaning.", "Simply summarizing text.", "Memorizing character names.", "Ignoring context and author intention." ],
+      "correct": "Actively interpreting and creating meaning.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common characteristic of postmodern literature?",
+      "answers": [ "Playfulness, ambiguity, and questioning of reality.", "Clear structure and simplistic language.", "One-dimensional characters.", "Avoidance of experimental forms." ],
+      "correct": "Playfulness, ambiguity, and questioning of reality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding symbolism important?",
+      "answers": [ "To uncover deeper meanings beyond literal text.", "To skip details.", "To reduce the complexity of reading.", "To ignore themes and motifs." ],
+      "correct": "To uncover deeper meanings beyond literal text.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is knowing the historical context vital?",
+      "answers": [ "To relate text to its era and deepen understanding.", "To memorize publication years.", "To skip character analysis.", "To focus only on plot summary." ],
+      "correct": "To relate text to its era and deepen understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'close reading'?",
+      "answers": [ "Detailed, critical examination of a text.", "Skimming the text quickly.", "Focusing only on character names.", "Ignoring word choice and structure." ],
+      "correct": "Detailed, critical examination of a text.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is character motivation significant?",
+      "answers": [ "It explains behavior and themes within a work.", "It is irrelevant to the storyline.", "It replaces theme analysis.", "It complicates understanding unnecessarily." ],
+      "correct": "It explains behavior and themes within a work.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a critical lens?",
+      "answers": [ "A perspective or theory used to analyze a text.", "A literal lens for reading.", "A method to memorize quotes.", "A tool for ignoring context." ],
+      "correct": "A perspective or theory used to analyze a text.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is understanding genre conventions important?",
+      "answers": [ "To recognize structure and deepen analysis.", "To skip character study.", "To ignore context.", "To focus only on settings." ],
+      "correct": "To recognize structure and deepen analysis.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common focus in advanced literary criticism?",
+      "answers": [ "Exploring themes, motifs, and language patterns.", "Counting words in text.", "Ignoring character dynamics.", "Skipping theoretical approaches." ],
+      "correct": "Exploring themes, motifs, and language patterns.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is authorial intention debated?",
+      "answers": [ "Different readers and critics may interpret texts differently.", "It guarantees a single valid meaning.", "It eliminates the role of context.", "It removes ambiguity from texts." ],
+      "correct": "Different readers and critics may interpret texts differently.",
+      "voiceUrl": ""
+    }
+  ]
+}

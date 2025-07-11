@@ -1,0 +1,75 @@
+{
+  "lesson": "Jobs and Professions Vocabulary",
+  "words": [
+    {
+      "word": "teacher",
+      "definition": "A person who helps students learn.",
+      "arabic": "معلم",
+      "arabic_definition": "شخص يساعد الطلاب على التعلم.",
+      "example": {
+        "en": "My mother is a teacher.",
+        "ar": "أمي معلمة."
+      }
+    },
+    {
+      "word": "doctor",
+      "definition": "A person who treats sick people.",
+      "arabic": "طبيب",
+      "arabic_definition": "شخص يعالج المرضى.",
+      "example": {
+        "en": "The doctor gave me medicine.",
+        "ar": "أعطاني الطبيب دواءً."
+      }
+    },
+    {
+      "word": "engineer",
+      "definition": "A person who designs or builds things.",
+      "arabic": "مهندس",
+      "arabic_definition": "شخص يصمم أو يبني الأشياء.",
+      "example": {
+        "en": "My brother is an engineer.",
+        "ar": "أخي مهندس."
+      }
+    },
+    {
+      "word": "nurse",
+      "definition": "A person who cares for sick people.",
+      "arabic": "ممرضة",
+      "arabic_definition": "شخص يعتني بالمرضى.",
+      "example": {
+        "en": "The nurse helped me at the hospital.",
+        "ar": "ساعدتني الممرضة في المستشفى."
+      }
+    },
+    {
+      "word": "driver",
+      "definition": "A person who drives a vehicle.",
+      "arabic": "سائق",
+      "arabic_definition": "شخص يقود مركبة.",
+      "example": {
+        "en": "The driver took us to school.",
+        "ar": "أخذنا السائق إلى المدرسة."
+      }
+    },
+    {
+      "word": "chef",
+      "definition": "A person who cooks food professionally.",
+      "arabic": "طباخ",
+      "arabic_definition": "شخص يطبخ الطعام بشكل مهني.",
+      "example": {
+        "en": "The chef made a delicious meal.",
+        "ar": "أعدّ الطباخ وجبة لذيذة."
+      }
+    },
+    {
+      "word": "police officer",
+      "definition": "A person who enforces the law.",
+      "arabic": "شرطي",
+      "arabic_definition": "شخص يطبق القانون.",
+      "example": {
+        "en": "The police officer stopped the car.",
+        "ar": "أوقف الشرطي السيارة."
+      }
+    }
+  ]
+}

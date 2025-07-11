@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 3 - Analyzing Media and Advertising Quiz",
+  "questions": [
+    {
+      "question": "What is the primary goal of advertising?",
+      "answers": [
+        "To persuade consumers to buy products or services.",
+        "To inform about news.",
+        "To entertain only.",
+        "To confuse viewers."
+      ],
+      "correct": "To persuade consumers to buy products or services.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'target audience' mean?",
+      "answers": [
+        "The specific group of people an ad is aimed at.",
+        "Everyone who watches TV.",
+        "Only children.",
+        "Only adults."
+      ],
+      "correct": "The specific group of people an ad is aimed at.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do advertisers use emotional appeal?",
+      "answers": [
+        "By connecting products to feelings like happiness or fear.",
+        "By listing technical details only.",
+        "By ignoring emotions.",
+        "By confusing viewers."
+      ],
+      "correct": "By connecting products to feelings like happiness or fear.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a slogan?",
+      "answers": [
+        "A memorable phrase used in advertising.",
+        "A product name.",
+        "A price tag.",
+        "A company logo."
+      ],
+      "correct": "A memorable phrase used in advertising.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is critical thinking important when analyzing media?",
+      "answers": [
+        "To understand hidden messages and bias.",
+        "To accept everything as true.",
+        "To ignore ads.",
+        "To believe all claims."
+      ],
+      "correct": "To understand hidden messages and bias.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'bias' in media?",
+      "answers": [
+        "A tendency to present information unfairly or from one perspective.",
+        "Neutral reporting.",
+        "Complete facts.",
+        "Unrelated opinions."
+      ],
+      "correct": "A tendency to present information unfairly or from one perspective.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can images in advertising influence consumers?",
+      "answers": [
+        "By creating attractive or persuasive visuals.",
+        "By distracting viewers.",
+        "By showing irrelevant pictures.",
+        "By confusing audiences."
+      ],
+      "correct": "By creating attractive or persuasive visuals.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role does repetition play in advertising?",
+      "answers": [
+        "It helps people remember the product or message.",
+        "It annoys consumers.",
+        "It reduces interest.",
+        "It is accidental."
+      ],
+      "correct": "It helps people remember the product or message.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a testimonial in advertising?",
+      "answers": [
+        "A statement from a satisfied customer or celebrity.",
+        "A legal document.",
+        "An unrelated comment.",
+        "A discount offer."
+      ],
+      "correct": "A statement from a satisfied customer or celebrity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to check the credibility of media sources?",
+      "answers": [
+        "To avoid misinformation and bias.",
+        "It is not important.",
+        "To trust all sources.",
+        "To ignore facts."
+      ],
+      "correct": "To avoid misinformation and bias.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the difference between fact and opinion in media?",
+      "answers": [
+        "Facts are verifiable; opinions are personal views.",
+        "They are the same.",
+        "Facts are always negative.",
+        "Opinions are always true."
+      ],
+      "correct": "Facts are verifiable; opinions are personal views.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'manipulation' mean in media?",
+      "answers": [
+        "Controlling information to influence perception unfairly.",
+        "Fair reporting.",
+        "Complete honesty.",
+        "Ignoring facts."
+      ],
+      "correct": "Controlling information to influence perception unfairly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the purpose of a news report?",
+      "answers": [
+        "To inform the public about recent events.",
+        "To entertain only.",
+        "To advertise products.",
+        "To confuse readers."
+      ],
+      "correct": "To inform the public about recent events.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can media shape public opinion?",
+      "answers": [
+        "By influencing attitudes and beliefs through coverage and framing.",
+        "It has no effect.",
+        "By confusing people.",
+        "By avoiding important topics."
+      ],
+      "correct": "By influencing attitudes and beliefs through coverage and framing.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do when you notice biased media?",
+      "answers": [
+        "Consider multiple sources and viewpoints.",
+        "Ignore the bias.",
+        "Believe it completely.",
+        "Spread it further."
+      ],
+      "correct": "Consider multiple sources and viewpoints.",
+      "voiceUrl": ""
+    }
+  ]
+}

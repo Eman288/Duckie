@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 3 - At the Doctor’s Office Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'doctor'?",
+      "answers": [ "طبيب", "ممرض", "صيدلي", "معلم" ],
+      "correct": "طبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'nurse'?",
+      "answers": [ "ممرض", "طبيب", "صيدلي", "معلم" ],
+      "correct": "ممرض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'appointment'?",
+      "answers": [ "موعد", "حجز", "علاج", "عملية" ],
+      "correct": "موعد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'patient'?",
+      "answers": [ "مريض", "طبيب", "ممرض", "صيدلي" ],
+      "correct": "مريض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'medicine'?",
+      "answers": [ "دواء", "حجز", "عملية", "حالة" ],
+      "correct": "دواء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'injection'?",
+      "answers": [ "حقنة", "حجز", "عملية", "حالة" ],
+      "correct": "حقنة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'check-up'?",
+      "answers": [ "فحص طبي", "حجز", "دواء", "عملية" ],
+      "correct": "فحص طبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'treatment'?",
+      "answers": [ "علاج", "حجز", "حالة", "عملية" ],
+      "correct": "علاج",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'symptoms'?",
+      "answers": [ "أعراض", "حجز", "عملية", "حالة" ],
+      "correct": "أعراض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'diagnosis'?",
+      "answers": [ "تشخيص", "حجز", "حالة", "دواء" ],
+      "correct": "تشخيص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'allergy'?",
+      "answers": [ "حساسية", "حجز", "حالة", "عملية" ],
+      "correct": "حساسية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'operation'?",
+      "answers": [ "عملية", "حجز", "حالة", "دواء" ],
+      "correct": "عملية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have an appointment'?",
+      "answers": [ "لدي موعد", "لدي ألم", "لدي دواء", "لدي عملية" ],
+      "correct": "لدي موعد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'health'?",
+      "answers": [ "الصحة", "الحجز", "الحالة", "الدواء" ],
+      "correct": "الصحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I need a doctor'?",
+      "answers": [ "أحتاج طبيب", "أحتاج ممرض", "أحتاج دواء", "أحتاج عملية" ],
+      "correct": "أحتاج طبيب",
+      "voiceUrl": ""
+    }
+  ]
+}

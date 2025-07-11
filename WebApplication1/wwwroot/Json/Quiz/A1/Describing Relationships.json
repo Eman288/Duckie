@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 3 - Lesson 3 Quiz: Describing Relationships",
+  "questions": [
+    {
+      "question": "What is the meaning of 'relationship' in Arabic?",
+      "answers": [
+        "قرابة",
+        "علاقة",
+        "حب",
+        "عائلة"
+      ],
+      "correct": "علاقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to know someone well'?",
+      "answers": [
+        "married",
+        "friend",
+        "close",
+        "relationship"
+      ],
+      "correct": "close",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: They are ___, not strangers.",
+      "answers": [
+        "family",
+        "friends",
+        "relatives",
+        "all of the above"
+      ],
+      "correct": "all of the above",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to Arabic: 'married'",
+      "answers": [
+        "متزوج",
+        "أعزب",
+        "قريب",
+        "صديق"
+      ],
+      "correct": "متزوج",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'relative' mean?",
+      "answers": [
+        "A teacher",
+        "A neighbor",
+        "A family member",
+        "A student"
+      ],
+      "correct": "A family member",
+      "voiceUrl": ""
+    }
+  ]
+}

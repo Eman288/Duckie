@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Jobs and Professions Vocabulary Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'Teacher'?",
+      "answers": [ "معلم", "طبيب", "مهندس", "طيار" ],
+      "correct": "معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Engineer'?",
+      "answers": [ "مهندس", "معلم", "طبيب", "ممرض" ],
+      "correct": "مهندس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Doctor'?",
+      "answers": [ "طبيب", "معلم", "محاسب", "طيار" ],
+      "correct": "طبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Nurse'?",
+      "answers": [ "ممرض", "معلم", "مهندس", "طيار" ],
+      "correct": "ممرض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Pilot'?",
+      "answers": [ "طيار", "معلم", "طبيب", "محاسب" ],
+      "correct": "طيار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Accountant'?",
+      "answers": [ "محاسب", "معلم", "طبيب", "طيار" ],
+      "correct": "محاسب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Chef'?",
+      "answers": [ "طباخ", "معلم", "طبيب", "طيار" ],
+      "correct": "طباخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Manager'?",
+      "answers": [ "مدير", "معلم", "طبيب", "طيار" ],
+      "correct": "مدير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Police Officer'?",
+      "answers": [ "شرطي", "معلم", "طبيب", "طيار" ],
+      "correct": "شرطي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Lawyer'?",
+      "answers": [ "محام", "معلم", "طبيب", "طيار" ],
+      "correct": "محام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Scientist'?",
+      "answers": [ "عالم", "معلم", "طبيب", "طيار" ],
+      "correct": "عالم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Builder'?",
+      "answers": [ "بنّاء", "معلم", "طبيب", "طيار" ],
+      "correct": "بنّاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Farmer'?",
+      "answers": [ "مزارع", "معلم", "طبيب", "طيار" ],
+      "correct": "مزارع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Writer'?",
+      "answers": [ "كاتب", "معلم", "طبيب", "طيار" ],
+      "correct": "كاتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Designer'?",
+      "answers": [ "مصمم", "معلم", "طبيب", "طيار" ],
+      "correct": "مصمم",
+      "voiceUrl": ""
+    }
+  ]
+}

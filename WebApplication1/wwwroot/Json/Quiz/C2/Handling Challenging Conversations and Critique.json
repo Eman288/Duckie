@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Handling Challenging Conversations and Critique",
+  "questions": [
+    {
+      "question": "Why is it important to stay composed during challenging conversations?",
+      "answers": [ "To maintain professionalism and focus.", "To win an argument quickly.", "To impress others.", "To end the conversation abruptly." ],
+      "correct": "To maintain professionalism and focus.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an effective way to respond to criticism?",
+      "answers": [ "Listen carefully and acknowledge the point.", "Interrupt and justify immediately.", "Ignore it completely.", "Respond with aggression." ],
+      "correct": "Listen carefully and acknowledge the point.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should feedback be specific?",
+      "answers": [ "To make it actionable.", "To confuse the recipient.", "To replace facts with emotions.", "To skip constructive criticism." ],
+      "correct": "To make it actionable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a key skill when giving constructive feedback?",
+      "answers": [ "Focusing on behavior, not character.", "Pointing out only mistakes.", "Avoiding positives altogether.", "Making assumptions about motives." ],
+      "correct": "Focusing on behavior, not character.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is active listening vital in challenging conversations?",
+      "answers": [ "To understand others’ perspectives.", "To dominate the conversation.", "To end discussions quickly.", "To skip listening and move to your point." ],
+      "correct": "To understand others’ perspectives.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should be avoided when receiving constructive criticism?",
+      "answers": [ "Becoming defensive or argumentative.", "Listening actively.", "Asking questions for clarity.", "Thanking the person for feedback." ],
+      "correct": "Becoming defensive or argumentative.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you de-escalate a tense conversation?",
+      "answers": [ "Acknowledge emotions and refocus on facts.", "Raise your voice to match the other person.", "Point out their errors immediately.", "Avoid making eye contact." ],
+      "correct": "Acknowledge emotions and refocus on facts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to summarize key points in challenging conversations?",
+      "answers": [ "To confirm understanding.", "To dominate the conversation.", "To skip other concerns.", "To confuse participants." ],
+      "correct": "To confirm understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What approach is best for receiving harsh feedback?",
+      "answers": [ "Remain composed and ask for examples.", "Interrupt and justify immediately.", "Avoid listening completely.", "Respond angrily." ],
+      "correct": "Remain composed and ask for examples.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should a conversation focus on behavior rather than character?",
+      "answers": [ "To foster constructive dialogue.", "To make it personal.", "To justify aggression.", "To skip evidence and examples." ],
+      "correct": "To foster constructive dialogue.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an effective technique for making a challenging conversation productive?",
+      "answers": [ "Active listening and open questions.", "Pointing out only faults.", "Giving long monologues.", "Interrupting repeatedly." ],
+      "correct": "Active listening and open questions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is timing important in addressing tough topics?",
+      "answers": [ "To respect emotions and create a productive space.", "To gain an advantage in arguments.", "To delay addressing issues indefinitely.", "To skip preparation and context." ],
+      "correct": "To respect emotions and create a productive space.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can ‘I’ statements benefit challenging conversations?",
+      "answers": [ "They express feelings clearly and reduce blame.", "They imply guilt for others.", "They dominate the conversation.", "They ignore others’ feelings." ],
+      "correct": "They express feelings clearly and reduce blame.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is focusing on a solution crucial?",
+      "answers": [ "To move the conversation forward.", "To dwell on the problem.", "To create tension.", "To skip agreement and understanding." ],
+      "correct": "To move the conversation forward.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What role does body language play in challenging conversations?",
+      "answers": [ "It can convey openness and understanding.", "It has no role in conversations.", "It replaces words completely.", "It distracts listeners intentionally." ],
+      "correct": "It can convey openness and understanding.",
+      "voiceUrl": ""
+    }
+  ]
+}

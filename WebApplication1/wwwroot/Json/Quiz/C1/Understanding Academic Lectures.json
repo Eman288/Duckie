@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Understanding Academic Lectures Quiz",
+  "questions": [
+    {
+      "question": "What is a good way to prepare before an academic lecture?",
+      "answers": [ "Review relevant material and vocabulary.", "Ignore the topic.", "Arrive late.", "Use a phone during the lecture." ],
+      "correct": "Review relevant material and vocabulary.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is note-taking important during lectures?",
+      "answers": [ "It helps retain key information.", "It distracts from listening.", "It is unnecessary.", "It replaces studying later." ],
+      "correct": "It helps retain key information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you don’t understand a point?",
+      "answers": [ "Write it down and ask later.", "Ignore it.", "Leave the lecture.", "Interrupt loudly." ],
+      "correct": "Write it down and ask later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you identify main ideas in a lecture?",
+      "answers": [ "Listen for emphasis and repetition.", "Focus only on details.", "Ignore the speaker’s tone.", "Write everything down." ],
+      "correct": "Listen for emphasis and repetition.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it useful to understand lecture structure?",
+      "answers": [ "It helps predict and organize information.", "It is not important.", "It confuses listeners.", "It wastes time." ],
+      "correct": "It helps predict and organize information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you handle unfamiliar vocabulary?",
+      "answers": [ "Note it and look up later.", "Ignore it completely.", "Assume its meaning.", "Ask the lecturer every time." ],
+      "correct": "Note it and look up later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the benefit of summarizing after a lecture?",
+      "answers": [ "It reinforces understanding.", "It wastes time.", "It is unnecessary.", "It causes confusion." ],
+      "correct": "It reinforces understanding.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can active listening improve comprehension?",
+      "answers": [ "By focusing fully on the speaker.", "By multitasking.", "By ignoring parts of the lecture.", "By preparing questions in advance only." ],
+      "correct": "By focusing fully on the speaker.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is asking questions during or after a lecture helpful?",
+      "answers": [ "To clarify confusing points.", "It interrupts the speaker.", "It wastes time.", "It shows you didn’t prepare." ],
+      "correct": "To clarify confusing points.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of examples in academic lectures?",
+      "answers": [ "They illustrate and clarify concepts.", "They confuse listeners.", "They are filler.", "They replace theory." ],
+      "correct": "They illustrate and clarify concepts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you review your notes soon after a lecture?",
+      "answers": [ "To reinforce memory and fill gaps.", "It is unnecessary.", "To delay studying.", "To forget details." ],
+      "correct": "To reinforce memory and fill gaps.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a useful strategy when the lecture is fast-paced?",
+      "answers": [ "Focus on keywords and main ideas.", "Try to write everything.", "Ignore parts you don’t understand.", "Leave early." ],
+      "correct": "Focus on keywords and main ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can discussing lecture topics with peers help?",
+      "answers": [ "It deepens understanding through different views.", "It distracts from studying.", "It wastes time.", "It causes confusion." ],
+      "correct": "It deepens understanding through different views.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it helpful to record lectures (with permission)?",
+      "answers": [ "To review and catch missed information.", "It is disrespectful.", "It replaces note-taking.", "It wastes time." ],
+      "correct": "To review and catch missed information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you stay focused during long lectures?",
+      "answers": [ "Take short breaks and stay hydrated.", "Ignore the content.", "Use your phone.", "Distract others." ],
+      "correct": "Take short breaks and stay hydrated.",
+      "voiceUrl": ""
+    }
+  ]
+}

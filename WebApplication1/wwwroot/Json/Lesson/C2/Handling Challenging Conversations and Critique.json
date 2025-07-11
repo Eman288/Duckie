@@ -1,0 +1,105 @@
+{
+  "lesson": "Handling Challenging Conversations and Critique",
+  "words": [
+    {
+      "word": "tactful",
+      "definition": "Showing sensitivity when dealing with others.",
+      "arabic": "لبق",
+      "arabic_definition": "إظهار الحساسية عند التعامل مع الآخرين.",
+      "example": {
+        "en": "Be tactful when providing critical feedback.",
+        "ar": "كن لبقًا عند تقديم ملاحظات نقدية."
+      }
+    },
+    {
+      "word": "constructive",
+      "definition": "Aimed at providing helpful feedback.",
+      "arabic": "بنّاء",
+      "arabic_definition": "تهدف إلى تقديم ملاحظات مفيدة.",
+      "example": {
+        "en": "Give constructive criticism rather than negative remarks.",
+        "ar": "قدم نقدًا بنّاءً بدلًا من ملاحظات سلبية."
+      }
+    },
+    {
+      "word": "receptive",
+      "definition": "Open to suggestions and feedback.",
+      "arabic": "متقبل",
+      "arabic_definition": "منفتح على الاقتراحات والتعليقات.",
+      "example": {
+        "en": "He was very receptive to feedback from his team.",
+        "ar": "كان متقبلًا للغاية لتعليقات فريقه."
+      }
+    },
+    {
+      "word": "disarm",
+      "definition": "To reduce tension or aggression.",
+      "arabic": "ينزع فتيل التوتر",
+      "arabic_definition": "التخفيف من التوتر أو العدوان.",
+      "example": {
+        "en": "She used humor to disarm the tense conversation.",
+        "ar": "استخدمت الدعابة لنزع فتيل المحادثة المتوترة."
+      }
+    },
+    {
+      "word": "empathy",
+      "definition": "The ability to understand and share the feelings of others.",
+      "arabic": "تعاطف",
+      "arabic_definition": "القدرة على تفهم مشاعر الآخرين ومشاركتها.",
+      "example": {
+        "en": "Listening with empathy can de-escalate conflict.",
+        "ar": "الاستماع بتعاطف يمكن أن يقلل من حدة الصراع."
+      }
+    },
+    {
+      "word": "assertive",
+      "definition": "Confidently stating one's needs and opinions.",
+      "arabic": "حازم",
+      "arabic_definition": "التعبير عن احتياجات وآراء الشخص بثقة.",
+      "example": {
+        "en": "He gave an assertive reply to the challenging question.",
+        "ar": "قدم إجابة حازمة على السؤال الصعب."
+      }
+    },
+    {
+      "word": "diplomacy",
+      "definition": "The skill of managing sensitive conversations.",
+      "arabic": "الدبلوماسية",
+      "arabic_definition": "مهارة إدارة المحادثات الحساسة.",
+      "example": {
+        "en": "Her diplomacy helped calm down the discussion.",
+        "ar": "ساعدت دبلوماسيتها على تهدئة النقاش."
+      }
+    },
+    {
+      "word": "de-escalate",
+      "definition": "To reduce the intensity of a conflict.",
+      "arabic": "تهدئة",
+      "arabic_definition": "خفض شدة النزاع.",
+      "example": {
+        "en": "He spoke softly to de-escalate the situation.",
+        "ar": "تحدث بلطف لتهدئة الوضع."
+      }
+    },
+    {
+      "word": "neutral",
+      "definition": "Not supporting any side in a disagreement.",
+      "arabic": "حيادي",
+      "arabic_definition": "عدم دعم أي جانب في نزاع.",
+      "example": {
+        "en": "Try to stay neutral during the debate.",
+        "ar": "حاول البقاء حياديًا أثناء النقاش."
+      }
+    },
+    {
+      "word": "resolution",
+      "definition": "The act of finding an answer or agreement.",
+      "arabic": "حل",
+      "arabic_definition": "فعل إيجاد إجابة أو اتفاق.",
+      "example": {
+        "en": "Their conversation led to a peaceful resolution.",
+        "ar": "أدت محادثتهما إلى حل سلمي."
+      }
+    }
+  ]
+}

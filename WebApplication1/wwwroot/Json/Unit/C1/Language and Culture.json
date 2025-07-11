@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - Language and Culture",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'cultural nuance'?",
+      "answers": [ "الفروق الثقافية الدقيقة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الفروق الثقافية الدقيقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'literature criticism' in Arabic?",
+      "answers": [ "نقد أدبي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نقد أدبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'تحليل الإعلام'?",
+      "answers": [ "media analysis", "daily routine", "work project", "travel map" ],
+      "correct": "media analysis",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cross-cultural challenges' in Arabic?",
+      "answers": [ "التحديات عبر الثقافات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التحديات عبر الثقافات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'idioms'?",
+      "answers": [ "تعابير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تعابير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'literary analysis' in Arabic?",
+      "answers": [ "تحليل أدبي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تحليل أدبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التفاعل الثقافي'?",
+      "answers": [ "cultural interaction", "daily routine", "work project", "travel map" ],
+      "correct": "cultural interaction",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'media literacy' in Arabic?",
+      "answers": [ "التربية الإعلامية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التربية الإعلامية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'global literature'?",
+      "answers": [ "الأدب العالمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الأدب العالمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cultural awareness' in Arabic?",
+      "answers": [ "الوعي الثقافي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الوعي الثقافي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القيم الثقافية'?",
+      "answers": [ "cultural values", "daily routine", "work project", "travel map" ],
+      "correct": "cultural values",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cross-cultural communication' in Arabic?",
+      "answers": [ "التواصل عبر الثقافات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التواصل عبر الثقافات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'literary style'?",
+      "answers": [ "أسلوب أدبي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "أسلوب أدبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'art and culture' in Arabic?",
+      "answers": [ "الفن والثقافة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الفن والثقافة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القيم الجمالية'?",
+      "answers": [ "aesthetic values", "daily routine", "work project", "travel map" ],
+      "correct": "aesthetic values",
+      "voiceUrl": ""
+    }
+  ]
+}

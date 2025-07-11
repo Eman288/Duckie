@@ -1,0 +1,105 @@
+{
+  "lesson": "Advanced Business and Negotiation Terminology",
+  "words": [
+    {
+      "word": "leverage",
+      "definition": "The ability to use a resource for maximum advantage.",
+      "arabic": "القوة التفاوضية",
+      "arabic_definition": "القدرة على استخدام مورد لتحقيق أقصى استفادة.",
+      "example": {
+        "en": "He used his connections as leverage in the negotiations.",
+        "ar": "استغل علاقاته كقوة تفاوضية أثناء المفاوضات."
+      }
+    },
+    {
+      "word": "concession",
+      "definition": "Something granted in negotiations.",
+      "arabic": "تنازل",
+      "arabic_definition": "شيء يتم تقديمه أثناء المفاوضات.",
+      "example": {
+        "en": "The company made a concession to secure the deal.",
+        "ar": "قدمت الشركة تنازلًا لإتمام الصفقة."
+      }
+    },
+    {
+      "word": "counteroffer",
+      "definition": "A reply made to an offer with modified terms.",
+      "arabic": "عرض مضاد",
+      "arabic_definition": "رد على عرض بشروط معدلة.",
+      "example": {
+        "en": "He rejected the offer and gave a counteroffer.",
+        "ar": "رفض العرض وقدم عرضًا مضادًا."
+      }
+    },
+    {
+      "word": "terms",
+      "definition": "Conditions agreed upon in a contract.",
+      "arabic": "شروط",
+      "arabic_definition": "الأحكام التي يتم الاتفاق عليها في عقد.",
+      "example": {
+        "en": "The terms of the agreement were clearly stated.",
+        "ar": "تم تحديد شروط الاتفاق بوضوح."
+      }
+    },
+    {
+      "word": "dispute",
+      "definition": "A disagreement between parties.",
+      "arabic": "نزاع",
+      "arabic_definition": "خلاف بين الأطراف.",
+      "example": {
+        "en": "The dispute was resolved through mediation.",
+        "ar": "تم حل النزاع عن طريق الوساطة."
+      }
+    },
+    {
+      "word": "clause",
+      "definition": "A specific provision in a contract.",
+      "arabic": "بند",
+      "arabic_definition": "حكم محدد في عقد.",
+      "example": {
+        "en": "The contract contains a confidentiality clause.",
+        "ar": "يحتوي العقد على بند سرية."
+      }
+    },
+    {
+      "word": "arbitration",
+      "definition": "Settling a dispute by neutral judgement.",
+      "arabic": "تحكيم",
+      "arabic_definition": "حسم نزاع بواسطة طرف محايد.",
+      "example": {
+        "en": "The parties agreed to settle their dispute through arbitration.",
+        "ar": "اتفق الأطراف على تسوية نزاعهم عن طريق التحكيم."
+      }
+    },
+    {
+      "word": "benchmark",
+      "definition": "A standard for measuring quality or performance.",
+      "arabic": "معيار",
+      "arabic_definition": "مقياس لقياس الجودة أو الأداء.",
+      "example": {
+        "en": "We use this result as a benchmark for future projects.",
+        "ar": "نستخدم هذه النتيجة كمعيار للمشاريع المستقبلية."
+      }
+    },
+    {
+      "word": "contractual",
+      "definition": "Related to or required by a contract.",
+      "arabic": "تعاقدي",
+      "arabic_definition": "متعلق بالعقود أو مطلوب بموجبها.",
+      "example": {
+        "en": "The agreement includes several contractual obligations.",
+        "ar": "يشمل الاتفاق عدة التزامات تعاقدية."
+      }
+    },
+    {
+      "word": "leverage",
+      "definition": "The use of resources or position to gain advantage.",
+      "arabic": "القوة التفاوضية",
+      "arabic_definition": "استخدام الموارد أو المكانة للحصول على ميزة.",
+      "example": {
+        "en": "She used her experience as leverage in negotiations.",
+        "ar": "استفادت من خبرتها كقوة تفاوضية أثناء المحادثات."
+      }
+    }
+  ]
+}

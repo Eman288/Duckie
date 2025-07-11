@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Paying and Making Decisions Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I will pay in cash' in Arabic?",
+      "answers": [ "ليس لدي نقد", "ليس عندي مال", "سأدفع نقدًا", "ليس لدي بطاقة" ],
+      "correct": "سأدفع نقدًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will use a card'",
+      "answers": [ "ليس لدي بطاقة", "ليس عندي مال", "سأستخدم بطاقة", "ليس لدي عمل" ],
+      "correct": "سأستخدم بطاقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I will think about it' in Arabic?",
+      "answers": [ "ليس لدي وقت", "ليس عندي عمل", "سأفكر بالأمر", "ليس لدي فكرة" ],
+      "correct": "سأفكر بالأمر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will decide later'",
+      "answers": [ "ليس لدي وقت", "ليس عندي عمل", "سأقرر لاحقًا", "ليس لدي قرار" ],
+      "correct": "سأقرر لاحقًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I am not sure' in Arabic?",
+      "answers": [ "ليس لدي عمل", "ليس عندي فكرة", "لست متأكدًا", "ليس لدي وقت" ],
+      "correct": "لست متأكدًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I want to buy this'",
+      "answers": [ "ليس لدي شيء", "ليس عندي عمل", "أريد شراء هذا", "ليس لدي فكرة" ],
+      "correct": "أريد شراء هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I will come back later' in Arabic?",
+      "answers": [ "ليس لدي عمل", "ليس عندي شيء", "سأعود لاحقًا", "ليس لدي وقت" ],
+      "correct": "سأعود لاحقًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I accept this price'",
+      "answers": [ "ليس لدي شيء", "ليس عندي عمل", "أقبل هذا السعر", "ليس لدي مال" ],
+      "correct": "أقبل هذا السعر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don’t accept this price' in Arabic?",
+      "answers": [ "ليس لدي عمل", "ليس عندي شيء", "لا أقبل هذا السعر", "ليس لدي مال" ],
+      "correct": "لا أقبل هذا السعر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'This is too expensive'",
+      "answers": [ "ليس لدي مال", "ليس عندي عمل", "هذا غالي جداً", "ليس لدي شيء" ],
+      "correct": "هذا غالي جداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I can pay by card' in Arabic?",
+      "answers": [ "ليس لدي بطاقة", "ليس عندي عمل", "أستطيع الدفع ببطاقة", "ليس لدي شيء" ],
+      "correct": "أستطيع الدفع ببطاقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I can pay now'",
+      "answers": [ "ليس لدي عمل", "ليس عندي مال", "أستطيع الدفع الآن", "ليس لدي بطاقة" ],
+      "correct": "أستطيع الدفع الآن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I can pay later' in Arabic?",
+      "answers": [ "ليس لدي عمل", "ليس عندي مال", "أستطيع الدفع لاحقًا", "ليس لدي شيء" ],
+      "correct": "أستطيع الدفع لاحقًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have enough money'",
+      "answers": [ "ليس لدي مال", "ليس عندي عمل", "لدي ما يكفي من المال", "ليس لدي شيء" ],
+      "correct": "لدي ما يكفي من المال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I don’t have enough money' in Arabic?",
+      "answers": [ "ليس لدي عمل", "ليس عندي شيء", "ليس لدي ما يكفي من المال", "ليس لدي بطاقة" ],
+      "correct": "ليس لدي ما يكفي من المال",
+      "voiceUrl": ""
+    }
+  ]
+}

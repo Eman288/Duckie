@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Expressing Likes and Dislikes in Social Settings Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I like parties' in Arabic?",
+      "answers": [ "أنا أحب الحفلات", "أنا لا أحب الحفلات", "أنا أكره الحفلات", "أنا أكره الاجتماعات" ],
+      "correct": "أنا أحب الحفلات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'I don’t like loud music'?",
+      "answers": [ "لا أحب الموسيقى العالية", "أحب الموسيقى العالية", "أكره الموسيقى الهادئة", "أحب الموسيقى الهادئة" ],
+      "correct": "لا أحب الموسيقى العالية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I enjoy spending time with friends'?",
+      "answers": [ "أستمتع بقضاء الوقت مع الأصدقاء", "لا أستمتع بقضاء الوقت مع الأصدقاء", "أكره قضاء الوقت مع الأصدقاء", "أحب قضاء الوقت وحيداً" ],
+      "correct": "أستمتع بقضاء الوقت مع الأصدقاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I dislike crowded places'?",
+      "answers": [ "لا أحب الأماكن المزدحمة", "أحب الأماكن المزدحمة", "أكره الأماكن الهادئة", "أحب الأماكن الهادئة" ],
+      "correct": "لا أحب الأماكن المزدحمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I love celebrations'?",
+      "answers": [ "أنا أحب الاحتفالات", "أنا أكره الاحتفالات", "أنا لا أذهب للاحتفالات", "أنا لا أهتم بالاحتفالات" ],
+      "correct": "أنا أحب الاحتفالات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'I’m not interested in parties'?",
+      "answers": [ "أنا غير مهتم بالحفلات", "أنا مهتم بالحفلات", "أنا أحب الحفلات", "أنا أكره الحفلات" ],
+      "correct": "أنا غير مهتم بالحفلات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I prefer quiet evenings'?",
+      "answers": [ "أفضل الأمسيات الهادئة", "أفضل الحفلات الصاخبة", "أفضل الاحتفالات الكبيرة", "أفضل الأيام المزدحمة" ],
+      "correct": "أفضل الأمسيات الهادئة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I don’t like dancing'?",
+      "answers": [ "لا أحب الرقص", "أحب الرقص", "أكره الرقص", "أفضل الرقص" ],
+      "correct": "لا أحب الرقص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I enjoy music'?",
+      "answers": [ "أستمتع بالموسيقى", "أكره الموسيقى", "لا أحب الموسيقى", "أفضل الصمت" ],
+      "correct": "أستمتع بالموسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'I dislike noisy parties'?",
+      "answers": [ "لا أحب الحفلات الصاخبة", "أحب الحفلات الصاخبة", "أفضل الحفلات الهادئة", "أفضل الحفلات الكبيرة" ],
+      "correct": "لا أحب الحفلات الصاخبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I love meeting new people'?",
+      "answers": [ "أنا أحب مقابلة أشخاص جدد", "أنا أكره مقابلة أشخاص جدد", "أنا لا أذهب لمقابلة أشخاص", "أنا أفضل البقاء وحدي" ],
+      "correct": "أنا أحب مقابلة أشخاص جدد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I don’t like loud conversations'?",
+      "answers": [ "لا أحب المحادثات العالية", "أحب المحادثات العالية", "أفضل المحادثات الهادئة", "أفضل الصمت" ],
+      "correct": "لا أحب المحادثات العالية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I prefer small gatherings'?",
+      "answers": [ "أفضل التجمعات الصغيرة", "أفضل التجمعات الكبيرة", "أفضل الحفلات الكبيرة", "أفضل الاحتفالات الكبيرة" ],
+      "correct": "أفضل التجمعات الصغيرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'I’m not a fan of parties'?",
+      "answers": [ "لست من محبي الحفلات", "أنا من محبي الحفلات", "أنا أحب الحفلات", "أنا أكره الحفلات" ],
+      "correct": "لست من محبي الحفلات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I like to celebrate special occasions'?",
+      "answers": [ "أحب الاحتفال بالمناسبات الخاصة", "أكره الاحتفال بالمناسبات الخاصة", "أفضل عدم الاحتفال", "لا أهتم بالمناسبات" ],
+      "correct": "أحب الاحتفال بالمناسبات الخاصة",
+      "voiceUrl": ""
+    }
+  ]
+}

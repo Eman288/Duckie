@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 5 - Science and Technology",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'discovery'?",
+      "answers": [ "اكتشاف", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اكتشاف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'science' in Arabic?",
+      "answers": [ "علوم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "علوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المصطلح العلمي'?",
+      "answers": [ "scientific term", "daily routine", "work project", "travel map" ],
+      "correct": "scientific term",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'technology' in Arabic?",
+      "answers": [ "تكنولوجيا", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تكنولوجيا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'impact'?",
+      "answers": [ "تأثير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تأثير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'ethics' in Arabic?",
+      "answers": [ "الأخلاقيات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الأخلاقيات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'البحث العلمي'?",
+      "answers": [ "scientific research", "daily routine", "work project", "travel map" ],
+      "correct": "scientific research",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'experiment' in Arabic?",
+      "answers": [ "تجربة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تجربة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'development'?",
+      "answers": [ "تطوير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تطوير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'innovation' in Arabic?",
+      "answers": [ "ابتكار", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ابتكار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التقدم التكنولوجي'?",
+      "answers": [ "technological advancement", "daily routine", "work project", "travel map" ],
+      "correct": "technological advancement",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'science and ethics' in Arabic?",
+      "answers": [ "العلم والأخلاقيات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "العلم والأخلاقيات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'research'?",
+      "answers": [ "بحث", "حافلة", "حقيبة", "حجز" ],
+      "correct": "بحث",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'discovery and innovation' in Arabic?",
+      "answers": [ "اكتشاف وابتكار", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اكتشاف وابتكار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الأخلاقيات العلمية'?",
+      "answers": [ "scientific ethics", "daily routine", "work project", "travel map" ],
+      "correct": "scientific ethics",
+      "voiceUrl": ""
+    }
+  ]
+}

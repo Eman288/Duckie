@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Mastering Rhetorical Devices",
+  "questions": [
+    {
+      "question": "What is a rhetorical device?",
+      "answers": [ "A technique used to persuade or create an effect.", "A grammatical error.", "A long passage of text.", "A synonym for vocabulary." ],
+      "correct": "A technique used to persuade or create an effect.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is an example of a rhetorical device?",
+      "answers": [ "Metaphor.", "Typo.", "Sentence fragment.", "Grammar error." ],
+      "correct": "Metaphor.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are rhetorical questions used?",
+      "answers": [ "To make readers think.", "To get direct answers.", "To confuse the reader.", "To fill space." ],
+      "correct": "To make readers think.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which device is used for emphasis?",
+      "answers": [ "Repetition.", "Paraphrasing.", "Summary.", "Research method." ],
+      "correct": "Repetition.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of an allusion?",
+      "answers": [ "A reference to a well-known person or event.", "A summary of a text.", "A direct answer.", "A description of statistics." ],
+      "correct": "A reference to a well-known person or event.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the effect of using imagery?",
+      "answers": [ "It creates vivid mental images for the reader.", "It removes emotion.", "It complicates the text.", "It replaces ideas with long words." ],
+      "correct": "It creates vivid mental images for the reader.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why might a speaker use an anecdote?",
+      "answers": [ "To connect with the audience emotionally.", "To present statistics.", "To confuse the listener.", "To write a longer speech." ],
+      "correct": "To connect with the audience emotionally.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a common purpose of hyperbole?",
+      "answers": [ "To emphasize a point through exaggeration.", "To reduce emotional impact.", "To skip over details.", "To adhere to grammatical rules." ],
+      "correct": "To emphasize a point through exaggeration.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'irony' imply?",
+      "answers": [ "A contrast between appearance and reality.", "A literal statement.", "A statistic.", "A synonym for truth." ],
+      "correct": "A contrast between appearance and reality.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why use parallelism?",
+      "answers": [ "To create rhythm and balance.", "To complicate ideas.", "To obscure meaning.", "To shorten the text unnecessarily." ],
+      "correct": "To create rhythm and balance.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which device is used for comparing two unlike things?",
+      "answers": [ "Metaphor.", "Comma.", "Typo.", "Summary." ],
+      "correct": "Metaphor.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the role of a climax in a speech?",
+      "answers": [ "To build towards a powerful point.", "To introduce statistics.", "To summarize the text.", "To state the opposing view only." ],
+      "correct": "To build towards a powerful point.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which device is used for softening harsh ideas?",
+      "answers": [ "Euphemism.", "Hyperbole.", "Paradox.", "Repetition." ],
+      "correct": "Euphemism.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is antithesis used?",
+      "answers": [ "To highlight contrast between ideas.", "To repeat words for clarity.", "To ignore opposing ideas.", "To write longer sentences." ],
+      "correct": "To highlight contrast between ideas.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is NOT a rhetorical device?",
+      "answers": [ "Typo.", "Allusion.", "Anaphora.", "Metaphor." ],
+      "correct": "Typo.",
+      "voiceUrl": ""
+    }
+  ]
+}

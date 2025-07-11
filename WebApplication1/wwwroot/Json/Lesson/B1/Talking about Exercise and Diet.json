@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Exercise and Diet",
+  "words": [
+    {
+      "word": "exercise",
+      "definition": "Physical activity to keep the body healthy.",
+      "arabic": "تمرين",
+      "arabic_definition": "نشاط بدني للحفاظ على صحة الجسم.",
+      "example": {
+        "en": "I do exercise every morning.",
+        "ar": "أمارس التمارين كل صباح."
+      }
+    },
+    {
+      "word": "diet",
+      "definition": "The food and drink a person regularly consumes.",
+      "arabic": "نظام غذائي",
+      "arabic_definition": "الأطعمة والمشروبات التي يتناولها الشخص بانتظام.",
+      "example": {
+        "en": "She follows a healthy diet.",
+        "ar": "تتبع نظامًا غذائيًا صحيًا."
+      }
+    },
+    {
+      "word": "calories",
+      "definition": "Units of energy in food.",
+      "arabic": "سعرات حرارية",
+      "arabic_definition": "وحدات الطاقة في الطعام.",
+      "example": {
+        "en": "I try to eat fewer calories.",
+        "ar": "أحاول أن أتناول سعرات حرارية أقل."
+      }
+    },
+    {
+      "word": "protein",
+      "definition": "A nutrient important for building muscles.",
+      "arabic": "بروتين",
+      "arabic_definition": "مغذٍ مهم لبناء العضلات.",
+      "example": {
+        "en": "Chicken is a good source of protein.",
+        "ar": "الدجاج مصدر جيد للبروتين."
+      }
+    },
+    {
+      "word": "vitamins",
+      "definition": "Substances in food needed for health.",
+      "arabic": "فيتامينات",
+      "arabic_definition": "مواد في الطعام ضرورية للصحة.",
+      "example": {
+        "en": "Fruits and vegetables contain many vitamins.",
+        "ar": "تحتوي الفواكه والخضروات على العديد من الفيتامينات."
+      }
+    },
+    {
+      "word": "workout",
+      "definition": "A session of physical exercise.",
+      "arabic": "تدريب",
+      "arabic_definition": "جلسة من التمارين البدنية.",
+      "example": {
+        "en": "I had a good workout at the gym.",
+        "ar": "كان لدي تدريب جيد في الصالة الرياضية."
+      }
+    },
+    {
+      "word": "balance",
+      "definition": "A healthy combination of different foods or activities.",
+      "arabic": "توازن",
+      "arabic_definition": "مزيج صحي من الأطعمة أو الأنشطة المختلفة.",
+      "example": {
+        "en": "A balanced diet includes all food groups.",
+        "ar": "يتضمن النظام الغذائي المتوازن جميع المجموعات الغذائية."
+      }
+    },
+    {
+      "word": "hydration",
+      "definition": "Keeping the body supplied with water.",
+      "arabic": "ترطيب",
+      "arabic_definition": "الحفاظ على تزويد الجسم بالماء.",
+      "example": {
+        "en": "Proper hydration is important during exercise.",
+        "ar": "الترطيب الجيد مهم أثناء التمارين."
+      }
+    },
+    {
+      "word": "strength",
+      "definition": "The quality of being strong physically.",
+      "arabic": "قوة",
+      "arabic_definition": "صفة القوة البدنية.",
+      "example": {
+        "en": "Lifting weights improves strength.",
+        "ar": "رفع الأثقال يحسن القوة."
+      }
+    },
+    {
+      "word": "cardio",
+      "definition": "Exercise that increases heart rate and breathing.",
+      "arabic": "تمارين القلب",
+      "arabic_definition": "تمارين تزيد من معدل ضربات القلب والتنفس.",
+      "example": {
+        "en": "Running is a good cardio exercise.",
+        "ar": "الجري هو تمرين جيد للقلب."
+      }
+    }
+  ]
+}

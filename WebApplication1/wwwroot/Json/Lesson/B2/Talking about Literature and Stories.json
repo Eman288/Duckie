@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Literature and Stories",
+  "words": [
+    {
+      "word": "novel",
+      "definition": "A long written story.",
+      "arabic": "رواية",
+      "arabic_definition": "قصة طويلة مكتوبة.",
+      "example": {
+        "en": "He is reading a famous novel.",
+        "ar": "إنه يقرأ رواية مشهورة."
+      }
+    },
+    {
+      "word": "character",
+      "definition": "A person in a book, film, or play.",
+      "arabic": "شخصية",
+      "arabic_definition": "شخص في كتاب أو فيلم أو مسرحية.",
+      "example": {
+        "en": "The main character of the story is very brave.",
+        "ar": "الشخصية الرئيسية في القصة شجاعة جداً."
+      }
+    },
+    {
+      "word": "theme",
+      "definition": "The main subject or idea of a book or story.",
+      "arabic": "موضوع",
+      "arabic_definition": "الموضوع أو الفكرة الرئيسية لكتاب أو قصة.",
+      "example": {
+        "en": "The theme of the book is friendship.",
+        "ar": "موضوع الكتاب هو الصداقة."
+      }
+    },
+    {
+      "word": "narration",
+      "definition": "The act of telling a story.",
+      "arabic": "السرد",
+      "arabic_definition": "فعل رواية القصة.",
+      "example": {
+        "en": "The narration was very captivating.",
+        "ar": "كان السرد جذابًا للغاية."
+      }
+    },
+    {
+      "word": "plot",
+      "definition": "The sequence of events in a story.",
+      "arabic": "حبكة",
+      "arabic_definition": "تسلسل الأحداث في القصة.",
+      "example": {
+        "en": "The plot of the novel is full of twists.",
+        "ar": "حبكة الرواية مليئة بالأحداث المفاجئة."
+      }
+    },
+    {
+      "word": "genre",
+      "definition": "A category of literature, music, or film.",
+      "arabic": "نوع أدبي",
+      "arabic_definition": "فئة من الأدب، الموسيقى، أو الأفلام.",
+      "example": {
+        "en": "I prefer the mystery genre.",
+        "ar": "أفضل نوع الغموض."
+      }
+    },
+    {
+      "word": "dialogue",
+      "definition": "Conversation between characters.",
+      "arabic": "حوار",
+      "arabic_definition": "محادثة بين الشخصيات.",
+      "example": {
+        "en": "The dialogue felt very realistic.",
+        "ar": "شعرت بأن الحوار واقعي جداً."
+      }
+    },
+    {
+      "word": "climax",
+      "definition": "The most exciting point of the story.",
+      "arabic": "ذروة",
+      "arabic_definition": "أكثر نقطة تشويقًا في القصة.",
+      "example": {
+        "en": "The climax of the book was unexpected.",
+        "ar": "كانت ذروة القصة غير متوقعة."
+      }
+    },
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech used to compare things.",
+      "arabic": "استعارة",
+      "arabic_definition": "صيغة بلاغية تستخدم للمقارنة.",
+      "example": {
+        "en": "The writer used a beautiful metaphor.",
+        "ar": "استخدم الكاتب استعارة جميلة."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The mood or attitude of the writer.",
+      "arabic": "نبرة",
+      "arabic_definition": "مزاج أو موقف الكاتب.",
+      "example": {
+        "en": "The tone of the story was hopeful.",
+        "ar": "كانت نبرة القصة مفعمة بالأمل."
+      }
+    }
+  ]
+}

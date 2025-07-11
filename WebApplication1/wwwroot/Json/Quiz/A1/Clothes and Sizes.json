@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Clothes and Sizes Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'shirt'?",
+      "answers": [ "قميص", "حذاء", "بنطلون", "فستان" ],
+      "correct": "قميص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'dress'?",
+      "answers": [ "فستان", "حذاء", "قميص", "حقيبة" ],
+      "correct": "فستان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'shoes'?",
+      "answers": [ "حذاء", "قميص", "قبعة", "حقيبة" ],
+      "correct": "حذاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is 'pants' in Arabic?",
+      "answers": [ "بنطلون", "حذاء", "فستان", "حقيبة" ],
+      "correct": "بنطلون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hat'?",
+      "answers": [ "حذاء", "قبعة", "حقيبة", "بنطلون" ],
+      "correct": "قبعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a 'bag'?",
+      "answers": [ "حقيبة", "حذاء", "قبعة", "فستان" ],
+      "correct": "حقيبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'size' in Arabic?",
+      "answers": [ "حجم", "حذاء", "حقيبة", "قميص" ],
+      "correct": "حجم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is 'medium'?",
+      "answers": [ "كبير", "متوسط", "صغير", "طويل" ],
+      "correct": "متوسط",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'large'?",
+      "answers": [ "كبير", "متوسط", "صغير", "قصير" ],
+      "correct": "كبير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'small'?",
+      "answers": [ "كبير", "متوسط", "صغير", "طويل" ],
+      "correct": "صغير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'long' in Arabic?",
+      "answers": [ "قصير", "طويل", "حجم", "حذاء" ],
+      "correct": "طويل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'short'?",
+      "answers": [ "طويل", "قصير", "حجم", "قميص" ],
+      "correct": "قصير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'clothing' in Arabic?",
+      "answers": [ "ملابس", "حذاء", "حقيبة", "قميص" ],
+      "correct": "ملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 't-shirt'?",
+      "answers": [ "تي شيرت", "حذاء", "حقيبة", "قميص" ],
+      "correct": "تي شيرت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'skirt' in Arabic?",
+      "answers": [ "حذاء", "حقيبة", "تنورة", "قميص" ],
+      "correct": "تنورة",
+      "voiceUrl": ""
+    }
+  ]
+}

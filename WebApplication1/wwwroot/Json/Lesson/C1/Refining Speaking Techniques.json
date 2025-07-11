@@ -1,0 +1,105 @@
+{
+  "lesson": "Refining Speaking Techniques",
+  "words": [
+    {
+      "word": "articulation",
+      "definition": "The clarity with which words are spoken.",
+      "arabic": "وضوح النطق",
+      "arabic_definition": "وضوح طريقة نطق الكلمات.",
+      "example": {
+        "en": "Articulation is vital for making a strong impression.",
+        "ar": "وضوح النطق مهم لترك انطباع قوي."
+      }
+    },
+    {
+      "word": "intonation",
+      "definition": "The rise and fall of the voice when speaking.",
+      "arabic": "التنغيم",
+      "arabic_definition": "ارتفاع وانخفاض الصوت أثناء الكلام.",
+      "example": {
+        "en": "Proper intonation can change the meaning of a sentence.",
+        "ar": "يمكن للتنغيم المناسب تغيير معنى الجملة."
+      }
+    },
+    {
+      "word": "fluency",
+      "definition": "The ability to speak smoothly and easily.",
+      "arabic": "طلاقة",
+      "arabic_definition": "القدرة على التحدث بسلاسة وسهولة.",
+      "example": {
+        "en": "With practice, her fluency improved greatly.",
+        "ar": "مع التدريب، تحسنت طلاقتها كثيرًا."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "The quality of being accurate and exact.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الدقة وضبط الكلام.",
+      "example": {
+        "en": "He spoke with precision to avoid misunderstanding.",
+        "ar": "تحدث بدقة لتجنب سوء الفهم."
+      }
+    },
+    {
+      "word": "enunciation",
+      "definition": "The act of pronouncing words clearly.",
+      "arabic": "لفظ",
+      "arabic_definition": "فعل نطق الكلمات بوضوح.",
+      "example": {
+        "en": "Good enunciation makes it easier for others to understand.",
+        "ar": "يسهل اللفظ الجيد على الآخرين فهم الكلام."
+      }
+    },
+    {
+      "word": "pace",
+      "definition": "The speed at which someone speaks.",
+      "arabic": "سرعة الحديث",
+      "arabic_definition": "السرعة التي يتحدث بها الشخص.",
+      "example": {
+        "en": "Try to maintain a moderate pace during your presentation.",
+        "ar": "حاول الحفاظ على سرعة معتدلة أثناء تقديمك."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The quality of voice expressing mood or emotion.",
+      "arabic": "نبرة",
+      "arabic_definition": "نوعية الصوت التي تعبر عن المزاج أو العاطفة.",
+      "example": {
+        "en": "Her tone was confident and assertive.",
+        "ar": "كانت نبرتها واثقة وحازمة."
+      }
+    },
+    {
+      "word": "stress",
+      "definition": "The emphasis placed on certain words or syllables.",
+      "arabic": "تركيز",
+      "arabic_definition": "التشديد على كلمات أو مقاطع معينة.",
+      "example": {
+        "en": "Stress the key words to make your point.",
+        "ar": "شدد على الكلمات الرئيسية لإيضاح فكرتك."
+      }
+    },
+    {
+      "word": "engagement",
+      "definition": "The state of capturing and holding the listener's attention.",
+      "arabic": "التفاعل",
+      "arabic_definition": "حالة جذب انتباه المستمع والحفاظ عليه.",
+      "example": {
+        "en": "Good speakers maintain listener engagement throughout their talk.",
+        "ar": "المتحدث الجيد يحافظ على تفاعل المستمع طوال الحديث."
+      }
+    },
+    {
+      "word": "poise",
+      "definition": "A calm and confident manner of presenting oneself.",
+      "arabic": "اتزان",
+      "arabic_definition": "طريقة هادئة وواثقة لعرض الذات.",
+      "example": {
+        "en": "He spoke with poise despite the challenging questions.",
+        "ar": "تحدث باتزان على الرغم من الأسئلة الصعبة."
+      }
+    }
+  ]
+}

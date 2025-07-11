@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Discussing the Impact of Technology on Society Quiz",
+  "questions": [
+    {
+      "question": "What is one positive impact of technology on society?",
+      "answers": [
+        "It improves communication and access to information.",
+        "It has no benefits.",
+        "It only causes harm.",
+        "It only applies to music."
+      ],
+      "correct": "It improves communication and access to information.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one negative impact of technology?",
+      "answers": [
+        "It can reduce face-to-face interactions.",
+        "It only benefits music.",
+        "It has no impact.",
+        "It improves cooking."
+      ],
+      "correct": "It can reduce face-to-face interactions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is the internet important for education?",
+      "answers": [
+        "It provides access to resources and online courses.",
+        "It has no benefits.",
+        "It applies only to cooking.",
+        "It is irrelevant."
+      ],
+      "correct": "It provides access to resources and online courses.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can technology affect work environments?",
+      "answers": [
+        "It allows remote work and collaboration.",
+        "It only applies to sports.",
+        "It has no effect.",
+        "It applies only to music."
+      ],
+      "correct": "It allows remote work and collaboration.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a challenge caused by technology in society?",
+      "answers": [
+        "Privacy and data security concerns.",
+        "Better cooking.",
+        "More music.",
+        "More dance."
+      ],
+      "correct": "Privacy and data security concerns.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is digital literacy important today?",
+      "answers": [
+        "It allows people to use technology effectively and safely.",
+        "It applies only to cooking.",
+        "It has no benefits.",
+        "It applies only to sports."
+      ],
+      "correct": "It allows people to use technology effectively and safely.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can technology benefit healthcare?",
+      "answers": [
+        "Through improved medical treatments and patient monitoring.",
+        "Through cooking trends.",
+        "Through music.",
+        "Through dance."
+      ],
+      "correct": "Through improved medical treatments and patient monitoring.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one risk associated with social media?",
+      "answers": [
+        "Privacy and mental health concerns.",
+        "Better cooking techniques.",
+        "Better music.",
+        "More dance practice."
+      ],
+      "correct": "Privacy and mental health concerns.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is cybersecurity important for society?",
+      "answers": [
+        "It protects sensitive information and privacy.",
+        "It applies only to music.",
+        "It applies only to sports.",
+        "It has no benefits."
+      ],
+      "correct": "It protects sensitive information and privacy.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can technology help the environment?",
+      "answers": [
+        "Through sustainable practices and resource management.",
+        "Through making more music.",
+        "Through cooking techniques.",
+        "Through creating new dance styles."
+      ],
+      "correct": "Through sustainable practices and resource management.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one impact of technology on education?",
+      "answers": [
+        "Online learning and global access to knowledge.",
+        "Better cooking methods.",
+        "More music festivals.",
+        "More dance shows."
+      ],
+      "correct": "Online learning and global access to knowledge.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is digital accessibility important for society?",
+      "answers": [
+        "It ensures equal access for all people.",
+        "It applies only to sports.",
+        "It applies only to cooking.",
+        "It applies only to music."
+      ],
+      "correct": "It ensures equal access for all people.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is one benefit of online collaboration platforms?",
+      "answers": [
+        "They enable teamwork regardless of location.",
+        "They only apply to cooking.",
+        "They only apply to music.",
+        "They only apply to sports."
+      ],
+      "correct": "They enable teamwork regardless of location.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can technology affect mental health?",
+      "answers": [
+        "Excessive screen time can cause stress and anxiety.",
+        "It applies only to cooking.",
+        "It applies only to music.",
+        "It has no effect."
+      ],
+      "correct": "Excessive screen time can cause stress and anxiety.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is responsible use of technology important?",
+      "answers": [
+        "To minimize its negative impacts and maximize benefits.",
+        "To focus only on cooking.",
+        "To focus only on music.",
+        "To focus only on sports."
+      ],
+      "correct": "To minimize its negative impacts and maximize benefits.",
+      "voiceUrl": ""
+    }
+  ]
+}

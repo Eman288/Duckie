@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 4 - Talking about Politics and Government Quiz",
+  "questions": [
+    {
+      "question": "What is a 'government'?",
+      "answers": [
+        "The group of people who make decisions for a country.",
+        "A music band.",
+        "A cooking trend.",
+        "A sports team."
+      ],
+      "correct": "The group of people who make decisions for a country.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'democracy'?",
+      "answers": [
+        "A system where people choose their leaders by voting.",
+        "A music style.",
+        "A cooking technique.",
+        "A form of dance."
+      ],
+      "correct": "A system where people choose their leaders by voting.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'election'?",
+      "answers": [
+        "A process where people vote for leaders.",
+        "A music concert.",
+        "A cooking class.",
+        "A festival."
+      ],
+      "correct": "A process where people vote for leaders.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is voting important?",
+      "answers": [
+        "It allows people to have a voice in their government.",
+        "It is only for certain people.",
+        "It has no effect.",
+        "It applies only to music events."
+      ],
+      "correct": "It allows people to have a voice in their government.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'law'?",
+      "answers": [
+        "A rule that people must follow.",
+        "A cooking technique.",
+        "A musical piece.",
+        "A festival."
+      ],
+      "correct": "A rule that people must follow.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'policy'?",
+      "answers": [
+        "A plan or rule created by a government or organization.",
+        "A musical instrument.",
+        "A food trend.",
+        "A sports technique."
+      ],
+      "correct": "A plan or rule created by a government or organization.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'legislation'?",
+      "answers": [
+        "The process of making laws.",
+        "A cooking style.",
+        "A musical concert.",
+        "A sports practice."
+      ],
+      "correct": "The process of making laws.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'parliament'?",
+      "answers": [
+        "A group of representatives who make decisions and laws.",
+        "A cooking school.",
+        "A musical band.",
+        "A sports team."
+      ],
+      "correct": "A group of representatives who make decisions and laws.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'voting rights'?",
+      "answers": [
+        "The right of people to vote in an election.",
+        "A musical technique.",
+        "A cooking trend.",
+        "A sports practice."
+      ],
+      "correct": "The right of people to vote in an election.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'political party'?",
+      "answers": [
+        "A group of people with shared ideas trying to gain political power.",
+        "A cooking style.",
+        "A music genre.",
+        "A sports team."
+      ],
+      "correct": "A group of people with shared ideas trying to gain political power.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'campaign'?",
+      "answers": [
+        "A series of events and efforts to win an election.",
+        "A cooking technique.",
+        "A musical concert.",
+        "A sports match."
+      ],
+      "correct": "A series of events and efforts to win an election.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'bill' in politics?",
+      "answers": [
+        "A proposed law.",
+        "A musical note.",
+        "A cooking trend.",
+        "A sports tactic."
+      ],
+      "correct": "A proposed law.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'accountability' important in politics?",
+      "answers": [
+        "It ensures leaders are responsible for their decisions.",
+        "It allows leaders to work alone.",
+        "It has no role.",
+        "It applies only to music."
+      ],
+      "correct": "It ensures leaders are responsible for their decisions.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'diplomacy'?",
+      "answers": [
+        "Managing international relations peacefully.",
+        "A cooking technique.",
+        "A musical trend.",
+        "A sports rule."
+      ],
+      "correct": "Managing international relations peacefully.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'civic participation' important?",
+      "answers": [
+        "It allows citizens to contribute to decisions in their society.",
+        "It applies only to sports.",
+        "It has no role.",
+        "It applies only to cooking."
+      ],
+      "correct": "It allows citizens to contribute to decisions in their society.",
+      "voiceUrl": ""
+    }
+  ]
+}

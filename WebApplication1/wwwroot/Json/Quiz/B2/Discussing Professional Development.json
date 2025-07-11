@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 2 - Discussing Professional Development Quiz",
+  "questions": [
+    {
+      "question": "What is 'professional development'?",
+      "answers": [
+        "Improving skills and knowledge for your job.",
+        "Taking a vacation.",
+        "Starting a new hobby.",
+        "Changing jobs every month."
+      ],
+      "correct": "Improving skills and knowledge for your job.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a way to develop professionally?",
+      "answers": [
+        "Attending training and workshops.",
+        "Ignoring feedback.",
+        "Skipping meetings.",
+        "Avoiding learning."
+      ],
+      "correct": "Attending training and workshops.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'mentor'?",
+      "answers": [
+        "An experienced person who helps guide your career.",
+        "A competitor.",
+        "A customer.",
+        "A family member."
+      ],
+      "correct": "An experienced person who helps guide your career.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is networking important?",
+      "answers": [
+        "It helps build professional relationships and opportunities.",
+        "It wastes time.",
+        "It is only for managers.",
+        "It is not useful."
+      ],
+      "correct": "It helps build professional relationships and opportunities.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'skill gap'?",
+      "answers": [
+        "The difference between skills you have and skills needed.",
+        "A type of training.",
+        "A business problem.",
+        "A job title."
+      ],
+      "correct": "The difference between skills you have and skills needed.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can feedback help your career?",
+      "answers": [
+        "By showing areas to improve.",
+        "By making you upset.",
+        "By ignoring problems.",
+        "By confusing you."
+      ],
+      "correct": "By showing areas to improve.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'continuing education' mean?",
+      "answers": [
+        "Learning new skills after finishing formal schooling.",
+        "Going on vacation.",
+        "Starting a new job.",
+        "Retiring."
+      ],
+      "correct": "Learning new skills after finishing formal schooling.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is setting career goals important?",
+      "answers": [
+        "It helps focus your efforts and plan growth.",
+        "It wastes time.",
+        "It limits your choices.",
+        "It is unnecessary."
+      ],
+      "correct": "It helps focus your efforts and plan growth.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is a soft skill?",
+      "answers": [
+        "Communication.",
+        "Programming.",
+        "Accounting.",
+        "Driving."
+      ],
+      "correct": "Communication.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a professional certification?",
+      "answers": [
+        "A credential that shows you have specific skills or knowledge.",
+        "A business license.",
+        "A diploma for high school.",
+        "An ID card."
+      ],
+      "correct": "A credential that shows you have specific skills or knowledge.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can volunteering help your professional development?",
+      "answers": [
+        "By gaining experience and building networks.",
+        "By wasting time.",
+        "By avoiding work.",
+        "By making money."
+      ],
+      "correct": "By gaining experience and building networks.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'performance review'?",
+      "answers": [
+        "A meeting to discuss your work progress and goals.",
+        "A party.",
+        "A training session.",
+        "A firing notice."
+      ],
+      "correct": "A meeting to discuss your work progress and goals.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is time management important professionally?",
+      "answers": [
+        "It helps meet deadlines and be productive.",
+        "It wastes time.",
+        "It causes stress.",
+        "It is not useful."
+      ],
+      "correct": "It helps meet deadlines and be productive.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'career path'?",
+      "answers": [
+        "The progression of jobs you plan to take over time.",
+        "A road to work.",
+        "A business plan.",
+        "A training course."
+      ],
+      "correct": "The progression of jobs you plan to take over time.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can reading help professional development?",
+      "answers": [
+        "By increasing knowledge and skills.",
+        "By wasting time.",
+        "By making you tired.",
+        "By confusing you."
+      ],
+      "correct": "By increasing knowledge and skills.",
+      "voiceUrl": ""
+    }
+  ]
+}

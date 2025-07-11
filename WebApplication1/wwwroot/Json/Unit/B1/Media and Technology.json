@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 4 - Media and Technology",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'social media'?",
+      "answers": [ "وسائل التواصل الاجتماعي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "وسائل التواصل الاجتماعي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'movies' in Arabic?",
+      "answers": [ "أفلام", "حافلة", "حقيبة", "حجز" ],
+      "correct": "أفلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الأخبار'?",
+      "answers": [ "news", "movies", "travel", "shopping" ],
+      "correct": "news",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'television' in Arabic?",
+      "answers": [ "تلفزيون", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تلفزيون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'technology'?",
+      "answers": [ "التكنولوجيا", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التكنولوجيا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'impact' in Arabic?",
+      "answers": [ "تأثير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تأثير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'وسائل الإعلام'?",
+      "answers": [ "media", "travel", "food", "hotel" ],
+      "correct": "media",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'application' in Arabic?",
+      "answers": [ "تطبيق", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تطبيق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'news program'?",
+      "answers": [ "برنامج الأخبار", "حافلة", "حقيبة", "حجز" ],
+      "correct": "برنامج الأخبار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'internet' in Arabic?",
+      "answers": [ "إنترنت", "حافلة", "حقيبة", "حجز" ],
+      "correct": "إنترنت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'فيلم وثائقي'?",
+      "answers": [ "documentary film", "comedy movie", "news article", "travel guide" ],
+      "correct": "documentary film",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to watch' in Arabic?",
+      "answers": [ "يشاهد", "يرسم", "يلعب", "يسبح" ],
+      "correct": "يشاهد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'live broadcast'?",
+      "answers": [ "بث مباشر", "حافلة", "حقيبة", "حجز" ],
+      "correct": "بث مباشر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'channel' in Arabic?",
+      "answers": [ "قناة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "قناة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'تأثير التكنولوجيا'?",
+      "answers": [ "impact of technology", "news channel", "travel planning", "job interview" ],
+      "correct": "impact of technology",
+      "voiceUrl": ""
+    }
+  ]
+}

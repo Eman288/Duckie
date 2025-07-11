@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 2 - Preparing for Job Interviews Quiz",
+  "questions": [
+    {
+      "question": "Why is researching the company important before an interview?",
+      "answers": [ "To show interest and prepare relevant answers.", "It is unnecessary.", "To copy answers.", "To delay the interview." ],
+      "correct": "To show interest and prepare relevant answers.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you wear to a job interview?",
+      "answers": [ "Professional and appropriate attire.", "Casual clothes.", "Sportswear.", "Anything comfortable." ],
+      "correct": "Professional and appropriate attire.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is practicing common interview questions helpful?",
+      "answers": [ "It improves confidence and clarity.", "It is a waste of time.", "It makes answers longer.", "It makes you robotic." ],
+      "correct": "It improves confidence and clarity.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you answer 'Tell me about yourself'?",
+      "answers": [ "Give a concise summary of relevant experience.", "Talk about unrelated hobbies.", "Ignore the question.", "Talk about your whole life." ],
+      "correct": "Give a concise summary of relevant experience.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to ask questions at the end of the interview?",
+      "answers": [ "It shows interest and helps you learn.", "It wastes time.", "It confuses the interviewer.", "It is rude." ],
+      "correct": "It shows interest and helps you learn.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can body language affect your interview?",
+      "answers": [ "It communicates confidence and interest.", "It has no effect.", "It distracts the interviewer.", "It shows nervousness only." ],
+      "correct": "It communicates confidence and interest.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a STAR response in interviews?",
+      "answers": [ "Situation, Task, Action, Result.", "Simple, True, Answer, Reason.", "Story, Truth, Analysis, Reply.", "Standard, Typical, Answer, Result." ],
+      "correct": "Situation, Task, Action, Result.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why should you arrive early for an interview?",
+      "answers": [ "To be punctual and calm before it starts.", "To seem desperate.", "To make the interviewer wait.", "It is unimportant." ],
+      "correct": "To be punctual and calm before it starts.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you handle difficult questions?",
+      "answers": [ "Stay calm, think, and answer honestly.", "Avoid answering.", "Lie.", "Interrupt the interviewer." ],
+      "correct": "Stay calm, think, and answer honestly.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is follow-up after an interview important?",
+      "answers": [ "To thank the interviewer and reiterate interest.", "It is unnecessary.", "To demand a decision.", "To ask for feedback immediately." ],
+      "correct": "To thank the interviewer and reiterate interest.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you avoid during interviews?",
+      "answers": [ "Speaking negatively about past employers.", "Being honest.", "Asking questions.", "Smiling." ],
+      "correct": "Speaking negatively about past employers.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How can you demonstrate problem-solving skills?",
+      "answers": [ "By giving examples of challenges you resolved.", "By saying 'I don't know'.", "By ignoring the question.", "By avoiding examples." ],
+      "correct": "By giving examples of challenges you resolved.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a good way to end an interview?",
+      "answers": [ "Thank the interviewer and express enthusiasm.", "Leave quickly.", "Ignore the interviewer.", "Ask about salary first." ],
+      "correct": "Thank the interviewer and express enthusiasm.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How important is honesty in job interviews?",
+      "answers": [ "Very important to build trust.", "Not important.", "It can harm you.", "It is optional." ],
+      "correct": "Very important to build trust.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is it important to know your resume well?",
+      "answers": [ "So you can discuss your experience confidently.", "So you can hide gaps.", "It is unimportant.", "To avoid questions." ],
+      "correct": "So you can discuss your experience confidently.",
+      "voiceUrl": ""
+    }
+  ]
+}

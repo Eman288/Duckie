@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - Talking About Hobbies Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'hobby'?",
+      "answers": [ "هواية", "عمل", "دراسة", "رياضة" ],
+      "correct": "هواية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I like reading'?",
+      "answers": [ "أحب القراءة", "أحب العمل", "أحب النوم", "أحب الطبخ" ],
+      "correct": "أحب القراءة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'My hobby is swimming'?",
+      "answers": [ "هوايتي السباحة", "هوايتي القراءة", "هوايتي النوم", "هوايتي العمل" ],
+      "correct": "هوايتي السباحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is 'to play football' in Arabic?",
+      "answers": [ "يلعب كرة القدم", "يلعب التنس", "يلعب السباحة", "يلعب القراءة" ],
+      "correct": "يلعب كرة القدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'painting'?",
+      "answers": [ "الرسم", "السباحة", "القفز", "الغناء" ],
+      "correct": "الرسم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'listening to music'?",
+      "answers": [ "الاستماع إلى الموسيقى", "القفز", "التحدث", "المشي" ],
+      "correct": "الاستماع إلى الموسيقى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'playing the guitar'?",
+      "answers": [ "العزف على الجيتار", "القفز", "الكتابة", "المشي" ],
+      "correct": "العزف على الجيتار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'watching movies'?",
+      "answers": [ "مشاهدة الأفلام", "المشي", "القفز", "الغناء" ],
+      "correct": "مشاهدة الأفلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cooking'?",
+      "answers": [ "الطبخ", "القفز", "المشي", "الغناء" ],
+      "correct": "الطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'traveling'?",
+      "answers": [ "السفر", "القفز", "المشي", "الغناء" ],
+      "correct": "السفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cycling'?",
+      "answers": [ "ركوب الدراجة", "القفز", "المشي", "الغناء" ],
+      "correct": "ركوب الدراجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'drawing'?",
+      "answers": [ "الرسم", "القفز", "المشي", "الغناء" ],
+      "correct": "الرسم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'dancing'?",
+      "answers": [ "الرقص", "القفز", "المشي", "الغناء" ],
+      "correct": "الرقص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'writing stories'?",
+      "answers": [ "كتابة القصص", "القفز", "المشي", "الغناء" ],
+      "correct": "كتابة القصص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'fishing'?",
+      "answers": [ "الصيد", "القفز", "المشي", "الغناء" ],
+      "correct": "الصيد",
+      "voiceUrl": ""
+    }
+  ]
+}

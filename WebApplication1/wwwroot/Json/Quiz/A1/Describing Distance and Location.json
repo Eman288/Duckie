@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 7 - Describing Distance and Location Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'Far'?",
+      "answers": [ "بعيد", "قريب", "يسار", "يمين" ],
+      "correct": "بعيد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Near' in Arabic?",
+      "answers": [ "قريب", "بعيد", "يسار", "يمين" ],
+      "correct": "قريب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Left'?",
+      "answers": [ "يسار", "يمين", "قريب", "بعيد" ],
+      "correct": "يسار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Right' in Arabic?",
+      "answers": [ "يمين", "يسار", "قريب", "بعيد" ],
+      "correct": "يمين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Opposite'?",
+      "answers": [ "مقابل", "قريب", "بعيد", "يسار" ],
+      "correct": "مقابل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Beside' in Arabic?",
+      "answers": [ "بجانب", "بعيد", "قريب", "يسار" ],
+      "correct": "بجانب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Behind'?",
+      "answers": [ "خلف", "أمام", "يسار", "يمين" ],
+      "correct": "خلف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'In front of' in Arabic?",
+      "answers": [ "أمام", "خلف", "بعيد", "قريب" ],
+      "correct": "أمام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Around'?",
+      "answers": [ "حول", "خلف", "أمام", "يسار" ],
+      "correct": "حول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Between' in Arabic?",
+      "answers": [ "بين", "خلف", "أمام", "يسار" ],
+      "correct": "بين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Nearby'?",
+      "answers": [ "بالقرب", "بعيد", "خلف", "يسار" ],
+      "correct": "بالقرب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Far from' in Arabic?",
+      "answers": [ "بعيد عن", "بالقرب من", "خلف", "بين" ],
+      "correct": "بعيد عن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Close to'",
+      "answers": [ "بالقرب من", "بعيد عن", "خلف", "بين" ],
+      "correct": "بالقرب من",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'Next to' in Arabic?",
+      "answers": [ "بجانب", "خلف", "بين", "بعيد" ],
+      "correct": "بجانب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'Here'",
+      "answers": [ "هنا", "هناك", "خلف", "بين" ],
+      "correct": "هنا",
+      "voiceUrl": ""
+    }
+  ]
+}

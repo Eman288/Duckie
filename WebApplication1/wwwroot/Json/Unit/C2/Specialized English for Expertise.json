@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 5 - Specialized English for Expertise",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'technical writing'?",
+      "answers": [ "كتابة تقنية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "كتابة تقنية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'scientific terminology' in Arabic?",
+      "answers": [ "المصطلحات العلمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المصطلحات العلمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المصطلحات الاقتصادية'?",
+      "answers": [ "economic terminology", "daily routine", "work project", "travel map" ],
+      "correct": "economic terminology",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business jargon' in Arabic?",
+      "answers": [ "لغة الأعمال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "لغة الأعمال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'negotiation vocabulary'?",
+      "answers": [ "مفردات التفاوض", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مفردات التفاوض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'political discourse' in Arabic?",
+      "answers": [ "خطاب سياسي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "خطاب سياسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القضايا الاجتماعية'?",
+      "answers": [ "social issues", "daily routine", "work project", "travel map" ],
+      "correct": "social issues",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'diplomatic language' in Arabic?",
+      "answers": [ "لغة دبلوماسية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "لغة دبلوماسية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'academic terminology'?",
+      "answers": [ "المصطلح الأكاديمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المصطلح الأكاديمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'global discourse' in Arabic?",
+      "answers": [ "الخطاب العالمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الخطاب العالمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المناقشات السياسية'?",
+      "answers": [ "political debates", "daily routine", "work project", "travel map" ],
+      "correct": "political debates",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'economic discourse' in Arabic?",
+      "answers": [ "الخطاب الاقتصادي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الخطاب الاقتصادي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'technical terminology'?",
+      "answers": [ "المصطلحات التقنية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المصطلحات التقنية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'academic precision' in Arabic?",
+      "answers": [ "الدقة الأكاديمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدقة الأكاديمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'اللغة الرسمية'?",
+      "answers": [ "formal language", "daily routine", "work project", "travel map" ],
+      "correct": "formal language",
+      "voiceUrl": ""
+    }
+  ]
+}

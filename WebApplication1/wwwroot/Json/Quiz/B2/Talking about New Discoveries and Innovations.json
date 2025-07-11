@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 5 - Talking about New Discoveries and Innovations Quiz",
+  "questions": [
+    {
+      "question": "What is an 'innovation'?",
+      "answers": [
+        "A new or improved idea, device, or method.",
+        "An old object.",
+        "A cooking technique.",
+        "A musical style."
+      ],
+      "correct": "A new or improved idea, device, or method.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are scientific discoveries important?",
+      "answers": [
+        "They help us understand the world better.",
+        "They have no value.",
+        "They only apply to cooking.",
+        "They are a form of music."
+      ],
+      "correct": "They help us understand the world better.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a 'breakthrough'?",
+      "answers": [
+        "A significant or revolutionary discovery.",
+        "A cooking technique.",
+        "A musical piece.",
+        "A sports tactic."
+      ],
+      "correct": "A significant or revolutionary discovery.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a medical innovation?",
+      "answers": [
+        "Vaccines.",
+        "A cooking trend.",
+        "A music style.",
+        "A dance technique."
+      ],
+      "correct": "Vaccines.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why are technological innovations important for society?",
+      "answers": [
+        "They solve problems and improve lives.",
+        "They have no use.",
+        "They only apply to sports.",
+        "They are irrelevant."
+      ],
+      "correct": "They solve problems and improve lives.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of a recent technological discovery?",
+      "answers": [
+        "Artificial Intelligence.",
+        "A cooking method.",
+        "A musical instrument.",
+        "A traditional dance."
+      ],
+      "correct": "Artificial Intelligence.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'research' mean in science?",
+      "answers": [
+        "Careful investigation to discover new knowledge.",
+        "Learning a musical piece.",
+        "Cooking a new recipe.",
+        "Writing a poem."
+      ],
+      "correct": "Careful investigation to discover new knowledge.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is collaboration important in scientific discoveries?",
+      "answers": [
+        "It allows people to combine ideas and expertise.",
+        "It applies only to cooking.",
+        "It is only for musical artists.",
+        "It is irrelevant."
+      ],
+      "correct": "It allows people to combine ideas and expertise.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'invention'?",
+      "answers": [
+        "A new device, method, or process.",
+        "A cooking trend.",
+        "A music piece.",
+        "A dance move."
+      ],
+      "correct": "A new device, method, or process.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'curiosity' important for science?",
+      "answers": [
+        "It motivates people to explore and learn.",
+        "It applies only to sports.",
+        "It has no role.",
+        "It applies only to music."
+      ],
+      "correct": "It motivates people to explore and learn.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'progress' in science and technology?",
+      "answers": [
+        "The process of making advances and improvements.",
+        "A musical trend.",
+        "A cooking style.",
+        "A dance routine."
+      ],
+      "correct": "The process of making advances and improvements.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is teamwork important in scientific innovations?",
+      "answers": [
+        "Different people can contribute ideas and expertise.",
+        "It only applies to music.",
+        "It is only relevant in cooking.",
+        "It is irrelevant."
+      ],
+      "correct": "Different people can contribute ideas and expertise.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an 'experiment'?",
+      "answers": [
+        "A test conducted to understand or prove an idea.",
+        "A musical piece.",
+        "A cooking trend.",
+        "A dance routine."
+      ],
+      "correct": "A test conducted to understand or prove an idea.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Why is 'innovation' valuable for society?",
+      "answers": [
+        "It improves quality of life and creates new opportunities.",
+        "It applies only to sports.",
+        "It has no value.",
+        "It applies only to music."
+      ],
+      "correct": "It improves quality of life and creates new opportunities.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'discovery' mean in science?",
+      "answers": [
+        "Finding or noticing something new.",
+        "A musical trend.",
+        "A cooking technique.",
+        "A dance move."
+      ],
+      "correct": "Finding or noticing something new.",
+      "voiceUrl": ""
+    }
+  ]
+}

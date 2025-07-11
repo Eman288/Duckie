@@ -1,0 +1,170 @@
+{
+  "lesson": "Unit 1 - Talking about Social Norms and Etiquette Quiz",
+  "questions": [
+    {
+      "question": "What does 'etiquette' mean?",
+      "answers": [
+        "Rules about polite behavior.",
+        "A type of food.",
+        "A game.",
+        "A language."
+      ],
+      "correct": "Rules about polite behavior.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a polite way to greet someone?",
+      "answers": [
+        "Hello, nice to meet you.",
+        "Shut up.",
+        "Go away.",
+        "What do you want?"
+      ],
+      "correct": "Hello, nice to meet you.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do when someone offers you a gift?",
+      "answers": [
+        "Thank them politely.",
+        "Refuse loudly.",
+        "Ignore it.",
+        "Take it without thanks."
+      ],
+      "correct": "Thank them politely.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Is it polite to interrupt when someone is speaking?",
+      "answers": [
+        "No, wait for your turn.",
+        "Yes, always.",
+        "Sometimes loudly.",
+        "Interrupt to win."
+      ],
+      "correct": "No, wait for your turn.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you show respect at a formal event?",
+      "answers": [
+        "Dress appropriately and speak politely.",
+        "Wear casual clothes.",
+        "Talk loudly.",
+        "Ignore the rules."
+      ],
+      "correct": "Dress appropriately and speak politely.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'personal space' mean?",
+      "answers": [
+        "The physical distance people need to feel comfortable.",
+        "A personal room.",
+        "A private phone.",
+        "A personal car."
+      ],
+      "correct": "The physical distance people need to feel comfortable.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Is it polite to check your phone during a meeting?",
+      "answers": [
+        "No, it is rude.",
+        "Yes, always.",
+        "Only if it's urgent.",
+        "Only if others do it."
+      ],
+      "correct": "No, it is rude.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you are late to a meeting?",
+      "answers": [
+        "Apologize and explain.",
+        "Ignore it.",
+        "Make jokes.",
+        "Blame others."
+      ],
+      "correct": "Apologize and explain.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do people usually say goodbye in English?",
+      "answers": [
+        "Goodbye or See you later.",
+        "Stop talking.",
+        "Leave now.",
+        "Bye forever."
+      ],
+      "correct": "Goodbye or See you later.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is considered polite when eating with others?",
+      "answers": [
+        "Wait for everyone before starting.",
+        "Start eating immediately.",
+        "Talk with mouth full.",
+        "Ignore others."
+      ],
+      "correct": "Wait for everyone before starting.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How should you answer a phone call politely?",
+      "answers": [
+        "Say hello and your name.",
+        "Ignore it.",
+        "Shout 'Who is this?'.",
+        "Hang up."
+      ],
+      "correct": "Say hello and your name.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Is it polite to say 'please' and 'thank you'?",
+      "answers": [
+        "Yes, it shows good manners.",
+        "No, it's unnecessary.",
+        "Only to friends.",
+        "Never."
+      ],
+      "correct": "Yes, it shows good manners.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What should you do if you don't understand something?",
+      "answers": [
+        "Politely ask for clarification.",
+        "Ignore it.",
+        "Pretend to understand.",
+        "Change the subject."
+      ],
+      "correct": "Politely ask for clarification.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you behave in a quiet place like a library?",
+      "answers": [
+        "Keep your voice low and avoid loud noises.",
+        "Talk loudly.",
+        "Play music loudly.",
+        "Run around."
+      ],
+      "correct": "Keep your voice low and avoid loud noises.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is an example of good telephone etiquette?",
+      "answers": [
+        "Answer promptly and speak clearly.",
+        "Ignore calls.",
+        "Shout on the phone.",
+        "Talk while eating."
+      ],
+      "correct": "Answer promptly and speak clearly.",
+      "voiceUrl": ""
+    }
+  ]
+}

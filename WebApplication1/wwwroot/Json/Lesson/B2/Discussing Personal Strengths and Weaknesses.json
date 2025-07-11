@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Personal Strengths and Weaknesses",
+  "words": [
+    {
+      "word": "strength",
+      "definition": "A quality that someone is good at.",
+      "arabic": "نقطة قوة",
+      "arabic_definition": "صفة يتميز بها الشخص.",
+      "example": {
+        "en": "One of my strengths is being organized.",
+        "ar": "إحدى نقاط قوتي هي التنظيم."
+      }
+    },
+    {
+      "word": "weakness",
+      "definition": "A quality that someone needs to improve.",
+      "arabic": "نقطة ضعف",
+      "arabic_definition": "صفة يحتاج الشخص إلى تحسينها.",
+      "example": {
+        "en": "I consider public speaking a weakness of mine.",
+        "ar": "أعتبر التحدث أمام الجمهور نقطة ضعف لدي."
+      }
+    },
+    {
+      "word": "skill",
+      "definition": "An ability learned through practice.",
+      "arabic": "مهارة",
+      "arabic_definition": "قدرة يتم تعلمها من خلال الممارسة.",
+      "example": {
+        "en": "Programming is an important skill in today's world.",
+        "ar": "البرمجة مهارة مهمة في عالم اليوم."
+      }
+    },
+    {
+      "word": "attribute",
+      "definition": "A quality or feature of a person.",
+      "arabic": "صفة",
+      "arabic_definition": "خاصية أو سمة يتميز بها الشخص.",
+      "example": {
+        "en": "Honesty is an important attribute for any team member.",
+        "ar": "الصدق سمة مهمة لأي عضو في الفريق."
+      }
+    },
+    {
+      "word": "confidence",
+      "definition": "Belief in one's abilities.",
+      "arabic": "ثقة",
+      "arabic_definition": "الإيمان بقدرات الفرد.",
+      "example": {
+        "en": "She spoke with confidence during the presentation.",
+        "ar": "تحدثت بثقة أثناء العرض التقديمي."
+      }
+    },
+    {
+      "word": "patience",
+      "definition": "The ability to wait calmly.",
+      "arabic": "الصبر",
+      "arabic_definition": "القدرة على الانتظار بهدوء.",
+      "example": {
+        "en": "Patience is a strength when dealing with difficult situations.",
+        "ar": "الصبر نقطة قوة عند التعامل مع مواقف صعبة."
+      }
+    },
+    {
+      "word": "adaptability",
+      "definition": "The ability to adjust to new situations.",
+      "arabic": "التكيف",
+      "arabic_definition": "القدرة على التأقلم مع مواقف جديدة.",
+      "example": {
+        "en": "Adaptability is vital in a fast-changing world.",
+        "ar": "التكيف أمر حيوي في عالم سريع التغير."
+      }
+    },
+    {
+      "word": "communication",
+      "definition": "The ability to share ideas clearly.",
+      "arabic": "التواصل",
+      "arabic_definition": "القدرة على مشاركة الأفكار بوضوح.",
+      "example": {
+        "en": "Strong communication skills are highly valued.",
+        "ar": "مهارات التواصل القوية ذات قيمة عالية."
+      }
+    },
+    {
+      "word": "teamwork",
+      "definition": "The ability to work well with others.",
+      "arabic": "العمل الجماعي",
+      "arabic_definition": "القدرة على العمل جيدًا مع الآخرين.",
+      "example": {
+        "en": "Teamwork is one of the biggest strengths of our group.",
+        "ar": "العمل الجماعي هو أحد أكبر نقاط قوة مجموعتنا."
+      }
+    },
+    {
+      "word": "focus",
+      "definition": "The ability to concentrate on a task.",
+      "arabic": "تركيز",
+      "arabic_definition": "القدرة على التركيز على مهمة.",
+      "example": {
+        "en": "Focus is a strength when trying to meet tight deadlines.",
+        "ar": "التركيز نقطة قوة عند محاولة الالتزام بالمواعيد النهائية."
+      }
+    }
+  ]
+}

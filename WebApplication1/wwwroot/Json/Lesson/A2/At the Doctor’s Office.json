@@ -1,0 +1,105 @@
+{
+  "lesson": "At the Doctor’s Office",
+  "words": [
+    {
+      "word": "appointment",
+      "definition": "A scheduled meeting with the doctor.",
+      "arabic": "موعد",
+      "arabic_definition": "لقاء محدد مع الطبيب.",
+      "example": {
+        "en": "I have an appointment with the doctor.",
+        "ar": "لدي موعد مع الطبيب."
+      }
+    },
+    {
+      "word": "symptoms",
+      "definition": "Signs or feelings of illness.",
+      "arabic": "أعراض",
+      "arabic_definition": "علامات أو مشاعر مرض.",
+      "example": {
+        "en": "What are your symptoms?",
+        "ar": "ما هي أعراضك؟"
+      }
+    },
+    {
+      "word": "diagnosis",
+      "definition": "The doctor’s identification of the illness.",
+      "arabic": "تشخيص",
+      "arabic_definition": "تحديد الطبيب للمرض.",
+      "example": {
+        "en": "The doctor gave a quick diagnosis.",
+        "ar": "قدم الطبيب تشخيصًا سريعًا."
+      }
+    },
+    {
+      "word": "treatment",
+      "definition": "Medical care for an illness.",
+      "arabic": "علاج",
+      "arabic_definition": "رعاية طبية لمرض.",
+      "example": {
+        "en": "The doctor prescribed a treatment.",
+        "ar": "وصف الطبيب علاجًا."
+      }
+    },
+    {
+      "word": "prescription",
+      "definition": "A note from a doctor for medication.",
+      "arabic": "وصفة طبية",
+      "arabic_definition": "ورقة من الطبيب للحصول على الدواء.",
+      "example": {
+        "en": "The doctor gave me a prescription.",
+        "ar": "أعطاني الطبيب وصفة طبية."
+      }
+    },
+    {
+      "word": "check-up",
+      "definition": "A routine examination.",
+      "arabic": "فحص طبي",
+      "arabic_definition": "فحص دوري.",
+      "example": {
+        "en": "I came for a regular check-up.",
+        "ar": "جئت لإجراء فحص طبي دوري."
+      }
+    },
+    {
+      "word": "nurse",
+      "definition": "A person who cares for patients.",
+      "arabic": "ممرضة",
+      "arabic_definition": "شخص يعتني بالمرضى.",
+      "example": {
+        "en": "The nurse took my temperature.",
+        "ar": "قاست الممرضة درجة حرارتي."
+      }
+    },
+    {
+      "word": "waiting room",
+      "definition": "A room where patients wait.",
+      "arabic": "غرفة الانتظار",
+      "arabic_definition": "الغرفة التي ينتظر فيها المرضى.",
+      "example": {
+        "en": "We sat in the waiting room.",
+        "ar": "جلسنا في غرفة الانتظار."
+      }
+    },
+    {
+      "word": "examination",
+      "definition": "A medical inspection of the patient.",
+      "arabic": "فحص",
+      "arabic_definition": "فحص طبي للمريض.",
+      "example": {
+        "en": "The doctor gave her an examination.",
+        "ar": "أجرى الطبيب لها فحصًا."
+      }
+    },
+    {
+      "word": "recovery",
+      "definition": "The process of getting better.",
+      "arabic": "تعاف",
+      "arabic_definition": "عملية التحسن.",
+      "example": {
+        "en": "He is on the road to recovery.",
+        "ar": "هو على طريق التعافي."
+      }
+    }
+  ]
+}

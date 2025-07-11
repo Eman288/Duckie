@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 5 - Talking about Habits and Routines Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'I wake up early' in Arabic?",
+      "answers": [ "أستيقظ مبكراً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أستيقظ مبكراً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have breakfast every morning'",
+      "answers": [ "أتناول الإفطار كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الإفطار كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I go to bed late' in Arabic?",
+      "answers": [ "أخلد للنوم متأخراً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أخلد للنوم متأخراً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I have lunch at 1 PM'",
+      "answers": [ "أتناول الغداء الساعة الواحدة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتناول الغداء الساعة الواحدة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I read every evening' in Arabic?",
+      "answers": [ "أقرأ كل مساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أقرأ كل مساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I work every morning'",
+      "answers": [ "أعمل كل صباح", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أعمل كل صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I walk to work' in Arabic?",
+      "answers": [ "أمشي إلى العمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أمشي إلى العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I drink tea every afternoon'",
+      "answers": [ "أشرب الشاي كل عصر", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشرب الشاي كل عصر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I watch TV after dinner' in Arabic?",
+      "answers": [ "أشاهد التلفاز بعد العشاء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أشاهد التلفاز بعد العشاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I write in my journal every night'",
+      "answers": [ "أكتب مذكراتي كل ليلة", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أكتب مذكراتي كل ليلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I exercise three times a week' in Arabic?",
+      "answers": [ "أتمرن ثلاث مرات أسبوعياً", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أتمرن ثلاث مرات أسبوعياً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I make breakfast for my family'",
+      "answers": [ "أحضر الإفطار لعائلتي", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أحضر الإفطار لعائلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I wash the dishes every evening' in Arabic?",
+      "answers": [ "أغسل الصحون كل مساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أغسل الصحون كل مساء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'I go to the gym after work'",
+      "answers": [ "أذهب إلى النادي بعد العمل", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أذهب إلى النادي بعد العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I relax in the evening' in Arabic?",
+      "answers": [ "أسترخي في المساء", "ليس لدي عمل", "ليس هنا أحد", "ليس لدي وقت" ],
+      "correct": "أسترخي في المساء",
+      "voiceUrl": ""
+    }
+  ]
+}

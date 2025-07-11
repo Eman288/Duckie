@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 5 - A2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'meal'?",
+      "answers": [ "وجبة", "حقيبة", "خريطة", "فندق" ],
+      "correct": "وجبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to order' in Arabic?",
+      "answers": [ "يطلب", "يسبح", "يرسم", "يلعب" ],
+      "correct": "يطلب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القائمة'?",
+      "answers": [ "menu", "clothes", "shop", "size" ],
+      "correct": "menu",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'supermarket' in Arabic?",
+      "answers": [ "سوبر ماركت", "مطعم", "فندق", "خريطة" ],
+      "correct": "سوبر ماركت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'clothes'?",
+      "answers": [ "ملابس", "حقيبة", "خريطة", "فندق" ],
+      "correct": "ملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'size' in Arabic?",
+      "answers": [ "حجم", "لون", "سعر", "وزن" ],
+      "correct": "حجم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'سعر'?",
+      "answers": [ "price", "size", "color", "meal" ],
+      "correct": "price",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to buy' in Arabic?",
+      "answers": [ "يشتري", "يلعب", "يرسم", "يسبح" ],
+      "correct": "يشتري",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'menu'?",
+      "answers": [ "القائمة", "الفاتورة", "الحقيبة", "الخريطة" ],
+      "correct": "القائمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'waiter' in Arabic?",
+      "answers": [ "نادل", "معلم", "طالب", "موظف" ],
+      "correct": "نادل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الفاتورة'?",
+      "answers": [ "bill", "menu", "clothing", "supermarket" ],
+      "correct": "bill",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to try on' in Arabic?",
+      "answers": [ "يقيس", "يلعب", "يسبح", "يسافر" ],
+      "correct": "يقيس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'fitting room'?",
+      "answers": [ "غرفة القياس", "المكتب", "المحطة", "الغرفة" ],
+      "correct": "غرفة القياس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to pay' in Arabic?",
+      "answers": [ "يدفع", "يلعب", "يرسم", "يسبح" ],
+      "correct": "يدفع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'دفعت الحساب'?",
+      "answers": [ "I paid the bill", "I missed the bus", "I visited a museum", "I read a book" ],
+      "correct": "I paid the bill",
+      "voiceUrl": ""
+    }
+  ]
+}

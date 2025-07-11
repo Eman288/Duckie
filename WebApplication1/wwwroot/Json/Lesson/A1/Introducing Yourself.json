@@ -1,0 +1,105 @@
+{
+  "lesson": "Introducing Yourself",
+  "words": [
+    {
+      "word": "name",
+      "definition": "A word by which a person or thing is known.",
+      "arabic": "اسم",
+      "arabic_definition": "كلمة يُعرف بها الشخص أو الشيء.",
+      "example": {
+        "en": "My name is Sarah.",
+        "ar": "اسمي سارة."
+      }
+    },
+    {
+      "word": "nationality",
+      "definition": "The status of belonging to a particular nation.",
+      "arabic": "جنسية",
+      "arabic_definition": "حالة الانتماء إلى دولة معينة.",
+      "example": {
+        "en": "My nationality is Egyptian.",
+        "ar": "جنسيتي مصرية."
+      }
+    },
+    {
+      "word": "age",
+      "definition": "The length of time that a person has lived or a thing has existed.",
+      "arabic": "العمر",
+      "arabic_definition": "المدة التي عاشها الشخص أو وُجد فيها الشيء.",
+      "example": {
+        "en": "I am 25 years old.",
+        "ar": "عمري 25 سنة."
+      }
+    },
+    {
+      "word": "I",
+      "definition": "The first person singular pronoun.",
+      "arabic": "أنا",
+      "arabic_definition": "ضمير المتكلم المفرد.",
+      "example": {
+        "en": "I am a student.",
+        "ar": "أنا طالب."
+      }
+    },
+    {
+      "word": "am",
+      "definition": "Present tense of the verb 'to be' for the first person singular.",
+      "arabic": "أكون",
+      "arabic_definition": "زمن المضارع للفعل 'يكون' للمتكلم المفرد.",
+      "example": {
+        "en": "I am from Lebanon.",
+        "ar": "أنا من لبنان."
+      }
+    },
+    {
+      "word": "from",
+      "definition": "Indicates the place of origin or starting point.",
+      "arabic": "من",
+      "arabic_definition": "تشير إلى مكان المنشأ أو نقطة البداية.",
+      "example": {
+        "en": "I am from Morocco.",
+        "ar": "أنا من المغرب."
+      }
+    },
+    {
+      "word": "student",
+      "definition": "A person who is studying at a school or college.",
+      "arabic": "طالب",
+      "arabic_definition": "شخص يدرس في مدرسة أو كلية.",
+      "example": {
+        "en": "I am a student.",
+        "ar": "أنا طالب."
+      }
+    },
+    {
+      "word": "teacher",
+      "definition": "A person who helps others learn.",
+      "arabic": "معلم",
+      "arabic_definition": "شخص يساعد الآخرين على التعلم.",
+      "example": {
+        "en": "She is a teacher.",
+        "ar": "هي معلمة."
+      }
+    },
+    {
+      "word": "live",
+      "definition": "To have your home in a particular place.",
+      "arabic": "يعيش",
+      "arabic_definition": "أن تسكن في مكان معين.",
+      "example": {
+        "en": "I live in Cairo.",
+        "ar": "أعيش في القاهرة."
+      }
+    },
+    {
+      "word": "in",
+      "definition": "Used to show location or position within something.",
+      "arabic": "في",
+      "arabic_definition": "تُستخدم للدلالة على الموقع أو المكان داخل شيء.",
+      "example": {
+        "en": "I live in Tunisia.",
+        "ar": "أعيش في تونس."
+      }
+    }
+  ]
+}

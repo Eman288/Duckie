@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 6 - Inviting and Accepting/Declining Quiz",
+  "questions": [
+    {
+      "question": "How do you say 'Would you like to come?' in Arabic?",
+      "answers": [ "هل تود الحضور؟", "هل تريد الذهاب؟", "هل تريد البقاء؟", "هل تريد المساعدة؟" ],
+      "correct": "هل تود الحضور؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'Yes, I would love to'?",
+      "answers": [ "نعم، أود ذلك", "لا، شكراً", "ربما لاحقاً", "أنا مشغول" ],
+      "correct": "نعم، أود ذلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'Sorry, I can’t come'?",
+      "answers": [ "آسف، لا أستطيع الحضور", "نعم، أستطيع الحضور", "أنا متحمس", "أنا سعيد" ],
+      "correct": "آسف، لا أستطيع الحضور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'Maybe next time'?",
+      "answers": [ "ربما في المرة القادمة", "لا أريد", "أنا متعب", "أنا مشغول" ],
+      "correct": "ربما في المرة القادمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'Thank you for the invitation'?",
+      "answers": [ "شكراً على الدعوة", "أنا آسف", "لا أريد", "أين هو؟" ],
+      "correct": "شكراً على الدعوة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'What time is the party?'",
+      "answers": [ "متى يكون الحفل؟", "أين هو؟", "هل ستأتي؟", "هل تحب الحفلات؟" ],
+      "correct": "متى يكون الحفل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I will be there'?",
+      "answers": [ "سأكون هناك", "لن أذهب", "أنا مشغول", "أنا آسف" ],
+      "correct": "سأكون هناك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'Can I bring a friend?'",
+      "answers": [ "هل يمكنني إحضار صديق؟", "هل يمكنني المساعدة؟", "هل يمكنك الحضور؟", "هل تريد شاي؟" ],
+      "correct": "هل يمكنني إحضار صديق؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How do you say 'I’m looking forward to it'?",
+      "answers": [ "أتطلع إلى ذلك", "أنا متعب", "أنا مشغول", "أنا آسف" ],
+      "correct": "أتطلع إلى ذلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Where is the party?'",
+      "answers": [ "أين الحفل؟", "متى الحفل؟", "هل ستأتي؟", "هل تحب الموسيقى؟" ],
+      "correct": "أين الحفل؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I’m sorry, I have other plans'?",
+      "answers": [ "آسف، لدي خطط أخرى", "نعم، أود الحضور", "لا أريد", "أنا سعيد" ],
+      "correct": "آسف، لدي خطط أخرى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'Do you need help?'",
+      "answers": [ "هل تحتاج مساعدة؟", "هل تحب الحفلات؟", "هل ستأتي؟", "هل تريد طعام؟" ],
+      "correct": "هل تحتاج مساعدة؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'I will call you later'?",
+      "answers": [ "سأتصل بك لاحقاً", "أنا مشغول", "أنا سعيد", "لا أريد" ],
+      "correct": "سأتصل بك لاحقاً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one means 'Thank you for coming'?",
+      "answers": [ "شكراً على الحضور", "أنا آسف", "لا أريد", "هل تحب الموسيقى؟" ],
+      "correct": "شكراً على الحضور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "How to say 'Can I bring something?'",
+      "answers": [ "هل يمكنني إحضار شيء؟", "هل تريد شاي؟", "هل تحب الحفلات؟", "هل ستأتي؟" ],
+      "correct": "هل يمكنني إحضار شيء؟",
+      "voiceUrl": ""
+    }
+  ]
+}
