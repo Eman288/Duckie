@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Persuasive Arguments",
+  "words": [
+    {
+      "word": "convince",
+      "definition": "To cause someone to believe or agree.",
+      "arabic": "إقناع",
+      "arabic_definition": "حمل شخص على التصديق أو الموافقة.",
+      "example": {
+        "en": "He tried to convince the audience with strong evidence.",
+        "ar": "حاول إقناع الجمهور بالأدلة القوية."
+      }
+    },
+    {
+      "word": "justification",
+      "definition": "A reason or fact that explains an action.",
+      "arabic": "تبرير",
+      "arabic_definition": "سبب أو حقيقة تفسر فعلاً.",
+      "example": {
+        "en": "She gave a strong justification for her proposal.",
+        "ar": "قدمت تبريرًا قويًا لاقتراحها."
+      }
+    },
+    {
+      "word": "appeal",
+      "definition": "A request for a certain opinion or reaction.",
+      "arabic": "نداء",
+      "arabic_definition": "طلب رأي أو تفاعل معين.",
+      "example": {
+        "en": "He made an emotional appeal to the jury.",
+        "ar": "قدم نداءً عاطفياً لهيئة المحلفين."
+      }
+    },
+    {
+      "word": "reasoning",
+      "definition": "The process of thinking logically.",
+      "arabic": "استدلال",
+      "arabic_definition": "عملية التفكير بطريقة منطقية.",
+      "example": {
+        "en": "Good reasoning strengthens an argument.",
+        "ar": "يعزز الاستدلال الجيد من قوة الحجة."
+      }
+    },
+    {
+      "word": "evidence",
+      "definition": "Information supporting a claim.",
+      "arabic": "دليل",
+      "arabic_definition": "معلومات تدعم الادعاء.",
+      "example": {
+        "en": "The evidence proved the theory was correct.",
+        "ar": "أثبت الدليل صحة النظرية."
+      }
+    },
+    {
+      "word": "assertive",
+      "definition": "Confident and direct in expressing an opinion.",
+      "arabic": "حازم",
+      "arabic_definition": "واثق ومباشر في التعبير عن رأي.",
+      "example": {
+        "en": "He spoke in an assertive manner.",
+        "ar": "تحدث بأسلوب حازم."
+      }
+    },
+    {
+      "word": "counterpoint",
+      "definition": "An opposing argument.",
+      "arabic": "حجة مضادة",
+      "arabic_definition": "حجة معارضة.",
+      "example": {
+        "en": "Each point was met with a strong counterpoint.",
+        "ar": "تم الرد على كل نقطة بحجة مضادة قوية."
+      }
+    },
+    {
+      "word": "analogy",
+      "definition": "A comparison to clarify an idea.",
+      "arabic": "تشبيه",
+      "arabic_definition": "مقارنة لتوضيح فكرة.",
+      "example": {
+        "en": "He used an analogy to help explain the concept.",
+        "ar": "استخدم تشبيهاً لشرح المفهوم."
+      }
+    },
+    {
+      "word": "premise",
+      "definition": "A statement or idea an argument is based on.",
+      "arabic": "مقدمة",
+      "arabic_definition": "بيان أو فكرة يعتمد عليها الجدال.",
+      "example": {
+        "en": "The premise of her argument was clear and strong.",
+        "ar": "كانت مقدمة حجتها واضحة وقوية."
+      }
+    },
+    {
+      "word": "conclusion",
+      "definition": "The final point or result of an argument.",
+      "arabic": "استنتاج",
+      "arabic_definition": "النقطة النهائية أو نتيجة الجدال.",
+      "example": {
+        "en": "He ended his speech with a powerful conclusion.",
+        "ar": "أنهى خطابه بخاتمة مؤثرة."
+      }
+    }
+  ]
+}

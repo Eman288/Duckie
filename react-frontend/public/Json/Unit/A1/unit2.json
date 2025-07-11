@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 2 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What does 'day' mean in Arabic?",
+      "answers": [ "ليل", "يوم", "ساعة", "شهر" ],
+      "correct": "يوم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'routine' in Arabic?",
+      "answers": [ "عادة", "عطلة", "مدرسة", "ساعة" ],
+      "correct": "عادة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'ساعة'?",
+      "answers": [ "day", "hour", "month", "week" ],
+      "correct": "hour",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 'اليوم'?",
+      "answers": [ "yesterday", "today", "tomorrow", "weekend" ],
+      "correct": "today",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'weekend'?",
+      "answers": [ "عطلة نهاية الأسبوع", "شهر", "ساعة", "دقيقة" ],
+      "correct": "عطلة نهاية الأسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'free time'?",
+      "answers": [ "work time", "free time", "school", "daily routine" ],
+      "correct": "free time",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'daily routine' mean in Arabic?",
+      "answers": [ "وقت الفراغ", "جدول يومي", "ساعة", "عطلة" ],
+      "correct": "جدول يومي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'day of the week'?",
+      "answers": [ "year", "day of the week", "minute", "hour" ],
+      "correct": "day of the week",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'ساعة'?",
+      "answers": [ "hour", "day", "minute", "month" ],
+      "correct": "hour",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'to tell the time' mean?",
+      "answers": [ "to give a clock reading", "to rest", "to work", "to eat" ],
+      "correct": "to give a clock reading",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'hobby'?",
+      "answers": [ "هواية", "ساعة", "مدرسة", "عطلة" ],
+      "correct": "هواية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'daily'?",
+      "answers": [ "daily", "sometimes", "weekend", "hourly" ],
+      "correct": "daily",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'week'?",
+      "answers": [ "شهر", "ساعة", "أسبوع", "عام" ],
+      "correct": "أسبوع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'morning routine'?",
+      "answers": [ "hobby", "morning routine", "evening", "today" ],
+      "correct": "morning routine",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'evening'?",
+      "answers": [ "ليل", "مساء", "ساعة", "ساعة يومية" ],
+      "correct": "مساء",
+      "voiceUrl": ""
+    }
+  ]
+}

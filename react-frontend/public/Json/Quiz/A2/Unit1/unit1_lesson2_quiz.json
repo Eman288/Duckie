@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 1 - What Did You Do Yesterday? Quiz",
+  "questions": [
+    {
+      "question": "Choose the correct translation: 'yesterday'",
+      "answers": [
+        "غداً",
+        "اليوم",
+        "أمس",
+        "الليلة"
+      ],
+      "correct": "أمس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'visited' mean in Arabic?",
+      "answers": [
+        "زار",
+        "أكل",
+        "نام",
+        "عمل"
+      ],
+      "correct": "زار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ a book last night.",
+      "answers": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "correct": "read",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word matches the definition: 'to go somewhere for fun or rest'?",
+      "answers": [
+        "play",
+        "visit",
+        "travel",
+        "cook"
+      ],
+      "correct": "travel",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "answers": [
+        "goes",
+        "gone",
+        "went",
+        "go"
+      ],
+      "correct": "went",
+      "voiceUrl": ""
+    }
+  ]
+}

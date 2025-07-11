@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Visual Arts and Exhibitions",
+  "words": [
+    {
+      "word": "painting",
+      "definition": "A picture made with paint.",
+      "arabic": "لوحة",
+      "arabic_definition": "صورة مرسومة بالألوان.",
+      "example": {
+        "en": "This painting is very famous.",
+        "ar": "هذه اللوحة مشهورة جداً."
+      }
+    },
+    {
+      "word": "sculpture",
+      "definition": "A piece of art made by carving or shaping.",
+      "arabic": "تمثال",
+      "arabic_definition": "عمل فني يتم نحته أو تشكيله.",
+      "example": {
+        "en": "The sculpture was made from marble.",
+        "ar": "تم صنع التمثال من الرخام."
+      }
+    },
+    {
+      "word": "exhibit",
+      "definition": "An object or work of art shown to the public.",
+      "arabic": "معروض",
+      "arabic_definition": "شيء يتم عرضه على الجمهور.",
+      "example": {
+        "en": "This exhibit is very popular.",
+        "ar": "هذا المعروض يحظى بشعبية كبيرة."
+      }
+    },
+    {
+      "word": "gallery",
+      "definition": "A space where artworks are shown.",
+      "arabic": "معرض",
+      "arabic_definition": "مكان يتم فيه عرض الأعمال الفنية.",
+      "example": {
+        "en": "We visited an art gallery last weekend.",
+        "ar": "زرنا معرضًا فنيًا الأسبوع الماضي."
+      }
+    },
+    {
+      "word": "artistic",
+      "definition": "Related to or characteristic of art.",
+      "arabic": "فني",
+      "arabic_definition": "متعلق بالفن.",
+      "example": {
+        "en": "She has a very artistic sense.",
+        "ar": "تمتلك حسًا فنيًا متميزًا."
+      }
+    },
+    {
+      "word": "portrait",
+      "definition": "A painting or photo of a person.",
+      "arabic": "لوحة شخصية",
+      "arabic_definition": "لوحة أو صورة لشخص.",
+      "example": {
+        "en": "The museum has a beautiful portrait of the king.",
+        "ar": "يعرض المتحف لوحة جميلة للملك."
+      }
+    },
+    {
+      "word": "modern",
+      "definition": "Belonging to recent times.",
+      "arabic": "حديث",
+      "arabic_definition": "ينتمي إلى العصر الحالي.",
+      "example": {
+        "en": "The gallery showcases modern artworks.",
+        "ar": "يعرض المعرض الأعمال الفنية الحديثة."
+      }
+    },
+    {
+      "word": "abstract",
+      "definition": "Art that does not try to represent reality.",
+      "arabic": "تجريدي",
+      "arabic_definition": "فن لا يحاول محاكاة الواقع.",
+      "example": {
+        "en": "I like abstract paintings.",
+        "ar": "أحب اللوحات التجريدية."
+      }
+    },
+    {
+      "word": "aesthetic",
+      "definition": "Concerned with beauty or appearance.",
+      "arabic": "جمالي",
+      "arabic_definition": "متعلق بالجمال أو المظهر.",
+      "example": {
+        "en": "The sculpture has great aesthetic value.",
+        "ar": "للتمثال قيمة جمالية كبيرة."
+      }
+    },
+    {
+      "word": "artwork",
+      "definition": "A piece of visual art.",
+      "arabic": "عمل فني",
+      "arabic_definition": "قطعة من الفن البصري.",
+      "example": {
+        "en": "The museum is full of beautiful artworks.",
+        "ar": "المتحف مليء بالأعمال الفنية الجميلة."
+      }
+    }
+  ]
+}

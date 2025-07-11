@@ -1,0 +1,65 @@
+{
+  "lesson": "Using the Present Continuous",
+  "words": [
+    {
+      "word": "eating",
+      "definition": "The action of consuming food.",
+      "arabic": "يأكل",
+      "arabic_definition": "القيام بتناول الطعام.",
+      "example": {
+        "en": "She is eating lunch now.",
+        "ar": "هي تأكل الغداء الآن."
+      }
+    },
+    {
+      "word": "working",
+      "definition": "Doing a job or task.",
+      "arabic": "يعمل",
+      "arabic_definition": "يقوم بوظيفة أو مهمة.",
+      "example": {
+        "en": "They are working on a new project.",
+        "ar": "هم يعملون على مشروع جديد."
+      }
+    },
+    {
+      "word": "reading",
+      "definition": "Looking at and understanding written words.",
+      "arabic": "يقرأ",
+      "arabic_definition": "النظر إلى الكلمات المكتوبة وفهمها.",
+      "example": {
+        "en": "He is reading a book.",
+        "ar": "هو يقرأ كتاباً."
+      }
+    },
+    {
+      "word": "watching",
+      "definition": "Looking at something attentively.",
+      "arabic": "يشاهد",
+      "arabic_definition": "ينظر إلى شيء بانتباه.",
+      "example": {
+        "en": "We are watching a movie.",
+        "ar": "نحن نشاهد فيلماً."
+      }
+    },
+    {
+      "word": "studying",
+      "definition": "Spending time learning about something.",
+      "arabic": "يدرس",
+      "arabic_definition": "يقضي وقتًا في التعلم عن شيء ما.",
+      "example": {
+        "en": "She is studying for the test.",
+        "ar": "هي تدرس للاختبار."
+      }
+    },
+    {
+      "word": "listening",
+      "definition": "Paying attention to sound.",
+      "arabic": "يستمع",
+      "arabic_definition": "الانتباه للصوت.",
+      "example": {
+        "en": "I am listening to music.",
+        "ar": "أنا أستمع إلى الموسيقى."
+      }
+    }
+  ]
+}

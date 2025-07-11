@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Rooms in the House Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'kitchen'?",
+      "answers": [
+        "حمام",
+        "مطبخ",
+        "غرفة نوم",
+        "غرفة معيشة"
+      ],
+      "correct": "مطبخ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which room do you sleep in?",
+      "answers": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "living room"
+      ],
+      "correct": "bedroom",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'living room' in Arabic?",
+      "answers": [
+        "غرفة طعام",
+        "غرفة نوم",
+        "غرفة معيشة",
+        "مطبخ"
+      ],
+      "correct": "غرفة معيشة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "You cook food in the ___",
+      "answers": [
+        "bedroom",
+        "kitchen",
+        "bathroom",
+        "garage"
+      ],
+      "correct": "kitchen",
+      "voiceUrl": ""
+    }
+  ]
+}

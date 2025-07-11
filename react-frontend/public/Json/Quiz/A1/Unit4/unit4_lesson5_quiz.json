@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Talking About Your Home Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'apartment'?",
+      "answers": [
+        "بيت",
+        "شقة",
+        "غرفة",
+        "سقف"
+      ],
+      "correct": "شقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Where do plants grow around a house?",
+      "answers": [
+        "roof",
+        "floor",
+        "balcony",
+        "garden"
+      ],
+      "correct": "garden",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is 'window' in Arabic?",
+      "answers": [
+        "باب",
+        "نافذة",
+        "جدار",
+        "سقف"
+      ],
+      "correct": "نافذة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'سلم'?",
+      "answers": [
+        "stairs",
+        "roof",
+        "floor",
+        "wall"
+      ],
+      "correct": "stairs",
+      "voiceUrl": ""
+    }
+  ]
+}

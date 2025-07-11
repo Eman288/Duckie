@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 1 - Advanced Communication Skills",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'refine'?",
+      "answers": [ "يصقل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "يصقل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'debate' in Arabic?",
+      "answers": [ "مناظرة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مناظرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حجة مقنعة'?",
+      "answers": [ "persuasive argument", "daily routine", "work project", "travel map" ],
+      "correct": "persuasive argument",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'interaction' in Arabic?",
+      "answers": [ "تفاعل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تفاعل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'public speaking'?",
+      "answers": [ "التحدث أمام الجمهور", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التحدث أمام الجمهور",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'discourse' in Arabic?",
+      "answers": [ "خطاب", "حافلة", "حقيبة", "حجز" ],
+      "correct": "خطاب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التفاعل الاجتماعي المعقّد'?",
+      "answers": [ "complex social interaction", "daily routine", "work project", "travel map" ],
+      "correct": "complex social interaction",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'argumentation' in Arabic?",
+      "answers": [ "جدال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "جدال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'articulation'?",
+      "answers": [ "وضوح التعبير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "وضوح التعبير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'tone of voice' in Arabic?",
+      "answers": [ "نبرة الصوت", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نبرة الصوت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التحدث بطلاقة'?",
+      "answers": [ "speaking fluently", "daily routine", "work project", "travel map" ],
+      "correct": "speaking fluently",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'assertiveness' in Arabic?",
+      "answers": [ "الحزم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الحزم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'engagement'?",
+      "answers": [ "مشاركة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مشاركة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'diplomatic communication' in Arabic?",
+      "answers": [ "التواصل الدبلوماسي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التواصل الدبلوماسي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الحوار البناء'?",
+      "answers": [ "constructive dialogue", "daily routine", "work project", "travel map" ],
+      "correct": "constructive dialogue",
+      "voiceUrl": ""
+    }
+  ]
+}

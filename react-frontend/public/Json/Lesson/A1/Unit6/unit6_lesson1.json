@@ -1,0 +1,105 @@
+{
+  "lesson": "Clothes and Sizes",
+  "words": [
+    {
+      "word": "shirt",
+      "definition": "A piece of clothing worn on the upper part of the body.",
+      "arabic": "قميص",
+      "arabic_definition": "قطعة ملابس تُلبس على الجزء العلوي من الجسم.",
+      "example": {
+        "en": "He is wearing a blue shirt.",
+        "ar": "هو يرتدي قميصاً أزرق."
+      }
+    },
+    {
+      "word": "pants",
+      "definition": "Clothing worn on the lower part of the body covering both legs.",
+      "arabic": "بنطال",
+      "arabic_definition": "ملابس تُلبس على الجزء السفلي من الجسم وتغطي الساقين.",
+      "example": {
+        "en": "I bought new pants.",
+        "ar": "اشتريت بنطالاً جديداً."
+      }
+    },
+    {
+      "word": "dress",
+      "definition": "A piece of clothing for women or girls that covers the body and extends down over the legs.",
+      "arabic": "فستان",
+      "arabic_definition": "قطعة ملابس للنساء أو الفتيات تغطي الجسم وتمتد على الساقين.",
+      "example": {
+        "en": "She wore a red dress.",
+        "ar": "هي ارتدت فستاناً أحمر."
+      }
+    },
+    {
+      "word": "shoes",
+      "definition": "Footwear worn to protect and comfort the feet.",
+      "arabic": "أحذية",
+      "arabic_definition": "ما يُلبس في القدمين للحماية والراحة.",
+      "example": {
+        "en": "His shoes are black.",
+        "ar": "أحذيته سوداء."
+      }
+    },
+    {
+      "word": "size",
+      "definition": "A measurement of how big or small something is.",
+      "arabic": "مقاس",
+      "arabic_definition": "قياس مدى كبر أو صغر شيء ما.",
+      "example": {
+        "en": "What is your shoe size?",
+        "ar": "ما هو مقاس حذائك؟"
+      }
+    },
+    {
+      "word": "try on",
+      "definition": "To put on clothing to see if it fits or looks good.",
+      "arabic": "يجرّب",
+      "arabic_definition": "يلبس قطعة ملابس ليرى إن كانت تناسبه أو جميلة عليه.",
+      "example": {
+        "en": "Can I try on this jacket?",
+        "ar": "هل يمكنني تجربة هذا المعطف؟"
+      }
+    },
+    {
+      "word": "jacket",
+      "definition": "A short coat worn on the upper body.",
+      "arabic": "سترة",
+      "arabic_definition": "معطف قصير يُلبس على الجزء العلوي من الجسم.",
+      "example": {
+        "en": "He bought a leather jacket.",
+        "ar": "اشترى سترة جلدية."
+      }
+    },
+    {
+      "word": "small",
+      "definition": "A size that is little in amount or degree.",
+      "arabic": "صغير",
+      "arabic_definition": "مقاس قليل الحجم أو الكمية.",
+      "example": {
+        "en": "This T-shirt is too small for me.",
+        "ar": "هذا القميص صغير جداً علي."
+      }
+    },
+    {
+      "word": "medium",
+      "definition": "A size that is between small and large.",
+      "arabic": "متوسط",
+      "arabic_definition": "مقاس بين الصغير والكبير.",
+      "example": {
+        "en": "Do you have this in medium?",
+        "ar": "هل لديك هذا بالمقاس المتوسط؟"
+      }
+    },
+    {
+      "word": "large",
+      "definition": "A size that is bigger than medium.",
+      "arabic": "كبير",
+      "arabic_definition": "مقاس أكبر من المتوسط.",
+      "example": {
+        "en": "I need a large size jacket.",
+        "ar": "أحتاج سترة بمقاس كبير."
+      }
+    }
+  ]
+}

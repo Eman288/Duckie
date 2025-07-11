@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Describing Where Things Are Quiz",
+  "questions": [
+    {
+      "question": "What is the opposite of 'under'?",
+      "answers": [
+        "behind",
+        "on",
+        "next to",
+        "in front of"
+      ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'behind' mean in Arabic?",
+      "answers": [
+        "أمام",
+        "خلف",
+        "تحت",
+        "فوق"
+      ],
+      "correct": "خلف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "You sit ___ the table.",
+      "answers": [
+        "on",
+        "under",
+        "behind",
+        "between"
+      ],
+      "correct": "on",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which preposition means 'بين'?",
+      "answers": [
+        "next to",
+        "behind",
+        "between",
+        "in front of"
+      ],
+      "correct": "between",
+      "voiceUrl": ""
+    }
+  ]
+}

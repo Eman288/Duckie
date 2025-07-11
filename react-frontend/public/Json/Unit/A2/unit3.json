@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - A2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'head'?",
+      "answers": [ "رأس", "قدم", "ذراع", "عين" ],
+      "correct": "رأس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'arm' in Arabic?",
+      "answers": [ "ذراع", "عين", "قدم", "أنف" ],
+      "correct": "ذراع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'عين'?",
+      "answers": [ "ear", "eye", "leg", "mouth" ],
+      "correct": "eye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'leg' in Arabic?",
+      "answers": [ "قدم", "فم", "أنف", "رأس" ],
+      "correct": "قدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'mouth'?",
+      "answers": [ "فم", "ذراع", "قدم", "عين" ],
+      "correct": "فم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'pain' in Arabic?",
+      "answers": [ "ألم", "راحة", "دواء", "مستشفى" ],
+      "correct": "ألم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أشعر بالألم'?",
+      "answers": [ "I am tired", "I am feeling pain", "I am happy", "I am strong" ],
+      "correct": "I am feeling pain",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'doctor' in Arabic?",
+      "answers": [ "طبيب", "ممرض", "معلم", "طالب" ],
+      "correct": "طبيب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'nurse'?",
+      "answers": [ "ممرض", "معلم", "طالب", "مهندس" ],
+      "correct": "ممرض",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'medicine' in Arabic?",
+      "answers": [ "دواء", "مستشفى", "شهادة", "حقيبة" ],
+      "correct": "دواء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أحتاج إلى طبيب'?",
+      "answers": [ "I need a doctor", "I am a doctor", "I am in pain", "I have a book" ],
+      "correct": "I need a doctor",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'hospital' in Arabic?",
+      "answers": [ "مستشفى", "مدرسة", "مكتب", "متجر" ],
+      "correct": "مستشفى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I have a headache'?",
+      "answers": [ "أشعر بصداع", "ليس لدي ألم", "أنا مريض", "ليس لدي طبيب" ],
+      "correct": "أشعر بصداع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'appointment' in Arabic?",
+      "answers": [ "موعد", "حقيبة", "شهادة", "مدرسة" ],
+      "correct": "موعد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حجزت موعدًا مع الطبيب'?",
+      "answers": [ "I booked an appointment with the doctor", "I am a doctor", "I am feeling pain", "I am going to school" ],
+      "correct": "I booked an appointment with the doctor",
+      "voiceUrl": ""
+    }
+  ]
+}

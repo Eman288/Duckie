@@ -1,0 +1,63 @@
+.leaderboard-page {
+    background-color: var(--color-bg);
+    /* min-height: 86vh; */
+    padding: 40px;
+    font-family: sans-serif;
+    margin-top: 14vh;
+}
+
+h2 {
+    color: var(--color-primary);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.back-button {
+    background-color: var(--color-accent);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.leaderboard-table {
+    background-color: var(--color-surface);
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 90%;
+    margin: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: var(--color-primary);
+    color: white;
+}
+
+th, td {
+    padding: 16px;
+    text-align: center;
+    border-bottom: 1px solid var(--color-border);
+}
+
+tr:hover {
+    background-color: var(--color-bg);
+}
+
+.medal {
+    width: 30px;
+    height: 30px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    margin-bottom: 20px;
+}

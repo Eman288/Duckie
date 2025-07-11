@@ -1,0 +1,105 @@
+{
+  "lesson": "Handling Disagreement and Conflict",
+  "words": [
+    {
+      "word": "disagree",
+      "definition": "To have a different opinion.",
+      "arabic": "لا أتفق",
+      "arabic_definition": "أن يكون لديك رأي مختلف.",
+      "example": {
+        "en": "I disagree with that point.",
+        "ar": "أنا لا أتفق مع هذه النقطة."
+      }
+    },
+    {
+      "word": "respectfully",
+      "definition": "In a polite and considerate manner.",
+      "arabic": "باحترام",
+      "arabic_definition": "بطريقة مهذبة ومراعية.",
+      "example": {
+        "en": "I respectfully disagree with your statement.",
+        "ar": "أنا أخالف رأيك بكل احترام."
+      }
+    },
+    {
+      "word": "conflict",
+      "definition": "A serious disagreement between people.",
+      "arabic": "خلاف",
+      "arabic_definition": "خلاف خطير بين الناس.",
+      "example": {
+        "en": "We tried to resolve the conflict calmly.",
+        "ar": "حاولنا حل الخلاف بهدوء."
+      }
+    },
+    {
+      "word": "compromise",
+      "definition": "An agreement where both sides give up a little.",
+      "arabic": "تسوية",
+      "arabic_definition": "اتفاق يتنازل فيه الطرفان قليلًا.",
+      "example": {
+        "en": "We can compromise to find a solution.",
+        "ar": "يمكننا التوصل إلى تسوية لإيجاد حل."
+      }
+    },
+    {
+      "word": "misunderstanding",
+      "definition": "A failure to understand something correctly.",
+      "arabic": "سوء تفاهم",
+      "arabic_definition": "فشل في فهم شيء بشكل صحيح.",
+      "example": {
+        "en": "There was a misunderstanding between the colleagues.",
+        "ar": "حدث سوء تفاهم بين الزملاء."
+      }
+    },
+    {
+      "word": "calm down",
+      "definition": "To become or make someone less angry.",
+      "arabic": "تهدأ",
+      "arabic_definition": "تصبح أقل غضبًا أو تجعل شخصًا أقل غضبًا.",
+      "example": {
+        "en": "He tried to calm down after the argument.",
+        "ar": "حاول أن يهدأ بعد الجدال."
+      }
+    },
+    {
+      "word": "negotiate",
+      "definition": "To discuss to reach an agreement.",
+      "arabic": "يتفاوض",
+      "arabic_definition": "يناقش من أجل التوصل إلى اتفاق.",
+      "example": {
+        "en": "We had to negotiate the terms of the contract.",
+        "ar": "كان علينا التفاوض على بنود العقد."
+      }
+    },
+    {
+      "word": "offended",
+      "definition": "Hurt or upset by something said or done.",
+      "arabic": "مستاء",
+      "arabic_definition": "مجروح أو مستاء بسبب شيء قيل أو حدث.",
+      "example": {
+        "en": "I felt offended by his comment.",
+        "ar": "شعرت بالاستياء من تعليقه."
+      }
+    },
+    {
+      "word": "resolution",
+      "definition": "A solution to a conflict or problem.",
+      "arabic": "حل",
+      "arabic_definition": "الحل للنزاع أو المشكلة.",
+      "example": {
+        "en": "We worked hard to find a resolution.",
+        "ar": "عملنا بجد لإيجاد حل."
+      }
+    },
+    {
+      "word": "listen",
+      "definition": "To pay attention to someone when they speak.",
+      "arabic": "استمع",
+      "arabic_definition": "الانتباه إلى شخص أثناء كلامه.",
+      "example": {
+        "en": "It is important to listen during a disagreement.",
+        "ar": "من المهم الاستماع أثناء الخلاف."
+      }
+    }
+  ]
+}

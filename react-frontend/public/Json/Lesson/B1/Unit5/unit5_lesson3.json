@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Habits and Routines",
+  "words": [
+    {
+      "word": "habit",
+      "definition": "A regular action or behavior.",
+      "arabic": "عادة",
+      "arabic_definition": "سلوك أو فعل منتظم.",
+      "example": {
+        "en": "Smoking is a bad habit.",
+        "ar": "التدخين عادة سيئة."
+      }
+    },
+    {
+      "word": "routine",
+      "definition": "A usual way of doing things.",
+      "arabic": "روتين",
+      "arabic_definition": "طريقة معتادة لفعل الأشياء.",
+      "example": {
+        "en": "My morning routine includes exercise and breakfast.",
+        "ar": "روتيني الصباحي يشمل التمارين والإفطار."
+      }
+    },
+    {
+      "word": "break",
+      "definition": "A short rest from work or activity.",
+      "arabic": "استراحة",
+      "arabic_definition": "راحة قصيرة من العمل أو النشاط.",
+      "example": {
+        "en": "I take a break every two hours.",
+        "ar": "آخذ استراحة كل ساعتين."
+      }
+    },
+    {
+      "word": "lazy",
+      "definition": "Not willing to work or use effort.",
+      "arabic": "كسول",
+      "arabic_definition": "غير راغب في العمل أو بذل الجهد.",
+      "example": {
+        "en": "He is lazy and doesn’t like exercise.",
+        "ar": "هو كسول ولا يحب التمارين."
+      }
+    },
+    {
+      "word": "active",
+      "definition": "Doing a lot of physical movement.",
+      "arabic": "نشط",
+      "arabic_definition": "يقوم بالكثير من الحركة البدنية.",
+      "example": {
+        "en": "She is very active and enjoys sports.",
+        "ar": "هي نشطة جداً وتستمتع بالرياضة."
+      }
+    },
+    {
+      "word": "wake up",
+      "definition": "To stop sleeping and get out of bed.",
+      "arabic": "يستيقظ",
+      "arabic_definition": "يتوقف عن النوم ويقوم من السرير.",
+      "example": {
+        "en": "I wake up early every day.",
+        "ar": "أستيقظ مبكراً كل يوم."
+      }
+    },
+    {
+      "word": "go to bed",
+      "definition": "To lie down to sleep.",
+      "arabic": "يذهب إلى النوم",
+      "arabic_definition": "الاستلقاء للنوم.",
+      "example": {
+        "en": "I go to bed at 10 pm.",
+        "ar": "أذهب إلى النوم في الساعة العاشرة مساءً."
+      }
+    },
+    {
+      "word": "healthy",
+      "definition": "Good for your body and mind.",
+      "arabic": "صحي",
+      "arabic_definition": "جيد لجسمك وعقلك.",
+      "example": {
+        "en": "Eating vegetables is healthy.",
+        "ar": "تناول الخضروات صحي."
+      }
+    },
+    {
+      "word": "stress",
+      "definition": "Mental or emotional tension.",
+      "arabic": "ضغط نفسي",
+      "arabic_definition": "توتر ذهني أو عاطفي.",
+      "example": {
+        "en": "Work can cause stress.",
+        "ar": "العمل قد يسبب الضغط النفسي."
+      }
+    },
+    {
+      "word": "relax",
+      "definition": "To rest and feel calm.",
+      "arabic": "يسترخي",
+      "arabic_definition": "يرتاح ويشعر بالهدوء.",
+      "example": {
+        "en": "I relax by listening to music.",
+        "ar": "أسترخي بالاستماع إلى الموسيقى."
+      }
+    }
+  ]
+}

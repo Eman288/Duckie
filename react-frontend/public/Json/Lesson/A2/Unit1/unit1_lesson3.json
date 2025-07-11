@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing a Typical Day",
+  "words": [
+    {
+      "word": "wake up",
+      "definition": "To stop sleeping and become conscious.",
+      "arabic": "يستيقظ",
+      "arabic_definition": "يتوقف عن النوم ويصبح واعياً.",
+      "example": {
+        "en": "I wake up at 7 a.m. every day.",
+        "ar": "أستيقظ الساعة 7 صباحاً كل يوم."
+      }
+    },
+    {
+      "word": "get dressed",
+      "definition": "To put clothes on.",
+      "arabic": "يرتدي الملابس",
+      "arabic_definition": "يرتدي الملابس.",
+      "example": {
+        "en": "She gets dressed quickly in the morning.",
+        "ar": "ترتدي ملابسها بسرعة في الصباح."
+      }
+    },
+    {
+      "word": "have breakfast",
+      "definition": "To eat the first meal of the day.",
+      "arabic": "يتناول الفطور",
+      "arabic_definition": "يأكل أول وجبة في اليوم.",
+      "example": {
+        "en": "We have breakfast at 8 o'clock.",
+        "ar": "نتناول الفطور الساعة 8."
+      }
+    },
+    {
+      "word": "go to work",
+      "definition": "To leave for your job.",
+      "arabic": "يذهب إلى العمل",
+      "arabic_definition": "يذهب إلى وظيفته.",
+      "example": {
+        "en": "He goes to work by bus.",
+        "ar": "يذهب إلى العمل بالحافلة."
+      }
+    },
+    {
+      "word": "lunch break",
+      "definition": "A short period during the day to eat lunch.",
+      "arabic": "استراحة الغداء",
+      "arabic_definition": "فترة قصيرة أثناء اليوم لتناول الغداء.",
+      "example": {
+        "en": "My lunch break is at noon.",
+        "ar": "استراحة الغداء عند الظهر."
+      }
+    },
+    {
+      "word": "come back",
+      "definition": "To return to a place.",
+      "arabic": "يعود",
+      "arabic_definition": "يرجع إلى مكان.",
+      "example": {
+        "en": "I come back home at 6 p.m.",
+        "ar": "أعود إلى المنزل الساعة 6 مساءً."
+      }
+    },
+    {
+      "word": "have dinner",
+      "definition": "To eat the evening meal.",
+      "arabic": "يتناول العشاء",
+      "arabic_definition": "يتناول وجبة المساء.",
+      "example": {
+        "en": "We have dinner together every night.",
+        "ar": "نتناول العشاء معًا كل ليلة."
+      }
+    },
+    {
+      "word": "take a shower",
+      "definition": "To wash yourself under running water.",
+      "arabic": "يأخذ دشاً",
+      "arabic_definition": "يغتسل تحت الماء الجاري.",
+      "example": {
+        "en": "I take a shower before bed.",
+        "ar": "أأخذ دشًا قبل النوم."
+      }
+    },
+    {
+      "word": "go to bed",
+      "definition": "To lie down to sleep.",
+      "arabic": "يذهب للنوم",
+      "arabic_definition": "يستلقي لينام.",
+      "example": {
+        "en": "She goes to bed at 10 p.m.",
+        "ar": "تذهب إلى النوم الساعة 10 مساءً."
+      }
+    },
+    {
+      "word": "brush teeth",
+      "definition": "To clean your teeth with a brush.",
+      "arabic": "ينظف أسنانه",
+      "arabic_definition": "ينظف أسنانه باستخدام فرشاة.",
+      "example": {
+        "en": "I brush my teeth twice a day.",
+        "ar": "أنظف أسناني مرتين في اليوم."
+      }
+    }
+  ]
+}

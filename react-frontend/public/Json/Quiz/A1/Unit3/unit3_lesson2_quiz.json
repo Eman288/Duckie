@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 3 - Lesson 2 Quiz: Talking About People",
+  "questions": [
+    {
+      "question": "What is the Arabic meaning of 'friend'?",
+      "answers": [
+        "شخص",
+        "صديق",
+        "رجل",
+        "امرأة"
+      ],
+      "correct": "صديق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'someone you know well and like'?",
+      "answers": [
+        "teacher",
+        "friend",
+        "man",
+        "neighbor"
+      ],
+      "correct": "friend",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: She is a nice ___.",
+      "answers": [
+        "person",
+        "friend",
+        "woman",
+        "all of the above"
+      ],
+      "correct": "all of the above",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'he' refer to?",
+      "answers": [
+        "A man",
+        "A woman",
+        "A child",
+        "A place"
+      ],
+      "correct": "A man",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to English: 'رجل'",
+      "answers": [
+        "boy",
+        "man",
+        "father",
+        "uncle"
+      ],
+      "correct": "man",
+      "voiceUrl": ""
+    }
+  ]
+}

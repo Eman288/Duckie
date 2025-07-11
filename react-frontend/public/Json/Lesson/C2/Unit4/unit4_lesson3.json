@@ -1,0 +1,105 @@
+{
+  "lesson": "Precision in Speech and Argumentation",
+  "words": [
+    {
+      "word": "articulation",
+      "definition": "The ability to express ideas clearly.",
+      "arabic": "التعبير",
+      "arabic_definition": "القدرة على التعبير عن الأفكار بوضوح.",
+      "example": {
+        "en": "Articulation improves verbal communication.",
+        "ar": "التعبير يحسن التواصل اللفظي."
+      }
+    },
+    {
+      "word": "conciseness",
+      "definition": "Expressing ideas clearly with few words.",
+      "arabic": "الإيجاز",
+      "arabic_definition": "التعبير عن الأفكار بوضوح باستخدام كلمات قليلة.",
+      "example": {
+        "en": "Conciseness is a mark of effective speakers.",
+        "ar": "الإيجاز سمة من سمات المتحدثين الفعالين."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The manner in which words are spoken.",
+      "arabic": "نغمة",
+      "arabic_definition": "طريقة الحديث بالكلمات.",
+      "example": {
+        "en": "He adjusted his tone to suit the audience.",
+        "ar": "عدل نغمته لكي تناسب الجمهور."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "The quality of being precise and exact.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الدقة والتفاصيل الصحية.",
+      "example": {
+        "en": "The precision of her argument was impressive.",
+        "ar": "دقة حجتها كانت مدهشة."
+      }
+    },
+    {
+      "word": "emphasis",
+      "definition": "Placing special importance on certain words.",
+      "arabic": "التأكيد",
+      "arabic_definition": "إعطاء أهمية خاصة لبعض الكلمات.",
+      "example": {
+        "en": "He used emphasis to highlight the key point.",
+        "ar": "استخدم التأكيد لإبراز النقطة الرئيسية."
+      }
+    },
+    {
+      "word": "fluency",
+      "definition": "The ability to speak smoothly and effectively.",
+      "arabic": "الطلاقة",
+      "arabic_definition": "القدرة على الحديث بسلاسة وفعالية.",
+      "example": {
+        "en": "Fluency allows ideas to flow naturally.",
+        "ar": "تمكّن الطلاقة الأفكار من التدفق بشكل طبيعي."
+      }
+    },
+    {
+      "word": "engagement",
+      "definition": "The ability to capture and maintain attention.",
+      "arabic": "التفاعل",
+      "arabic_definition": "القدرة على جذب انتباه الجمهور.",
+      "example": {
+        "en": "Her engagement with the audience was captivating.",
+        "ar": "كان تفاعلها مع الجمهور ساحرًا."
+      }
+    },
+    {
+      "word": "coherence",
+      "definition": "The quality of being logical and consistent.",
+      "arabic": "التماسك",
+      "arabic_definition": "جودة الاتساق والمنطق.",
+      "example": {
+        "en": "Coherence is vital for making a strong argument.",
+        "ar": "التماسك ضروري لخلق حجة قوية."
+      }
+    },
+    {
+      "word": "assertiveness",
+      "definition": "Expressing thoughts and needs clearly and confidently.",
+      "arabic": "الحزم",
+      "arabic_definition": "التعبير عن الأفكار والاحتياجات بوضوح وثقة.",
+      "example": {
+        "en": "Assertiveness is key to effective negotiations.",
+        "ar": "الحزم عنصر رئيسي في التفاوض الفعال."
+      }
+    },
+    {
+      "word": "delivery",
+      "definition": "The manner in which a speech is presented.",
+      "arabic": "الإلقاء",
+      "arabic_definition": "طريقة تقديم الخطاب.",
+      "example": {
+        "en": "Good delivery can make a simple speech compelling.",
+        "ar": "الإلقاء الجيد يمكن أن يجعل خطابًا بسيطًا مؤثرًا."
+      }
+    }
+  ]
+}

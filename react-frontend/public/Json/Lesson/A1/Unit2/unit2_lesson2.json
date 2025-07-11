@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing Routines",
+  "words": [
+    {
+      "word": "routine",
+      "definition": "A regular way of doing things in a particular order.",
+      "arabic": "روتين",
+      "arabic_definition": "طريقة منتظمة للقيام بالأشياء بترتيب معين.",
+      "example": {
+        "en": "My morning routine includes brushing my teeth.",
+        "ar": "روتيني الصباحي يشمل تنظيف أسناني."
+      }
+    },
+    {
+      "word": "usually",
+      "definition": "In most cases or normally.",
+      "arabic": "عادةً",
+      "arabic_definition": "في معظم الحالات أو بشكل طبيعي.",
+      "example": {
+        "en": "I usually go for a walk after dinner.",
+        "ar": "عادةً أذهب في نزهة بعد العشاء."
+      }
+    },
+    {
+      "word": "always",
+      "definition": "At all times; on every occasion.",
+      "arabic": "دائماً",
+      "arabic_definition": "في جميع الأوقات؛ في كل مناسبة.",
+      "example": {
+        "en": "She always drinks coffee in the morning.",
+        "ar": "هي دائماً تشرب القهوة في الصباح."
+      }
+    },
+    {
+      "word": "never",
+      "definition": "Not at any time.",
+      "arabic": "أبداً",
+      "arabic_definition": "في أي وقت من الأوقات.",
+      "example": {
+        "en": "He never eats fish.",
+        "ar": "هو لا يأكل السمك أبداً."
+      }
+    },
+    {
+      "word": "sometimes",
+      "definition": "Occasionally, but not regularly.",
+      "arabic": "أحياناً",
+      "arabic_definition": "من وقت لآخر ولكن ليس بانتظام.",
+      "example": {
+        "en": "I sometimes read before bed.",
+        "ar": "أحياناً أقرأ قبل النوم."
+      }
+    },
+    {
+      "word": "every day",
+      "definition": "Each day of the week.",
+      "arabic": "كل يوم",
+      "arabic_definition": "كل يوم من أيام الأسبوع.",
+      "example": {
+        "en": "He runs every day.",
+        "ar": "هو يجري كل يوم."
+      }
+    },
+    {
+      "word": "on weekdays",
+      "definition": "From Monday to Friday.",
+      "arabic": "في أيام الأسبوع",
+      "arabic_definition": "من الإثنين إلى الجمعة.",
+      "example": {
+        "en": "She works on weekdays.",
+        "ar": "هي تعمل في أيام الأسبوع."
+      }
+    },
+    {
+      "word": "in the evening",
+      "definition": "During the later part of the day and early night.",
+      "arabic": "في المساء",
+      "arabic_definition": "خلال الجزء المتأخر من اليوم وأوائل الليل.",
+      "example": {
+        "en": "We watch TV in the evening.",
+        "ar": "نشاهد التلفاز في المساء."
+      }
+    },
+    {
+      "word": "before",
+      "definition": "Earlier than a particular time or event.",
+      "arabic": "قبل",
+      "arabic_definition": "في وقت أبكر من وقت أو حدث معين.",
+      "example": {
+        "en": "I shower before breakfast.",
+        "ar": "أستحم قبل الإفطار."
+      }
+    },
+    {
+      "word": "after",
+      "definition": "Later than a particular time or event.",
+      "arabic": "بعد",
+      "arabic_definition": "في وقت لاحق من وقت أو حدث معين.",
+      "example": {
+        "en": "He eats dinner after work.",
+        "ar": "هو يتناول العشاء بعد العمل."
+      }
+    }
+  ]
+}

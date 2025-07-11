@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 6 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'clothes'?",
+      "answers": [ "حذاء", "ملابس", "حقيبة", "ساعة" ],
+      "correct": "ملابس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'size' in Arabic?",
+      "answers": [ "حجم", "سعر", "لون", "اسم" ],
+      "correct": "حجم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'سعر'?",
+      "answers": [ "size", "price", "color", "shop" ],
+      "correct": "price",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'buy' in Arabic?",
+      "answers": [ "اشتري", "ألبس", "أتحدث", "أطلب" ],
+      "correct": "اشتري",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'pay'?",
+      "answers": [ "دفع", "لبس", "طلب", "شرب" ],
+      "correct": "دفع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'shop' in Arabic?",
+      "answers": [ "متجر", "حقيبة", "حذاء", "حجم" ],
+      "correct": "متجر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'shoes'?",
+      "answers": [ "حذاء", "قميص", "حجم", "حقيبة" ],
+      "correct": "حذاء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'bag' in Arabic?",
+      "answers": [ "حذاء", "حقيبة", "حجم", "قميص" ],
+      "correct": "حقيبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'قميص'?",
+      "answers": [ "shirt", "shoes", "bag", "price" ],
+      "correct": "shirt",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following means 'I want this one' in Arabic?",
+      "answers": [ "أريد هذا", "أين المحل", "ما المقاس", "ليس لدي مال" ],
+      "correct": "أريد هذا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'How much is it?'",
+      "answers": [ "كم سعره؟", "أين المحل؟", "ليس لدي مال", "هذا جيد" ],
+      "correct": "كم سعره؟",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'I will take it' in Arabic?",
+      "answers": [ "ليس لدي مال", "آخذه", "ليس جيد", "ليس هنا" ],
+      "correct": "آخذه",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'ليس لدي مال'?",
+      "answers": [ "I have money", "I have no money", "I am happy", "I want this one" ],
+      "correct": "I have no money",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 'size' in Arabic?",
+      "answers": [ "حجم", "حذاء", "حقيبة", "سعر" ],
+      "correct": "حجم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I will pay'?",
+      "answers": [ "سأدفع", "ليس لدي مال", "ليس جيد", "ليس هنا" ],
+      "correct": "سأدفع",
+      "voiceUrl": ""
+    }
+  ]
+}

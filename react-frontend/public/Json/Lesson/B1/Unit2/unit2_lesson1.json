@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Your Job and Responsibilities",
+  "words": [
+    {
+      "word": "job",
+      "definition": "The work someone does to earn money.",
+      "arabic": "وظيفة",
+      "arabic_definition": "العمل الذي يقوم به الشخص لكسب المال.",
+      "example": {
+        "en": "She has a new job at the bank.",
+        "ar": "لديها وظيفة جديدة في البنك."
+      }
+    },
+    {
+      "word": "responsibility",
+      "definition": "A task or duty that someone must do.",
+      "arabic": "مسؤولية",
+      "arabic_definition": "مهمة أو واجب يجب على الشخص القيام به.",
+      "example": {
+        "en": "My responsibility is to answer customer questions.",
+        "ar": "مسؤوليتي هي الرد على أسئلة العملاء."
+      }
+    },
+    {
+      "word": "colleague",
+      "definition": "A person you work with.",
+      "arabic": "زميل عمل",
+      "arabic_definition": "شخص تعمل معه.",
+      "example": {
+        "en": "I met my new colleagues yesterday.",
+        "ar": "التقيت بزملائي الجدد أمس."
+      }
+    },
+    {
+      "word": "salary",
+      "definition": "Money paid regularly for work.",
+      "arabic": "راتب",
+      "arabic_definition": "المال الذي يُدفع بانتظام مقابل العمل.",
+      "example": {
+        "en": "His salary is paid monthly.",
+        "ar": "يُدفع راتبه شهريًا."
+      }
+    },
+    {
+      "word": "experience",
+      "definition": "Knowledge or skill gained from doing a job.",
+      "arabic": "خبرة",
+      "arabic_definition": "المعرفة أو المهارة المكتسبة من العمل.",
+      "example": {
+        "en": "She has five years of experience in marketing.",
+        "ar": "لديها خمس سنوات من الخبرة في التسويق."
+      }
+    },
+    {
+      "word": "task",
+      "definition": "A piece of work to be done.",
+      "arabic": "مهمة",
+      "arabic_definition": "عمل يجب القيام به.",
+      "example": {
+        "en": "My tasks include writing reports.",
+        "ar": "تشمل مهامي كتابة التقارير."
+      }
+    },
+    {
+      "word": "manager",
+      "definition": "A person in charge of a team or company.",
+      "arabic": "مدير",
+      "arabic_definition": "الشخص المسؤول عن فريق أو شركة.",
+      "example": {
+        "en": "The manager called a meeting.",
+        "ar": "عقد المدير اجتماعًا."
+      }
+    },
+    {
+      "word": "deadline",
+      "definition": "The latest time something must be done.",
+      "arabic": "موعد نهائي",
+      "arabic_definition": "الوقت النهائي لإنجاز شيء ما.",
+      "example": {
+        "en": "We must finish the project before the deadline.",
+        "ar": "يجب أن ننهي المشروع قبل الموعد النهائي."
+      }
+    },
+    {
+      "word": "shift",
+      "definition": "A period of work during the day or night.",
+      "arabic": "وردية",
+      "arabic_definition": "فترة عمل خلال النهار أو الليل.",
+      "example": {
+        "en": "I work the morning shift.",
+        "ar": "أعمل في وردية الصباح."
+      }
+    },
+    {
+      "word": "promotion",
+      "definition": "Moving to a higher position at work.",
+      "arabic": "ترقية",
+      "arabic_definition": "الانتقال إلى منصب أعلى في العمل.",
+      "example": {
+        "en": "She received a promotion last month.",
+        "ar": "حصلت على ترقية الشهر الماضي."
+      }
+    }
+  ]
+}

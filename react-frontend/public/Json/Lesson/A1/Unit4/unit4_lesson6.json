@@ -1,0 +1,105 @@
+{
+  "lesson": "Asking and Giving Directions",
+  "words": [
+    {
+      "word": "left",
+      "definition": "The opposite of right.",
+      "arabic": "يسار",
+      "arabic_definition": "عكس اليمين.",
+      "example": {
+        "en": "This is a left.",
+        "ar": "هذا يسار."
+      }
+    },
+    {
+      "word": "right",
+      "definition": "The opposite of left.",
+      "arabic": "يمين",
+      "arabic_definition": "عكس اليسار.",
+      "example": {
+        "en": "This is a right.",
+        "ar": "هذا يمين."
+      }
+    },
+    {
+      "word": "straight",
+      "definition": "Continuing in one direction without turning.",
+      "arabic": "مستقيم",
+      "arabic_definition": "الاستمرار في اتجاه واحد دون دوران.",
+      "example": {
+        "en": "This is a straight.",
+        "ar": "هذا مستقيم."
+      }
+    },
+    {
+      "word": "turn",
+      "definition": "To change direction.",
+      "arabic": "انعطف",
+      "arabic_definition": "تغيير الاتجاه.",
+      "example": {
+        "en": "This is a turn.",
+        "ar": "هذا انعطف."
+      }
+    },
+    {
+      "word": "intersection",
+      "definition": "A place where roads meet.",
+      "arabic": "تقاطع",
+      "arabic_definition": "مكان تلتقي فيه الطرق.",
+      "example": {
+        "en": "This is a intersection.",
+        "ar": "هذا تقاطع."
+      }
+    },
+    {
+      "word": "corner",
+      "definition": "The point where two streets or walls meet.",
+      "arabic": "زاوية",
+      "arabic_definition": "النقطة التي يلتقي فيها شارعين أو جدران.",
+      "example": {
+        "en": "This is a corner.",
+        "ar": "هذا زاوية."
+      }
+    },
+    {
+      "word": "traffic light",
+      "definition": "A signal that controls vehicle movement.",
+      "arabic": "إشارة مرور",
+      "arabic_definition": "إشارة تنظم حركة السيارات.",
+      "example": {
+        "en": "This is a traffic light.",
+        "ar": "هذا إشارة مرور."
+      }
+    },
+    {
+      "word": "crosswalk",
+      "definition": "A place for people to cross the street.",
+      "arabic": "ممر مشاة",
+      "arabic_definition": "مكان لعبور المشاة الطريق.",
+      "example": {
+        "en": "This is a crosswalk.",
+        "ar": "هذا ممر مشاة."
+      }
+    },
+    {
+      "word": "behind",
+      "definition": "At the back of something.",
+      "arabic": "خلف",
+      "arabic_definition": "في الخلف.",
+      "example": {
+        "en": "This is a behind.",
+        "ar": "هذا خلف."
+      }
+    },
+    {
+      "word": "nearby",
+      "definition": "Close to a place.",
+      "arabic": "بالقرب",
+      "arabic_definition": "بجوار مكان ما.",
+      "example": {
+        "en": "This is a nearby.",
+        "ar": "هذا بالقرب."
+      }
+    }
+  ]
+}

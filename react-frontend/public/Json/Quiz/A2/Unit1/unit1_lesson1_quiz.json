@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 1 - Making Plans for the Weekend Quiz",
+  "questions": [
+    {
+      "question": "What does 'plan' mean in Arabic?",
+      "answers": [
+        "عمل",
+        "خطة",
+        "رحلة",
+        "يوم"
+      ],
+      "correct": "خطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a short trip for pleasure'?",
+      "answers": [
+        "study",
+        "trip",
+        "vacation",
+        "outing"
+      ],
+      "correct": "outing",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct translation: 'weekend'",
+      "answers": [
+        "يوم العمل",
+        "العطلة الأسبوعية",
+        "أيام الدراسة",
+        "أيام الأسبوع"
+      ],
+      "correct": "العطلة الأسبوعية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I will ___ my friend on Saturday.",
+      "answers": [
+        "study",
+        "visit",
+        "cook",
+        "sleep"
+      ],
+      "correct": "visit",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'movie'?",
+      "answers": [
+        "مطعم",
+        "فيلم",
+        "مسرح",
+        "كتاب"
+      ],
+      "correct": "فيلم",
+      "voiceUrl": ""
+    }
+  ]
+}

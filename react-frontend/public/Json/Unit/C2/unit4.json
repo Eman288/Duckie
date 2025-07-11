@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 4 - Language Excellence in Practice",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'advanced writing techniques'?",
+      "answers": [ "تقنيات الكتابة المتقدمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تقنيات الكتابة المتقدمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'high-level editing' in Arabic?",
+      "answers": [ "تحرير على مستوى عال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تحرير على مستوى عال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الدقة في الكلام'?",
+      "answers": [ "precision in speech", "daily routine", "work project", "travel map" ],
+      "correct": "precision in speech",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'impactful writing' in Arabic?",
+      "answers": [ "كتابة مؤثرة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "كتابة مؤثرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'meticulous editing'?",
+      "answers": [ "تحرير دقيق", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تحرير دقيق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'articulation in speech' in Arabic?",
+      "answers": [ "وضوح الكلام", "حافلة", "حقيبة", "حجز" ],
+      "correct": "وضوح الكلام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'صياغة الأفكار بوضوح'?",
+      "answers": [ "articulating ideas clearly", "daily routine", "work project", "travel map" ],
+      "correct": "articulating ideas clearly",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'precision in wording' in Arabic?",
+      "answers": [ "دقة التعبير", "حافلة", "حقيبة", "حجز" ],
+      "correct": "دقة التعبير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'revision and proofreading'?",
+      "answers": [ "المراجعة والتدقيق", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المراجعة والتدقيق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'well-structured text' in Arabic?",
+      "answers": [ "نص محكم البناء", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نص محكم البناء",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'صياغة مؤثرة'?",
+      "answers": [ "impactful wording", "daily routine", "work project", "travel map" ],
+      "correct": "impactful wording",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'enhanced readability' in Arabic?",
+      "answers": [ "سهولة القراءة المحسّنة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "سهولة القراءة المحسّنة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'linguistic precision'?",
+      "answers": [ "الدقة اللغوية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدقة اللغوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'concise writing' in Arabic?",
+      "answers": [ "كتابة موجزة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "كتابة موجزة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'صيغة محكمة'?",
+      "answers": [ "well-crafted phrasing", "daily routine", "work project", "travel map" ],
+      "correct": "well-crafted phrasing",
+      "voiceUrl": ""
+    }
+  ]
+}

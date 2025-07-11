@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Health and Medical Advice",
+  "words": [
+    {
+      "word": "symptom",
+      "definition": "A sign of illness or disease.",
+      "arabic": "عرض",
+      "arabic_definition": "علامة على المرض أو الإصابة.",
+      "example": {
+        "en": "Fever is a common symptom of flu.",
+        "ar": "الحمى عرض شائع للإنفلونزا."
+      }
+    },
+    {
+      "word": "prescription",
+      "definition": "A doctor's written order for medicine.",
+      "arabic": "وصفة طبية",
+      "arabic_definition": "أمر طبي مكتوب للدواء.",
+      "example": {
+        "en": "The doctor gave me a prescription for antibiotics.",
+        "ar": "أعطاني الطبيب وصفة طبية للمضادات الحيوية."
+      }
+    },
+    {
+      "word": "appointment",
+      "definition": "A scheduled meeting with a doctor.",
+      "arabic": "موعد",
+      "arabic_definition": "موعد محدد مع الطبيب.",
+      "example": {
+        "en": "I have a doctor's appointment tomorrow.",
+        "ar": "لدي موعد مع الطبيب غداً."
+      }
+    },
+    {
+      "word": "medicine",
+      "definition": "Drugs used to treat illness.",
+      "arabic": "دواء",
+      "arabic_definition": "أدوية تُستخدم لعلاج المرض.",
+      "example": {
+        "en": "Take your medicine twice a day.",
+        "ar": "تناول دوائك مرتين يومياً."
+      }
+    },
+    {
+      "word": "recover",
+      "definition": "To get better after being sick.",
+      "arabic": "يتعافى",
+      "arabic_definition": "أن تتحسن بعد المرض.",
+      "example": {
+        "en": "He recovered quickly from the cold.",
+        "ar": "تعافى بسرعة من البرد."
+      }
+    },
+    {
+      "word": "clinic",
+      "definition": "A place where people go for medical treatment.",
+      "arabic": "عيادة",
+      "arabic_definition": "مكان يذهب إليه الناس للعلاج الطبي.",
+      "example": {
+        "en": "She went to the clinic for a check-up.",
+        "ar": "ذهبت إلى العيادة للفحص."
+      }
+    },
+    {
+      "word": "vaccination",
+      "definition": "A shot that protects against disease.",
+      "arabic": "تطعيم",
+      "arabic_definition": "حقنة تحمي من المرض.",
+      "example": {
+        "en": "Children need vaccination to stay healthy.",
+        "ar": "يحتاج الأطفال إلى التطعيم للبقاء بصحة جيدة."
+      }
+    },
+    {
+      "word": "emergency",
+      "definition": "A sudden serious situation needing quick help.",
+      "arabic": "حالة طارئة",
+      "arabic_definition": "حالة خطيرة مفاجئة تحتاج إلى مساعدة سريعة.",
+      "example": {
+        "en": "Call 911 in case of emergency.",
+        "ar": "اتصل بـ 911 في حالة الطوارئ."
+      }
+    },
+    {
+      "word": "allergy",
+      "definition": "A reaction to something that is usually harmless.",
+      "arabic": "حساسية",
+      "arabic_definition": "رد فعل لشيء عادةً ما يكون غير ضار.",
+      "example": {
+        "en": "She has an allergy to peanuts.",
+        "ar": "لديها حساسية من الفول السوداني."
+      }
+    },
+    {
+      "word": "diagnosis",
+      "definition": "The identification of a disease or condition.",
+      "arabic": "تشخيص",
+      "arabic_definition": "تحديد المرض أو الحالة.",
+      "example": {
+        "en": "The doctor made a diagnosis after the tests.",
+        "ar": "قام الطبيب بالتشخيص بعد الفحوصات."
+      }
+    }
+  ]
+}

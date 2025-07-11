@@ -1,0 +1,27 @@
+{
+  "lesson": "Unit7 Describing Distance And Location Quiz",
+  "questions": [
+    {
+      "question": "What does 'near' mean in Arabic?",
+      "answers": [
+        "بعيد",
+        "قريب",
+        "أمام",
+        "خلف"
+      ],
+      "correct": "قريب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'immediately beside'?",
+      "answers": [
+        "behind",
+        "next to",
+        "far",
+        "in front of"
+      ],
+      "correct": "next to",
+      "voiceUrl": ""
+    }
+  ]
+}

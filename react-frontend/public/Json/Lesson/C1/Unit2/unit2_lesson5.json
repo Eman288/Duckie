@@ -1,0 +1,105 @@
+{
+  "lesson": "Delivering a Professional Presentation",
+  "words": [
+    {
+      "word": "delivery",
+      "definition": "The manner in which a presentation is given.",
+      "arabic": "طريقة العرض",
+      "arabic_definition": "الطريقة التي يتم تقديم العرض بها.",
+      "example": {
+        "en": "Good delivery makes a presentation more impactful.",
+        "ar": "طريقة العرض الجيدة تجعل المحاضرة أكثر تأثيرًا."
+      }
+    },
+    {
+      "word": "engagement",
+      "definition": "The act of capturing the audience’s attention.",
+      "arabic": "التفاعل",
+      "arabic_definition": "عملية جذب انتباه الجمهور.",
+      "example": {
+        "en": "Audience engagement is key to a successful talk.",
+        "ar": "التفاعل مع الجمهور ضروري لنجاح المحاضرة."
+      }
+    },
+    {
+      "word": "structure",
+      "definition": "The organization of a presentation.",
+      "arabic": "البنية",
+      "arabic_definition": "طريقة تنظيم المحاضرة.",
+      "example": {
+        "en": "A clear structure makes a presentation easy to follow.",
+        "ar": "البنية الواضحة تجعل المحاضرة سهلة المتابعة."
+      }
+    },
+    {
+      "word": "clarity",
+      "definition": "The quality of being easily understood.",
+      "arabic": "وضوح",
+      "arabic_definition": "جودة كون الكلام سهل الفهم.",
+      "example": {
+        "en": "Clarity is vital when presenting complex information.",
+        "ar": "الوضوح مهم عند تقديم معلومات معقّدة."
+      }
+    },
+    {
+      "word": "confidence",
+      "definition": "A feeling of self-assurance.",
+      "arabic": "ثقة",
+      "arabic_definition": "شعور بالثقة بالنفس.",
+      "example": {
+        "en": "Confidence can make a speaker more persuasive.",
+        "ar": "يمكن للثقة أن تجعل المتحدث أكثر إقناعًا."
+      }
+    },
+    {
+      "word": "interaction",
+      "definition": "Communication between the presenter and the audience.",
+      "arabic": "تفاعل",
+      "arabic_definition": "التواصل بين المحاضر والجمهور.",
+      "example": {
+        "en": "Interaction keeps the audience engaged throughout the presentation.",
+        "ar": "التفاعل يحافظ على تفاعل الجمهور طوال المحاضرة."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The sound quality and emotion in a person’s voice.",
+      "arabic": "نبرة",
+      "arabic_definition": "جودة الصوت والمشاعر التي يحملها.",
+      "example": {
+        "en": "The right tone can set the mood for a presentation.",
+        "ar": "يمكن للنبرة المناسبة أن تحدد الجو العام للمحاضرة."
+      }
+    },
+    {
+      "word": "pace",
+      "definition": "The speed at which a speaker delivers their talk.",
+      "arabic": "الإيقاع",
+      "arabic_definition": "السرعة التي يلقي بها المحاضر كلامه.",
+      "example": {
+        "en": "Maintain a steady pace to help the audience understand.",
+        "ar": "حافظ على إيقاع معتدل لمساعدة الجمهور على الفهم."
+      }
+    },
+    {
+      "word": "emphasis",
+      "definition": "The act of giving special attention to certain ideas.",
+      "arabic": "تركيز",
+      "arabic_definition": "فعل التركيز على أفكار محددة.",
+      "example": {
+        "en": "Use emphasis to highlight the most important points.",
+        "ar": "استخدم التركيز لإبراز النقاط الأكثر أهمية."
+      }
+    },
+    {
+      "word": "conclusion",
+      "definition": "The final part of a presentation that summarizes the ideas.",
+      "arabic": "خاتمة",
+      "arabic_definition": "القسم الأخير من المحاضرة يلخّص الأفكار.",
+      "example": {
+        "en": "End with a strong conclusion to leave a lasting impression.",
+        "ar": "اختتم المحاضرة بخاتمة قوية لترك أثر دائم."
+      }
+    }
+  ]
+}

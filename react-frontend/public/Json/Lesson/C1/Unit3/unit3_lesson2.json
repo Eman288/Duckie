@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Literature and Criticism",
+  "words": [
+    {
+      "word": "theme",
+      "definition": "The central idea or message of a literary work.",
+      "arabic": "موضوع",
+      "arabic_definition": "الفكرة المحورية أو الرسالة التي يحملها العمل الأدبي.",
+      "example": {
+        "en": "The theme of the book is friendship.",
+        "ar": "موضوع الكتاب هو الصداقة."
+      }
+    },
+    {
+      "word": "critique",
+      "definition": "A detailed evaluation of a piece of work.",
+      "arabic": "نقد",
+      "arabic_definition": "تقييم مفصل لعمل أدبي أو فني.",
+      "example": {
+        "en": "He wrote a critique of the novel.",
+        "ar": "كتب نقدًا للرواية."
+      }
+    },
+    {
+      "word": "characterization",
+      "definition": "The way an author develops a character in a story.",
+      "arabic": "تصوير الشخصيات",
+      "arabic_definition": "طريقة تطوير المؤلف للشخصيات في القصة.",
+      "example": {
+        "en": "The characterization of the hero is very realistic.",
+        "ar": "تصوير شخصية البطل واقعي للغاية."
+      }
+    },
+    {
+      "word": "symbolism",
+      "definition": "The use of symbols to represent ideas or qualities.",
+      "arabic": "رمزية",
+      "arabic_definition": "استخدام الرموز لتمثيل الأفكار أو الصفات.",
+      "example": {
+        "en": "The author used a dove as a symbol of peace.",
+        "ar": "استخدم المؤلف حمامة كرمز للسلام."
+      }
+    },
+    {
+      "word": "narration",
+      "definition": "The way a story is told.",
+      "arabic": "السرد",
+      "arabic_definition": "طريقة رواية القصة.",
+      "example": {
+        "en": "The narration is from the main character’s point of view.",
+        "ar": "السرد يتم من منظور الشخصية الرئيسية."
+      }
+    },
+    {
+      "word": "metaphor",
+      "definition": "A figure of speech that compares two unlike things.",
+      "arabic": "استعارة",
+      "arabic_definition": "أسلوب بلاغي يقارن شيئين غير متشابهين.",
+      "example": {
+        "en": "The writer used a metaphor to highlight the character’s feelings.",
+        "ar": "استخدم الكاتب استعارة لإبراز مشاعر الشخصية."
+      }
+    },
+    {
+      "word": "irony",
+      "definition": "The use of words to express the opposite of their literal meaning.",
+      "arabic": "السخرية",
+      "arabic_definition": "استخدام الكلمات للإشارة إلى عكس معناها الحرفي.",
+      "example": {
+        "en": "The story is full of irony.",
+        "ar": "القصة مليئة بالسخرية."
+      }
+    },
+    {
+      "word": "motif",
+      "definition": "A recurring theme, subject, or idea in a literary work.",
+      "arabic": "فكرة مكررة",
+      "arabic_definition": "موضوع أو فكرة تتكرر في العمل الأدبي.",
+      "example": {
+        "en": "The motif of darkness appears throughout the novel.",
+        "ar": "تظهر فكرة الظلام طوال الرواية."
+      }
+    },
+    {
+      "word": "allusion",
+      "definition": "An indirect reference to a person, place, or event.",
+      "arabic": "إشارة",
+      "arabic_definition": "مرجع غير مباشر إلى شخص، مكان، أو حدث.",
+      "example": {
+        "en": "The poem contains an allusion to Greek mythology.",
+        "ar": "تحتوي القصيدة على إشارة إلى الأساطير اليونانية."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The writer’s attitude toward the subject.",
+      "arabic": "نبرة",
+      "arabic_definition": "موقف الكاتب تجاه الموضوع.",
+      "example": {
+        "en": "The tone of the piece is hopeful and optimistic.",
+        "ar": "نبرة النص مفعمة بالأمل والتفاؤل."
+      }
+    }
+  ]
+}

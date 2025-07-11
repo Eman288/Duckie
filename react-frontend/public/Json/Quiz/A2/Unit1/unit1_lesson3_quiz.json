@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 1 - Describing a Typical Day Quiz",
+  "questions": [
+    {
+      "question": "What does 'routine' mean in Arabic?",
+      "answers": [
+        "مهمة",
+        "روتين",
+        "عمل",
+        "نظام"
+      ],
+      "correct": "روتين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct translation: 'wake up'",
+      "answers": [
+        "ينام",
+        "يأكل",
+        "يستيقظ",
+        "يغسل"
+      ],
+      "correct": "يستيقظ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ breakfast at 7 am.",
+      "answers": [
+        "eat",
+        "do",
+        "go",
+        "wake"
+      ],
+      "correct": "eat",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 'to relax or not do work'?",
+      "answers": [
+        "work",
+        "study",
+        "rest",
+        "run"
+      ],
+      "correct": "rest",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'evening'?",
+      "answers": [
+        "صباح",
+        "ظهر",
+        "ليل",
+        "مساء"
+      ],
+      "correct": "مساء",
+      "voiceUrl": ""
+    }
+  ]
+}

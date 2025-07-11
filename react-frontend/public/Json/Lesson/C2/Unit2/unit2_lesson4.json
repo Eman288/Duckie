@@ -1,0 +1,105 @@
+{
+  "lesson": "Creating Impactful Reports and Proposals",
+  "words": [
+    {
+      "word": "executive summary",
+      "definition": "A short section summarizing the main points of a report.",
+      "arabic": "الملخّص التنفيذي",
+      "arabic_definition": "قسم قصير يلخّص النقاط الرئيسية للتقرير.",
+      "example": {
+        "en": "The executive summary gives an overview of the project.",
+        "ar": "يلخّص الملخّص التنفيذي مشروع التقرير."
+      }
+    },
+    {
+      "word": "data-driven",
+      "definition": "Based on evidence and statistics.",
+      "arabic": "معتمد على البيانات",
+      "arabic_definition": "يعتمد على الأدلة والإحصاءات.",
+      "example": {
+        "en": "The proposal was data-driven and very persuasive.",
+        "ar": "كان المقترح يعتمد على البيانات ومقنعًا للغاية."
+      }
+    },
+    {
+      "word": "objective",
+      "definition": "A goal or target to be achieved.",
+      "arabic": "هدف",
+      "arabic_definition": "غاية أو نقطة ينبغي تحقيقها.",
+      "example": {
+        "en": "The objective of the project was clearly stated.",
+        "ar": "تم تحديد الهدف من المشروع بوضوح."
+      }
+    },
+    {
+      "word": "concise",
+      "definition": "Expressing much in few words.",
+      "arabic": "موجز",
+      "arabic_definition": "التعبير عن الكثير باستخدام كلمات قليلة.",
+      "example": {
+        "en": "Make your proposal concise and to the point.",
+        "ar": "اجعل مقترحك موجزًا ومباشرًا."
+      }
+    },
+    {
+      "word": "feasibility",
+      "definition": "The possibility or practicality of a proposal.",
+      "arabic": "جدوى",
+      "arabic_definition": "إمكانية أو قابلية تنفيذ المقترح.",
+      "example": {
+        "en": "The feasibility of the project was confirmed by the team.",
+        "ar": "تم تأكيد جدوى المشروع من قبل الفريق."
+      }
+    },
+    {
+      "word": "methodology",
+      "definition": "The system or approach used in a study.",
+      "arabic": "منهجية",
+      "arabic_definition": "النظام أو النهج المستخدم في الدراسة.",
+      "example": {
+        "en": "The methodology section explained the research approach.",
+        "ar": "أوضح قسم المنهجية طريقة البحث المتبعة."
+      }
+    },
+    {
+      "word": "stakeholders",
+      "definition": "People or groups with an interest in the project.",
+      "arabic": "أصحاب المصلحة",
+      "arabic_definition": "الأشخاص أو المجموعات التي تهتم بالمشروع.",
+      "example": {
+        "en": "The stakeholders were satisfied with the results.",
+        "ar": "شعر أصحاب المصلحة بالرضا عن النتائج."
+      }
+    },
+    {
+      "word": "benchmark",
+      "definition": "A standard used to measure performance.",
+      "arabic": "معيار",
+      "arabic_definition": "معيار يستخدم لقياس الأداء.",
+      "example": {
+        "en": "The results were compared to an industry benchmark.",
+        "ar": "تمت مقارنة النتائج بمعيار صناعي."
+      }
+    },
+    {
+      "word": "outcome",
+      "definition": "The result or effect of an action.",
+      "arabic": "نتيجة",
+      "arabic_definition": "النتيجة أو الأثر المترتب على عمل ما.",
+      "example": {
+        "en": "The outcome of the proposal was highly successful.",
+        "ar": "كانت نتيجة المقترح ناجحة للغاية."
+      }
+    },
+    {
+      "word": "impact",
+      "definition": "A strong effect or influence.",
+      "arabic": "تأثير",
+      "arabic_definition": "أثر قوي أو تأثير على شيء.",
+      "example": {
+        "en": "The report demonstrated the project’s long-term impact.",
+        "ar": "أظهر التقرير تأثير المشروع على المدى الطويل."
+      }
+    }
+  ]
+}

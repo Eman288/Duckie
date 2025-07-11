@@ -1,0 +1,77 @@
+.main-container {
+    padding: 5%;
+    height: 100vh;
+    background-color: var(--white-second);
+    background-size: cover;
+}
+
+.register-box {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 60%;
+}
+
+.register-box form {
+    display: flex;
+    padding: 5% 0 0 5%;
+    flex-direction: column;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.register-box h2 {
+    font-size: var(--size2);
+    font-weight: bold;
+    padding-left: 3%;
+    color: var(--white-main);
+    border-left: 5px solid;
+}
+
+.register-box label {
+    font-weight: bold;
+    color: var(--blue-main);
+    font-size: var(--size6);
+}
+
+.register-box input {
+    outline: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    width: 30%;
+    padding: .5%;
+}
+
+.register-box input:focus {
+    background-color: var(--white-second);
+}
+
+.register-box button {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 2%;
+    width: 15%;
+    cursor: pointer;
+    color: var(--blue-main);
+    font-size: var(--size6);
+    font-weight: bold;
+    background-color: var(--blue-second);
+}
+
+.register-box button:hover {
+    background-color: var(--blue-shadow);
+    color: var(--blue-second)
+}
+
+.register-box h4 {
+    color: var(--blue-main);
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.register-box a {
+    color: var(--white-main);
+    text-decoration-line: underline;
+    margin-bottom: 2%;
+}

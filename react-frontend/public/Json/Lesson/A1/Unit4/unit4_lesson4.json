@@ -1,0 +1,105 @@
+{
+  "lesson": "Prepositions of Place",
+  "words": [
+    {
+      "word": "above",
+      "definition": "Higher than something else.",
+      "arabic": "أعلى",
+      "arabic_definition": "أعلى من شيء آخر.",
+      "example": {
+        "en": "This is a above.",
+        "ar": "هذا أعلى."
+      }
+    },
+    {
+      "word": "across",
+      "definition": "From one side to the other.",
+      "arabic": "عبر",
+      "arabic_definition": "من جانب إلى آخر.",
+      "example": {
+        "en": "This is a across.",
+        "ar": "هذا عبر."
+      }
+    },
+    {
+      "word": "along",
+      "definition": "In a line with something.",
+      "arabic": "على طول",
+      "arabic_definition": "في خط مع شيء ما.",
+      "example": {
+        "en": "This is a along.",
+        "ar": "هذا على طول."
+      }
+    },
+    {
+      "word": "around",
+      "definition": "In a circular direction or position.",
+      "arabic": "حول",
+      "arabic_definition": "في اتجاه أو موقع دائري.",
+      "example": {
+        "en": "This is a around.",
+        "ar": "هذا حول."
+      }
+    },
+    {
+      "word": "at",
+      "definition": "Used to indicate a location.",
+      "arabic": "في",
+      "arabic_definition": "تستخدم للإشارة إلى موقع.",
+      "example": {
+        "en": "This is a at.",
+        "ar": "هذا في."
+      }
+    },
+    {
+      "word": "by",
+      "definition": "Close to or next to something.",
+      "arabic": "بجوار",
+      "arabic_definition": "بالقرب من أو بجوار شيء ما.",
+      "example": {
+        "en": "This is a by.",
+        "ar": "هذا بجوار."
+      }
+    },
+    {
+      "word": "near",
+      "definition": "Close to in distance.",
+      "arabic": "قريب",
+      "arabic_definition": "قريب في المسافة.",
+      "example": {
+        "en": "This is a near.",
+        "ar": "هذا قريب."
+      }
+    },
+    {
+      "word": "onto",
+      "definition": "Moving to a position on a surface.",
+      "arabic": "إلى فوق",
+      "arabic_definition": "التحرك إلى موضع على سطح.",
+      "example": {
+        "en": "This is a onto.",
+        "ar": "هذا إلى فوق."
+      }
+    },
+    {
+      "word": "into",
+      "definition": "Moving inside something.",
+      "arabic": "إلى داخل",
+      "arabic_definition": "التحرك إلى داخل شيء ما.",
+      "example": {
+        "en": "This is a into.",
+        "ar": "هذا إلى داخل."
+      }
+    },
+    {
+      "word": "through",
+      "definition": "Going in one side and out the other.",
+      "arabic": "عبر",
+      "arabic_definition": "الدخول من جانب والخروج من الآخر.",
+      "example": {
+        "en": "This is a through.",
+        "ar": "هذا عبر."
+      }
+    }
+  ]
+}

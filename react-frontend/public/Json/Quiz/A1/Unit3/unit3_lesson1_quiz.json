@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 3 - Lesson 1 Quiz: Family Members",
+  "questions": [
+    {
+      "question": "What does 'mother' mean in Arabic?",
+      "answers": [
+        "أب",
+        "أخت",
+        "أم",
+        "ابن"
+      ],
+      "correct": "أم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'father'?",
+      "answers": [
+        "أب",
+        "أم",
+        "أخت",
+        "عم"
+      ],
+      "correct": "أب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'أخت'?",
+      "answers": [
+        "mother",
+        "sister",
+        "aunt",
+        "daughter"
+      ],
+      "correct": "sister",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: My ___ is younger than me.",
+      "answers": [
+        "father",
+        "brother",
+        "uncle",
+        "grandfather"
+      ],
+      "correct": "brother",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is a female family member?",
+      "answers": [
+        "uncle",
+        "brother",
+        "mother",
+        "father"
+      ],
+      "correct": "mother",
+      "voiceUrl": ""
+    }
+  ]
+}

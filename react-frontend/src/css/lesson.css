@@ -1,0 +1,417 @@
+.locked-lesson {
+    color: #999;
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+    user-select: none;
+}
+
+    .locked-lesson td {
+        opacity: 0.6;
+    }
+
+    .locked-lesson:hover {
+        background-color: #f5f5f5; /* no highlight on hover */
+    }
+
+.locked-icon {
+    width: 20px;
+    opacity: 0.5;
+    vertical-align: middle;
+    pointer-events: none;
+}
+
+
+.unit-block {
+    display: flex;
+    position: absolute;
+    background-color: var(--background-shade);
+    right: 0;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.unit-block .dash-body {
+    position: relative !important;
+    background-color: transparent;
+}
+.topBar-lesson {
+    width: 100%;
+    height: 10%;
+    padding: 0 4%;
+    display: flex;
+    align-items: center;
+}
+
+.progress-bar {
+    width: 70%;
+    background-color: var(--blue-main);
+    height: 50%;
+    border-radius: 10px;
+    margin-left: 5%;
+    box-shadow: 2px 2px 2px var(--gray-second);
+    display: flex;
+    align-items: center;
+    padding: 1%;
+}
+
+.bar {
+    border-radius: 10px;
+    width: 0%;
+    transition: width 2s ease-in-out;
+    height: 100%;
+    background-image: linear-gradient(92deg, var(--orange-shadow), var(--orange-main));
+}
+
+.topBar-lesson a {
+    margin-bottom: 1%;
+    padding: 2%;
+    background-color: var(--blue-second);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px var(--gray-second);
+    color: var(--blue-main);
+    font-weight: bold;
+    border: 2px solid;
+}
+
+.topBar-lesson a:hover {
+    background-color: var(--blue-main);
+}
+
+/*Lesson Content*/
+.lesson-container {
+    min-height: 100vh;
+    padding: 2rem;
+    background: linear-gradient(to right bottom, #f9fafb, #ced4da);
+    background-blend-mode: lighten;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: var(--gray-main);
+}
+
+.topBar-lesson {
+    width: 100%;
+    max-width: 700px;
+    margin-top: 10%;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: var(--white-second);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+}
+
+.bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--blue-second), var(--orange-main));
+    border-radius: 12px;
+    transition: width 0.4s ease;
+}
+
+.lesson-card {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 20px;
+    backdrop-filter: blur(12px);
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 700px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    animation: fadeIn 0.5s ease-in;
+}
+
+.word-pair {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.english {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--blue-main);
+}
+
+.arabic {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--blue-second);
+}
+
+.definition-section,
+.example-section {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+    .definition-section span,
+    .example-section span {
+        font-weight: bold;
+        color: var(--gray-second);
+    }
+
+.nav-buttons {
+    margin-top: 2.5rem;
+}
+
+.next-btn,
+.next-quiz-link {
+    background-color: var(--orange-main);
+    color: white;
+    padding: 0.9rem 2rem;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 12px var(--orange-shadow);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    .next-btn:hover,
+    .next-quiz-link:hover {
+        background-color: var(--orange-shadow);
+        transform: translateY(-2px);
+    }
+
+.speak-btn {
+    background: none;
+    border: none;
+    font-size: 1.8rem;
+    margin: 0 1rem;
+    cursor: pointer;
+    color: var(--blue-main);
+    transition: transform 0.2s ease;
+}
+
+    .speak-btn:hover {
+        transform: scale(1.2);
+    }
+
+:root {
+    --color-primary: #1e293b;
+    --color-accent: #fbbf24;
+    --color-secondary: #3b82f6;
+    --color-surface: #ffffff;
+    --color-muted: #64748b;
+    --color-dark: #0f172a;
+    --color-bg: #f1f5f9;
+}
+
+.lesson-wrapper {
+    background-color: var(--color-bg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    color: var(--color-primary);
+}
+
+.lesson-progress-container {
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.lesson-progress-bar {
+    width: 80%;
+    height: 14px;
+    background-color: var(--color-muted);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.lesson-progress-fill {
+    height: 100%;
+    background: var(--orange-main);
+    width: 0;
+    transition: width 0.4s ease;
+}
+
+.lesson-progress-text {
+    font-size: 0.9rem;
+    font-weight: bold;
+    background-color: var(--color-primary);
+    color: white;
+    padding: 0.3rem 0.7rem;
+    border-radius: 8px;
+}
+
+.lesson-progress-container img {
+    width: 30px;
+}
+
+.lesson-card {
+    background: var(--color-surface);
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 700px;
+    animation: fadeIn 0.5s ease-in;
+}
+
+.lesson-word-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lesson-en {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--color-primary);
+    margin-bottom: 0.5rem;
+}
+
+.lesson-ar {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--color-secondary);
+}
+
+.lesson-sound img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+    .lesson-sound img:hover {
+        transform: scale(1.2);
+    }
+
+.lesson-text-section {
+    margin-top: 1.5rem;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+    .lesson-text-section strong {
+        color: var(--color-muted);
+    }
+
+.lesson-button-wrapper {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.lesson-next-btn {
+    background-color: var(--color-accent);
+    color: white;
+    padding: 0.8rem 2rem;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 12px var(--color-muted);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    .lesson-next-btn:hover {
+        background-color: #d39e11;
+        transform: translateY(-2px);
+    }
+
+/* Loading & Error */
+.lesson-loading, .lesson-error {
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    color: var(--color-muted);
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/*
+    lesson create
+*/
+
+.create-unit-box {
+    /* example for reference if needed */
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 420px;
+    margin: 40px auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 20px;
+}
+
+    .create-unit-box h2 {
+        text-align: center;
+        font-size: 1.8rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .create-unit-box label {
+        font-size: 1rem;
+        font-weight: bold;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .create-unit-box input {
+        width: 100%;
+        padding: 10px;
+        font-size: 1rem;
+        margin-bottom: 15px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+    }
+
+    .create-unit-box .create-unit-btn {
+        display: block;
+        padding: 12px 25px;
+        font-size: 1rem;
+        font-weight: bold;
+        color: #fff;
+        background-color: #007BFF;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        text-align: center;
+    }
+
+        .create-unit-box .create-unit-btn:hover {
+            background-color: #0056b3;
+        }

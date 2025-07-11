@@ -1,0 +1,105 @@
+{
+  "lesson": "At the Supermarket",
+  "words": [
+    {
+      "word": "shopping cart",
+      "definition": "A large basket with wheels used for shopping.",
+      "arabic": "عربة التسوق",
+      "arabic_definition": "سلة كبيرة على عجلات تستخدم للتسوق.",
+      "example": {
+        "en": "I put the vegetables in the shopping cart.",
+        "ar": "وضعت الخضروات في عربة التسوق."
+      }
+    },
+    {
+      "word": "aisle",
+      "definition": "A long space between shelves.",
+      "arabic": "ممر",
+      "arabic_definition": "مساحة طويلة بين الرفوف.",
+      "example": {
+        "en": "The milk is in the second aisle.",
+        "ar": "الحليب موجود في الممر الثاني."
+      }
+    },
+    {
+      "word": "checkout",
+      "definition": "The area where you pay for your items.",
+      "arabic": "مكان الدفع",
+      "arabic_definition": "المكان الذي تدفع فيه مقابل مشترياتك.",
+      "example": {
+        "en": "We went to the checkout to pay.",
+        "ar": "ذهبنا إلى مكان الدفع للحساب."
+      }
+    },
+    {
+      "word": "cashier",
+      "definition": "The person who handles payments.",
+      "arabic": "أمين الصندوق",
+      "arabic_definition": "الشخص الذي يتعامل مع الدفع.",
+      "example": {
+        "en": "The cashier gave me a receipt.",
+        "ar": "أعطاني أمين الصندوق إيصالًا."
+      }
+    },
+    {
+      "word": "basket",
+      "definition": "A small container used for carrying goods.",
+      "arabic": "سلة",
+      "arabic_definition": "حاوية صغيرة تستخدم لنقل البضائع.",
+      "example": {
+        "en": "I picked up a basket for my groceries.",
+        "ar": "حملت سلة لشراء حاجياتي."
+      }
+    },
+    {
+      "word": "product",
+      "definition": "An item available for sale.",
+      "arabic": "منتج",
+      "arabic_definition": "شيء متاح للبيع.",
+      "example": {
+        "en": "I found a new product at the supermarket.",
+        "ar": "وجدت منتجًا جديدًا في السوبر ماركت."
+      }
+    },
+    {
+      "word": "price tag",
+      "definition": "A label showing the cost of an item.",
+      "arabic": "بطاقة السعر",
+      "arabic_definition": "ملصق يوضح سعر المنتج.",
+      "example": {
+        "en": "Check the price tag before you buy.",
+        "ar": "تحقق من بطاقة السعر قبل الشراء."
+      }
+    },
+    {
+      "word": "offer",
+      "definition": "A special price or deal.",
+      "arabic": "عرض",
+      "arabic_definition": "سعر خاص أو صفقة مميزة.",
+      "example": {
+        "en": "There is an offer on fresh fruit.",
+        "ar": "هناك عرض على الفاكهة الطازجة."
+      }
+    },
+    {
+      "word": "bag",
+      "definition": "A container used to carry goods.",
+      "arabic": "حقيبة",
+      "arabic_definition": "حاوية تستخدم لنقل البضائع.",
+      "example": {
+        "en": "I need a bag for my groceries.",
+        "ar": "أحتاج إلى حقيبة لمشترياتي."
+      }
+    },
+    {
+      "word": "credit card",
+      "definition": "A card used for making payments.",
+      "arabic": "بطاقة ائتمان",
+      "arabic_definition": "بطاقة تستخدم للدفع.",
+      "example": {
+        "en": "I paid with a credit card.",
+        "ar": "دفعت باستخدام بطاقة ائتمان."
+      }
+    }
+  ]
+}

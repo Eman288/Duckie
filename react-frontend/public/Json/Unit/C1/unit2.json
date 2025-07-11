@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 2 - Academic and Professional English",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'research paper'?",
+      "answers": [ "ورقة بحثية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ورقة بحثية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'academic lecture' in Arabic?",
+      "answers": [ "محاضرة أكاديمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "محاضرة أكاديمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المشاركة في الاجتماعات المهنية'?",
+      "answers": [ "participation in professional meetings", "daily routine", "work project", "travel map" ],
+      "correct": "participation in professional meetings",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'job interview' in Arabic?",
+      "answers": [ "مقابلة عمل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مقابلة عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'delivering a presentation'?",
+      "answers": [ "إلقاء عرض تقديمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "إلقاء عرض تقديمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'academic writing' in Arabic?",
+      "answers": [ "الكتابة الأكاديمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الكتابة الأكاديمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التفاعل مع المحاضرة'?",
+      "answers": [ "engaging with a lecture", "daily routine", "work project", "travel map" ],
+      "correct": "engaging with a lecture",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'business meeting' in Arabic?",
+      "answers": [ "اجتماع عمل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اجتماع عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'making a strong impression'?",
+      "answers": [ "ترك انطباع قوي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ترك انطباع قوي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'communication skills' in Arabic?",
+      "answers": [ "مهارات التواصل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مهارات التواصل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'البحث الأكاديمي'?",
+      "answers": [ "academic research", "daily routine", "work project", "travel map" ],
+      "correct": "academic research",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'presenting data' in Arabic?",
+      "answers": [ "عرض البيانات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "عرض البيانات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'effective interviewer'?",
+      "answers": [ "مقابل فعال", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مقابل فعال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'structuring an argument' in Arabic?",
+      "answers": [ "ترتيب الحجة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "ترتيب الحجة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التخطيط للعرض التقديمي'?",
+      "answers": [ "planning a presentation", "daily routine", "work project", "travel map" ],
+      "correct": "planning a presentation",
+      "voiceUrl": ""
+    }
+  ]
+}

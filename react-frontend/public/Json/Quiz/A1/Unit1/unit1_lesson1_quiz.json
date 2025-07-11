@@ -1,0 +1,95 @@
+{
+  "lesson": "Unit 1 - A1 Quiz",
+  "questions": [
+    {
+      "question": "What does 'hello' mean in Arabic?",
+      "answers": [ "وداعا", "شكرا", "مرحبا", "من فضلك" ],
+      "correct": "مرحبا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a polite way to begin a conversation'?",
+      "answers": [ "goodbye", "thanks", "hello", "yes" ],
+      "correct": "hello",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'نعم'?",
+      "answers": [ "no", "please", "yes", "hello" ],
+      "correct": "yes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: She said ___ to her new classmates.",
+      "answers": [ "thank you", "hello", "goodbye", "no" ],
+      "correct": "hello",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following means 'thank you'?",
+      "answers": [ "مرحبا", "نعم", "شكرا", "وداعا" ],
+      "correct": "شكرا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'please'?",
+      "answers": [ "شكرا", "من فضلك", "نعم", "مرحبا" ],
+      "correct": "من فضلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct translation: 'goodbye'",
+      "answers": [ "مرحبا", "وداعا", "شكرا", "لا" ],
+      "correct": "وداعا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a polite expression of gratitude'?",
+      "answers": [ "hello", "yes", "thank you", "please" ],
+      "correct": "thank you",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'please' mean in Arabic?",
+      "answers": [ "من فضلك", "شكرا", "نعم", "لا" ],
+      "correct": "من فضلك",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: A polite way to ask for help is to say ___ first.",
+      "answers": [ "thanks", "yes", "please", "hello" ],
+      "correct": "please",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to English: 'وداعا'.",
+      "answers": [ "hello", "goodbye", "please", "thank you" ],
+      "correct": "goodbye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is a polite way to end a conversation?",
+      "answers": [ "hello", "yes", "please", "goodbye" ],
+      "correct": "goodbye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these means 'نعم'?",
+      "answers": [ "no", "yes", "please", "goodbye" ],
+      "correct": "yes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: He said ___ and left the room.",
+      "answers": [ "goodbye", "thank you", "hello", "please" ],
+      "correct": "goodbye",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct pair: 'شكرا' means ___",
+      "answers": [ "please", "goodbye", "thank you", "yes" ],
+      "correct": "thank you",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+.unit-create-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 24px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.unit-create-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    margin-bottom: 24px;
+    font-weight: 600;
+}
+
+.unit-create-form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.row {
+    display: flex;
+    gap: 24px;
+}
+
+.field-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+    .field-group label {
+        font-weight: 500;
+        color: var(--color-dark);
+        margin-bottom: 8px;
+        font-size: 0.9rem;
+    }
+
+    .field-group input,
+    .field-group select,
+    .field-group textarea {
+        padding: 10px 14px;
+        border: 1px solid var(--color-border);
+        border-radius: 8px;
+        font-size: 1rem;
+        background: var(--color-bg);
+    }
+
+    .field-group textarea {
+        min-height: 80px;
+        resize: vertical;
+    }
+
+.file-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 2px dashed var(--color-border);
+    border-radius: 12px;
+    background: var(--color-bg);
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    text-align: center;
+    transition: border-color 0.2s;
+}
+
+    .file-box:hover {
+        border-color: var(--color-secondary);
+    }
+
+    .file-box input {
+        display: none;
+    }
+
+.create-unit-btn {
+    padding: 12px 24px;
+    background: var(--color-accent);
+    color: var(--color-dark);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    align-self: center;
+    min-width: 200px;
+    font-size: 1.1rem;
+    transition: background 0.2s;
+}
+
+    .create-unit-btn:hover {
+        background: var(--color-secondary);
+        color: var(--color-surface);
+    }
+
+.error-message {
+    color: red;
+    font-weight: 500;
+    text-align: center;
+}

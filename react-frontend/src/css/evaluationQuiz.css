@@ -1,0 +1,208 @@
+/* Main layout */
+.eval-setup {
+    display: flex;
+    min-height: 100vh;
+    font-family: 'Urbanist', sans-serif;
+    background: linear-gradient(135deg, #1e293b, #3b82f6);
+    color: #ffffff;
+}
+
+.eval-left, .eval-right {
+    flex: 1 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Left Side */
+    .eval-left h1 {
+        font-size: var(--size1);
+        margin-bottom: 10px;
+    }
+
+    .eval-left p {
+        font-size: var(--size5);
+        color: var(--white-second);
+        margin-bottom: 30px;
+    }
+
+.eval-image {
+    text-align: left;
+}
+
+    .eval-image img {
+        border-radius: 12px;
+        height: 60%;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+        transition: transform 0.3s ease;
+    }
+
+        .eval-image img:hover {
+            transform: scale(1.05);
+        }
+
+/* Right Side */
+.eval-right {
+    align-items: center;
+    justify-content: center;
+}
+
+.option-button {
+    padding: 15px 30px;
+    font-size: var(--size5);
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    color: var(--white-main);
+    margin: 15px 0;
+    min-width: 300px;
+    transition: all 0.3s ease;
+}
+
+    .option-button:nth-of-type(1) {
+        background-color: var(--orange-main);
+    }
+
+        .option-button:nth-of-type(1):hover {
+            background-color: var(--blue-main);
+        }
+
+    .option-button:nth-of-type(2) {
+        background-color: var(--blue-second);
+    }
+
+        .option-button:nth-of-type(2):hover {
+            background-color: var(--orange-main);
+        }
+
+/* Responsive Styles */
+@media (max-width: 900px) {
+    .eval-setup {
+        flex-direction: column;
+    }
+
+    .eval-left,
+    .eval-right {
+        align-items: center;
+        text-align: center;
+    }
+}
+
+
+/*Quiz*/
+
+.evaluation-quiz-container {
+    max-width: 600px;
+    margin: 40px auto;
+    font-family: 'Urbanist', sans-serif;
+    background-color: var(--white-main);
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(30, 41, 59, 0.15);
+    color: var(--color-primary);
+    animation: fadeIn 0.8s ease;
+}
+
+    .evaluation-quiz-container h2 {
+        font-size: var(--size1);
+        margin-bottom: 10px;
+        color: var(--blue-main);
+        font-weight: 700;
+    }
+
+    .evaluation-quiz-container p {
+        font-size: var(--size5);
+        margin-bottom: 30px;
+        color: var(--color-muted);
+    }
+
+.evaluation-question {
+    font-size: var(--size4);
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: var(--blue-main);
+}
+
+.answers-list {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+    .answers-list li {
+        margin-bottom: 14px;
+    }
+
+    .answers-list label {
+        cursor: pointer;
+        display: block;
+        padding: 12px 18px;
+        border-radius: 10px;
+        border: 2px solid transparent;
+        background-color: #f9f9f9;
+        color: var(--color-primary);
+        font-weight: 600;
+        transition: all 0.3s ease;
+        user-select: none;
+    }
+
+    .answers-list input[type="radio"] {
+        margin-right: 12px;
+        cursor: pointer;
+    }
+
+        .answers-list input[type="radio"]:checked + label,
+        .answers-list label:hover {
+            border-color: var(--orange-main);
+            background-color: var(--background-shade);
+            color: var(--orange-main);
+        }
+
+.next-button {
+    background-color: var(--orange-main);
+    color: var(--white-main);
+    padding: 14px 30px;
+    font-weight: 700;
+    font-size: var(--size5);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .next-button:hover {
+        background-color: var(--blue-main);
+    }
+
+/* Fade-in keyframe from your layout.css */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Responsive for mobile */
+@media (max-width: var(--mobile)) {
+    .evaluation-quiz-container {
+        padding: 20px 20px;
+    }
+
+        .evaluation-quiz-container h2 {
+            font-size: var(--size2);
+        }
+
+    .evaluation-question {
+        font-size: var(--size5);
+    }
+
+    .next-button {
+        width: 100%;
+    }
+}

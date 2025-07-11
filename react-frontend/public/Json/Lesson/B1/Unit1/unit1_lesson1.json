@@ -1,0 +1,105 @@
+{
+  "lesson": "Meeting New People",
+  "words": [
+    {
+      "word": "introduce",
+      "definition": "To tell someone another person's name so they can meet.",
+      "arabic": "يُعَرِّف",
+      "arabic_definition": "يقول اسم شخص لآخر حتى يتعرفوا على بعض.",
+      "example": {
+        "en": "Let me introduce you to my friend.",
+        "ar": "دعني أُعَرِّفك بصديقي."
+      }
+    },
+    {
+      "word": "stranger",
+      "definition": "A person you do not know.",
+      "arabic": "غريب",
+      "arabic_definition": "شخص لا تعرفه.",
+      "example": {
+        "en": "She felt shy talking to strangers.",
+        "ar": "شعرت بالخجل عند التحدث مع الغرباء."
+      }
+    },
+    {
+      "word": "friendly",
+      "definition": "Kind and pleasant to others.",
+      "arabic": "ودود",
+      "arabic_definition": "لطيف ومحبب للآخرين.",
+      "example": {
+        "en": "He is always friendly to new people.",
+        "ar": "هو دائمًا ودود مع الأشخاص الجدد."
+      }
+    },
+    {
+      "word": "shake hands",
+      "definition": "To greet someone by holding hands and moving them slightly.",
+      "arabic": "يصافح",
+      "arabic_definition": "يرحب بشخص عن طريق المصافحة.",
+      "example": {
+        "en": "They shook hands when they met.",
+        "ar": "تصافحوا عندما التقوا."
+      }
+    },
+    {
+      "word": "first impression",
+      "definition": "The first opinion you form about someone.",
+      "arabic": "الانطباع الأول",
+      "arabic_definition": "الرأي الأول الذي يتكون عن شخص.",
+      "example": {
+        "en": "A smile gives a good first impression.",
+        "ar": "الابتسامة تعطي انطباعًا أوليًا جيدًا."
+      }
+    },
+    {
+      "word": "conversation",
+      "definition": "A talk between two or more people.",
+      "arabic": "محادثة",
+      "arabic_definition": "حديث بين شخصين أو أكثر.",
+      "example": {
+        "en": "They had a short conversation before the meeting.",
+        "ar": "أجروا محادثة قصيرة قبل الاجتماع."
+      }
+    },
+    {
+      "word": "icebreaker",
+      "definition": "A thing that helps people start a conversation.",
+      "arabic": "كاسر الجليد",
+      "arabic_definition": "شيء يساعد الناس على بدء المحادثة.",
+      "example": {
+        "en": "A joke is often used as an icebreaker.",
+        "ar": "يُستخدم النكتة كثيرًا لكسر الجليد."
+      }
+    },
+    {
+      "word": "small talk",
+      "definition": "Casual conversation about simple topics.",
+      "arabic": "حديث بسيط",
+      "arabic_definition": "محادثة خفيفة عن مواضيع بسيطة.",
+      "example": {
+        "en": "They made small talk about the weather.",
+        "ar": "تحدثوا بشكل بسيط عن الطقس."
+      }
+    },
+    {
+      "word": "exchange contact",
+      "definition": "To give each other phone numbers or emails.",
+      "arabic": "تبادل معلومات التواصل",
+      "arabic_definition": "تبادل أرقام الهواتف أو البريد الإلكتروني.",
+      "example": {
+        "en": "They exchanged contact after the event.",
+        "ar": "تبادلوا معلومات التواصل بعد الحدث."
+      }
+    },
+    {
+      "word": "open-minded",
+      "definition": "Willing to listen to and accept new ideas or people.",
+      "arabic": "منفتح",
+      "arabic_definition": "يقبل الأفكار الجديدة أو الناس المختلفين.",
+      "example": {
+        "en": "Being open-minded helps in meeting new people.",
+        "ar": "الانفتاح يساعد في التعرف على أشخاص جدد."
+      }
+    }
+  ]
+}

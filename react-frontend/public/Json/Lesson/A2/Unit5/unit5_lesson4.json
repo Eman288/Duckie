@@ -1,0 +1,105 @@
+{
+  "lesson": "Buying Clothes and Asking for Sizes",
+  "words": [
+    {
+      "word": "clothing",
+      "definition": "Items that people wear.",
+      "arabic": "ملابس",
+      "arabic_definition": "الأشياء التي يرتديها الناس.",
+      "example": {
+        "en": "I need new clothing for summer.",
+        "ar": "أحتاج ملابس جديدة للصيف."
+      }
+    },
+    {
+      "word": "size",
+      "definition": "The measurement of a piece of clothing.",
+      "arabic": "مقاس",
+      "arabic_definition": "حجم قطعة من الملابس.",
+      "example": {
+        "en": "What is your shirt size?",
+        "ar": "ما هو مقاس قميصك؟"
+      }
+    },
+    {
+      "word": "fitting room",
+      "definition": "A space where you try on clothes.",
+      "arabic": "غرفة القياس",
+      "arabic_definition": "مكان تجرب فيه الملابس.",
+      "example": {
+        "en": "The fitting room is over there.",
+        "ar": "غرفة القياس موجودة هناك."
+      }
+    },
+    {
+      "word": "sale",
+      "definition": "A period when goods are sold at lower prices.",
+      "arabic": "تخفيضات",
+      "arabic_definition": "فترة يتم فيها بيع البضائع بأسعار أقل.",
+      "example": {
+        "en": "The shop is having a summer sale.",
+        "ar": "المتجر لديه تخفيضات صيفية."
+      }
+    },
+    {
+      "word": "brand",
+      "definition": "The name of a company making clothes.",
+      "arabic": "علامة تجارية",
+      "arabic_definition": "اسم الشركة التي تنتج الملابس.",
+      "example": {
+        "en": "This is a popular brand.",
+        "ar": "هذه علامة تجارية مشهورة."
+      }
+    },
+    {
+      "word": "try on",
+      "definition": "To wear a piece of clothing to see if it fits.",
+      "arabic": "يقيس",
+      "arabic_definition": "يرتدي قطعة من الملابس ليرى إن كانت مناسبة.",
+      "example": {
+        "en": "May I try on this shirt?",
+        "ar": "هل يمكنني قياس هذا القميص؟"
+      }
+    },
+    {
+      "word": "return",
+      "definition": "To give an item back to the shop.",
+      "arabic": "يعيد",
+      "arabic_definition": "يعيد المنتج إلى المتجر.",
+      "example": {
+        "en": "I want to return this dress.",
+        "ar": "أريد إعادة هذا الفستان."
+      }
+    },
+    {
+      "word": "exchange",
+      "definition": "To trade an item for another.",
+      "arabic": "استبدال",
+      "arabic_definition": "استبدال منتج بآخر.",
+      "example": {
+        "en": "I exchanged the shirt for a larger size.",
+        "ar": "استبدلت القميص بمقاس أكبر."
+      }
+    },
+    {
+      "word": "fitting",
+      "definition": "Trying on clothes to check the size.",
+      "arabic": "قياس",
+      "arabic_definition": "تجربة الملابس للتحقق من المقاس.",
+      "example": {
+        "en": "I am going for a fitting.",
+        "ar": "سأذهب لإجراء القياس."
+      }
+    },
+    {
+      "word": "clerk",
+      "definition": "A person working in a shop.",
+      "arabic": "موظف مبيعات",
+      "arabic_definition": "شخص يعمل في متجر.",
+      "example": {
+        "en": "The clerk helped me find my size.",
+        "ar": "ساعدني موظف المبيعات على العثور على مقاسي."
+      }
+    }
+  ]
+}

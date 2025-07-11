@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Furniture and Objects Quiz",
+  "questions": [
+    {
+      "question": "What is the English word for 'كرسي'?",
+      "answers": [
+        "table",
+        "bed",
+        "sofa",
+        "chair"
+      ],
+      "correct": "chair",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which item gives light?",
+      "answers": [
+        "lamp",
+        "table",
+        "cupboard",
+        "sofa"
+      ],
+      "correct": "lamp",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Where do you sleep?",
+      "answers": [
+        "chair",
+        "sofa",
+        "bed",
+        "table"
+      ],
+      "correct": "bed",
+      "voiceUrl": ""
+    },
+    {
+      "question": "'Mirror' in Arabic is ___",
+      "answers": [
+        "سجادة",
+        "مرآة",
+        "مصباح",
+        "كرسي"
+      ],
+      "correct": "مرآة",
+      "voiceUrl": ""
+    }
+  ]
+}

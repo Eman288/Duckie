@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Hobbies",
+  "words": [
+    {
+      "word": "hobby",
+      "definition": "An activity done for enjoyment in your free time.",
+      "arabic": "هواية",
+      "arabic_definition": "نشاط يتم القيام به من أجل المتعة في وقت الفراغ.",
+      "example": {
+        "en": "My hobby is painting.",
+        "ar": "هوايتي هي الرسم."
+      }
+    },
+    {
+      "word": "collect",
+      "definition": "To gather things, often as a hobby.",
+      "arabic": "يجمع",
+      "arabic_definition": "أن تجمع أشياء، غالبًا كهواية.",
+      "example": {
+        "en": "I like to collect stamps.",
+        "ar": "أحب جمع الطوابع."
+      }
+    },
+    {
+      "word": "paint",
+      "definition": "To make a picture using colors.",
+      "arabic": "يرسم",
+      "arabic_definition": "لرسم صورة باستخدام الألوان.",
+      "example": {
+        "en": "She paints landscapes in her free time.",
+        "ar": "هي ترسم مناظر طبيعية في وقت فراغها."
+      }
+    },
+    {
+      "word": "read",
+      "definition": "To look at and understand written words.",
+      "arabic": "يقرأ",
+      "arabic_definition": "أن تنظر إلى الكلمات المكتوبة وتفهمها.",
+      "example": {
+        "en": "He reads books every evening.",
+        "ar": "هو يقرأ الكتب كل مساء."
+      }
+    },
+    {
+      "word": "play",
+      "definition": "To take part in a game or sport.",
+      "arabic": "يلعب",
+      "arabic_definition": "أن تشارك في لعبة أو رياضة.",
+      "example": {
+        "en": "They play football after school.",
+        "ar": "هم يلعبون كرة القدم بعد المدرسة."
+      }
+    },
+    {
+      "word": "music",
+      "definition": "Sounds made by instruments or voices arranged in a way that is pleasant.",
+      "arabic": "موسيقى",
+      "arabic_definition": "أصوات تصدرها الآلات أو الأصوات البشرية بطريقة ممتعة.",
+      "example": {
+        "en": "I love listening to music.",
+        "ar": "أحب الاستماع إلى الموسيقى."
+      }
+    },
+    {
+      "word": "dance",
+      "definition": "To move your body to music.",
+      "arabic": "يرقص",
+      "arabic_definition": "تحريك الجسم مع الموسيقى.",
+      "example": {
+        "en": "She likes to dance at parties.",
+        "ar": "تحب أن ترقص في الحفلات."
+      }
+    },
+    {
+      "word": "watch",
+      "definition": "To look at something for a period of time.",
+      "arabic": "يشاهد",
+      "arabic_definition": "أن تنظر إلى شيء لفترة من الوقت.",
+      "example": {
+        "en": "We watch movies on weekends.",
+        "ar": "نشاهد الأفلام في عطلات نهاية الأسبوع."
+      }
+    },
+    {
+      "word": "cook",
+      "definition": "To prepare food by heating it.",
+      "arabic": "يطبخ",
+      "arabic_definition": "تحضير الطعام عن طريق تسخينه.",
+      "example": {
+        "en": "He cooks Italian food.",
+        "ar": "هو يطبخ طعامًا إيطاليًا."
+      }
+    },
+    {
+      "word": "photography",
+      "definition": "The activity or job of taking pictures.",
+      "arabic": "تصوير",
+      "arabic_definition": "نشاط أو وظيفة التقاط الصور.",
+      "example": {
+        "en": "Photography is her favorite hobby.",
+        "ar": "التصوير هو هوايتها المفضلة."
+      }
+    }
+  ]
+}

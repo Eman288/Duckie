@@ -1,0 +1,105 @@
+{
+  "lesson": "Analyzing Media and Advertising",
+  "words": [
+    {
+      "word": "target audience",
+      "definition": "The group of people an advertisement is intended to reach.",
+      "arabic": "الجمهور المستهدف",
+      "arabic_definition": "الفئة التي يتم توجيه الإعلان إليها.",
+      "example": {
+        "en": "The campaign is aimed at a younger target audience.",
+        "ar": "تهدف الحملة إلى جمهور أصغر سنًا."
+      }
+    },
+    {
+      "word": "brand",
+      "definition": "A name or symbol representing a company or product.",
+      "arabic": "علامة تجارية",
+      "arabic_definition": "اسم أو رمز يمثل شركة أو منتجًا.",
+      "example": {
+        "en": "The brand is well-known internationally.",
+        "ar": "العلامة التجارية مشهورة عالميًا."
+      }
+    },
+    {
+      "word": "slogan",
+      "definition": "A short, memorable phrase used in advertising.",
+      "arabic": "شعار",
+      "arabic_definition": "عبارة قصيرة ومميزة تستخدم في الإعلانات.",
+      "example": {
+        "en": "Their slogan captures the essence of the brand.",
+        "ar": "شعارهم يلخص جوهر العلامة التجارية."
+      }
+    },
+    {
+      "word": "campaign",
+      "definition": "A coordinated series of advertisements promoting a product.",
+      "arabic": "حملة",
+      "arabic_definition": "سلسلة منسقة من الإعلانات التي تروج لمنتج.",
+      "example": {
+        "en": "The campaign increased sales significantly.",
+        "ar": "زادت الحملة من المبيعات بشكل ملحوظ."
+      }
+    },
+    {
+      "word": "influence",
+      "definition": "The ability to affect the behavior or opinions of others.",
+      "arabic": "تأثير",
+      "arabic_definition": "القدرة على التأثير على سلوك أو آراء الآخرين.",
+      "example": {
+        "en": "The ad aims to influence consumer behavior.",
+        "ar": "تهدف الإعلان إلى التأثير على سلوك المستهلك."
+      }
+    },
+    {
+      "word": "medium",
+      "definition": "A channel through which information is communicated.",
+      "arabic": "وسيلة",
+      "arabic_definition": "القناة التي يتم من خلالها توصيل المعلومات.",
+      "example": {
+        "en": "Television is a popular medium for advertising.",
+        "ar": "التلفزيون هو وسيلة شائعة للإعلان."
+      }
+    },
+    {
+      "word": "endorsement",
+      "definition": "A public recommendation or support for a product.",
+      "arabic": "تأييد",
+      "arabic_definition": "توصية عامة أو دعم لمنتج.",
+      "example": {
+        "en": "The celebrity gave an endorsement for the brand.",
+        "ar": "قدم المشهور تأييدًا للعلامة التجارية."
+      }
+    },
+    {
+      "word": "consumer behavior",
+      "definition": "How people make decisions about purchasing products.",
+      "arabic": "سلوك المستهلك",
+      "arabic_definition": "طريقة اتخاذ الأشخاص لقرارات حول شراء المنتجات.",
+      "example": {
+        "en": "Understanding consumer behavior is crucial for marketing.",
+        "ar": "فهم سلوك المستهلك مهم لنجاح التسويق."
+      }
+    },
+    {
+      "word": "message",
+      "definition": "The information or theme conveyed by an advertisement.",
+      "arabic": "رسالة",
+      "arabic_definition": "المعلومات أو الفكرة التي يحملها الإعلان.",
+      "example": {
+        "en": "The message of the campaign was about sustainability.",
+        "ar": "كانت رسالة الحملة عن الاستدامة."
+      }
+    },
+    {
+      "word": "aesthetic",
+      "definition": "The visual style or beauty of an advertisement.",
+      "arabic": "جمالي",
+      "arabic_definition": "الطابع البصري أو الجمال للإعلان.",
+      "example": {
+        "en": "The aesthetic of the ad appealed to a younger audience.",
+        "ar": "الطابع الجمالي للإعلان جذب جمهورًا أصغر سنًا."
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lesson": "A2 Unit 2 - Daily Routines at Work Quiz",
+  "questions": [
+    {
+      "question": "What does 'schedule' mean in Arabic?",
+      "answers": [
+        "جدول",
+        "مهمة",
+        "وقت",
+        "ساعة"
+      ],
+      "correct": "جدول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to start work for the day'?",
+      "answers": [
+        "take a break",
+        "arrive",
+        "clock in",
+        "check email"
+      ],
+      "correct": "clock in",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I always ___ my emails first thing in the morning.",
+      "answers": [
+        "read",
+        "write",
+        "delete",
+        "reply"
+      ],
+      "correct": "read",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'break time'?",
+      "answers": [
+        "وقت الراحة",
+        "وقت متأخر",
+        "مقابلة",
+        "فرصة"
+      ],
+      "correct": "وقت الراحة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is part of a work routine?",
+      "answers": [
+        "sleeping",
+        "checking in",
+        "shopping",
+        "running"
+      ],
+      "correct": "checking in",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct word for 'a task you do every day at work':",
+      "answers": [
+        "habit",
+        "routine",
+        "job",
+        "hobby"
+      ],
+      "correct": "routine",
+      "voiceUrl": ""
+    }
+  ]
+}

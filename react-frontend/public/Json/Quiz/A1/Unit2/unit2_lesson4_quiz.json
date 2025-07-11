@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 2 - Days of the Week Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'Monday'?",
+      "answers": [
+        "السبت",
+        "الإثنين",
+        "الأربعاء",
+        "الخميس"
+      ],
+      "correct": "الإثنين",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which day comes after Tuesday?",
+      "answers": [
+        "Wednesday",
+        "Monday",
+        "Friday",
+        "Sunday"
+      ],
+      "correct": "Wednesday",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the first day of the week?",
+      "answers": [
+        "Monday",
+        "Saturday",
+        "Sunday",
+        "Friday"
+      ],
+      "correct": "Sunday",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'Saturday' into Arabic.",
+      "answers": [
+        "الجمعة",
+        "الأحد",
+        "الثلاثاء",
+        "السبت"
+      ],
+      "correct": "السبت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which day is before Thursday?",
+      "answers": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": "Wednesday",
+      "voiceUrl": ""
+    }
+  ]
+}

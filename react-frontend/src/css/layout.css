@@ -1,0 +1,211 @@
+﻿:root {
+    /* 🌈 New Color Values */
+    --color-primary: #1e293b; /* Deep navy (headers, nav) */
+    --color-accent: #fbbf24; /* Yellow-orange (buttons, CTAs) */
+    --color-secondary: #3b82f6; /* Bright blue (hover, link) */
+    --color-surface: #ffffff; /* Surface backgrounds */
+    --color-muted: #64748b; /* Muted text */
+    --color-dark: #0f172a; /* Very dark overlay */
+    --color-bg: #f1f5f9; /* Page background */
+    --color-border: #e2e8f0; /* Soft border and divider */
+    /* 🏷️ Mapped to Existing Variable Names */
+    --blue-main: var(--color-primary);
+    --white-main: var(--color-surface);
+    --blue-second:var(--color-secondary);
+    --orange-main: var(--color-accent);
+    --white-second: var(--color-muted);
+    --orange-shadow: var(--color-dark);
+    --background-shade: var(--color-bg);
+    --gray-main: var(--color-border);
+    /*--blue-shadow: #0f172a;*/
+    /*--gray-second: #64748b;*/
+    /* ✏️ Font Sizes */
+    --size1: 2.5rem;
+    --size2: 2rem;
+    --size3: 1.7rem;
+    --size4: 1.5rem;
+    --size5: 1.2rem;
+    --size6: 1rem;
+    --size7: 0.8rem;
+    /* 📱 Screen Sizes */
+    --tab: 700px;
+    --mobile: 400px;
+    /* Font Sizes */
+    --size1: 2.5rem;
+    --size2: 2rem;
+    --size3: 1.7rem;
+    --size4: 1.5rem;
+    --size5: 1.2rem;
+    --size6: 1rem;
+    --size7: 0.8rem;
+    /* Screen Sizes */
+    --tab: 700px;
+    --mobile: 400px;
+}
+
+
+/* General Reset */
+* {
+    box-sizing: border-box;
+    transition: .5s all;
+}
+
+body {
+    height: fit-content;
+    font-family: 'Urbanist', sans-serif;
+    --sb-size: 14px;
+}
+
+body {
+    --sb-track-color: var(--gray-second);
+    --sb-thumb-color: var(--blue-main);
+    --sb-size: 14px;
+}
+
+    body::-webkit-scrollbar {
+        width: var(--sb-size)
+    }
+
+    body::-webkit-scrollbar-track {
+        background: var(--sb-track-color);
+        border-radius: 3px;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background: var(--sb-thumb-color);
+        border-radius: 3px;
+    }
+
+@supports not selector(::-webkit-scrollbar) {
+    body {
+        scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+    }
+}
+
+a {
+    color: var(--orange-main);
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+    a:hover {
+        color: var(--blue-main);
+    }
+
+/* Animations */
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Nav */
+nav {
+    height: 14vh;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+    box-shadow: 0px 4px 5px var(--gray-main);
+    background-color: var( --white-main);
+    padding: 0 2%;
+    animation: fadeInDown 0.5s ease-out;
+}
+
+.buttons .logo {
+    filter: invert(0);
+    /* background-color: transparent; */
+}
+
+.buttons .pro {
+    background-color: transparent;
+}
+
+    nav img {
+        height: 100%;
+        filter: invert(1);
+    }
+
+    nav .img {
+        height: 100%;
+        width: 15%;
+    }
+
+    nav ul {
+        list-style: none;
+        display: flex;
+        width: 50%;
+        margin: 0;
+        padding: 0;
+        font-size: var(--size5);
+        font-weight: bold;
+        justify-content: space-evenly;
+    }
+
+    nav li a:hover {
+        color: var(--blue-main);
+    }
+
+    /* Buttons */
+    nav.nav1 .buttons img {
+        width: 25%;
+    }
+
+.nav1 .buttons a {
+    border: 0;
+}
+
+.buttons {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    animation: fadeIn 1s ease-out;
+}
+
+.buttons a {
+    background-color: var(--orange-main);
+    text-align: center;
+    border: 3px solid var(--orange-main);
+    font-weight: bold;
+    font-size: var(--size6);
+    width: 80%;
+    padding: 10px 16px;
+    color: var(--background-shade);
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+    .buttons .register:hover {
+        background-color: var(--blue-main);
+        color: var(--white-main);
+    }
+
+    .buttons .login {
+        background-color: transparent;
+        font-weight: bold;
+        border: 0;
+    }
+
+        .buttons .login:hover {
+            color: var(--blue-main);
+        }

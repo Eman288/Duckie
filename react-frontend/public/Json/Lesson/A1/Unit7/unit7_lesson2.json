@@ -1,0 +1,55 @@
+{
+  "lesson": "Transportation",
+  "words": [
+    {
+      "word": "bus",
+      "definition": "A large vehicle that carries passengers by road.",
+      "arabic": "حافلة",
+      "arabic_definition": "مركبة كبيرة تنقل الركاب على الطريق.",
+      "example": {
+        "en": "I take the bus to school.",
+        "ar": "أركب الحافلة إلى المدرسة."
+      }
+    },
+    {
+      "word": "car",
+      "definition": "A road vehicle with an engine, used for transporting people.",
+      "arabic": "سيارة",
+      "arabic_definition": "مركبة بمحرك تُستخدم لنقل الأشخاص.",
+      "example": {
+        "en": "My father drives a car.",
+        "ar": "والدي يقود سيارة."
+      }
+    },
+    {
+      "word": "train",
+      "definition": "A long vehicle that runs on tracks and carries people or goods.",
+      "arabic": "قطار",
+      "arabic_definition": "مركبة طويلة تسير على سكك حديدية وتنقل الأشخاص أو البضائع.",
+      "example": {
+        "en": "We traveled to another city by train.",
+        "ar": "سافرنا إلى مدينة أخرى بالقطار."
+      }
+    },
+    {
+      "word": "bicycle",
+      "definition": "A two-wheeled vehicle that you ride by pedaling.",
+      "arabic": "دراجة",
+      "arabic_definition": "مركبة ذات عجلتين تُقاد بواسطة الدواسات.",
+      "example": {
+        "en": "He rides his bicycle every morning.",
+        "ar": "يركب دراجته كل صباح."
+      }
+    },
+    {
+      "word": "taxi",
+      "definition": "A car that you pay to take you somewhere.",
+      "arabic": "سيارة أجرة",
+      "arabic_definition": "سيارة تدفع مقابل ركوبها لتوصيلك إلى مكان ما.",
+      "example": {
+        "en": "We took a taxi to the airport.",
+        "ar": "أخذنا سيارة أجرة إلى المطار."
+      }
+    }
+  ]
+}

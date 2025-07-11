@@ -1,0 +1,105 @@
+{
+  "lesson": "Furniture and Objects",
+  "words": [
+    {
+      "word": "table",
+      "definition": "A piece of furniture with a flat top and one or more legs.",
+      "arabic": "طاولة",
+      "arabic_definition": "قطعة أثاث لها سطح مسطح وأرجل.",
+      "example": {
+        "en": "This is a table.",
+        "ar": "هذا طاولة."
+      }
+    },
+    {
+      "word": "chair",
+      "definition": "A piece of furniture for one person to sit on.",
+      "arabic": "كرسي",
+      "arabic_definition": "قطعة أثاث للجلوس لشخص واحد.",
+      "example": {
+        "en": "This is a chair.",
+        "ar": "هذا كرسي."
+      }
+    },
+    {
+      "word": "sofa",
+      "definition": "A comfortable seat for several people.",
+      "arabic": "أريكة",
+      "arabic_definition": "مقعد مريح لعدة أشخاص.",
+      "example": {
+        "en": "This is a sofa.",
+        "ar": "هذا أريكة."
+      }
+    },
+    {
+      "word": "bed",
+      "definition": "A piece of furniture used for sleeping on.",
+      "arabic": "سرير",
+      "arabic_definition": "قطعة أثاث للنوم.",
+      "example": {
+        "en": "This is a bed.",
+        "ar": "هذا سرير."
+      }
+    },
+    {
+      "word": "lamp",
+      "definition": "A device that gives light.",
+      "arabic": "مصباح",
+      "arabic_definition": "جهاز يعطي ضوءاً.",
+      "example": {
+        "en": "This is a lamp.",
+        "ar": "هذا مصباح."
+      }
+    },
+    {
+      "word": "mirror",
+      "definition": "A piece of glass that reflects images.",
+      "arabic": "مرآة",
+      "arabic_definition": "زجاج يعكس الصور.",
+      "example": {
+        "en": "This is a mirror.",
+        "ar": "هذا مرآة."
+      }
+    },
+    {
+      "word": "cupboard",
+      "definition": "A cabinet with shelves to store things.",
+      "arabic": "خزانة",
+      "arabic_definition": "خزانة تحتوي على رفوف لتخزين الأشياء.",
+      "example": {
+        "en": "This is a cupboard.",
+        "ar": "هذا خزانة."
+      }
+    },
+    {
+      "word": "rug",
+      "definition": "A small carpet used on the floor.",
+      "arabic": "سجادة",
+      "arabic_definition": "سجادة صغيرة توضع على الأرض.",
+      "example": {
+        "en": "This is a rug.",
+        "ar": "هذا سجادة."
+      }
+    },
+    {
+      "word": "shelf",
+      "definition": "A flat board to hold things on a wall or in a cupboard.",
+      "arabic": "رف",
+      "arabic_definition": "لوح مسطح لحمل الأشياء على الحائط أو في الخزانة.",
+      "example": {
+        "en": "This is a shelf.",
+        "ar": "هذا رف."
+      }
+    },
+    {
+      "word": "clock",
+      "definition": "A device to show time.",
+      "arabic": "ساعة حائط",
+      "arabic_definition": "جهاز لعرض الوقت.",
+      "example": {
+        "en": "This is a clock.",
+        "ar": "هذا ساعة حائط."
+      }
+    }
+  ]
+}

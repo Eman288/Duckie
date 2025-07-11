@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Prepositions of Place Quiz",
+  "questions": [
+    {
+      "question": "What is the English word for 'فوق'?",
+      "answers": [
+        "under",
+        "behind",
+        "above",
+        "across"
+      ],
+      "correct": "above",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which means 'near'?",
+      "answers": [
+        "far",
+        "across",
+        "close",
+        "near"
+      ],
+      "correct": "near",
+      "voiceUrl": ""
+    },
+    {
+      "question": "'Into' means moving ___ something.",
+      "answers": [
+        "outside",
+        "around",
+        "inside",
+        "under"
+      ],
+      "correct": "inside",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which preposition means 'عبر'?",
+      "answers": [
+        "along",
+        "through",
+        "across",
+        "at"
+      ],
+      "correct": "across",
+      "voiceUrl": ""
+    }
+  ]
+}

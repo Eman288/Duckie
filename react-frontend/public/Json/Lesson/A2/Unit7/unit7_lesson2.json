@@ -1,0 +1,105 @@
+{
+  "lesson": "Seasons and Activities",
+  "words": [
+    {
+      "word": "spring",
+      "definition": "The season when flowers bloom.",
+      "arabic": "الربيع",
+      "arabic_definition": "الفصل الذي تتفتح فيه الأزهار.",
+      "example": {
+        "en": "Spring is a beautiful season.",
+        "ar": "الربيع فصل رائع."
+      }
+    },
+    {
+      "word": "summer",
+      "definition": "The hottest season of the year.",
+      "arabic": "الصيف",
+      "arabic_definition": "الفصل الأكثر حرارة في العام.",
+      "example": {
+        "en": "We go swimming in summer.",
+        "ar": "نذهب للسباحة في الصيف."
+      }
+    },
+    {
+      "word": "autumn",
+      "definition": "The season when leaves fall.",
+      "arabic": "الخريف",
+      "arabic_definition": "الفصل الذي تتساقط فيه أوراق الأشجار.",
+      "example": {
+        "en": "Leaves change color in autumn.",
+        "ar": "تتغير ألوان الأوراق في الخريف."
+      }
+    },
+    {
+      "word": "winter",
+      "definition": "The coldest season of the year.",
+      "arabic": "الشتاء",
+      "arabic_definition": "الفصل الأكثر برودة في العام.",
+      "example": {
+        "en": "It snows in winter.",
+        "ar": "يتساقط الثلج في الشتاء."
+      }
+    },
+    {
+      "word": "picnic",
+      "definition": "Eating a meal outside.",
+      "arabic": "نزهة",
+      "arabic_definition": "تناول الطعام في الهواء الطلق.",
+      "example": {
+        "en": "We had a picnic in the park.",
+        "ar": "قمنا بنزهة في الحديقة."
+      }
+    },
+    {
+      "word": "swimming",
+      "definition": "Moving through water.",
+      "arabic": "سباحة",
+      "arabic_definition": "الحركة عبر الماء.",
+      "example": {
+        "en": "I enjoy swimming in summer.",
+        "ar": "أستمتع بالسباحة في الصيف."
+      }
+    },
+    {
+      "word": "hiking",
+      "definition": "Walking in nature.",
+      "arabic": "المشي لمسافات طويلة",
+      "arabic_definition": "المشي في الطبيعة.",
+      "example": {
+        "en": "We went hiking in the mountains.",
+        "ar": "ذهبنا للمشي لمسافات طويلة في الجبال."
+      }
+    },
+    {
+      "word": "camping",
+      "definition": "Staying overnight in a tent.",
+      "arabic": "التخييم",
+      "arabic_definition": "المبيت في خيمة.",
+      "example": {
+        "en": "They went camping in the forest.",
+        "ar": "ذهبوا للتخييم في الغابة."
+      }
+    },
+    {
+      "word": "barbecue",
+      "definition": "Cooking meat over a fire.",
+      "arabic": "شواء",
+      "arabic_definition": "طهي اللحم على النار.",
+      "example": {
+        "en": "We had a barbecue in the garden.",
+        "ar": "قمنا بالشواء في الحديقة."
+      }
+    },
+    {
+      "word": "sightseeing",
+      "definition": "Visiting places of interest.",
+      "arabic": "مشاهدة المعالم",
+      "arabic_definition": "زيارة الأماكن التي تثير الاهتمام.",
+      "example": {
+        "en": "We went sightseeing in the city.",
+        "ar": "ذهبنا لمشاهدة المعالم في المدينة."
+      }
+    }
+  ]
+}

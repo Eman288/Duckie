@@ -1,0 +1,85 @@
+{
+  "lesson": "Talking About People",
+  "words": [
+    {
+      "word": "man",
+      "definition": "An adult male human.",
+      "arabic": "رجل",
+      "arabic_definition": "ذكر بالغ.",
+      "example": {
+        "en": "The man is tall.",
+        "ar": "الرجل طويل."
+      }
+    },
+    {
+      "word": "woman",
+      "definition": "An adult female human.",
+      "arabic": "امرأة",
+      "arabic_definition": "أنثى بالغة.",
+      "example": {
+        "en": "That woman is a teacher.",
+        "ar": "تلك المرأة معلمة."
+      }
+    },
+    {
+      "word": "boy",
+      "definition": "A male child.",
+      "arabic": "ولد",
+      "arabic_definition": "طفل ذكر.",
+      "example": {
+        "en": "The boy is playing.",
+        "ar": "الولد يلعب."
+      }
+    },
+    {
+      "word": "girl",
+      "definition": "A female child.",
+      "arabic": "بنت",
+      "arabic_definition": "طفلة أنثى.",
+      "example": {
+        "en": "The girl is reading.",
+        "ar": "البنت تقرأ."
+      }
+    },
+    {
+      "word": "person",
+      "definition": "A human being.",
+      "arabic": "شخص",
+      "arabic_definition": "إنسان.",
+      "example": {
+        "en": "He is a nice person.",
+        "ar": "هو شخص لطيف."
+      }
+    },
+    {
+      "word": "people",
+      "definition": "More than one person.",
+      "arabic": "ناس",
+      "arabic_definition": "جمع كلمة شخص.",
+      "example": {
+        "en": "Many people live in the city.",
+        "ar": "يعيش الكثير من الناس في المدينة."
+      }
+    },
+    {
+      "word": "friend",
+      "definition": "A person you like and enjoy being with.",
+      "arabic": "صديق",
+      "arabic_definition": "شخص تحبه وتستمتع بالوقت معه.",
+      "example": {
+        "en": "She is my best friend.",
+        "ar": "هي أفضل صديقة لي."
+      }
+    },
+    {
+      "word": "neighbor",
+      "definition": "A person who lives near you.",
+      "arabic": "جار",
+      "arabic_definition": "شخص يعيش بالقرب منك.",
+      "example": {
+        "en": "My neighbor is very friendly.",
+        "ar": "جاري ودود جداً."
+      }
+    }
+  ]
+}

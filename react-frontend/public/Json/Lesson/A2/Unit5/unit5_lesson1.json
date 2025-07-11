@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Meals",
+  "words": [
+    {
+      "word": "breakfast",
+      "definition": "The first meal of the day.",
+      "arabic": "فطور",
+      "arabic_definition": "أول وجبة في اليوم.",
+      "example": {
+        "en": "I have breakfast every morning.",
+        "ar": "أتناول الفطور كل صباح."
+      }
+    },
+    {
+      "word": "lunch",
+      "definition": "A meal eaten in the middle of the day.",
+      "arabic": "الغداء",
+      "arabic_definition": "وجبة تؤكل في منتصف النهار.",
+      "example": {
+        "en": "We had lunch together.",
+        "ar": "تناولنا الغداء معًا."
+      }
+    },
+    {
+      "word": "dinner",
+      "definition": "The main meal eaten in the evening.",
+      "arabic": "العشاء",
+      "arabic_definition": "الوجبة الرئيسية التي تؤكل في المساء.",
+      "example": {
+        "en": "I cook dinner for the family.",
+        "ar": "أطبخ العشاء للعائلة."
+      }
+    },
+    {
+      "word": "snack",
+      "definition": "A small amount of food eaten between meals.",
+      "arabic": "وجبة خفيفة",
+      "arabic_definition": "كمية صغيرة من الطعام تؤكل بين الوجبات.",
+      "example": {
+        "en": "I had a snack after school.",
+        "ar": "تناولت وجبة خفيفة بعد المدرسة."
+      }
+    },
+    {
+      "word": "menu",
+      "definition": "A list of available dishes in a restaurant.",
+      "arabic": "قائمة الطعام",
+      "arabic_definition": "قائمة بالأطباق المتاحة في مطعم.",
+      "example": {
+        "en": "We looked at the menu before ordering.",
+        "ar": "نظرنا إلى قائمة الطعام قبل الطلب."
+      }
+    },
+    {
+      "word": "appetizer",
+      "definition": "A small dish eaten before the main meal.",
+      "arabic": "مقبلات",
+      "arabic_definition": "طبق صغير يؤكل قبل الوجبة الرئيسية.",
+      "example": {
+        "en": "We ordered an appetizer before the meal.",
+        "ar": "طلبنا مقبلات قبل الوجبة."
+      }
+    },
+    {
+      "word": "dessert",
+      "definition": "A sweet dish eaten after the main meal.",
+      "arabic": "حلوى",
+      "arabic_definition": "طبق حلو يؤكل بعد الوجبة الرئيسية.",
+      "example": {
+        "en": "I had ice cream for dessert.",
+        "ar": "تناولت مثلجات كحلوى."
+      }
+    },
+    {
+      "word": "drink",
+      "definition": "A liquid that you can consume.",
+      "arabic": "مشروب",
+      "arabic_definition": "سائل يمكن شربه.",
+      "example": {
+        "en": "Would you like a drink with your meal?",
+        "ar": "هل تود مشروبًا مع وجبتك؟"
+      }
+    },
+    {
+      "word": "spicy",
+      "definition": "Having a strong, hot flavor.",
+      "arabic": "حار",
+      "arabic_definition": "ذو نكهة قوية وحارة.",
+      "example": {
+        "en": "This dish is very spicy.",
+        "ar": "هذا الطبق حار جداً."
+      }
+    },
+    {
+      "word": "tasty",
+      "definition": "Having a good flavor.",
+      "arabic": "لذيذ",
+      "arabic_definition": "ذو طعم جيد.",
+      "example": {
+        "en": "The pizza is very tasty.",
+        "ar": "البيتزا لذيذة جداً."
+      }
+    }
+  ]
+}

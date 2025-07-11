@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing a Past Trip (Past Simple)",
+  "words": [
+    {
+      "word": "visited",
+      "definition": "Went to see a place or person.",
+      "arabic": "زار",
+      "arabic_definition": "ذهب لرؤية مكان أو شخص.",
+      "example": {
+        "en": "I visited London last summer.",
+        "ar": "زرت لندن الصيف الماضي."
+      }
+    },
+    {
+      "word": "traveled",
+      "definition": "Went from one place to another.",
+      "arabic": "سافر",
+      "arabic_definition": "ذهب من مكان إلى آخر.",
+      "example": {
+        "en": "We traveled by train across the country.",
+        "ar": "سافرنا بالقطار عبر البلاد."
+      }
+    },
+    {
+      "word": "stayed",
+      "definition": "Lived temporarily in a place.",
+      "arabic": "أقام",
+      "arabic_definition": "عاش مؤقتًا في مكان.",
+      "example": {
+        "en": "They stayed in a hotel near the beach.",
+        "ar": "أقاموا في فندق قرب الشاطئ."
+      }
+    },
+    {
+      "word": "saw",
+      "definition": "Looked at or watched something.",
+      "arabic": "رأى",
+      "arabic_definition": "نظر إلى شيء أو شاهده.",
+      "example": {
+        "en": "I saw many famous landmarks.",
+        "ar": "رأيت العديد من المعالم الشهيرة."
+      }
+    },
+    {
+      "word": "enjoyed",
+      "definition": "Had a good time.",
+      "arabic": "استمتع",
+      "arabic_definition": "قضى وقتًا ممتعًا.",
+      "example": {
+        "en": "We enjoyed the local food and culture.",
+        "ar": "استمتعنا بالطعام والثقافة المحلية."
+      }
+    },
+    {
+      "word": "bought",
+      "definition": "Got something by paying money.",
+      "arabic": "اشترى",
+      "arabic_definition": "حصل على شيء بدفع المال.",
+      "example": {
+        "en": "I bought souvenirs for my family.",
+        "ar": "اشتريت تذكارات لعائلتي."
+      }
+    },
+    {
+      "word": "took",
+      "definition": "Captured a photo or used transport.",
+      "arabic": "التقط (صورة) أو استخدم (وسيلة نقل)",
+      "arabic_definition": "التقط صورة أو استخدم وسيلة نقل.",
+      "example": {
+        "en": "I took many photos during my trip.",
+        "ar": "التقطت العديد من الصور خلال رحلتي."
+      }
+    },
+    {
+      "word": "went",
+      "definition": "Moved from one place to another.",
+      "arabic": "ذهب",
+      "arabic_definition": "انتقل من مكان إلى آخر.",
+      "example": {
+        "en": "We went to the mountains for a weekend.",
+        "ar": "ذهبنا إلى الجبال لعطلة نهاية الأسبوع."
+      }
+    },
+    {
+      "word": "learned",
+      "definition": "Got new knowledge or skills.",
+      "arabic": "تعلم",
+      "arabic_definition": "حصل على معرفة أو مهارات جديدة.",
+      "example": {
+        "en": "I learned about the history of the city.",
+        "ar": "تعلمت عن تاريخ المدينة."
+      }
+    },
+    {
+      "word": "met",
+      "definition": "Came together with someone.",
+      "arabic": "التقى",
+      "arabic_definition": "التقى مع شخص ما.",
+      "example": {
+        "en": "I met many interesting people on my trip.",
+        "ar": "التقيت بالعديد من الأشخاص الممتعين في رحلتي."
+      }
+    }
+  ]
+}

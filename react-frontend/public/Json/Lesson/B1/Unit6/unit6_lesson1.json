@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Studying and Training",
+  "words": [
+    {
+      "word": "study",
+      "definition": "To learn about a subject, usually at school or university.",
+      "arabic": "يدرس",
+      "arabic_definition": "يتعلم عن موضوع، عادة في المدرسة أو الجامعة.",
+      "example": {
+        "en": "I study English every day.",
+        "ar": "أدرس اللغة الإنجليزية كل يوم."
+      }
+    },
+    {
+      "word": "training",
+      "definition": "Practice or instruction to learn skills.",
+      "arabic": "تدريب",
+      "arabic_definition": "ممارسة أو تعليم لاكتساب مهارات.",
+      "example": {
+        "en": "She is doing training for her new job.",
+        "ar": "تتدرب على عملها الجديد."
+      }
+    },
+    {
+      "word": "course",
+      "definition": "A set of lessons about a particular subject.",
+      "arabic": "دورة تدريبية",
+      "arabic_definition": "مجموعة من الدروس حول موضوع معين.",
+      "example": {
+        "en": "I took a course in computer programming.",
+        "ar": "أخذت دورة في برمجة الحاسوب."
+      }
+    },
+    {
+      "word": "lecture",
+      "definition": "A talk given by a teacher to students.",
+      "arabic": "محاضرة",
+      "arabic_definition": "حديث يقدمه مدرس للطلاب.",
+      "example": {
+        "en": "The lecture was very interesting.",
+        "ar": "كانت المحاضرة مثيرة جداً."
+      }
+    },
+    {
+      "word": "exam",
+      "definition": "A test to check what someone has learned.",
+      "arabic": "امتحان",
+      "arabic_definition": "اختبار لمعرفة ما تعلمه الشخص.",
+      "example": {
+        "en": "I have an exam next week.",
+        "ar": "لدي امتحان الأسبوع المقبل."
+      }
+    },
+    {
+      "word": "assignment",
+      "definition": "Work that students must do for school or university.",
+      "arabic": "واجب",
+      "arabic_definition": "عمل يجب على الطلاب القيام به في المدرسة أو الجامعة.",
+      "example": {
+        "en": "The teacher gave us a difficult assignment.",
+        "ar": "أعطانا المعلم واجبًا صعبًا."
+      }
+    },
+    {
+      "word": "graduate",
+      "definition": "To finish a degree or course successfully.",
+      "arabic": "يتخرج",
+      "arabic_definition": "إنهاء درجة أو دورة بنجاح.",
+      "example": {
+        "en": "She will graduate next year.",
+        "ar": "ستتخرج في العام المقبل."
+      }
+    },
+    {
+      "word": "skill",
+      "definition": "The ability to do something well.",
+      "arabic": "مهارة",
+      "arabic_definition": "القدرة على القيام بشيء جيدًا.",
+      "example": {
+        "en": "Learning new skills is important.",
+        "ar": "تعلم مهارات جديدة مهم."
+      }
+    },
+    {
+      "word": "practice",
+      "definition": "To do something repeatedly to improve.",
+      "arabic": "يمارس",
+      "arabic_definition": "القيام بشيء مرارًا لتحسينه.",
+      "example": {
+        "en": "You need to practice speaking English.",
+        "ar": "تحتاج إلى ممارسة التحدث بالإنجليزية."
+      }
+    },
+    {
+      "word": "deadline",
+      "definition": "The latest time by which something must be done.",
+      "arabic": "الموعد النهائي",
+      "arabic_definition": "الوقت الأخير الذي يجب إنجاز شيء ما فيه.",
+      "example": {
+        "en": "The assignment deadline is Friday.",
+        "ar": "الموعد النهائي للواجب هو يوم الجمعة."
+      }
+    }
+  ]
+}

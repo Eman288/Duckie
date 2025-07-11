@@ -1,0 +1,71 @@
+{
+  "lesson": "A2 Unit 2 - Jobs and Professions Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'engineer'?",
+      "answers": [
+        "طبيب",
+        "مهندس",
+        "معلم",
+        "محاسب"
+      ],
+      "correct": "مهندس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is NOT a job?",
+      "answers": [
+        "pilot",
+        "teacher",
+        "swimming",
+        "doctor"
+      ],
+      "correct": "swimming",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does a 'chef' do?",
+      "answers": [
+        "teaches",
+        "builds",
+        "cooks",
+        "drives"
+      ],
+      "correct": "cooks",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'nurse' into Arabic.",
+      "answers": [
+        "ممرضة",
+        "طبيبة",
+        "صيدلانية",
+        "معلمة"
+      ],
+      "correct": "ممرضة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answers": [
+        "She are a teacher.",
+        "I is doctor.",
+        "They is nurse.",
+        "He is an engineer."
+      ],
+      "correct": "He is an engineer.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What job involves flying a plane?",
+      "answers": [
+        "driver",
+        "teacher",
+        "pilot",
+        "chef"
+      ],
+      "correct": "pilot",
+      "voiceUrl": ""
+    }
+  ]
+}

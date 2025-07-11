@@ -1,0 +1,82 @@
+{
+  "lesson": "Unit 6 - Lesson 3 Quiz: Paying and Making Decisions",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'cash'?",
+      "answers": [
+        "بطاقة",
+        "نقداً",
+        "إيصال",
+        "شراء"
+      ],
+      "correct": "نقداً",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a plastic card used to buy things on credit'?",
+      "answers": [
+        "cash",
+        "credit card",
+        "receipt",
+        "pay"
+      ],
+      "correct": "credit card",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'receipt' mean?",
+      "answers": [
+        "Money returned after purchase",
+        "A paper showing you paid for something",
+        "Plastic card for shopping",
+        "Choosing something from options"
+      ],
+      "correct": "A paper showing you paid for something",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'إيصال'?",
+      "answers": [
+        "receipt",
+        "credit card",
+        "cash",
+        "change"
+      ],
+      "correct": "receipt",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I will ___ in cash.",
+      "answers": [
+        "buy",
+        "choose",
+        "pay",
+        "change"
+      ],
+      "correct": "pay",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'money returned when you pay too much'?",
+      "answers": [
+        "change",
+        "cost",
+        "discount",
+        "cash"
+      ],
+      "correct": "change",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the word that means 'to make a choice or judgment'.",
+      "answers": [
+        "choose",
+        "decide",
+        "buy",
+        "pay"
+      ],
+      "correct": "decide",
+      "voiceUrl": ""
+    }
+  ]
+}

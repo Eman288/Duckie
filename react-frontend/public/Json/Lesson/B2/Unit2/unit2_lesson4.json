@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Leadership and Teamwork",
+  "words": [
+    {
+      "word": "leadership",
+      "definition": "The ability to guide or direct others.",
+      "arabic": "قيادة",
+      "arabic_definition": "القدرة على توجيه الآخرين.",
+      "example": {
+        "en": "Good leadership inspires a team.",
+        "ar": "القيادة الجيدة تلهم الفريق."
+      }
+    },
+    {
+      "word": "teamwork",
+      "definition": "Working together with others.",
+      "arabic": "عمل جماعي",
+      "arabic_definition": "العمل مع الآخرين كفريق.",
+      "example": {
+        "en": "Teamwork is key to success.",
+        "ar": "العمل الجماعي هو مفتاح النجاح."
+      }
+    },
+    {
+      "word": "motivation",
+      "definition": "The drive or reason for doing something.",
+      "arabic": "دافع",
+      "arabic_definition": "القوة المحفّزة للقيام بشيء.",
+      "example": {
+        "en": "The manager gave a speech to motivate the team.",
+        "ar": "ألقى المدير خطابًا لتحفيز الفريق."
+      }
+    },
+    {
+      "word": "delegate",
+      "definition": "To assign tasks to others.",
+      "arabic": "تفويض",
+      "arabic_definition": "تكليف الآخرين بمهام.",
+      "example": {
+        "en": "He knows how to delegate responsibilities effectively.",
+        "ar": "يعرف كيف يفوض المهام بفعالية."
+      }
+    },
+    {
+      "word": "vision",
+      "definition": "A clear idea of what one wants to achieve.",
+      "arabic": "رؤية",
+      "arabic_definition": "فكرة واضحة عما يريد الشخص تحقيقه.",
+      "example": {
+        "en": "The CEO shared her vision for the company.",
+        "ar": "شاركت المديرة التنفيذية رؤيتها للشركة."
+      }
+    },
+    {
+      "word": "collaboration",
+      "definition": "Working together to achieve a goal.",
+      "arabic": "تعاون",
+      "arabic_definition": "العمل معًا لتحقيق هدف.",
+      "example": {
+        "en": "Collaboration between departments improves efficiency.",
+        "ar": "التعاون بين الأقسام يحسّن الكفاءة."
+      }
+    },
+    {
+      "word": "mentor",
+      "definition": "An experienced person who guides others.",
+      "arabic": "مرشد",
+      "arabic_definition": "شخص ذو خبرة يوجه الآخرين.",
+      "example": {
+        "en": "He acts as a mentor to new team members.",
+        "ar": "يعمل كمرشد لأعضاء الفريق الجدد."
+      }
+    },
+    {
+      "word": "initiative",
+      "definition": "The ability to assess and start things independently.",
+      "arabic": "مبادرة",
+      "arabic_definition": "القدرة على تقييم وبدء الأمور بشكل مستقل.",
+      "example": {
+        "en": "Her initiative inspired the whole team.",
+        "ar": "مبادرتها ألهمت الفريق بأكمله."
+      }
+    },
+    {
+      "word": "support",
+      "definition": "To help or aid others.",
+      "arabic": "دعم",
+      "arabic_definition": "مساعدة أو معاونة الآخرين.",
+      "example": {
+        "en": "The manager offered support during challenging times.",
+        "ar": "قدم المدير الدعم أثناء الأوقات الصعبة."
+      }
+    },
+    {
+      "word": "trust",
+      "definition": "Belief in the reliability or ability of someone.",
+      "arabic": "ثقة",
+      "arabic_definition": "الإيمان بموثوقية أو قدرة شخص ما.",
+      "example": {
+        "en": "Trust is the foundation of teamwork.",
+        "ar": "الثقة هي أساس العمل الجماعي."
+      }
+    }
+  ]
+}

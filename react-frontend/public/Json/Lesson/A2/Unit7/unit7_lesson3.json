@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking About Nature and the Environment",
+  "words": [
+    {
+      "word": "mountain",
+      "definition": "A very high piece of land.",
+      "arabic": "جبل",
+      "arabic_definition": "جزء مرتفع جداً من الأرض.",
+      "example": {
+        "en": "The mountain is covered with snow.",
+        "ar": "الجبل مغطى بالثلج."
+      }
+    },
+    {
+      "word": "river",
+      "definition": "A long body of water that flows.",
+      "arabic": "نهر",
+      "arabic_definition": "جسم مائي طويل يجري.",
+      "example": {
+        "en": "We walked along the river.",
+        "ar": "تمشينا على طول النهر."
+      }
+    },
+    {
+      "word": "lake",
+      "definition": "A large area of water surrounded by land.",
+      "arabic": "بحيرة",
+      "arabic_definition": "مساحة كبيرة من الماء محاطة بالأرض.",
+      "example": {
+        "en": "The lake is very deep.",
+        "ar": "البحيرة عميقة جداً."
+      }
+    },
+    {
+      "word": "forest",
+      "definition": "A large area covered with trees.",
+      "arabic": "غابة",
+      "arabic_definition": "منطقة واسعة مغطاة بالأشجار.",
+      "example": {
+        "en": "We went hiking in the forest.",
+        "ar": "ذهبنا للمشي في الغابة."
+      }
+    },
+    {
+      "word": "desert",
+      "definition": "A dry area with very little water.",
+      "arabic": "صحراء",
+      "arabic_definition": "منطقة جافة تحتوي على القليل من المياه.",
+      "example": {
+        "en": "The desert is very hot.",
+        "ar": "الصحراء شديدة الحرارة."
+      }
+    },
+    {
+      "word": "beach",
+      "definition": "A sandy area by the sea.",
+      "arabic": "شاطئ",
+      "arabic_definition": "منطقة رملية على البحر.",
+      "example": {
+        "en": "We spent the day at the beach.",
+        "ar": "قضينا اليوم على الشاطئ."
+      }
+    },
+    {
+      "word": "climate",
+      "definition": "The weather conditions in an area.",
+      "arabic": "المناخ",
+      "arabic_definition": "حالة الطقس في منطقة ما.",
+      "example": {
+        "en": "The climate here is warm.",
+        "ar": "المناخ هنا دافئ."
+      }
+    },
+    {
+      "word": "pollution",
+      "definition": "Harmful substances in the environment.",
+      "arabic": "التلوث",
+      "arabic_definition": "المواد الضارة في البيئة.",
+      "example": {
+        "en": "We must reduce pollution.",
+        "ar": "علينا تقليل التلوث."
+      }
+    },
+    {
+      "word": "recycling",
+      "definition": "Reusing materials to protect the environment.",
+      "arabic": "إعادة التدوير",
+      "arabic_definition": "استخدام المواد مرة أخرى للحفاظ على البيئة.",
+      "example": {
+        "en": "Recycling helps save the planet.",
+        "ar": "تساعد إعادة التدوير على حماية الأرض."
+      }
+    },
+    {
+      "word": "wildlife",
+      "definition": "Animals and plants living in nature.",
+      "arabic": "الحياة البرية",
+      "arabic_definition": "الحيوانات والنباتات التي تعيش في الطبيعة.",
+      "example": {
+        "en": "We must protect wildlife.",
+        "ar": "علينا حماية الحياة البرية."
+      }
+    }
+  ]
+}

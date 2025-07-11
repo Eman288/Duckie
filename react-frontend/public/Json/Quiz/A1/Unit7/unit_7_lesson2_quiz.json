@@ -1,0 +1,27 @@
+{
+  "lesson": "Unit7 Transportation Quiz",
+  "questions": [
+    {
+      "question": "What does 'bus' mean in Arabic?",
+      "answers": [
+        "دراجة",
+        "قطار",
+        "حافلة",
+        "تاكسي"
+      ],
+      "correct": "حافلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is used in the air?",
+      "answers": [
+        "Bicycle",
+        "Taxi",
+        "Airplane",
+        "Bus"
+      ],
+      "correct": "Airplane",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 2 - Talking About Housework Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'vacuum'?",
+      "answers": [
+        "ينظف",
+        "يطبخ",
+        "يكنس",
+        "يغسل"
+      ],
+      "correct": "يكنس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which task involves clothes?",
+      "answers": [
+        "washing dishes",
+        "vacuuming",
+        "doing the laundry",
+        "sweeping"
+      ],
+      "correct": "doing the laundry",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'set the table' into Arabic.",
+      "answers": [
+        "يرتب الطاولة",
+        "يغسل الصحون",
+        "يكنس الأرض",
+        "ينظف النوافذ"
+      ],
+      "correct": "يرتب الطاولة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which one is a housework chore?",
+      "answers": [
+        "watching TV",
+        "taking out the trash",
+        "reading",
+        "playing games"
+      ],
+      "correct": "taking out the trash",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I ___ the dishes every evening.",
+      "answers": [
+        "do",
+        "am doing",
+        "wash",
+        "washing"
+      ],
+      "correct": "wash",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "lesson": "Unit 4 - Asking and Giving Directions Quiz",
+  "questions": [
+    {
+      "question": "What direction is the opposite of 'right'?",
+      "answers": [
+        "left",
+        "up",
+        "straight",
+        "back"
+      ],
+      "correct": "left",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is a place where roads meet?",
+      "answers": [
+        "crosswalk",
+        "intersection",
+        "corner",
+        "turn"
+      ],
+      "correct": "intersection",
+      "voiceUrl": ""
+    },
+    {
+      "question": "'Turn left at the ___' – what completes this?",
+      "answers": [
+        "car",
+        "light",
+        "traffic light",
+        "road"
+      ],
+      "correct": "traffic light",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'corner'?",
+      "answers": [
+        "زاوية",
+        "دائرة",
+        "طريق",
+        "نقطة"
+      ],
+      "correct": "زاوية",
+      "voiceUrl": ""
+    }
+  ]
+}

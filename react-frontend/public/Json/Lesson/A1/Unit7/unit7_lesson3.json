@@ -1,0 +1,55 @@
+{
+  "lesson": "Following a Map",
+  "words": [
+    {
+      "word": "map",
+      "definition": "A drawing of an area showing roads, cities, etc.",
+      "arabic": "خريطة",
+      "arabic_definition": "رسم لمنطقة يُظهر الطرق والمدن وما إلى ذلك.",
+      "example": {
+        "en": "Look at the map to find the museum.",
+        "ar": "انظر إلى الخريطة لتجد المتحف."
+      }
+    },
+    {
+      "word": "north",
+      "definition": "The direction towards the top of a map.",
+      "arabic": "شمال",
+      "arabic_definition": "الاتجاه نحو أعلى الخريطة.",
+      "example": {
+        "en": "The library is to the north of the park.",
+        "ar": "المكتبة شمال الحديقة."
+      }
+    },
+    {
+      "word": "south",
+      "definition": "The direction opposite of north.",
+      "arabic": "جنوب",
+      "arabic_definition": "الاتجاه المقابل للشمال.",
+      "example": {
+        "en": "The restaurant is south of the cinema.",
+        "ar": "المطعم جنوب السينما."
+      }
+    },
+    {
+      "word": "east",
+      "definition": "The direction to the right on most maps.",
+      "arabic": "شرق",
+      "arabic_definition": "الاتجاه إلى اليمين في أغلب الخرائط.",
+      "example": {
+        "en": "The bank is to the east of the school.",
+        "ar": "البنك شرق المدرسة."
+      }
+    },
+    {
+      "word": "west",
+      "definition": "The direction opposite of east.",
+      "arabic": "غرب",
+      "arabic_definition": "الاتجاه المقابل للشرق.",
+      "example": {
+        "en": "The hospital is west of the bus station.",
+        "ar": "المستشفى غرب محطة الحافلات."
+      }
+    }
+  ]
+}

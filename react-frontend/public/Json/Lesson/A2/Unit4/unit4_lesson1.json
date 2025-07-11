@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Travel Plans",
+  "words": [
+    {
+      "word": "travel",
+      "definition": "To go from one place to another.",
+      "arabic": "يسافر",
+      "arabic_definition": "الانتقال من مكان إلى آخر.",
+      "example": {
+        "en": "We want to travel to Italy.",
+        "ar": "نريد السفر إلى إيطاليا."
+      }
+    },
+    {
+      "word": "destination",
+      "definition": "The place you are going to.",
+      "arabic": "وجهة",
+      "arabic_definition": "المكان الذي تذهب إليه.",
+      "example": {
+        "en": "Paris is a popular tourist destination.",
+        "ar": "باريس وجهة سياحية مشهورة."
+      }
+    },
+    {
+      "word": "itinerary",
+      "definition": "A travel plan or schedule.",
+      "arabic": "برنامج رحلة",
+      "arabic_definition": "خطة السفر أو الجدول الزمني.",
+      "example": {
+        "en": "I have a full itinerary for the trip.",
+        "ar": "لدي برنامج رحلة كامل للسفر."
+      }
+    },
+    {
+      "word": "ticket",
+      "definition": "A piece of paper or digital file that allows you to travel.",
+      "arabic": "تذكرة",
+      "arabic_definition": "ورقة أو ملف رقمي يسمح لك بالسفر.",
+      "example": {
+        "en": "I bought a ticket to New York.",
+        "ar": "اشتريت تذكرة إلى نيويورك."
+      }
+    },
+    {
+      "word": "passport",
+      "definition": "A document required for international travel.",
+      "arabic": "جواز سفر",
+      "arabic_definition": "وثيقة مطلوبة للسفر الدولي.",
+      "example": {
+        "en": "Make sure to carry your passport.",
+        "ar": "تأكد من حمل جواز سفرك."
+      }
+    },
+    {
+      "word": "visa",
+      "definition": "Permission to enter a country.",
+      "arabic": "تأشيرة",
+      "arabic_definition": "إذن لدخول بلد.",
+      "example": {
+        "en": "I applied for a tourist visa.",
+        "ar": "تقدمت بطلب للحصول على تأشيرة سياحية."
+      }
+    },
+    {
+      "word": "travel agency",
+      "definition": "A company that organizes trips.",
+      "arabic": "وكالة سفر",
+      "arabic_definition": "شركة تنظم الرحلات.",
+      "example": {
+        "en": "The travel agency arranged our trip.",
+        "ar": "قامت وكالة السفر بتنظيم رحلتنا."
+      }
+    },
+    {
+      "word": "reservation",
+      "definition": "A booking for a trip or accommodation.",
+      "arabic": "حجز",
+      "arabic_definition": "حجز لرحلة أو إقامة.",
+      "example": {
+        "en": "I made a hotel reservation online.",
+        "ar": "قمت بحجز الفندق عبر الانترنت."
+      }
+    },
+    {
+      "word": "luggage",
+      "definition": "Bags or suitcases used for travel.",
+      "arabic": "أمتعة",
+      "arabic_definition": "حقائب تستخدم للسفر.",
+      "example": {
+        "en": "My luggage was delayed.",
+        "ar": "تأخرت أمتعتي."
+      }
+    },
+    {
+      "word": "travel insurance",
+      "definition": "A policy that covers travel-related emergencies.",
+      "arabic": "تأمين السفر",
+      "arabic_definition": "بوليصة تغطي الحالات الطارئة أثناء السفر.",
+      "example": {
+        "en": "I bought travel insurance for my trip.",
+        "ar": "اشتريت تأمين السفر لرحلتي."
+      }
+    }
+  ]
+}

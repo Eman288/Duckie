@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 6 - Education and Learning",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'study'?",
+      "answers": [ "دراسة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "دراسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'university' in Arabic?",
+      "answers": [ "جامعة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "جامعة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التعليم'?",
+      "answers": [ "education", "travel", "work", "shopping" ],
+      "correct": "education",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'class' in Arabic?",
+      "answers": [ "فصل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "فصل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'student'?",
+      "answers": [ "طالب", "حافلة", "حقيبة", "حجز" ],
+      "correct": "طالب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'teacher' in Arabic?",
+      "answers": [ "معلم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "معلم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التعلم طوال الحياة'?",
+      "answers": [ "lifelong learning", "daily routine", "business trend", "travel experience" ],
+      "correct": "lifelong learning",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'school' in Arabic?",
+      "answers": [ "مدرسة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مدرسة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'lesson'?",
+      "answers": [ "درس", "حافلة", "حقيبة", "حجز" ],
+      "correct": "درس",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'homework' in Arabic?",
+      "answers": [ "واجب منزلي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "واجب منزلي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الفصل الدراسي'?",
+      "answers": [ "semester", "travel map", "hotel room", "shopping list" ],
+      "correct": "semester",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'education system' in Arabic?",
+      "answers": [ "نظام التعليم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نظام التعليم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'library'?",
+      "answers": [ "مكتبة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مكتبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'exam' in Arabic?",
+      "answers": [ "امتحان", "حافلة", "حقيبة", "حجز" ],
+      "correct": "امتحان",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'شهادة'?",
+      "answers": [ "certificate", "travel", "shopping", "interview" ],
+      "correct": "certificate",
+      "voiceUrl": ""
+    }
+  ]
+}

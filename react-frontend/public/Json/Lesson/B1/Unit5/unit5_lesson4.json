@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Mental Health",
+  "words": [
+    {
+      "word": "mental health",
+      "definition": "A person's emotional and psychological well-being.",
+      "arabic": "الصحة النفسية",
+      "arabic_definition": "الصحة العاطفية والنفسية للشخص.",
+      "example": {
+        "en": "Mental health is as important as physical health.",
+        "ar": "الصحة النفسية مهمة مثل الصحة الجسدية."
+      }
+    },
+    {
+      "word": "anxiety",
+      "definition": "A feeling of worry or fear.",
+      "arabic": "قلق",
+      "arabic_definition": "شعور بالقلق أو الخوف.",
+      "example": {
+        "en": "She has anxiety before exams.",
+        "ar": "تشعر بالقلق قبل الامتحانات."
+      }
+    },
+    {
+      "word": "depression",
+      "definition": "A serious condition causing sadness and loss of interest.",
+      "arabic": "اكتئاب",
+      "arabic_definition": "حالة خطيرة تسبب الحزن وفقدان الاهتمام.",
+      "example": {
+        "en": "Depression needs professional help.",
+        "ar": "الاكتئاب يحتاج إلى مساعدة محترفة."
+      }
+    },
+    {
+      "word": "stress",
+      "definition": "Pressure or tension caused by difficulties.",
+      "arabic": "ضغط نفسي",
+      "arabic_definition": "ضغط أو توتر بسبب صعوبات.",
+      "example": {
+        "en": "Work stress affects many people.",
+        "ar": "ضغط العمل يؤثر على الكثيرين."
+      }
+    },
+    {
+      "word": "therapy",
+      "definition": "Treatment to help with mental health problems.",
+      "arabic": "علاج نفسي",
+      "arabic_definition": "علاج لمساعدة المشاكل النفسية.",
+      "example": {
+        "en": "She goes to therapy every week.",
+        "ar": "تذهب إلى العلاج النفسي كل أسبوع."
+      }
+    },
+    {
+      "word": "support",
+      "definition": "Help and encouragement from others.",
+      "arabic": "دعم",
+      "arabic_definition": "مساعدة وتشجيع من الآخرين.",
+      "example": {
+        "en": "Family support is very important.",
+        "ar": "دعم العائلة مهم جداً."
+      }
+    },
+    {
+      "word": "mindfulness",
+      "definition": "Being aware and present in the moment.",
+      "arabic": "الانتباه الذهني",
+      "arabic_definition": "الوعي والحضور في اللحظة الحالية.",
+      "example": {
+        "en": "Mindfulness can reduce stress.",
+        "ar": "الانتباه الذهني يمكن أن يقلل التوتر."
+      }
+    },
+    {
+      "word": "well-being",
+      "definition": "A state of being comfortable, healthy, and happy.",
+      "arabic": "رفاهية",
+      "arabic_definition": "حالة من الراحة والصحة والسعادة.",
+      "example": {
+        "en": "Exercise improves well-being.",
+        "ar": "التمارين تحسن الرفاهية."
+      }
+    },
+    {
+      "word": "fatigue",
+      "definition": "Extreme tiredness.",
+      "arabic": "إرهاق",
+      "arabic_definition": "تعب شديد.",
+      "example": {
+        "en": "Fatigue can affect your mental health.",
+        "ar": "يمكن أن يؤثر الإرهاق على صحتك النفسية."
+      }
+    },
+    {
+      "word": "self-care",
+      "definition": "Taking care of your own health and happiness.",
+      "arabic": "العناية بالنفس",
+      "arabic_definition": "الاهتمام بصحتك وسعادتك.",
+      "example": {
+        "en": "Self-care is important for mental health.",
+        "ar": "العناية بالنفس مهمة للصحة النفسية."
+      }
+    }
+  ]
+}

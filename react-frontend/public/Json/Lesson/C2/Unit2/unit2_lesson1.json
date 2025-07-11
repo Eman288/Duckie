@@ -1,0 +1,105 @@
+{
+  "lesson": "Publishing in Academic Journals",
+  "words": [
+    {
+      "word": "peer review",
+      "definition": "The process where experts evaluate an article before publication.",
+      "arabic": "مراجعة الأقران",
+      "arabic_definition": "عملية يتم فيها تقييم المقال من قبل خبراء قبل نشره.",
+      "example": {
+        "en": "The article was accepted after peer review.",
+        "ar": "تم قبول المقال بعد مراجعته من قبل الأقران."
+      }
+    },
+    {
+      "word": "manuscript",
+      "definition": "The original text submitted for publication.",
+      "arabic": "مخطوطة",
+      "arabic_definition": "النص الأصلي المقدم للنشر.",
+      "example": {
+        "en": "He submitted the manuscript to the journal.",
+        "ar": "قدم المخطوطة إلى المجلة."
+      }
+    },
+    {
+      "word": "abstract",
+      "definition": "A brief summary of a research paper.",
+      "arabic": "ملخّص",
+      "arabic_definition": "ملخّص قصير للبحث.",
+      "example": {
+        "en": "The abstract provides an overview of the study.",
+        "ar": "يعطي الملخّص لمحة عامة عن الدراسة."
+      }
+    },
+    {
+      "word": "revision",
+      "definition": "The process of making changes to a paper after review.",
+      "arabic": "مراجعة",
+      "arabic_definition": "عملية إجراء تعديلات على الورقة بعد مراجعتها.",
+      "example": {
+        "en": "The journal requested a revision of the paper.",
+        "ar": "طلبت المجلة مراجعة الورقة."
+      }
+    },
+    {
+      "word": "citation",
+      "definition": "A reference to a published work.",
+      "arabic": "استشهاد",
+      "arabic_definition": "مرجع لعمل منشور.",
+      "example": {
+        "en": "Each claim must have a proper citation.",
+        "ar": "كل ادعاء يجب أن يحتوي على استشهاد مناسب."
+      }
+    },
+    {
+      "word": "plagiarism",
+      "definition": "The act of presenting someone else's work as your own.",
+      "arabic": "انتحال",
+      "arabic_definition": "عرض عمل شخص آخر على أنه عملك.",
+      "example": {
+        "en": "Plagiarism is a serious academic offense.",
+        "ar": "الانتحال جريمة أكاديمية خطيرة."
+      }
+    },
+    {
+      "word": "editorial",
+      "definition": "The review process conducted by the journal editor.",
+      "arabic": "مراجعة المحرر",
+      "arabic_definition": "عملية المراجعة التي يقوم بها المحرر.",
+      "example": {
+        "en": "The editorial review suggested several changes.",
+        "ar": "اقترحت مراجعة المحرر عدة تعديلات."
+      }
+    },
+    {
+      "word": "impact factor",
+      "definition": "A measure of how often a journal is cited.",
+      "arabic": "عامل التأثير",
+      "arabic_definition": "مقياس لمدى تكرار الاقتباس من مجلة علمية.",
+      "example": {
+        "en": "The journal has a high impact factor.",
+        "ar": "تمتلك هذه المجلة عامل تأثير عالٍ."
+      }
+    },
+    {
+      "word": "submission",
+      "definition": "The act of sending a paper for review.",
+      "arabic": "تقديم",
+      "arabic_definition": "فعل إرسال ورقة بحث للمراجعة.",
+      "example": {
+        "en": "The submission deadline is next month.",
+        "ar": "الموعد النهائي للتقديم هو الشهر المقبل."
+      }
+    },
+    {
+      "word": "acceptance",
+      "definition": "The status of a paper when it is approved for publication.",
+      "arabic": "قبول",
+      "arabic_definition": "حالة الورقة عند الموافقة على نشرها.",
+      "example": {
+        "en": "We received an acceptance letter for the article.",
+        "ar": "تلقينا خطاب قبول للمقال."
+      }
+    }
+  ]
+}

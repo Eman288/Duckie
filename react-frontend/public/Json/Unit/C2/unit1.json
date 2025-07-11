@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 1 - Mastering Fluency and Precision",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'intonation'?",
+      "answers": [ "التنغيم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التنغيم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'paraphrasing' in Arabic?",
+      "answers": [ "إعادة الصياغة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "إعادة الصياغة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الأجهزة البلاغية'?",
+      "answers": [ "rhetorical devices", "daily routine", "work project", "travel map" ],
+      "correct": "rhetorical devices",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'advanced vocabulary' in Arabic?",
+      "answers": [ "المفردات المتقدمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المفردات المتقدمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'precision'?",
+      "answers": [ "الدقة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'articulation' in Arabic?",
+      "answers": [ "التلفظ", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التلفظ",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصياغة المحترفة'?",
+      "answers": [ "professional phrasing", "daily routine", "work project", "travel map" ],
+      "correct": "professional phrasing",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'tone modulation' in Arabic?",
+      "answers": [ "تغيير طبقة الصوت", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تغيير طبقة الصوت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'metaphor'?",
+      "answers": [ "استعارة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "استعارة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'meticulous speech' in Arabic?",
+      "answers": [ "كلام دقيق", "حافلة", "حقيبة", "حجز" ],
+      "correct": "كلام دقيق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصيغة الملائمة'?",
+      "answers": [ "appropriate formulation", "daily routine", "work project", "travel map" ],
+      "correct": "appropriate formulation",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'allusion' in Arabic?",
+      "answers": [ "التلميح", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التلميح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'fluency'?",
+      "answers": [ "الطلاقة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الطلاقة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'precision in language' in Arabic?",
+      "answers": [ "الدقة اللغوية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدقة اللغوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القوة البلاغية'?",
+      "answers": [ "rhetorical strength", "daily routine", "work project", "travel map" ],
+      "correct": "rhetorical strength",
+      "voiceUrl": ""
+    }
+  ]
+}

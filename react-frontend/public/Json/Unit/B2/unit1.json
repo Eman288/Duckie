@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 1 - Advanced Social Situations",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'polite request'?",
+      "answers": [ "طلب مهذب", "حافلة", "حقيبة", "حجز" ],
+      "correct": "طلب مهذب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'disagreement' in Arabic?",
+      "answers": [ "خلاف", "ترتيب", "حجز", "حقيبة" ],
+      "correct": "خلاف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'قواعد السلوك'?",
+      "answers": [ "etiquette", "travel", "work", "shopping" ],
+      "correct": "etiquette",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'identity' in Arabic?",
+      "answers": [ "هوية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "هوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'cultural norms'?",
+      "answers": [ "القواعد الثقافية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "القواعد الثقافية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'conflict' in Arabic?",
+      "answers": [ "نزاع", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نزاع",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التفاعل الاجتماعي'?",
+      "answers": [ "social interaction", "daily routine", "travel ticket", "work project" ],
+      "correct": "social interaction",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'courtesy' in Arabic?",
+      "answers": [ "مجاملة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مجاملة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'discussing identity'?",
+      "answers": [ "مناقشة الهوية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مناقشة الهوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'understanding differences' in Arabic?",
+      "answers": [ "فهم الاختلافات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "فهم الاختلافات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'التقاليد'?",
+      "answers": [ "traditions", "travel", "work", "shopping" ],
+      "correct": "traditions",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'respect' in Arabic?",
+      "answers": [ "احترام", "حافلة", "حقيبة", "حجز" ],
+      "correct": "احترام",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'making suggestions'?",
+      "answers": [ "اقتراحات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "اقتراحات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'discussing culture' in Arabic?",
+      "answers": [ "مناقشة الثقافة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "مناقشة الثقافة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'احترام الثقافات'?",
+      "answers": [ "respecting cultures", "travel ticket", "business trend", "daily routine" ],
+      "correct": "respecting cultures",
+      "voiceUrl": ""
+    }
+  ]
+}

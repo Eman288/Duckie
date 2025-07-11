@@ -1,0 +1,27 @@
+{
+  "lesson": "Unit7 Places In A City Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'hospital'?",
+      "answers": [
+        "مدرسة",
+        "مستشفى",
+        "مطار",
+        "مقهى"
+      ],
+      "correct": "مستشفى",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which place do you go to catch a train?",
+      "answers": [
+        "Library",
+        "Train station",
+        "Bank",
+        "Museum"
+      ],
+      "correct": "Train station",
+      "voiceUrl": ""
+    }
+  ]
+}

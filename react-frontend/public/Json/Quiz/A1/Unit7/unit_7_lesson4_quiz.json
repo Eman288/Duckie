@@ -1,0 +1,27 @@
+{
+  "lesson": "Unit7 Following A Map Quiz",
+  "questions": [
+    {
+      "question": "What direction is opposite to 'north'?",
+      "answers": [
+        "south",
+        "east",
+        "west",
+        "center"
+      ],
+      "correct": "south",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic word for 'map'?",
+      "answers": [
+        "شمال",
+        "خريطة",
+        "مدينة",
+        "طريق"
+      ],
+      "correct": "خريطة",
+      "voiceUrl": ""
+    }
+  ]
+}

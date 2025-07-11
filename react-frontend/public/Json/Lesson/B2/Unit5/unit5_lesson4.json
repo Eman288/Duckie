@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about the Ethics of Science and Technology",
+  "words": [
+    {
+      "word": "morality",
+      "definition": "Principles about right and wrong behavior.",
+      "arabic": "الأخلاق",
+      "arabic_definition": "المبادئ المتعلقة بالسلوك الصحيح والخاطئ.",
+      "example": {
+        "en": "Morality plays an important role in scientific decisions.",
+        "ar": "تلعب الأخلاق دورًا مهمًا في القرارات العلمية."
+      }
+    },
+    {
+      "word": "accountability",
+      "definition": "Responsibility for one's actions.",
+      "arabic": "المساءلة",
+      "arabic_definition": "المسؤولية عن أفعال الفرد.",
+      "example": {
+        "en": "Scientists must be held to accountability.",
+        "ar": "يجب محاسبة العلماء على أفعالهم."
+      }
+    },
+    {
+      "word": "bias",
+      "definition": "A preference or unfair judgment.",
+      "arabic": "تحيز",
+      "arabic_definition": "تفضيل أو حكم غير عادل.",
+      "example": {
+        "en": "We must avoid bias when programming AI.",
+        "ar": "علينا تجنب التحيز عند برمجة الذكاء الاصطناعي."
+      }
+    },
+    {
+      "word": "consent",
+      "definition": "Permission for something to happen.",
+      "arabic": "موافقة",
+      "arabic_definition": "الإذن بحدوث شيء.",
+      "example": {
+        "en": "People must give consent before their data is used.",
+        "ar": "على الأشخاص إعطاء الموافقة قبل استخدام بياناتهم."
+      }
+    },
+    {
+      "word": "privacy",
+      "definition": "The right to control personal information.",
+      "arabic": "خصوصية",
+      "arabic_definition": "الحق في التحكم بالمعلومات الشخصية.",
+      "example": {
+        "en": "Privacy is a major concern in technology.",
+        "ar": "الخصوصية مصدر قلق كبير في التكنولوجيا."
+      }
+    },
+    {
+      "word": "integrity",
+      "definition": "Honesty and strong moral principles.",
+      "arabic": "نزاهة",
+      "arabic_definition": "الصدق والمبادئ الأخلاقية القوية.",
+      "example": {
+        "en": "Integrity is vital in scientific research.",
+        "ar": "النزاهة مهمة جداً في البحث العلمي."
+      }
+    },
+    {
+      "word": "regulation",
+      "definition": "A rule or law controlling certain activities.",
+      "arabic": "تنظيم",
+      "arabic_definition": "قانون أو قاعدة تنظم بعض الأنشطة.",
+      "example": {
+        "en": "Government regulation is needed for new technologies.",
+        "ar": "التنظيم الحكومي مطلوب للتقنيات الجديدة."
+      }
+    },
+    {
+      "word": "transparency",
+      "definition": "Openness about processes and decisions.",
+      "arabic": "شفافية",
+      "arabic_definition": "الانفتاح على العمليات والقرارات.",
+      "example": {
+        "en": "Transparency builds trust in scientific research.",
+        "ar": "الشفافية تبني الثقة في البحث العلمي."
+      }
+    },
+    {
+      "word": "responsibility",
+      "definition": "The state of being accountable for something.",
+      "arabic": "مسؤولية",
+      "arabic_definition": "حالة المحاسبة على شيء ما.",
+      "example": {
+        "en": "We have a responsibility to use technology wisely.",
+        "ar": "علينا مسؤولية استخدام التكنولوجيا بحكمة."
+      }
+    },
+    {
+      "word": "dilemma",
+      "definition": "A situation requiring a difficult choice.",
+      "arabic": "معضلة",
+      "arabic_definition": "حالة تتطلب اختيارًا صعبًا.",
+      "example": {
+        "en": "The scientist faced an ethical dilemma.",
+        "ar": "واجه العالم معضلة أخلاقية."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing a Past Trip (Past Simple)",
+  "words": [
+    {
+      "word": "visited",
+      "definition": "Went to a place.",
+      "arabic": "زار",
+      "arabic_definition": "ذهب إلى مكان.",
+      "example": {
+        "en": "I visited Paris last year.",
+        "ar": "زرت باريس العام الماضي."
+      }
+    },
+    {
+      "word": "traveled",
+      "definition": "Made a journey.",
+      "arabic": "سافر",
+      "arabic_definition": "قام برحلة.",
+      "example": {
+        "en": "We traveled to Egypt in summer.",
+        "ar": "سافرنا إلى مصر في الصيف."
+      }
+    },
+    {
+      "word": "explored",
+      "definition": "Looked around a place.",
+      "arabic": "استكشف",
+      "arabic_definition": "استطلع مكانًا.",
+      "example": {
+        "en": "They explored the old city.",
+        "ar": "استكشفوا المدينة القديمة."
+      }
+    },
+    {
+      "word": "stayed",
+      "definition": "Remained in a place.",
+      "arabic": "أقام",
+      "arabic_definition": "بقي في مكان.",
+      "example": {
+        "en": "We stayed at a beautiful hotel.",
+        "ar": "أقمنا في فندق رائع."
+      }
+    },
+    {
+      "word": "walked",
+      "definition": "Moved by putting one foot in front of the other.",
+      "arabic": "مشى",
+      "arabic_definition": "تحرّك بخطوة تلو الأخرى.",
+      "example": {
+        "en": "We walked by the river.",
+        "ar": "مشينا على ضفة النهر."
+      }
+    },
+    {
+      "word": "took photos",
+      "definition": "Captured images.",
+      "arabic": "التقط صورًا",
+      "arabic_definition": "التقط صورًا بالكاميرا.",
+      "example": {
+        "en": "I took photos of the mountains.",
+        "ar": "التقطت صورًا للجبال."
+      }
+    },
+    {
+      "word": "met",
+      "definition": "Encountered someone.",
+      "arabic": "التقى",
+      "arabic_definition": "قابل شخصًا.",
+      "example": {
+        "en": "I met a new friend on the trip.",
+        "ar": "التقيت بصديق جديد أثناء الرحلة."
+      }
+    },
+    {
+      "word": "ate",
+      "definition": "Consumed food.",
+      "arabic": "أكل",
+      "arabic_definition": "تناول الطعام.",
+      "example": {
+        "en": "We ate delicious pizza in Italy.",
+        "ar": "أكلنا بيتزا لذيذة في إيطاليا."
+      }
+    },
+    {
+      "word": "bought",
+      "definition": "Purchased something.",
+      "arabic": "اشترى",
+      "arabic_definition": "حصل على شيء مقابل المال.",
+      "example": {
+        "en": "I bought souvenirs for my family.",
+        "ar": "اشتريت تذكارات لعائلتي."
+      }
+    },
+    {
+      "word": "enjoyed",
+      "definition": "Felt happy doing an activity.",
+      "arabic": "استمتع",
+      "arabic_definition": "شعر بالسعادة أثناء القيام بنشاط.",
+      "example": {
+        "en": "We enjoyed the beautiful beach.",
+        "ar": "استمتعنا بالشاطئ الجميل."
+      }
+    }
+  ]
+}

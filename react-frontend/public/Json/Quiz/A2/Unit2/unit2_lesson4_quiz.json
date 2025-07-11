@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 2 - Present Continuous Quiz",
+  "questions": [
+    {
+      "question": "Which sentence uses the present continuous correctly?",
+      "answers": [
+        "I go to work now.",
+        "She is going to school.",
+        "He go now.",
+        "We are eat lunch."
+      ],
+      "correct": "She is going to school.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the correct form: 'They ___ watching TV'?",
+      "answers": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correct": "are",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'I am working' to Arabic.",
+      "answers": [
+        "أنا أعمل",
+        "أنا ذاهب",
+        "أنا أدرس",
+        "أنا أكتب"
+      ],
+      "correct": "أنا أعمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: He ___ playing football.",
+      "answers": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correct": "is",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which verb is in the present continuous?",
+      "answers": [
+        "goes",
+        "eating",
+        "walk",
+        "read"
+      ],
+      "correct": "eating",
+      "voiceUrl": ""
+    }
+  ]
+}

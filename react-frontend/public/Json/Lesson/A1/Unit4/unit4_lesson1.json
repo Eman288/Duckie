@@ -1,0 +1,105 @@
+{
+  "lesson": "Rooms in the House",
+  "words": [
+    {
+      "word": "kitchen",
+      "definition": "A room where food is prepared and cooked.",
+      "arabic": "مطبخ",
+      "arabic_definition": "غرفة يتم فيها إعداد الطعام وطهيه.",
+      "example": {
+        "en": "She is cooking in the kitchen.",
+        "ar": "هي تطبخ في المطبخ."
+      }
+    },
+    {
+      "word": "bedroom",
+      "definition": "A room used for sleeping in.",
+      "arabic": "غرفة نوم",
+      "arabic_definition": "غرفة للنوم فيها.",
+      "example": {
+        "en": "He is resting in his bedroom.",
+        "ar": "هو يستريح في غرفة نومه."
+      }
+    },
+    {
+      "word": "bathroom",
+      "definition": "A room with a toilet, sink, and sometimes a shower.",
+      "arabic": "حمام",
+      "arabic_definition": "غرفة تحتوي على مرحاض ومغسلة وأحياناً دش.",
+      "example": {
+        "en": "I brush my teeth in the bathroom.",
+        "ar": "أفرش أسناني في الحمام."
+      }
+    },
+    {
+      "word": "living room",
+      "definition": "A room where people sit and relax.",
+      "arabic": "غرفة المعيشة",
+      "arabic_definition": "غرفة يجلس فيها الناس للاسترخاء.",
+      "example": {
+        "en": "We watch TV in the living room.",
+        "ar": "نشاهد التلفاز في غرفة المعيشة."
+      }
+    },
+    {
+      "word": "dining room",
+      "definition": "A room where people eat meals.",
+      "arabic": "غرفة الطعام",
+      "arabic_definition": "غرفة يأكل فيها الناس الوجبات.",
+      "example": {
+        "en": "We have dinner in the dining room.",
+        "ar": "نتناول العشاء في غرفة الطعام."
+      }
+    },
+    {
+      "word": "hallway",
+      "definition": "A passage in a building that leads to rooms.",
+      "arabic": "ممر",
+      "arabic_definition": "ممر في مبنى يؤدي إلى الغرف.",
+      "example": {
+        "en": "The kids are running in the hallway.",
+        "ar": "الأطفال يركضون في الممر."
+      }
+    },
+    {
+      "word": "attic",
+      "definition": "A room or space just below the roof of a house.",
+      "arabic": "علية",
+      "arabic_definition": "غرفة أو مساحة تحت السقف مباشرة.",
+      "example": {
+        "en": "We store old things in the attic.",
+        "ar": "نخزن الأشياء القديمة في العلية."
+      }
+    },
+    {
+      "word": "basement",
+      "definition": "A room below ground level in a building.",
+      "arabic": "قبو",
+      "arabic_definition": "غرفة تحت مستوى الأرض في مبنى.",
+      "example": {
+        "en": "The washing machine is in the basement.",
+        "ar": "غسالة الملابس في القبو."
+      }
+    },
+    {
+      "word": "stairs",
+      "definition": "A set of steps leading from one floor to another.",
+      "arabic": "درج",
+      "arabic_definition": "مجموعة من الدرجات تؤدي من طابق إلى آخر.",
+      "example": {
+        "en": "She is going up the stairs.",
+        "ar": "هي تصعد الدرج."
+      }
+    },
+    {
+      "word": "garage",
+      "definition": "A building or space for parking cars.",
+      "arabic": "كراج",
+      "arabic_definition": "مكان أو مبنى لوقوف السيارات.",
+      "example": {
+        "en": "The car is in the garage.",
+        "ar": "السيارة في الكراج."
+      }
+    }
+  ]
+}

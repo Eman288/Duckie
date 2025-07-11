@@ -1,0 +1,105 @@
+{
+  "lesson": "Paraphrasing and Summarization Techniques",
+  "words": [
+    {
+      "word": "paraphrase",
+      "definition": "Restate a sentence or idea using different words.",
+      "arabic": "إعادة الصياغة",
+      "arabic_definition": "إعادة ذكر جملة أو فكرة باستخدام كلمات مختلفة.",
+      "example": {
+        "en": "Try to paraphrase the text to make it simpler.",
+        "ar": "حاول إعادة صياغة النص لجعله أبسط."
+      }
+    },
+    {
+      "word": "summary",
+      "definition": "A brief statement of the main points.",
+      "arabic": "ملخّص",
+      "arabic_definition": "بيان موجز للنقاط الرئيسية.",
+      "example": {
+        "en": "Write a summary of the article.",
+        "ar": "اكتب ملخّصًا للمقال."
+      }
+    },
+    {
+      "word": "condense",
+      "definition": "To make a text shorter by focusing on the essentials.",
+      "arabic": "تكثيف",
+      "arabic_definition": "جعل النص أقصر بالتركيز على الأساسيات.",
+      "example": {
+        "en": "Condense this chapter into three sentences.",
+        "ar": "قم بتكثيف هذا الفصل إلى ثلاث جمل."
+      }
+    },
+    {
+      "word": "restate",
+      "definition": "To say again in a different way.",
+      "arabic": "يعيد صياغة",
+      "arabic_definition": "يعبر عن شيء مرة أخرى بأسلوب مختلف.",
+      "example": {
+        "en": "He restated the argument for clarity.",
+        "ar": "أعاد صياغة الحجة من أجل الوضوح."
+      }
+    },
+    {
+      "word": "capture",
+      "definition": "To accurately express the essence of an idea.",
+      "arabic": "يلخّص",
+      "arabic_definition": "يعبر بدقة عن جوهر الفكرة.",
+      "example": {
+        "en": "The summary captures the key points of the lesson.",
+        "ar": "يلخّص الملخّص النقاط الرئيسية للدرس."
+      }
+    },
+    {
+      "word": "elaborate",
+      "definition": "To give more details about a statement.",
+      "arabic": "يتوسّع",
+      "arabic_definition": "يعطي تفاصيل إضافية عن بيان.",
+      "example": {
+        "en": "Please elaborate on your point.",
+        "ar": "يرجى تقديم مزيد من التفصيل حول نقطتك."
+      }
+    },
+    {
+      "word": "distill",
+      "definition": "To reduce information to its most important parts.",
+      "arabic": "يلخّص",
+      "arabic_definition": "اختزال المعلومات لأهم أجزائها.",
+      "example": {
+        "en": "Try to distill the text down to one paragraph.",
+        "ar": "حاول تلخيص النص إلى فقرة واحدة."
+      }
+    },
+    {
+      "word": "capture the essence",
+      "definition": "To express the core or main point clearly.",
+      "arabic": "يلخّص الجوهر",
+      "arabic_definition": "التعبير عن الجوهر أو الفكرة الرئيسية بوضوح.",
+      "example": {
+        "en": "He captured the essence of the speech beautifully.",
+        "ar": "لخّص جوهر الخطاب بشكل رائع."
+      }
+    },
+    {
+      "word": "brief",
+      "definition": "Short and to the point.",
+      "arabic": "موجز",
+      "arabic_definition": "قصير ومباشر.",
+      "example": {
+        "en": "Give a brief explanation of your project.",
+        "ar": "قدم شرحًا موجزًا عن مشروعك."
+      }
+    },
+    {
+      "word": "highlight",
+      "definition": "To emphasize the most important points.",
+      "arabic": "يلقي الضوء على",
+      "arabic_definition": "يركز على النقاط الأكثر أهمية.",
+      "example": {
+        "en": "The teacher highlighted the key ideas of the lesson.",
+        "ar": "سلّط المدرس الضوء على الأفكار الرئيسية للدرس."
+      }
+    }
+  ]
+}

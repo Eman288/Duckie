@@ -1,0 +1,105 @@
+{
+  "lesson": "Navigating Complex Social Interactions",
+  "words": [
+    {
+      "word": "diplomacy",
+      "definition": "The skill of dealing with people sensitively.",
+      "arabic": "دبلوماسية",
+      "arabic_definition": "مهارة التعامل مع الناس بحساسية.",
+      "example": {
+        "en": "Diplomacy is essential in resolving conflicts.",
+        "ar": "الدبلوماسية ضرورية لحل النزاعات."
+      }
+    },
+    {
+      "word": "tact",
+      "definition": "The ability to say or do things in a way that doesn’t offend.",
+      "arabic": "لباقة",
+      "arabic_definition": "القدرة على قول أو عمل الأشياء دون الإساءة.",
+      "example": {
+        "en": "He handled the situation with great tact.",
+        "ar": "تعامل مع الموقف بلباقة كبيرة."
+      }
+    },
+    {
+      "word": "empathy",
+      "definition": "The ability to understand others’ feelings.",
+      "arabic": "تعاطف",
+      "arabic_definition": "القدرة على تفهم مشاعر الآخرين.",
+      "example": {
+        "en": "Empathy is key to effective communication.",
+        "ar": "التعاطف مفتاح التواصل الفعال."
+      }
+    },
+    {
+      "word": "assertiveness",
+      "definition": "The ability to state one’s needs clearly and firmly.",
+      "arabic": "حزم",
+      "arabic_definition": "القدرة على التعبير عن احتياجات الشخص بوضوح وحزم.",
+      "example": {
+        "en": "Assertiveness allows you to stand up for yourself.",
+        "ar": "الحزم يساعدك على الدفاع عن نفسك."
+      }
+    },
+    {
+      "word": "negotiation",
+      "definition": "A discussion aimed at reaching an agreement.",
+      "arabic": "تفاوض",
+      "arabic_definition": "مناقشة تهدف إلى الوصول إلى اتفاق.",
+      "example": {
+        "en": "Negotiation is vital for resolving business disagreements.",
+        "ar": "التفاوض مهم لحل الخلافات التجارية."
+      }
+    },
+    {
+      "word": "active listening",
+      "definition": "Fully focusing and responding to a speaker.",
+      "arabic": "استماع نشط",
+      "arabic_definition": "تركيز كامل على المتحدث والاستجابة له.",
+      "example": {
+        "en": "Active listening is a key skill in teamwork.",
+        "ar": "الاستماع النشط مهارة مهمة في العمل الجماعي."
+      }
+    },
+    {
+      "word": "consensus",
+      "definition": "An agreement shared by all people in a group.",
+      "arabic": "إجماع",
+      "arabic_definition": "اتفاق مشترك من قبل جميع أفراد المجموعة.",
+      "example": {
+        "en": "Reaching a consensus can take time.",
+        "ar": "التوصل إلى إجماع يمكن أن يأخذ وقتًا."
+      }
+    },
+    {
+      "word": "boundary",
+      "definition": "A limit that defines acceptable behavior.",
+      "arabic": "حد",
+      "arabic_definition": "حد يحدد السلوك المقبول.",
+      "example": {
+        "en": "It’s important to set boundaries in any relationship.",
+        "ar": "من المهم تحديد حدود في أي علاقة."
+      }
+    },
+    {
+      "word": "respect",
+      "definition": "Consideration for others’ feelings and ideas.",
+      "arabic": "احترام",
+      "arabic_definition": "مراعاة مشاعر وأفكار الآخرين.",
+      "example": {
+        "en": "Mutual respect is vital for teamwork.",
+        "ar": "الاحترام المتبادل أمر ضروري للعمل الجماعي."
+      }
+    },
+    {
+      "word": "resolution",
+      "definition": "The act of finding a solution to a disagreement.",
+      "arabic": "حل",
+      "arabic_definition": "عملية العثور على حل لخلاف.",
+      "example": {
+        "en": "A peaceful resolution was reached after the talks.",
+        "ar": "تم التوصل إلى حل سلمي بعد المحادثات."
+      }
+    }
+  ]
+}

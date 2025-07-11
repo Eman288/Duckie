@@ -1,0 +1,105 @@
+{
+  "lesson": "High-Level Editing and Proofreading",
+  "words": [
+    {
+      "word": "consistency",
+      "definition": "Staying uniform throughout a text.",
+      "arabic": "الاتساق",
+      "arabic_definition": "البقاء على نمط موحد طوال النص.",
+      "example": {
+        "en": "Consistency in style improves readability.",
+        "ar": "الاتساق في الأسلوب يحسن قابلية القراءة."
+      }
+    },
+    {
+      "word": "accuracy",
+      "definition": "Correctness and precision.",
+      "arabic": "الدقة",
+      "arabic_definition": "الصحة والدقة.",
+      "example": {
+        "en": "Editors ensure accuracy in names and numbers.",
+        "ar": "يتأكد المحررون من دقة الأسماء والأرقام."
+      }
+    },
+    {
+      "word": "grammar",
+      "definition": "The set of rules for sentence structure.",
+      "arabic": "القواعد",
+      "arabic_definition": "مجموعة قواعد لتركيب الجمل.",
+      "example": {
+        "en": "Correct grammar is vital for understanding.",
+        "ar": "القواعد السليمة ضرورية لفهم النص."
+      }
+    },
+    {
+      "word": "syntax",
+      "definition": "The order of words in a sentence.",
+      "arabic": "تركيب الجملة",
+      "arabic_definition": "ترتيب الكلمات داخل الجملة.",
+      "example": {
+        "en": "Syntax affects the clarity of a statement.",
+        "ar": "تركيب الجملة يؤثر على وضوح البيان."
+      }
+    },
+    {
+      "word": "redundancy",
+      "definition": "Repetition that adds no value.",
+      "arabic": "التكرار",
+      "arabic_definition": "التكرار الذي لا يضيف قيمة.",
+      "example": {
+        "en": "Editors remove redundancy for brevity.",
+        "ar": "المحررون يحذفون التكرار للحفاظ على الإيجاز."
+      }
+    },
+    {
+      "word": "ambiguity",
+      "definition": "Lack of clarity due to multiple meanings.",
+      "arabic": "الغموض",
+      "arabic_definition": "عدم الوضوح بسبب تعدد المعاني.",
+      "example": {
+        "en": "Ambiguity can confuse the reader.",
+        "ar": "الغموض يمكن أن يُربك القارئ."
+      }
+    },
+    {
+      "word": "flow",
+      "definition": "The seamless progression of ideas.",
+      "arabic": "التدفق",
+      "arabic_definition": "التقدم السلس للأفكار.",
+      "example": {
+        "en": "Good editing improves the flow of an essay.",
+        "ar": "التحرير الجيد يحسن تدفق المقال."
+      }
+    },
+    {
+      "word": "clarity",
+      "definition": "The quality of being easily understood.",
+      "arabic": "الوضوح",
+      "arabic_definition": "جودة السهولة في الفهم.",
+      "example": {
+        "en": "Clarity is key in technical documents.",
+        "ar": "الوضوح ضروري في الوثائق التقنية."
+      }
+    },
+    {
+      "word": "tone",
+      "definition": "The voice and style of the writer.",
+      "arabic": "نغمة",
+      "arabic_definition": "الصوت والأسلوب الذي يستخدمه الكاتب.",
+      "example": {
+        "en": "Check that the tone suits the audience.",
+        "ar": "تأكد من أن النغمة تناسب الجمهور."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "The quality of being accurate and exact.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الصحة والدقة.",
+      "example": {
+        "en": "Editors strive for precision in wording.",
+        "ar": "يسعى المحررون لتحقيق الدقة في الصياغة."
+      }
+    }
+  ]
+}

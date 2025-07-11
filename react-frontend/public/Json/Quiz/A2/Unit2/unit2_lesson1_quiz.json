@@ -1,0 +1,60 @@
+{
+  "lesson": "A2 Unit 2 - Describing Your Job Quiz",
+  "questions": [
+    {
+      "question": "What does 'job title' mean?",
+      "answers": [
+        "اسم العمل",
+        "نوع الوظيفة",
+        "وصف الوظيفة",
+        "عنوان السكن"
+      ],
+      "correct": "اسم العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase means 'what you do at your job'?",
+      "answers": [
+        "salary",
+        "responsibilities",
+        "uniform",
+        "location"
+      ],
+      "correct": "responsibilities",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate 'full-time' into Arabic.",
+      "answers": [
+        "دوام جزئي",
+        "دوام كامل",
+        "عمل منزلي",
+        "مهنة"
+      ],
+      "correct": "دوام كامل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answers": [
+        "He work as an engineer.",
+        "She works as a teacher.",
+        "They working as doctors.",
+        "I am teacher."
+      ],
+      "correct": "She works as a teacher.",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of these is NOT related to a job?",
+      "answers": [
+        "position",
+        "manager",
+        "job title",
+        "kitchen"
+      ],
+      "correct": "kitchen",
+      "voiceUrl": ""
+    }
+  ]
+}

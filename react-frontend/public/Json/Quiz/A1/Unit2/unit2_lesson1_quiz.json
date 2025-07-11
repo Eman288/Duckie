@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 2 - Talking About Your Day Quiz",
+  "questions": [
+    {
+      "question": "What does 'morning' mean in Arabic?",
+      "answers": [
+        "صباح",
+        "مساء",
+        "ليل",
+        "ظهر"
+      ],
+      "correct": "صباح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'evening'?",
+      "answers": [
+        "noon",
+        "night",
+        "evening",
+        "morning"
+      ],
+      "correct": "evening",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic translation for 'night'?",
+      "answers": [
+        "ليل",
+        "صباح",
+        "ظهر",
+        "عصر"
+      ],
+      "correct": "ليل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I eat lunch in the ___.",
+      "answers": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night"
+      ],
+      "correct": "afternoon",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'noon' refer to?",
+      "answers": [
+        "Early morning",
+        "12 o'clock in the day",
+        "Sunset",
+        "Late night"
+      ],
+      "correct": "12 o'clock in the day",
+      "voiceUrl": ""
+    }
+  ]
+}

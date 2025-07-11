@@ -1,0 +1,27 @@
+{
+  "lesson": "Unit7 Asking For Directions Quiz",
+  "questions": [
+    {
+      "question": "What does 'turn right' mean?",
+      "answers": [
+        "انعطف يسارًا",
+        "اذهب مباشرة",
+        "انعطف يمينًا",
+        "ارجع"
+      ],
+      "correct": "انعطف يمينًا",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'أين'?",
+      "answers": [
+        "where",
+        "how",
+        "when",
+        "what"
+      ],
+      "correct": "where",
+      "voiceUrl": ""
+    }
+  ]
+}

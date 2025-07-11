@@ -1,0 +1,105 @@
+{
+  "lesson": "Describing Where Things Are",
+  "words": [
+    {
+      "word": "on",
+      "definition": "Located above and in contact with a surface.",
+      "arabic": "على",
+      "arabic_definition": "موجود فوق وعلى اتصال بسطح.",
+      "example": {
+        "en": "This is a on.",
+        "ar": "هذا على."
+      }
+    },
+    {
+      "word": "under",
+      "definition": "Located below something.",
+      "arabic": "تحت",
+      "arabic_definition": "موجود تحت شيء ما.",
+      "example": {
+        "en": "This is a under.",
+        "ar": "هذا تحت."
+      }
+    },
+    {
+      "word": "next to",
+      "definition": "Beside or close to something.",
+      "arabic": "بجانب",
+      "arabic_definition": "بجوار أو بالقرب من شيء ما.",
+      "example": {
+        "en": "This is a next to.",
+        "ar": "هذا بجانب."
+      }
+    },
+    {
+      "word": "between",
+      "definition": "In the space that separates two things.",
+      "arabic": "بين",
+      "arabic_definition": "في المساحة بين شيئين.",
+      "example": {
+        "en": "This is a between.",
+        "ar": "هذا بين."
+      }
+    },
+    {
+      "word": "in front of",
+      "definition": "Located before or ahead of something.",
+      "arabic": "أمام",
+      "arabic_definition": "في مقدمة شيء ما.",
+      "example": {
+        "en": "This is a in front of.",
+        "ar": "هذا أمام."
+      }
+    },
+    {
+      "word": "behind",
+      "definition": "At the back of something.",
+      "arabic": "خلف",
+      "arabic_definition": "في مؤخرة شيء ما.",
+      "example": {
+        "en": "This is a behind.",
+        "ar": "هذا خلف."
+      }
+    },
+    {
+      "word": "inside",
+      "definition": "Within something.",
+      "arabic": "داخل",
+      "arabic_definition": "في الداخل.",
+      "example": {
+        "en": "This is a inside.",
+        "ar": "هذا داخل."
+      }
+    },
+    {
+      "word": "outside",
+      "definition": "Not inside, on or to the outer part.",
+      "arabic": "خارج",
+      "arabic_definition": "ليس في الداخل، في الخارج.",
+      "example": {
+        "en": "This is a outside.",
+        "ar": "هذا خارج."
+      }
+    },
+    {
+      "word": "over",
+      "definition": "Directly above something.",
+      "arabic": "فوق",
+      "arabic_definition": "فوق شيء ما مباشرة.",
+      "example": {
+        "en": "This is a over.",
+        "ar": "هذا فوق."
+      }
+    },
+    {
+      "word": "below",
+      "definition": "At a lower level or layer.",
+      "arabic": "أسفل",
+      "arabic_definition": "في مستوى أو طبقة أقل.",
+      "example": {
+        "en": "This is a below.",
+        "ar": "هذا أسفل."
+      }
+    }
+  ]
+}

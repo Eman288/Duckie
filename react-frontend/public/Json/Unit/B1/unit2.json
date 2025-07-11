@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - Travel and Culture",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'travel'?",
+      "answers": [ "السفر", "الحجز", "الفندق", "المطار" ],
+      "correct": "السفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to book' in Arabic?",
+      "answers": [ "يحجز", "يسافر", "يلغي", "يرسم" ],
+      "correct": "يحجز",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حجزت تذكرة'?",
+      "answers": [ "I booked a ticket", "I missed the bus", "I cancelled the flight", "I went to the hotel" ],
+      "correct": "I booked a ticket",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'hotel' in Arabic?",
+      "answers": [ "فندق", "مطار", "حافلة", "حقيبة" ],
+      "correct": "فندق",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'airport'?",
+      "answers": [ "المطار", "الفندق", "التذكرة", "الخريطة" ],
+      "correct": "المطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'ticket' in Arabic?",
+      "answers": [ "تذكرة", "حجز", "حافلة", "مطار" ],
+      "correct": "تذكرة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حجزت غرفة في الفندق'?",
+      "answers": [ "I booked a hotel room", "I missed the bus", "I cancelled the flight", "I went to the airport" ],
+      "correct": "I booked a hotel room",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'at the airport' in Arabic?",
+      "answers": [ "في المطار", "على الطريق", "على القارب", "في المحطة" ],
+      "correct": "في المطار",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I missed my flight'?",
+      "answers": [ "فاتتني رحلتي", "حجزت تذكرة", "استلمت حقيبتي", "ذهبت إلى المحطة" ],
+      "correct": "فاتتني رحلتي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'tourist' in Arabic?",
+      "answers": [ "سائح", "موظف", "طالب", "طبيب" ],
+      "correct": "سائح",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'استلمت حقيبتي'?",
+      "answers": [ "I collected my bag", "I missed the bus", "I booked a hotel", "I went to the airport" ],
+      "correct": "I collected my bag",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'map' in Arabic?",
+      "answers": [ "خريطة", "حقيبة", "حافلة", "فندق" ],
+      "correct": "خريطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'travel problems'?",
+      "answers": [ "مشاكل السفر", "حجز تذكرة", "خريطة المدينة", "الفندق القريب" ],
+      "correct": "مشاكل السفر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'solution' in Arabic?",
+      "answers": [ "حل", "مشكلة", "حجز", "تذكرة" ],
+      "correct": "حل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'وجدت حلًا للمشكلة'?",
+      "answers": [ "I found a solution to the problem", "I missed the bus", "I cancelled the flight", "I went to the hotel" ],
+      "correct": "I found a solution to the problem",
+      "voiceUrl": ""
+    }
+  ]
+}

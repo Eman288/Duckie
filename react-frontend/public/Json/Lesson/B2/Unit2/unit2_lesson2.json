@@ -1,0 +1,105 @@
+{
+  "lesson": "Discussing Professional Development",
+  "words": [
+    {
+      "word": "development",
+      "definition": "The process of growing or gaining new skills.",
+      "arabic": "تطوير",
+      "arabic_definition": "عملية النمو أو اكتساب مهارات جديدة.",
+      "example": {
+        "en": "The company focuses on employee development.",
+        "ar": "تركز الشركة على تطوير الموظفين."
+      }
+    },
+    {
+      "word": "skill",
+      "definition": "An ability to do something well.",
+      "arabic": "مهارة",
+      "arabic_definition": "القدرة على القيام بشيء بشكل جيد.",
+      "example": {
+        "en": "Learning new skills is important for career growth.",
+        "ar": "تعلم مهارات جديدة مهم للنمو الوظيفي."
+      }
+    },
+    {
+      "word": "training",
+      "definition": "The process of learning new skills for a job.",
+      "arabic": "تدريب",
+      "arabic_definition": "عملية تعلم مهارات جديدة للعمل.",
+      "example": {
+        "en": "The staff received training on new equipment.",
+        "ar": "حصل الموظفون على تدريب على المعدات الجديدة."
+      }
+    },
+    {
+      "word": "promotion",
+      "definition": "A move to a higher position or role.",
+      "arabic": "ترقية",
+      "arabic_definition": "الانتقال إلى منصب أعلى.",
+      "example": {
+        "en": "He worked hard and earned a promotion.",
+        "ar": "عمل بجد وحصل على ترقية."
+      }
+    },
+    {
+      "word": "workshop",
+      "definition": "A group learning event focusing on a specific skill.",
+      "arabic": "ورشة عمل",
+      "arabic_definition": "حدث تعليمي جماعي يركز على مهارة محددة.",
+      "example": {
+        "en": "She attended a workshop on leadership.",
+        "ar": "حضرت ورشة عمل حول القيادة."
+      }
+    },
+    {
+      "word": "mentorship",
+      "definition": "Guidance and support from a more experienced person.",
+      "arabic": "إرشاد",
+      "arabic_definition": "التوجيه والدعم من شخص ذو خبرة أكبر.",
+      "example": {
+        "en": "He benefited from a strong mentorship program.",
+        "ar": "استفاد من برنامج إرشادي قوي."
+      }
+    },
+    {
+      "word": "certification",
+      "definition": "An official document stating someone's qualifications.",
+      "arabic": "شهادة",
+      "arabic_definition": "وثيقة رسمية تؤكد مؤهلات الشخص.",
+      "example": {
+        "en": "She earned a certification in project management.",
+        "ar": "حصلت على شهادة في إدارة المشاريع."
+      }
+    },
+    {
+      "word": "performance",
+      "definition": "How well someone does a job.",
+      "arabic": "أداء",
+      "arabic_definition": "مدى جودة قيام الشخص بعمل.",
+      "example": {
+        "en": "The manager gave feedback on his performance.",
+        "ar": "قدم المدير ملاحظات على أدائه."
+      }
+    },
+    {
+      "word": "achievement",
+      "definition": "Something successfully done through effort.",
+      "arabic": "إنجاز",
+      "arabic_definition": "شيء يتم تحقيقه بنجاح عبر الجهد.",
+      "example": {
+        "en": "Graduation was a great achievement for her.",
+        "ar": "كان التخرج إنجازًا رائعًا بالنسبة لها."
+      }
+    },
+    {
+      "word": "goals",
+      "definition": "Targets or outcomes someone aims for.",
+      "arabic": "أهداف",
+      "arabic_definition": "الأهداف أو النتائج التي يسعى الشخص لتحقيقها.",
+      "example": {
+        "en": "He set ambitious goals for his career.",
+        "ar": "حدد أهدافًا طموحة لمسيرته المهنية."
+      }
+    }
+  ]
+}

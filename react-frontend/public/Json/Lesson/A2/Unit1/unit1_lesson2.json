@@ -1,0 +1,105 @@
+{
+  "lesson": "Making Plans for the Weekend",
+  "words": [
+    {
+      "word": "plan",
+      "definition": "An arrangement for what you intend to do.",
+      "arabic": "خطة",
+      "arabic_definition": "ترتيب لما تنوي القيام به.",
+      "example": {
+        "en": "We have a plan to go hiking this weekend.",
+        "ar": "لدينا خطة للذهاب في نزهة نهاية هذا الأسبوع."
+      }
+    },
+    {
+      "word": "weekend",
+      "definition": "The period from Friday evening to Sunday night.",
+      "arabic": "نهاية الأسبوع",
+      "arabic_definition": "الفترة من مساء الجمعة حتى مساء الأحد.",
+      "example": {
+        "en": "I relax on the weekend.",
+        "ar": "أسترخي في عطلة نهاية الأسبوع."
+      }
+    },
+    {
+      "word": "invitation",
+      "definition": "A request to come to a social event.",
+      "arabic": "دعوة",
+      "arabic_definition": "طلب لحضور مناسبة اجتماعية.",
+      "example": {
+        "en": "I received an invitation to a party.",
+        "ar": "تلقيت دعوة لحفلة."
+      }
+    },
+    {
+      "word": "movie",
+      "definition": "A story shown on a screen; a film.",
+      "arabic": "فيلم",
+      "arabic_definition": "قصة تُعرض على شاشة؛ فيلم.",
+      "example": {
+        "en": "We are going to watch a movie.",
+        "ar": "سنشاهد فيلماً."
+      }
+    },
+    {
+      "word": "restaurant",
+      "definition": "A place where you can buy and eat a meal.",
+      "arabic": "مطعم",
+      "arabic_definition": "مكان يمكنك فيه شراء وتناول الطعام.",
+      "example": {
+        "en": "They reserved a table at the restaurant.",
+        "ar": "حجزوا طاولة في المطعم."
+      }
+    },
+    {
+      "word": "go out",
+      "definition": "To leave home to go to a social event.",
+      "arabic": "يخرج",
+      "arabic_definition": "يغادر المنزل للذهاب إلى حدث اجتماعي.",
+      "example": {
+        "en": "Do you want to go out this evening?",
+        "ar": "هل تريد الخروج هذا المساء؟"
+      }
+    },
+    {
+      "word": "join",
+      "definition": "To take part in an activity with others.",
+      "arabic": "ينضم",
+      "arabic_definition": "يشارك في نشاط مع الآخرين.",
+      "example": {
+        "en": "Can I join you for lunch?",
+        "ar": "هل يمكنني الانضمام إليك لتناول الغداء؟"
+      }
+    },
+    {
+      "word": "picnic",
+      "definition": "An outdoor meal where people sit on the ground.",
+      "arabic": "نزهة",
+      "arabic_definition": "وجبة في الهواء الطلق حيث يجلس الناس على الأرض.",
+      "example": {
+        "en": "We planned a picnic in the park.",
+        "ar": "خططنا لنزهة في الحديقة."
+      }
+    },
+    {
+      "word": "travel",
+      "definition": "To go from one place to another, often for enjoyment.",
+      "arabic": "يسافر",
+      "arabic_definition": "الانتقال من مكان إلى آخر غالبًا للاستمتاع.",
+      "example": {
+        "en": "They want to travel to the mountains.",
+        "ar": "يريدون السفر إلى الجبال."
+      }
+    },
+    {
+      "word": "relax",
+      "definition": "To rest and enjoy free time.",
+      "arabic": "يسترخي",
+      "arabic_definition": "يرتاح ويستمتع بوقت الفراغ.",
+      "example": {
+        "en": "I just want to relax this weekend.",
+        "ar": "أريد فقط أن أسترخي في عطلة نهاية الأسبوع."
+      }
+    }
+  ]
+}

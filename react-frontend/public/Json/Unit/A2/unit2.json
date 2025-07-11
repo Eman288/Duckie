@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 2 - A2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'job'?",
+      "answers": [ "عمل", "مدرسة", "مكتب", "حديقة" ],
+      "correct": "عمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'housework' in Arabic?",
+      "answers": [ "أعمال منزلية", "رياضة", "قراءة", "ترفيه" ],
+      "correct": "أعمال منزلية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'جدول العمل'?",
+      "answers": [ "work schedule", "daily routine", "present continuous", "job description" ],
+      "correct": "work schedule",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'present continuous' in Arabic?",
+      "answers": [ "المضارع المستمر", "الماضي البسيط", "المستقبل", "حاضر تام" ],
+      "correct": "المضارع المستمر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I am working now'?",
+      "answers": [ "أنا أعمل الآن", "أنا عملت أمس", "أنا سأعمل غدًا", "أنا عملت قبل قليل" ],
+      "correct": "أنا أعمل الآن",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cleaning' in Arabic?",
+      "answers": [ "تنظيف", "ترتيب", "عمل", "خياطة" ],
+      "correct": "تنظيف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أنا أكتب تقريرًا'?",
+      "answers": [ "I am writing a report", "I write a book", "I will write a report", "I wrote a report" ],
+      "correct": "I am writing a report",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to wash the dishes' in Arabic?",
+      "answers": [ "يغسل الصحون", "ينظف السيارة", "يرتب السرير", "يكوي الملابس" ],
+      "correct": "يغسل الصحون",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'employee'?",
+      "answers": [ "موظف", "مدير", "طالب", "معلم" ],
+      "correct": "موظف",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'manager' in Arabic?",
+      "answers": [ "مدير", "موظف", "طالب", "عامل" ],
+      "correct": "مدير",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أجهز التقرير الآن'?",
+      "answers": [ "I am preparing the report now", "I finished the report", "I will write the report", "I will read the report" ],
+      "correct": "I am preparing the report now",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'workplace' in Arabic?",
+      "answers": [ "مكان العمل", "المنزل", "الشارع", "المكتبة" ],
+      "correct": "مكان العمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'daily routine' at work?",
+      "answers": [ "الروتين اليومي للعمل", "خطة أسبوعية", "استراحة العمل", "جدول الامتحانات" ],
+      "correct": "الروتين اليومي للعمل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to organize' in Arabic?",
+      "answers": [ "ينظف", "يرتب", "يرسم", "يغني" ],
+      "correct": "يرتب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أنا أنظف المكتب'?",
+      "answers": [ "I am cleaning the office", "I am reading a book", "I am cooking lunch", "I am resting" ],
+      "correct": "I am cleaning the office",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Asking Someone’s Name and Origin",
+  "words": [
+    {
+      "word": "what",
+      "definition": "Used to ask for information.",
+      "arabic": "ما / ماذا",
+      "arabic_definition": "تُستخدم لطلب معلومات.",
+      "example": {
+        "en": "What is your name?",
+        "ar": "ما اسمك؟"
+      }
+    },
+    {
+      "word": "your",
+      "definition": "Belonging to you.",
+      "arabic": "ك / لك",
+      "arabic_definition": "تعود لك.",
+      "example": {
+        "en": "What is your name?",
+        "ar": "ما اسمك؟"
+      }
+    },
+    {
+      "word": "name",
+      "definition": "The word by which a person is known.",
+      "arabic": "اسم",
+      "arabic_definition": "كلمة يُعرف بها الشخص.",
+      "example": {
+        "en": "My name is Omar.",
+        "ar": "اسمي عمر."
+      }
+    },
+    {
+      "word": "where",
+      "definition": "Used to ask about place or position.",
+      "arabic": "أين",
+      "arabic_definition": "تُستخدم للسؤال عن المكان أو الموقع.",
+      "example": {
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟"
+      }
+    },
+    {
+      "word": "are",
+      "definition": "Present tense of the verb 'to be' for you/we/they.",
+      "arabic": "تكون",
+      "arabic_definition": "صيغة المضارع من الفعل 'يكون' لضمائر الجمع.",
+      "example": {
+        "en": "You are kind.",
+        "ar": "أنت طيب."
+      }
+    },
+    {
+      "word": "from",
+      "definition": "Used to indicate origin.",
+      "arabic": "من",
+      "arabic_definition": "تُستخدم للإشارة إلى الأصل.",
+      "example": {
+        "en": "I am from Iraq.",
+        "ar": "أنا من العراق."
+      }
+    },
+    {
+      "word": "country",
+      "definition": "A nation with its own government and borders.",
+      "arabic": "دولة",
+      "arabic_definition": "أمة لها حكومة وحدود خاصة.",
+      "example": {
+        "en": "My country is Jordan.",
+        "ar": "بلدي هو الأردن."
+      }
+    },
+    {
+      "word": "live",
+      "definition": "To reside in a place.",
+      "arabic": "يعيش",
+      "arabic_definition": "يسكن في مكان.",
+      "example": {
+        "en": "Where do you live?",
+        "ar": "أين تعيش؟"
+      }
+    },
+    {
+      "word": "do",
+      "definition": "Used to form questions or negatives in the present tense.",
+      "arabic": "يفعل / هل",
+      "arabic_definition": "تُستخدم لتكوين الأسئلة أو النفي في الزمن الحاضر.",
+      "example": {
+        "en": "Do you speak English?",
+        "ar": "هل تتحدث الإنجليزية؟"
+      }
+    },
+    {
+      "word": "speak",
+      "definition": "To talk or say words.",
+      "arabic": "يتحدث",
+      "arabic_definition": "يقول كلمات أو يتحدث.",
+      "example": {
+        "en": "I speak Arabic.",
+        "ar": "أنا أتحدث العربية."
+      }
+    }
+  ]
+}

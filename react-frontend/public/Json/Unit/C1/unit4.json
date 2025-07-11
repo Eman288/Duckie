@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 4 - Advanced Grammar and Syntax",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'complex sentence structure'?",
+      "answers": [ "تركيب جملة معقّد", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تركيب جملة معقّد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'passive voice' in Arabic?",
+      "answers": [ "المبني للمجهول", "حافلة", "حقيبة", "حجز" ],
+      "correct": "المبني للمجهول",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'صيغة الشرط'?",
+      "answers": [ "subjunctive form", "daily routine", "work project", "travel map" ],
+      "correct": "subjunctive form",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'advanced syntax' in Arabic?",
+      "answers": [ "تركيب نحوي متقدم", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تركيب نحوي متقدم",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'modal verbs'?",
+      "answers": [ "الأفعال المشروطة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الأفعال المشروطة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'complex clause' in Arabic?",
+      "answers": [ "جملة مركبة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "جملة مركبة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'صيغة الاحتمال'?",
+      "answers": [ "potential form", "daily routine", "work project", "travel map" ],
+      "correct": "potential form",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'syntactic structure' in Arabic?",
+      "answers": [ "تركيب نحوي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تركيب نحوي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'advanced grammatical rules'?",
+      "answers": [ "القواعد النحوية المتقدمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "القواعد النحوية المتقدمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'complex syntax' in Arabic?",
+      "answers": [ "تركيب نحوي معقّد", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تركيب نحوي معقّد",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الصيغة الشرطية'?",
+      "answers": [ "conditional form", "daily routine", "work project", "travel map" ],
+      "correct": "conditional form",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'advanced verb forms' in Arabic?",
+      "answers": [ "صيغة الفعل المتقدمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "صيغة الفعل المتقدمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'grammatical precision'?",
+      "answers": [ "الدقّة النحوية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الدقّة النحوية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'verb tense' in Arabic?",
+      "answers": [ "زمن الفعل", "حافلة", "حقيبة", "حجز" ],
+      "correct": "زمن الفعل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القواعد المتقدمة'?",
+      "answers": [ "advanced grammar", "daily routine", "work project", "travel map" ],
+      "correct": "advanced grammar",
+      "voiceUrl": ""
+    }
+  ]
+}

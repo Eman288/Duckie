@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 6 - A2 Quiz",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'invitation'?",
+      "answers": [ "دعوة", "حقيبة", "خريطة", "حجز" ],
+      "correct": "دعوة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to accept' in Arabic?",
+      "answers": [ "يقبل", "يرسم", "يسبح", "يلعب" ],
+      "correct": "يقبل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'رفضت الدعوة'?",
+      "answers": [ "I refused the invitation", "I liked the party", "I gave a gift", "I attended the party" ],
+      "correct": "I refused the invitation",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'party' in Arabic?",
+      "answers": [ "حفلة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "حفلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'celebration'?",
+      "answers": [ "احتفال", "دعوة", "خريطة", "فندق" ],
+      "correct": "احتفال",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'gift' in Arabic?",
+      "answers": [ "هدية", "حافلة", "حجز", "خريطة" ],
+      "correct": "هدية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'أقبل الدعوة'?",
+      "answers": [ "I accept the invitation", "I refused the invitation", "I missed the bus", "I liked the gift" ],
+      "correct": "I accept the invitation",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to like' in Arabic?",
+      "answers": [ "يعجب", "يرسم", "يلعب", "يسبح" ],
+      "correct": "يعجب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'dislike'?",
+      "answers": [ "لا أحب", "أقبل", "أرسم", "أسافر" ],
+      "correct": "لا أحب",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to attend' in Arabic?",
+      "answers": [ "يحضر", "يسبح", "يلعب", "يرسم" ],
+      "correct": "يحضر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'حفل زفاف'?",
+      "answers": [ "wedding party", "birthday party", "gift shop", "train station" ],
+      "correct": "wedding party",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to invite' in Arabic?",
+      "answers": [ "يدعو", "يرسم", "يسبح", "يلعب" ],
+      "correct": "يدعو",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'I like this party'?",
+      "answers": [ "أحب هذه الحفلة", "أقبل الدعوة", "أحضر الاجتماع", "ليس لدي وقت" ],
+      "correct": "أحب هذه الحفلة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'to celebrate' in Arabic?",
+      "answers": [ "يحتفل", "يرسم", "يسبح", "يلعب" ],
+      "correct": "يحتفل",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'ليس لدي وقت للحضور'?",
+      "answers": [ "I don’t have time to attend", "I will come later", "I liked the party", "I gave a gift" ],
+      "correct": "I don’t have time to attend",
+      "voiceUrl": ""
+    }
+  ]
+}

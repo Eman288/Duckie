@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Environmental Challenges",
+  "words": [
+    {
+      "word": "pollution",
+      "definition": "The contamination of air, water, or soil.",
+      "arabic": "تلوث",
+      "arabic_definition": "تلوث الهواء، الماء، أو التربة.",
+      "example": {
+        "en": "Pollution is one of the biggest environmental challenges.",
+        "ar": "التلوث من أكبر التحديات البيئية."
+      }
+    },
+    {
+      "word": "climate",
+      "definition": "The typical weather conditions of an area.",
+      "arabic": "المناخ",
+      "arabic_definition": "حالة الطقس المعتادة لمنطقة ما.",
+      "example": {
+        "en": "The climate is changing due to global warming.",
+        "ar": "يتغير المناخ بسبب الاحتباس الحراري."
+      }
+    },
+    {
+      "word": "deforestation",
+      "definition": "The clearing or destroying of forests.",
+      "arabic": "إزالة الغابات",
+      "arabic_definition": "قطع الأشجار أو تدمير الغابات.",
+      "example": {
+        "en": "Deforestation is a serious threat to wildlife.",
+        "ar": "تمثل إزالة الغابات تهديدًا خطيرًا للحياة البرية."
+      }
+    },
+    {
+      "word": "sustainability",
+      "definition": "Using resources in a way that maintains them for future generations.",
+      "arabic": "استدامة",
+      "arabic_definition": "استخدام الموارد بطريقة تحافظ عليها للأجيال القادمة.",
+      "example": {
+        "en": "We must focus on sustainability to protect the planet.",
+        "ar": "علينا التركيز على الاستدامة لحماية كوكبنا."
+      }
+    },
+    {
+      "word": "biodiversity",
+      "definition": "The variety of plant and animal life in an area.",
+      "arabic": "التنوع البيولوجي",
+      "arabic_definition": "تنوع الحياة النباتية والحيوانية في منطقة ما.",
+      "example": {
+        "en": "The area has a rich biodiversity.",
+        "ar": "المنطقة تحتوي على تنوع بيولوجي غني."
+      }
+    },
+    {
+      "word": "greenhouse gases",
+      "definition": "Gases that trap heat in the atmosphere.",
+      "arabic": "غازات الدفيئة",
+      "arabic_definition": "غازات تحتجز الحرارة في الغلاف الجوي.",
+      "example": {
+        "en": "Greenhouse gases cause global warming.",
+        "ar": "غازات الدفيئة تؤدي إلى الاحترار العالمي."
+      }
+    },
+    {
+      "word": "recycling",
+      "definition": "The process of converting waste into reusable materials.",
+      "arabic": "إعادة التدوير",
+      "arabic_definition": "عملية تحويل النفايات إلى مواد قابلة لإعادة الاستخدام.",
+      "example": {
+        "en": "Recycling reduces waste and pollution.",
+        "ar": "تعيد التدوير يقلل من النفايات والتلوث."
+      }
+    },
+    {
+      "word": "conservation",
+      "definition": "The protection and preservation of the environment.",
+      "arabic": "الحفاظ على البيئة",
+      "arabic_definition": "حماية وصيانة البيئة.",
+      "example": {
+        "en": "Conservation efforts save endangered species.",
+        "ar": "جهود الحفاظ على البيئة تنقذ الأنواع المهددة بالانقراض."
+      }
+    },
+    {
+      "word": "fossil fuels",
+      "definition": "Energy sources such as coal, oil, and gas.",
+      "arabic": "وقود أحفوري",
+      "arabic_definition": "مصادر للطاقة مثل الفحم، النفط، والغاز.",
+      "example": {
+        "en": "Burning fossil fuels pollutes the air.",
+        "ar": "حرق الوقود الأحفوري يلوث الهواء."
+      }
+    },
+    {
+      "word": "carbon footprint",
+      "definition": "The total amount of carbon emissions caused by an individual or activity.",
+      "arabic": "البصمة الكربونية",
+      "arabic_definition": "مجموع انبعاثات الكربون التي يتسبب فيها فرد أو نشاط.",
+      "example": {
+        "en": "We can reduce our carbon footprint by using renewable energy.",
+        "ar": "يمكننا تقليل بصمتنا الكربونية باستخدام الطاقة المتجددة."
+      }
+    }
+  ]
+}

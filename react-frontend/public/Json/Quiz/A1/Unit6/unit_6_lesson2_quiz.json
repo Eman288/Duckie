@@ -1,0 +1,82 @@
+{
+  "lesson": "Unit 6 - Lesson 2 Quiz: Asking for Prices",
+  "questions": [
+    {
+      "question": "What does 'price' mean in Arabic?",
+      "answers": [
+        "قيمة",
+        "سعر",
+        "تكلفة",
+        "خصم"
+      ],
+      "correct": "سعر",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which phrase do you use to ask about cost?",
+      "answers": [
+        "how are you",
+        "how much",
+        "how long",
+        "how old"
+      ],
+      "correct": "how much",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct translation: 'expensive'",
+      "answers": [
+        "رخيص",
+        "غالي",
+        "خصم",
+        "سعر"
+      ],
+      "correct": "غالي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'رخيص'?",
+      "answers": [
+        "sale",
+        "cheap",
+        "expensive",
+        "price"
+      ],
+      "correct": "cheap",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a reduction in price'?",
+      "answers": [
+        "cost",
+        "discount",
+        "sale",
+        "worth"
+      ],
+      "correct": "discount",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: This coat is too ___ for me to buy.",
+      "answers": [
+        "cheap",
+        "sale",
+        "expensive",
+        "how much"
+      ],
+      "correct": "expensive",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'the value of something'?",
+      "answers": [
+        "discount",
+        "worth",
+        "cost",
+        "price"
+      ],
+      "correct": "worth",
+      "voiceUrl": ""
+    }
+  ]
+}

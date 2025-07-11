@@ -1,0 +1,66 @@
+/* General page styling */
+.situation-page {
+    background-color: #f9f9ff;
+    min-height: 100vh;
+    padding: 20px 40px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+    /* Back button */
+    .situation-page button {
+        background-color: #ffcb05;
+        color: #1a1a1a;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 10px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+        .situation-page button:hover {
+            background-color: #f5b800;
+        }
+
+/* Video title */
+.video-container h2 {
+    color: #4b0082;
+    margin-bottom: 20px;
+}
+
+/* Video player area */
+.video-container {
+    text-align: center;
+}
+
+    .video-container .react-player {
+        margin: 0 auto;
+        max-width: 900px;
+        height: 500px;
+    }
+
+/* Watched button section */
+.situation-page .watched-section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+    .situation-page .watched-section button {
+        background-color: #7a5eff;
+        color: white;
+        padding: 12px 30px;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .situation-page .watched-section button:hover {
+            background-color: #5d45cc;
+        }
+
+        .situation-page .watched-section button:disabled {
+            background-color: gray;
+            cursor: not-allowed;
+        }

@@ -1,0 +1,105 @@
+{
+  "lesson": "Exploring Philosophical and Ethical Debates",
+  "words": [
+    {
+      "word": "ethics",
+      "definition": "Moral principles guiding behavior.",
+      "arabic": "الأخلاقيات",
+      "arabic_definition": "المبادئ التي توجه السلوك الأخلاقي.",
+      "example": {
+        "en": "The debate centered around medical ethics.",
+        "ar": "تمحور النقاش حول أخلاقيات مهنة الطب."
+      }
+    },
+    {
+      "word": "morality",
+      "definition": "The distinction between right and wrong.",
+      "arabic": "الأخلاق",
+      "arabic_definition": "التفريق بين الصواب والخطأ.",
+      "example": {
+        "en": "The discussion was about the morality of artificial intelligence.",
+        "ar": "كان النقاش حول أخلاقيات الذكاء الاصطناعي."
+      }
+    },
+    {
+      "word": "dilemma",
+      "definition": "A situation with two undesirable choices.",
+      "arabic": "معضلة",
+      "arabic_definition": "حالة تتضمن خيارين غير مرغوبين.",
+      "example": {
+        "en": "The character faced a moral dilemma.",
+        "ar": "واجهت الشخصية معضلة أخلاقية."
+      }
+    },
+    {
+      "word": "utilitarianism",
+      "definition": "A theory where the best action benefits the most people.",
+      "arabic": "النفعية",
+      "arabic_definition": "نظرية تقتضي بأن العمل الأفضل هو الذي يفيد أكبر عدد من الأشخاص.",
+      "example": {
+        "en": "Utilitarianism focuses on achieving the greatest happiness.",
+        "ar": "تركز النفعية على تحقيق أكبر سعادة."
+      }
+    },
+    {
+      "word": "deontology",
+      "definition": "An ethical theory focusing on rules and duties.",
+      "arabic": "علم الواجب",
+      "arabic_definition": "نظرية أخلاقية تركز على القواعد والواجبات.",
+      "example": {
+        "en": "Deontology emphasizes acting according to rules.",
+        "ar": "يركز علم الواجب على التصرف وفقًا للقواعد."
+      }
+    },
+    {
+      "word": "virtue",
+      "definition": "A quality considered morally good.",
+      "arabic": "فضيلة",
+      "arabic_definition": "صفة تعتبر أخلاقية وحميدة.",
+      "example": {
+        "en": "Honesty is a virtue valued across cultures.",
+        "ar": "الصراحة فضيلة يتم تقديرها عبر الثقافات."
+      }
+    },
+    {
+      "word": "conscience",
+      "definition": "The inner sense of right and wrong.",
+      "arabic": "الضمير",
+      "arabic_definition": "الحس الداخلي للصواب والخطأ.",
+      "example": {
+        "en": "He acted according to his conscience.",
+        "ar": "تصرف وفقًا لضميره."
+      }
+    },
+    {
+      "word": "norm",
+      "definition": "A standard behavior expected within a society.",
+      "arabic": "معيار",
+      "arabic_definition": "السلوك المتوقع ضمن مجتمع.",
+      "example": {
+        "en": "Each culture has its own social norms.",
+        "ar": "كل ثقافة لها معاييرها الاجتماعية الخاصة."
+      }
+    },
+    {
+      "word": "bias",
+      "definition": "An unfair preference or judgment.",
+      "arabic": "انحياز",
+      "arabic_definition": "تفضيل غير عادل أو إصدار حكم متحيز.",
+      "example": {
+        "en": "He tried to overcome his bias during the debate.",
+        "ar": "حاول التغلب على تحيزه أثناء النقاش."
+      }
+    },
+    {
+      "word": "consequence",
+      "definition": "The result or effect of an action.",
+      "arabic": "عاقبة",
+      "arabic_definition": "النتيجة أو التأثير المترتب على عمل.",
+      "example": {
+        "en": "Every decision has a consequence.",
+        "ar": "كل قرار له عاقبة."
+      }
+    }
+  ]
+}

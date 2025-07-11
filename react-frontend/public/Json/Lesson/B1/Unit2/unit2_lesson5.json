@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Career Goals",
+  "words": [
+    {
+      "word": "goal",
+      "definition": "Something you want to achieve.",
+      "arabic": "هدف",
+      "arabic_definition": "شيء تريد تحقيقه.",
+      "example": {
+        "en": "My goal is to become a manager.",
+        "ar": "هدفي أن أصبح مديرًا."
+      }
+    },
+    {
+      "word": "ambition",
+      "definition": "A strong desire to succeed.",
+      "arabic": "طموح",
+      "arabic_definition": "رغبة قوية في النجاح.",
+      "example": {
+        "en": "She has great ambition for her career.",
+        "ar": "لديها طموح كبير لمهنتها."
+      }
+    },
+    {
+      "word": "plan",
+      "definition": "A detailed idea of what to do in the future.",
+      "arabic": "خطة",
+      "arabic_definition": "فكرة مفصلة عما يجب القيام به في المستقبل.",
+      "example": {
+        "en": "I have a plan to study abroad.",
+        "ar": "لدي خطة للدراسة في الخارج."
+      }
+    },
+    {
+      "word": "achieve",
+      "definition": "To successfully complete something.",
+      "arabic": "يحقق",
+      "arabic_definition": "ينجح في إكمال شيء ما.",
+      "example": {
+        "en": "She wants to achieve her goals this year.",
+        "ar": "تريد تحقيق أهدافها هذا العام."
+      }
+    },
+    {
+      "word": "skill",
+      "definition": "Ability to do something well.",
+      "arabic": "مهارة",
+      "arabic_definition": "القدرة على القيام بشيء جيدًا.",
+      "example": {
+        "en": "Learning new skills helps career growth.",
+        "ar": "تعلم مهارات جديدة يساعد في نمو الحياة المهنية."
+      }
+    },
+    {
+      "word": "training",
+      "definition": "Learning to improve your skills.",
+      "arabic": "تدريب",
+      "arabic_definition": "التعلم لتحسين المهارات.",
+      "example": {
+        "en": "The company offers training programs.",
+        "ar": "توفر الشركة برامج تدريبية."
+      }
+    },
+    {
+      "word": "experience",
+      "definition": "Knowledge gained from work or activities.",
+      "arabic": "خبرة",
+      "arabic_definition": "المعرفة المكتسبة من العمل أو الأنشطة.",
+      "example": {
+        "en": "Experience helps you reach your career goals.",
+        "ar": "الخبرة تساعدك على تحقيق أهدافك المهنية."
+      }
+    },
+    {
+      "word": "promotion",
+      "definition": "Moving to a higher job position.",
+      "arabic": "ترقية",
+      "arabic_definition": "الانتقال إلى وظيفة أعلى.",
+      "example": {
+        "en": "She got a promotion after working hard.",
+        "ar": "حصلت على ترقية بعد العمل الجاد."
+      }
+    },
+    {
+      "word": "opportunity",
+      "definition": "A chance to do something important.",
+      "arabic": "فرصة",
+      "arabic_definition": "فرصة لفعل شيء مهم.",
+      "example": {
+        "en": "Look for opportunities to improve.",
+        "ar": "ابحث عن فرص للتطوير."
+      }
+    },
+    {
+      "word": "goal setting",
+      "definition": "The process of defining your goals.",
+      "arabic": "تحديد الأهداف",
+      "arabic_definition": "عملية وضع أهدافك.",
+      "example": {
+        "en": "Goal setting helps you stay focused.",
+        "ar": "تحديد الأهداف يساعدك على البقاء مركزًا."
+      }
+    }
+  ]
+}

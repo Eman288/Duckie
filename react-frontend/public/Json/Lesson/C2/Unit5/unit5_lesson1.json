@@ -1,0 +1,105 @@
+{
+  "lesson": "Technical and Scientific Writing",
+  "words": [
+    {
+      "word": "precision",
+      "definition": "The quality of being exact and accurate.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الدقة والصحة.",
+      "example": {
+        "en": "Technical writing requires precision.",
+        "ar": "تتطلب الكتابة التقنية الدقة."
+      }
+    },
+    {
+      "word": "objectivity",
+      "definition": "Presenting information based on facts, not feelings.",
+      "arabic": "الموضوعية",
+      "arabic_definition": "عرض المعلومات على أساس الحقائق، دون مشاعر.",
+      "example": {
+        "en": "Objectivity is crucial in scientific papers.",
+        "ar": "الموضوعية أمر بالغ الأهمية في الأوراق العلمية."
+      }
+    },
+    {
+      "word": "conciseness",
+      "definition": "Expressing information clearly with few words.",
+      "arabic": "الإيجاز",
+      "arabic_definition": "التعبير عن المعلومات بوضوح باستخدام كلمات قليلة.",
+      "example": {
+        "en": "A technical manual should be concise.",
+        "ar": "ينبغي أن يكون الدليل التقني موجزًا."
+      }
+    },
+    {
+      "word": "accuracy",
+      "definition": "The quality of being precise and error-free.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الدقة وخلو النص من الأخطاء.",
+      "example": {
+        "en": "Accuracy is vital for engineering documents.",
+        "ar": "الدقة أمر حيوي للوثائق الهندسية."
+      }
+    },
+    {
+      "word": "clarity",
+      "definition": "The quality of being easily understood.",
+      "arabic": "الوضوح",
+      "arabic_definition": "جودة إمكانية الفهم بسهولة.",
+      "example": {
+        "en": "Clarity in instructions improves efficiency.",
+        "ar": "الوضوح في التعليمات يحسن الكفاءة."
+      }
+    },
+    {
+      "word": "technicality",
+      "definition": "A specific or complex detail related to a subject.",
+      "arabic": "التفاصيل التقنية",
+      "arabic_definition": "التفاصيل المحددة أو المعقدة المتعلقة بموضوع ما.",
+      "example": {
+        "en": "The manual covers every technicality of the device.",
+        "ar": "يغطي الدليل كل التفاصيل التقنية للجهاز."
+      }
+    },
+    {
+      "word": "documentation",
+      "definition": "Material that explains or describes a process.",
+      "arabic": "التوثيق",
+      "arabic_definition": "المادة التي تشرح أو تصف عملية.",
+      "example": {
+        "en": "Proper documentation is crucial for maintaining equipment.",
+        "ar": "التوثيق المناسب أمر بالغ الأهمية للحفاظ على المعدات."
+      }
+    },
+    {
+      "word": "precision",
+      "definition": "The quality of being meticulous and accurate.",
+      "arabic": "الدقة",
+      "arabic_definition": "جودة الدقة والتفاصيل الصحية.",
+      "example": {
+        "en": "The scientist’s precision was remarkable.",
+        "ar": "كانت دقة العالم لافتة للنظر."
+      }
+    },
+    {
+      "word": "standardization",
+      "definition": "The process of making things conform to a standard.",
+      "arabic": "التوحيد القياسي",
+      "arabic_definition": "عملية جعل الأشياء تتوافق مع معيار محدد.",
+      "example": {
+        "en": "Standardization ensures consistency across products.",
+        "ar": "التوحيد القياسي يضمن الاتساق عبر المنتجات."
+      }
+    },
+    {
+      "word": "replication",
+      "definition": "Repeating an experiment or test to confirm results.",
+      "arabic": "التكرار",
+      "arabic_definition": "تكرار التجربة أو الاختبار للتأكد من النتائج.",
+      "example": {
+        "en": "Replication is a key part of scientific research.",
+        "ar": "التكرار جزء أساسي من البحث العلمي."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿{
+  "lesson": "Unit 3 - Cultural and Global Perspectives",
+  "questions": [
+    {
+      "question": "What is the Arabic for 'literary criticism'?",
+      "answers": [ "نقد أدبي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نقد أدبي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'intercultural relations' in Arabic?",
+      "answers": [ "العلاقات الثقافية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "العلاقات الثقافية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'المناقشات الفلسفية'?",
+      "answers": [ "philosophical debates", "daily routine", "work project", "travel map" ],
+      "correct": "philosophical debates",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'ethical dilemmas' in Arabic?",
+      "answers": [ "معضلات أخلاقية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "معضلات أخلاقية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'globalization'?",
+      "answers": [ "العولمة", "حافلة", "حقيبة", "حجز" ],
+      "correct": "العولمة",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cultural discourse' in Arabic?",
+      "answers": [ "خطاب ثقافي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "خطاب ثقافي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القيم الثقافية'?",
+      "answers": [ "cultural values", "daily routine", "work project", "travel map" ],
+      "correct": "cultural values",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'global ethics' in Arabic?",
+      "answers": [ "الأخلاقيات العالمية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الأخلاقيات العالمية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'literary theory'?",
+      "answers": [ "نظرية أدبية", "حافلة", "حقيبة", "حجز" ],
+      "correct": "نظرية أدبية",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cross-cultural communication' in Arabic?",
+      "answers": [ "التواصل عبر الثقافات", "حافلة", "حقيبة", "حجز" ],
+      "correct": "التواصل عبر الثقافات",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'الحوار الثقافي'?",
+      "answers": [ "cultural dialogue", "daily routine", "work project", "travel map" ],
+      "correct": "cultural dialogue",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'global awareness' in Arabic?",
+      "answers": [ "الوعي العالمي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "الوعي العالمي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'philosophical inquiry'?",
+      "answers": [ "استقصاء فلسفي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "استقصاء فلسفي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'cultural heritage' in Arabic?",
+      "answers": [ "تراث ثقافي", "حافلة", "حقيبة", "حجز" ],
+      "correct": "تراث ثقافي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English for 'القيم الأخلاقية'?",
+      "answers": [ "ethical values", "daily routine", "work project", "travel map" ],
+      "correct": "ethical values",
+      "voiceUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "lesson": "Talking about Social Norms and Etiquette",
+  "words": [
+    {
+      "word": "etiquette",
+      "definition": "The rules for polite behavior.",
+      "arabic": "آداب السلوك",
+      "arabic_definition": "القواعد للسلوك المهذب.",
+      "example": {
+        "en": "Knowing table etiquette is important.",
+        "ar": "معرفة آداب السلوك على مائدة الطعام مهمة."
+      }
+    },
+    {
+      "word": "custom",
+      "definition": "A traditional way of behaving.",
+      "arabic": "عادة",
+      "arabic_definition": "طريقة تقليدية للسلوك.",
+      "example": {
+        "en": "Greeting people is a common custom.",
+        "ar": "تحية الأشخاص عادة شائعة."
+      }
+    },
+    {
+      "word": "respect",
+      "definition": "Polite behavior towards someone.",
+      "arabic": "احترام",
+      "arabic_definition": "السلوك المهذب تجاه شخص ما.",
+      "example": {
+        "en": "We should show respect to others.",
+        "ar": "يجب أن نظهر الاحترام للآخرين."
+      }
+    },
+    {
+      "word": "norm",
+      "definition": "A common rule or behavior in society.",
+      "arabic": "عرف",
+      "arabic_definition": "قاعدة شائعة أو سلوك معتاد في المجتمع.",
+      "example": {
+        "en": "It is a social norm to shake hands when you meet.",
+        "ar": "من العرف الاجتماعي أن تتصافح عند اللقاء."
+      }
+    },
+    {
+      "word": "polite",
+      "definition": "Having or showing good manners.",
+      "arabic": "مهذب",
+      "arabic_definition": "امتلاك أو إظهار سلوك جيد.",
+      "example": {
+        "en": "He is very polite to everyone.",
+        "ar": "إنه مهذب جدًا مع الجميع."
+      }
+    },
+    {
+      "word": "gesture",
+      "definition": "A movement that conveys a message.",
+      "arabic": "إيماءة",
+      "arabic_definition": "حركة تنقل رسالة.",
+      "example": {
+        "en": "A smile is a friendly gesture.",
+        "ar": "الابتسام هو إيماءة ودية."
+      }
+    },
+    {
+      "word": "formality",
+      "definition": "Observance of formal rules and customs.",
+      "arabic": "رسمية",
+      "arabic_definition": "اتباع القواعد الرسمية والتقاليد.",
+      "example": {
+        "en": "The meeting required a lot of formality.",
+        "ar": "تطلب الاجتماع الكثير من الرسمية."
+      }
+    },
+    {
+      "word": "courtesy",
+      "definition": "Polite behavior or a polite action.",
+      "arabic": "مجاملة",
+      "arabic_definition": "السلوك المهذب أو العمل المهذب.",
+      "example": {
+        "en": "He gave up his seat as a courtesy.",
+        "ar": "تنازل عن مقعده كمجاملة."
+      }
+    },
+    {
+      "word": "disrespect",
+      "definition": "Lack of respect or politeness.",
+      "arabic": "عدم الاحترام",
+      "arabic_definition": "قلة الاحترام أو الأدب.",
+      "example": {
+        "en": "Interrupting someone is a sign of disrespect.",
+        "ar": "مقاطعة الشخص علامة على عدم الاحترام."
+      }
+    },
+    {
+      "word": "tradition",
+      "definition": "A belief or custom passed down through generations.",
+      "arabic": "تقليد",
+      "arabic_definition": "اعتقاد أو عادة يتم توارثها عبر الأجيال.",
+      "example": {
+        "en": "It is a tradition in this country to celebrate festivals.",
+        "ar": "إنه تقليد في هذا البلد الاحتفال بالأعياد."
+      }
+    }
+  ]
+}

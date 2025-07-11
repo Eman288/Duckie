@@ -1,0 +1,115 @@
+{
+  "lesson": "Unit 6 - Lesson 1 Quiz: Clothes and Sizes",
+  "questions": [
+    {
+      "question": "What is the Arabic word for 'shirt'?",
+      "answers": [
+        "قميص",
+        "بنطال",
+        "قبعة",
+        "فستان"
+      ],
+      "correct": "قميص",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'an item of clothing worn on the upper body'?",
+      "answers": [
+        "pants",
+        "shoes",
+        "shirt",
+        "hat"
+      ],
+      "correct": "shirt",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What does 'size' refer to?",
+      "answers": [
+        "The price of clothes",
+        "The color of clothes",
+        "How big or small something is",
+        "The material of clothes"
+      ],
+      "correct": "How big or small something is",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which of the following is the English word for 'حذاء'?",
+      "answers": [
+        "shirt",
+        "hat",
+        "shoes",
+        "socks"
+      ],
+      "correct": "shoes",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Choose the correct translation: 'medium'",
+      "answers": [
+        "صغير",
+        "كبير",
+        "متوسط",
+        "طويل"
+      ],
+      "correct": "متوسط",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: I need a ___ size T-shirt.",
+      "answers": [
+        "large",
+        "hat",
+        "coat",
+        "shoes"
+      ],
+      "correct": "large",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the English word for 'بنطال'?",
+      "answers": [
+        "hat",
+        "shirt",
+        "pants",
+        "coat"
+      ],
+      "correct": "pants",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which word means 'a piece of clothing worn on the head'?",
+      "answers": [
+        "shirt",
+        "pants",
+        "hat",
+        "shoes"
+      ],
+      "correct": "hat",
+      "voiceUrl": ""
+    },
+    {
+      "question": "What is the Arabic for 'jacket'?",
+      "answers": [
+        "سروال",
+        "قبعة",
+        "جاكيت",
+        "فستان"
+      ],
+      "correct": "جاكيت",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: These ___ are too small for me.",
+      "answers": [
+        "hat",
+        "pants",
+        "shirt",
+        "jacket"
+      ],
+      "correct": "pants",
+      "voiceUrl": ""
+    }
+  ]
+}

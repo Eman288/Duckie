@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Globalization and Its Impact",
+  "words": [
+    {
+      "word": "globalization",
+      "definition": "The process by which nations and people become connected.",
+      "arabic": "العولمة",
+      "arabic_definition": "العملية التي تتصل بها الدول والشعوب ببعضها.",
+      "example": {
+        "en": "Globalization has increased international trade.",
+        "ar": "زادت العولمة من التجارة الدولية."
+      }
+    },
+    {
+      "word": "trade",
+      "definition": "The activity of buying and selling goods and services.",
+      "arabic": "التجارة",
+      "arabic_definition": "نشاط بيع وشراء السلع والخدمات.",
+      "example": {
+        "en": "Trade between nations has become easier.",
+        "ar": "أصبحت التجارة بين الدول أسهل."
+      }
+    },
+    {
+      "word": "integration",
+      "definition": "The process of combining or bringing together.",
+      "arabic": "اندماج",
+      "arabic_definition": "عملية الجمع أو التوحيد.",
+      "example": {
+        "en": "Economic integration can benefit many countries.",
+        "ar": "يمكن أن يفيد الاندماج الاقتصادي العديد من الدول."
+      }
+    },
+    {
+      "word": "outsourcing",
+      "definition": "Hiring another company to perform work.",
+      "arabic": "التعهيد",
+      "arabic_definition": "استعانة بشركة أخرى لأداء عمل ما.",
+      "example": {
+        "en": "Outsourcing can reduce production costs.",
+        "ar": "يمكن أن يقلل التعهيد من تكاليف الإنتاج."
+      }
+    },
+    {
+      "word": "multicultural",
+      "definition": "Including people from many cultures.",
+      "arabic": "متعدد الثقافات",
+      "arabic_definition": "يشمل أفرادًا من ثقافات عديدة.",
+      "example": {
+        "en": "My city is a multicultural place.",
+        "ar": "مدينتي مكان متعدد الثقافات."
+      }
+    },
+    {
+      "word": "interdependence",
+      "definition": "The state where countries or people rely on each other.",
+      "arabic": "ترابط",
+      "arabic_definition": "حالة اعتماد الدول أو الأشخاص على بعضهم البعض.",
+      "example": {
+        "en": "There is growing economic interdependence between nations.",
+        "ar": "هناك ترابط اقتصادي متزايد بين الدول."
+      }
+    },
+    {
+      "word": "economic growth",
+      "definition": "An increase in the production and consumption of goods and services.",
+      "arabic": "نمو اقتصادي",
+      "arabic_definition": "زيادة في إنتاج واستهلاك السلع والخدمات.",
+      "example": {
+        "en": "Globalization has led to economic growth.",
+        "ar": "أدت العولمة إلى نمو اقتصادي."
+      }
+    },
+    {
+      "word": "cultural exchange",
+      "definition": "Sharing ideas, traditions, and customs between cultures.",
+      "arabic": "التبادل الثقافي",
+      "arabic_definition": "مشاركة الأفكار والتقاليد والعادات بين الثقافات.",
+      "example": {
+        "en": "The festival promotes cultural exchange.",
+        "ar": "يعزز المهرجان التبادل الثقافي."
+      }
+    },
+    {
+      "word": "global market",
+      "definition": "A market that operates internationally.",
+      "arabic": "السوق العالمية",
+      "arabic_definition": "السوق التي تعمل على مستوى عالمي.",
+      "example": {
+        "en": "Products can be sold in the global market.",
+        "ar": "يمكن بيع المنتجات في السوق العالمية."
+      }
+    },
+    {
+      "word": "inequality",
+      "definition": "Differences in economic and social status.",
+      "arabic": "عدم المساواة",
+      "arabic_definition": "الفروق الاقتصادية والاجتماعية.",
+      "example": {
+        "en": "Globalization can lead to economic inequality.",
+        "ar": "يمكن أن تؤدي العولمة إلى عدم المساواة الاقتصادية."
+      }
+    }
+  ]
+}

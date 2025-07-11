@@ -1,0 +1,60 @@
+{
+  "lesson": "Unit 3 - Lesson 4 Quiz: Possessives and Pronouns",
+  "questions": [
+    {
+      "question": "What does 'my' mean in Arabic?",
+      "answers": [
+        "لك",
+        "لي",
+        "هو",
+        "هي"
+      ],
+      "correct": "لي",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which is a possessive adjective?",
+      "answers": [
+        "he",
+        "they",
+        "my",
+        "is"
+      ],
+      "correct": "my",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Translate to Arabic: 'his car'",
+      "answers": [
+        "سيارته",
+        "سيارتهم",
+        "سيارتك",
+        "سيارتنا"
+      ],
+      "correct": "سيارته",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Which pronoun would you use for a girl?",
+      "answers": [
+        "he",
+        "it",
+        "they",
+        "she"
+      ],
+      "correct": "she",
+      "voiceUrl": ""
+    },
+    {
+      "question": "Fill in the blank: That is ___ dog.",
+      "answers": [
+        "he",
+        "she",
+        "my",
+        "we"
+      ],
+      "correct": "my",
+      "voiceUrl": ""
+    }
+  ]
+}

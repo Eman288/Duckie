@@ -1,0 +1,105 @@
+{
+  "lesson": "Understanding Academic Lectures",
+  "words": [
+    {
+      "word": "comprehension",
+      "definition": "The ability to understand spoken or written language.",
+      "arabic": "فهم",
+      "arabic_definition": "القدرة على استيعاب اللغة المحكية أو المكتوبة.",
+      "example": {
+        "en": "Listening and comprehension are vital for understanding lectures.",
+        "ar": "الاستماع والفهم ضروريان لاستيعاب المحاضرات."
+      }
+    },
+    {
+      "word": "note-taking",
+      "definition": "The practice of recording information from lectures.",
+      "arabic": "تدوين ملاحظات",
+      "arabic_definition": "ممارسة تسجيل المعلومات من المحاضرات.",
+      "example": {
+        "en": "Good note-taking helps recall important points later.",
+        "ar": "التدوين الجيد يساعد على تذكر النقاط المهمة لاحقًا."
+      }
+    },
+    {
+      "word": "context",
+      "definition": "The circumstances or setting in which a word or event occurs.",
+      "arabic": "سياق",
+      "arabic_definition": "الظروف المحيطة بالكلمة أو الحدث.",
+      "example": {
+        "en": "Context helps in understanding the lecturer’s examples.",
+        "ar": "يساعد السياق على فهم أمثلة المحاضر."
+      }
+    },
+    {
+      "word": "key point",
+      "definition": "An important or central piece of information.",
+      "arabic": "نقطة رئيسية",
+      "arabic_definition": "معلومة مهمة أو محورية.",
+      "example": {
+        "en": "He emphasized the key points for the exam.",
+        "ar": "شدد على النقاط الرئيسية للامتحان."
+      }
+    },
+    {
+      "word": "lecture outline",
+      "definition": "A structured summary of a lecture.",
+      "arabic": "خطة المحاضرة",
+      "arabic_definition": "ملخّص منظم للمحاضرة.",
+      "example": {
+        "en": "The lecture outline gave an overview of the topic.",
+        "ar": "أعطت خطة المحاضرة نظرة عامة على الموضوع."
+      }
+    },
+    {
+      "word": "active listening",
+      "definition": "Listening attentively and responding appropriately.",
+      "arabic": "استماع نشط",
+      "arabic_definition": "الاستماع بانتباه والتفاعل بشكل مناسب.",
+      "example": {
+        "en": "Active listening improves understanding during lectures.",
+        "ar": "الاستماع النشط يحسّن الفهم أثناء المحاضرات."
+      }
+    },
+    {
+      "word": "summary",
+      "definition": "A brief restatement of the main ideas.",
+      "arabic": "ملخّص",
+      "arabic_definition": "إعادة صياغة مختصرة للأفكار الرئيسية.",
+      "example": {
+        "en": "A summary of the lecture can help review later.",
+        "ar": "يمكن أن يساعد ملخّص المحاضرة على المراجعة لاحقًا."
+      }
+    },
+    {
+      "word": "interpretation",
+      "definition": "The act of explaining or making sense of information.",
+      "arabic": "تفسير",
+      "arabic_definition": "فعل توضيح المعلومات أو جعلها مفهومة.",
+      "example": {
+        "en": "The student offered an insightful interpretation of the lecture.",
+        "ar": "قدم الطالب تفسيرًا متميزًا للمحاضرة."
+      }
+    },
+    {
+      "word": "critical thinking",
+      "definition": "The ability to objectively evaluate and analyze information.",
+      "arabic": "تفكير نقدي",
+      "arabic_definition": "القدرة على تقييم وتحليل المعلومات بموضوعية.",
+      "example": {
+        "en": "Developing critical thinking is vital for understanding academic lectures.",
+        "ar": "تطوير التفكير النقدي مهم لاستيعاب المحاضرات الأكاديمية."
+      }
+    },
+    {
+      "word": "engagement",
+      "definition": "Actively participating in or focusing on a lecture.",
+      "arabic": "تفاعل",
+      "arabic_definition": "المشاركة بنشاط أو التركيز على المحاضرة.",
+      "example": {
+        "en": "Student engagement improves comprehension and learning.",
+        "ar": "تفاعل الطالب يحسّن الفهم والتعلّم."
+      }
+    }
+  ]
+}

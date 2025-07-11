@@ -1,0 +1,93 @@
+
+.profile-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background: var(--color-surface);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05);
+    color: var(--color-primary);
+}
+
+.profile-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile-pic img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--color-secondary);
+    background-color: var(--color-bg);
+}
+
+.profile-info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.profile-field {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 10px;
+}
+
+    .profile-field label {
+        width: 140px;
+        font-weight: bold;
+        color: var(--color-muted);
+    }
+
+    .profile-field span {
+        flex: 1;
+        color: var(--color-primary);
+    }
+
+    .profile-field input {
+        flex: 1;
+        padding: 6px 10px;
+        border: 1px solid var(--color-border);
+        border-radius: 6px;
+        background-color: var(--color-bg);
+        color: var(--color-primary);
+    }
+
+.edit-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.2s ease;
+    filter: grayscale(100%);
+}
+
+    .edit-icon:hover {
+        opacity: 1;
+        filter: grayscale(0%);
+    }
+
+.update-button, .logout-button {
+    margin-top: 30px;
+    padding: 10px 24px;
+    background-color: var(--color-accent);
+    color: var(--color-primary);
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .update-button:hover, .logout-button:hover {
+        background-color: #f59e0b; /* darker accent on hover */
+    }

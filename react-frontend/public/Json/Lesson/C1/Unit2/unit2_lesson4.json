@@ -1,0 +1,105 @@
+{
+  "lesson": "Preparing for Job Interviews",
+  "words": [
+    {
+      "word": "resume",
+      "definition": "A document summarizing a person’s work and education.",
+      "arabic": "السيرة الذاتية",
+      "arabic_definition": "مستند يلخّص خبرات الشخص العملية والتعليمية.",
+      "example": {
+        "en": "Make sure your resume is tailored for the position.",
+        "ar": "تأكد من تعديل سيرتك الذاتية وفقًا للوظيفة."
+      }
+    },
+    {
+      "word": "cover letter",
+      "definition": "A letter introducing yourself when applying for a job.",
+      "arabic": "خطاب تقديم",
+      "arabic_definition": "خطاب تعريف يرافق السيرة الذاتية عند التقدم لوظيفة.",
+      "example": {
+        "en": "A strong cover letter can help you stand out.",
+        "ar": "يمكن لخطاب تقديم قوي أن يساعدك على التميّز."
+      }
+    },
+    {
+      "word": "interview",
+      "definition": "A formal conversation for assessing a candidate.",
+      "arabic": "مقابلة",
+      "arabic_definition": "محادثة رسمية لتقييم المرشح.",
+      "example": {
+        "en": "The interview lasted for 30 minutes.",
+        "ar": "استغرقت المقابلة 30 دقيقة."
+      }
+    },
+    {
+      "word": "competency",
+      "definition": "A skill or ability required for a role.",
+      "arabic": "كفاءة",
+      "arabic_definition": "مهارة أو قدرة مطلوبة لشغل وظيفة.",
+      "example": {
+        "en": "The interviewer asked questions about key competencies.",
+        "ar": "طرح المحاور أسئلة عن الكفاءات الرئيسية."
+      }
+    },
+    {
+      "word": "preparation",
+      "definition": "The act of getting ready for an event.",
+      "arabic": "تحضير",
+      "arabic_definition": "عملية الاستعداد لحدث ما.",
+      "example": {
+        "en": "Proper preparation can reduce interview anxiety.",
+        "ar": "يمكن للتحضير الجيد أن يقلّل من قلق المقابلة."
+      }
+    },
+    {
+      "word": "confidence",
+      "definition": "A feeling of belief in one’s abilities.",
+      "arabic": "ثقة",
+      "arabic_definition": "شعور بالثقة بقدرات الفرد.",
+      "example": {
+        "en": "Confidence is essential for making a strong impression.",
+        "ar": "الثقة ضرورية لترك انطباع قوي."
+      }
+    },
+    {
+      "word": "questions",
+      "definition": "Inquiries asked to assess knowledge and experience.",
+      "arabic": "أسئلة",
+      "arabic_definition": "استفسارات تهدف إلى تقييم المعرفة والخبرة.",
+      "example": {
+        "en": "Prepare questions to ask at the end of the interview.",
+        "ar": "قم بإعداد أسئلة لطرحها في نهاية المقابلة."
+      }
+    },
+    {
+      "word": "strength",
+      "definition": "A strong point or ability.",
+      "arabic": "نقطة قوة",
+      "arabic_definition": "نقطة قوة أو مهارة مميزة.",
+      "example": {
+        "en": "He spoke about his strength in teamwork.",
+        "ar": "تحدث عن نقطة قوته في العمل الجماعي."
+      }
+    },
+    {
+      "word": "weakness",
+      "definition": "An area that needs improvement.",
+      "arabic": "نقطة ضعف",
+      "arabic_definition": "مجال يحتاج إلى تطوير.",
+      "example": {
+        "en": "He admitted a weakness and explained how he is working to overcome it.",
+        "ar": "اعترف بنقطة ضعف وأوضح كيف يعمل على التغلب عليها."
+      }
+    },
+    {
+      "word": "professionalism",
+      "definition": "Acting with competence and integrity.",
+      "arabic": "احترافية",
+      "arabic_definition": "التصرف بجدارة ونزاهة مهنية.",
+      "example": {
+        "en": "The interviewer admired her professionalism.",
+        "ar": "أعجب المحاور باحترافيتها."
+      }
+    }
+  ]
+}

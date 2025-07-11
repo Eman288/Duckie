@@ -1,0 +1,105 @@
+{
+  "lesson": "Days of the Week",
+  "words": [
+    {
+      "word": "Monday",
+      "definition": "The first day of the work week.",
+      "arabic": "الاثنين",
+      "arabic_definition": "أول أيام الأسبوع العملي.",
+      "example": {
+        "en": "School starts on Monday.",
+        "ar": "تبدأ المدرسة يوم الاثنين."
+      }
+    },
+    {
+      "word": "Tuesday",
+      "definition": "The second day of the work week.",
+      "arabic": "الثلاثاء",
+      "arabic_definition": "ثاني أيام الأسبوع العملي.",
+      "example": {
+        "en": "We play football on Tuesday.",
+        "ar": "نلعب كرة القدم يوم الثلاثاء."
+      }
+    },
+    {
+      "word": "Wednesday",
+      "definition": "The third day of the work week.",
+      "arabic": "الأربعاء",
+      "arabic_definition": "ثالث أيام الأسبوع العملي.",
+      "example": {
+        "en": "He visits his grandparents on Wednesday.",
+        "ar": "يزور أجداده يوم الأربعاء."
+      }
+    },
+    {
+      "word": "Thursday",
+      "definition": "The fourth day of the work week.",
+      "arabic": "الخميس",
+      "arabic_definition": "رابع أيام الأسبوع العملي.",
+      "example": {
+        "en": "I have piano class on Thursday.",
+        "ar": "لدي درس بيانو يوم الخميس."
+      }
+    },
+    {
+      "word": "Friday",
+      "definition": "The fifth day of the work week and a day of prayer in some countries.",
+      "arabic": "الجمعة",
+      "arabic_definition": "خامس أيام الأسبوع العملي ويوم صلاة في بعض الدول.",
+      "example": {
+        "en": "Friday is a holiday in many countries.",
+        "ar": "الجمعة عطلة في كثير من الدول."
+      }
+    },
+    {
+      "word": "Saturday",
+      "definition": "The weekend day for rest and leisure.",
+      "arabic": "السبت",
+      "arabic_definition": "يوم العطلة للراحة والترفيه.",
+      "example": {
+        "en": "We go to the park on Saturday.",
+        "ar": "نذهب إلى الحديقة يوم السبت."
+      }
+    },
+    {
+      "word": "Sunday",
+      "definition": "The day before the work week begins in many places.",
+      "arabic": "الأحد",
+      "arabic_definition": "اليوم الذي يسبق بدء أسبوع العمل في كثير من الأماكن.",
+      "example": {
+        "en": "Sunday is a family day.",
+        "ar": "الأحد هو يوم العائلة."
+      }
+    },
+    {
+      "word": "week",
+      "definition": "A period of seven days.",
+      "arabic": "أسبوع",
+      "arabic_definition": "فترة من سبعة أيام.",
+      "example": {
+        "en": "There are seven days in a week.",
+        "ar": "يوجد سبعة أيام في الأسبوع."
+      }
+    },
+    {
+      "word": "weekend",
+      "definition": "The end of the week, usually Saturday and Sunday.",
+      "arabic": "عطلة نهاية الأسبوع",
+      "arabic_definition": "نهاية الأسبوع، عادة السبت والأحد.",
+      "example": {
+        "en": "I relax on the weekend.",
+        "ar": "أسترخي في عطلة نهاية الأسبوع."
+      }
+    },
+    {
+      "word": "day",
+      "definition": "A 24-hour period.",
+      "arabic": "يوم",
+      "arabic_definition": "فترة مكونة من 24 ساعة.",
+      "example": {
+        "en": "Each day is different.",
+        "ar": "كل يوم مختلف."
+      }
+    }
+  ]
+}

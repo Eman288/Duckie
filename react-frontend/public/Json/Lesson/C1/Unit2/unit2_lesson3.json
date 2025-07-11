@@ -1,0 +1,105 @@
+{
+  "lesson": "Participating in Professional Meetings",
+  "words": [
+    {
+      "word": "agenda",
+      "definition": "A list of topics to be discussed in a meeting.",
+      "arabic": "جدول الأعمال",
+      "arabic_definition": "قائمة بالموضوعات التي سيتم مناقشتها في الاجتماع.",
+      "example": {
+        "en": "The agenda for the meeting was circulated in advance.",
+        "ar": "تم توزيع جدول الأعمال قبل الاجتماع."
+      }
+    },
+    {
+      "word": "consensus",
+      "definition": "General agreement among a group.",
+      "arabic": "إجماع",
+      "arabic_definition": "اتفاق عام بين أفراد المجموعة.",
+      "example": {
+        "en": "The team worked hard to reach consensus on the proposal.",
+        "ar": "عمل الفريق بجد للتوصل إلى إجماع على الاقتراح."
+      }
+    },
+    {
+      "word": "minutes",
+      "definition": "A written record of what happened during a meeting.",
+      "arabic": "محضر الاجتماع",
+      "arabic_definition": "سجل مكتوب لما حدث أثناء الاجتماع.",
+      "example": {
+        "en": "The minutes will be shared with all participants.",
+        "ar": "ستتم مشاركة محضر الاجتماع مع جميع المشاركين."
+      }
+    },
+    {
+      "word": "contribution",
+      "definition": "An input or idea shared during a discussion.",
+      "arabic": "مساهمة",
+      "arabic_definition": "فكرة أو ملاحظة يتم تقديمها أثناء النقاش.",
+      "example": {
+        "en": "Her contribution to the discussion was highly valued.",
+        "ar": "تم تقدير مساهمتها في النقاش بشكل كبير."
+      }
+    },
+    {
+      "word": "clarification",
+      "definition": "An explanation that makes a point more understandable.",
+      "arabic": "توضيح",
+      "arabic_definition": "تفسير يجعل الفكرة أكثر وضوحًا.",
+      "example": {
+        "en": "He asked for clarification about the project timeline.",
+        "ar": "طلب توضيحًا حول الجدول الزمني للمشروع."
+      }
+    },
+    {
+      "word": "action item",
+      "definition": "A specific task assigned to a person after a meeting.",
+      "arabic": "مهمة عمل",
+      "arabic_definition": "مهمة محددة يتم تكليف شخص بها بعد الاجتماع.",
+      "example": {
+        "en": "Each team member left with an action item.",
+        "ar": "غادر كل عضو من الفريق بمهمة عمل محددة."
+      }
+    },
+    {
+      "word": "facilitator",
+      "definition": "A person who guides and moderates a meeting.",
+      "arabic": "ميسر",
+      "arabic_definition": "شخص يدير ويوجه الاجتماع.",
+      "example": {
+        "en": "The facilitator kept the conversation productive.",
+        "ar": "حافظ الميسر على المحادثة مثمرة."
+      }
+    },
+    {
+      "word": "resolution",
+      "definition": "A decision or agreement reached during a meeting.",
+      "arabic": "قرار",
+      "arabic_definition": "قرار يتم التوصل إليه أثناء الاجتماع.",
+      "example": {
+        "en": "The team passed a resolution to adopt the new policy.",
+        "ar": "اتخذ الفريق قرارًا بتطبيق السياسة الجديدة."
+      }
+    },
+    {
+      "word": "delegate",
+      "definition": "To assign a responsibility or task to someone.",
+      "arabic": "تفويض",
+      "arabic_definition": "تكليف شخص بمسؤولية أو مهمة.",
+      "example": {
+        "en": "The manager delegated tasks to different team members.",
+        "ar": "فوض المدير المهام لأعضاء الفريق."
+      }
+    },
+    {
+      "word": "follow-up",
+      "definition": "An action or review after a meeting.",
+      "arabic": "متابعة",
+      "arabic_definition": "إجراء يتم بعد الاجتماع للمراجعة وتنفيذ النتائج.",
+      "example": {
+        "en": "A follow-up email was sent to summarize the discussion.",
+        "ar": "تم إرسال بريد متابعة يلخّص المناقشة."
+      }
+    }
+  ]
+}

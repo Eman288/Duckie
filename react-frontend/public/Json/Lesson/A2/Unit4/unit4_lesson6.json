@@ -1,0 +1,105 @@
+{
+  "lesson": "Travel Problems and Solutions",
+  "words": [
+    {
+      "word": "delay",
+      "definition": "A time when a trip is later than planned.",
+      "arabic": "تأخير",
+      "arabic_definition": "وقت تتأخر فيه الرحلة عن الموعد المحدد.",
+      "example": {
+        "en": "Our flight had a long delay.",
+        "ar": "تأخرت رحلتنا لوقت طويل."
+      }
+    },
+    {
+      "word": "cancellation",
+      "definition": "A trip that will not happen.",
+      "arabic": "إلغاء",
+      "arabic_definition": "رحلة لن تتم.",
+      "example": {
+        "en": "The airline announced a cancellation.",
+        "ar": "أعلنت شركة الطيران عن إلغاء."
+      }
+    },
+    {
+      "word": "lost luggage",
+      "definition": "A bag that didn’t arrive.",
+      "arabic": "الأمتعة المفقودة",
+      "arabic_definition": "حقيبة لم تصل.",
+      "example": {
+        "en": "He lost his luggage at the airport.",
+        "ar": "فقد حقيبته في المطار."
+      }
+    },
+    {
+      "word": "overbooking",
+      "definition": "Selling more tickets than available.",
+      "arabic": "الحجز الزائد",
+      "arabic_definition": "بيع تذاكر أكثر من المتاح.",
+      "example": {
+        "en": "The flight was delayed due to overbooking.",
+        "ar": "تأخرت الرحلة بسبب الحجز الزائد."
+      }
+    },
+    {
+      "word": "missing documents",
+      "definition": "Important papers that are lost.",
+      "arabic": "فقدان الوثائق",
+      "arabic_definition": "فقدان الأوراق المهمة.",
+      "example": {
+        "en": "He missed the flight because of missing documents.",
+        "ar": "فاتته الرحلة بسبب فقدان الوثائق."
+      }
+    },
+    {
+      "word": "travel insurance",
+      "definition": "A service that covers unexpected events.",
+      "arabic": "تأمين السفر",
+      "arabic_definition": "خدمة تغطي الأحداث غير المتوقعة.",
+      "example": {
+        "en": "I used travel insurance for the lost bag.",
+        "ar": "استخدمت تأمين السفر للحقيبة المفقودة."
+      }
+    },
+    {
+      "word": "refund",
+      "definition": "Money returned for a canceled service.",
+      "arabic": "استرداد",
+      "arabic_definition": "استعادة الأموال من خدمة ملغاة.",
+      "example": {
+        "en": "We got a refund for the canceled trip.",
+        "ar": "حصلنا على استرداد للرحلة الملغاة."
+      }
+    },
+    {
+      "word": "reschedule",
+      "definition": "To set a new date for a trip.",
+      "arabic": "إعادة الجدولة",
+      "arabic_definition": "تحديد موعد جديد لرحلة.",
+      "example": {
+        "en": "The airline rescheduled our flight.",
+        "ar": "أعادت شركة الطيران جدولة رحلتنا."
+      }
+    },
+    {
+      "word": "emergency",
+      "definition": "A serious, unexpected situation.",
+      "arabic": "حالة طارئة",
+      "arabic_definition": "حالة خطيرة وغير متوقعة.",
+      "example": {
+        "en": "We had an emergency and canceled the trip.",
+        "ar": "حدثت حالة طارئة، فألغينا الرحلة."
+      }
+    },
+    {
+      "word": "help desk",
+      "definition": "A place where you can ask for help.",
+      "arabic": "مكتب المساعدة",
+      "arabic_definition": "مكان يمكنك طلب المساعدة منه.",
+      "example": {
+        "en": "We went to the help desk for information.",
+        "ar": "ذهبنا إلى مكتب المساعدة للحصول على معلومات."
+      }
+    }
+  ]
+}

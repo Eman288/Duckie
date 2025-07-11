@@ -1,0 +1,105 @@
+{
+  "lesson": "Advanced Debate and Discussion",
+  "words": [
+    {
+      "word": "rebuttal",
+      "definition": "A counterargument or reply to an opposing viewpoint.",
+      "arabic": "رد على حجة",
+      "arabic_definition": "حجة مضادة أو رد على وجهة نظر معارضة.",
+      "example": {
+        "en": "Her rebuttal effectively addressed the opposing argument.",
+        "ar": "تعامل ردها بفعالية مع الحجة المعارضة."
+      }
+    },
+    {
+      "word": "concession",
+      "definition": "Acknowledgment of a point made by the opposing side.",
+      "arabic": "تنازل",
+      "arabic_definition": "الاعتراف بنقطة قدمها الطرف المعارض.",
+      "example": {
+        "en": "He made a concession to maintain a constructive debate.",
+        "ar": "قدم تنازلًا للحفاظ على نقاش بنّاء."
+      }
+    },
+    {
+      "word": "counterargument",
+      "definition": "An argument that contradicts another.",
+      "arabic": "حجة مضادة",
+      "arabic_definition": "حجة تتناقض مع حجة أخرى.",
+      "example": {
+        "en": "The counterargument added depth to the discussion.",
+        "ar": "أضافت الحجة المضادة عمقًا للنقاش."
+      }
+    },
+    {
+      "word": "assertion",
+      "definition": "A confident statement or claim.",
+      "arabic": "تأكيد",
+      "arabic_definition": "بيان أو ادعاء يتم تقديمه بثقة.",
+      "example": {
+        "en": "He made a strong assertion about the benefits of the project.",
+        "ar": "قدم تأكيدًا قويًا حول فوائد المشروع."
+      }
+    },
+    {
+      "word": "relevance",
+      "definition": "How closely something relates to the subject being discussed.",
+      "arabic": "صلة",
+      "arabic_definition": "مدى ارتباط شيء ما بالموضوع الذي يتم مناقشته.",
+      "example": {
+        "en": "The teacher emphasized the relevance of the example.",
+        "ar": "شدد المعلم على صلة المثال."
+      }
+    },
+    {
+      "word": "fallacy",
+      "definition": "A mistake in reasoning.",
+      "arabic": "مغالطة",
+      "arabic_definition": "خطأ في الاستدلال.",
+      "example": {
+        "en": "Pointing out a fallacy strengthened her argument.",
+        "ar": "ساعد توضيح المغالطة على تعزيز حجتها."
+      }
+    },
+    {
+      "word": "articulate",
+      "definition": "Able to express ideas clearly and effectively.",
+      "arabic": "واضح",
+      "arabic_definition": "القادر على التعبير عن الأفكار بوضوح وفعالية.",
+      "example": {
+        "en": "He is an articulate speaker who can engage any audience.",
+        "ar": "إنه متحدث واضح يمكنه جذب أي جمهور."
+      }
+    },
+    {
+      "word": "dissent",
+      "definition": "A difference of opinion.",
+      "arabic": "خلاف",
+      "arabic_definition": "اختلاف في الرأي.",
+      "example": {
+        "en": "The room was divided due to dissenting opinions.",
+        "ar": "انقسمت القاعة بسبب اختلاف الآراء."
+      }
+    },
+    {
+      "word": "consensus",
+      "definition": "A general agreement among people.",
+      "arabic": "إجماع",
+      "arabic_definition": "اتفاق عام بين الأشخاص.",
+      "example": {
+        "en": "The team worked hard to reach a consensus.",
+        "ar": "عمل الفريق بجد للتوصل إلى إجماع."
+      }
+    },
+    {
+      "word": "debate",
+      "definition": "A formal discussion of opposing ideas.",
+      "arabic": "نقاش",
+      "arabic_definition": "مناقشة رسمية لأفكار متعارضة.",
+      "example": {
+        "en": "The debate lasted for over an hour.",
+        "ar": "استمر النقاش لأكثر من ساعة."
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lesson": "Paying and Making Decisions",
+  "words": [
+    {
+      "word": "cash",
+      "definition": "Money in the form of coins or bills.",
+      "arabic": "نقداً",
+      "arabic_definition": "المال بشكل عملات أو أوراق نقدية.",
+      "example": {
+        "en": "I will pay in cash.",
+        "ar": "سأدفع نقداً."
+      }
+    },
+    {
+      "word": "credit card",
+      "definition": "A plastic card used to buy things on credit.",
+      "arabic": "بطاقة ائتمان",
+      "arabic_definition": "بطاقة بلاستيكية تُستخدم للشراء بالدين.",
+      "example": {
+        "en": "Can I pay with a credit card?",
+        "ar": "هل يمكنني الدفع ببطاقة ائتمان؟"
+      }
+    },
+    {
+      "word": "pay",
+      "definition": "To give money in exchange for something.",
+      "arabic": "يدفع",
+      "arabic_definition": "يعطي مالاً مقابل شيء.",
+      "example": {
+        "en": "I need to pay for the groceries.",
+        "ar": "أحتاج أن أدفع ثمن البقالة."
+      }
+    },
+    {
+      "word": "buy",
+      "definition": "To get something by paying money.",
+      "arabic": "يشتري",
+      "arabic_definition": "يحصل على شيء مقابل المال.",
+      "example": {
+        "en": "He wants to buy a new phone.",
+        "ar": "هو يريد شراء هاتف جديد."
+      }
+    },
+    {
+      "word": "choose",
+      "definition": "To pick something from options.",
+      "arabic": "يختار",
+      "arabic_definition": "ينتقي شيئاً من عدة خيارات.",
+      "example": {
+        "en": "You can choose the color you like.",
+        "ar": "يمكنك اختيار اللون الذي تحبه."
+      }
+    },
+    {
+      "word": "decide",
+      "definition": "To make a choice or judgment.",
+      "arabic": "يقرر",
+      "arabic_definition": "يتخذ قراراً.",
+      "example": {
+        "en": "I can't decide which one to buy.",
+        "ar": "لا أستطيع أن أقرر أيهما أشتري."
+      }
+    },
+    {
+      "word": "receipt",
+      "definition": "A paper showing you have paid for something.",
+      "arabic": "إيصال",
+      "arabic_definition": "ورقة تُظهر أنك دفعت ثمن شيء ما.",
+      "example": {
+        "en": "Please keep the receipt.",
+        "ar": "يرجى الاحتفاظ بالإيصال."
+      }
+    },
+    {
+      "word": "change",
+      "definition": "Money returned when you pay more than the cost.",
+      "arabic": "الباقي",
+      "arabic_definition": "المال المعاد بعد دفع مبلغ أكبر من السعر.",
+      "example": {
+        "en": "Here is your change.",
+        "ar": "هذا هو الباقي لك."
+      }
+    }
+  ]
+}
