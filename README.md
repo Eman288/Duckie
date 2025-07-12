@@ -215,6 +215,11 @@ both will start together
 
 ---
 
+## Demo
+[Demo Video](https://eman288.github.io/Duckie/)
+
+---
+
 ## 👥 Contributors
 
 * **Eman Tamam**
