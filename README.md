@@ -97,33 +97,33 @@ both will start together
 
 ## 🖼️ Screenshots
 
+### Home Page
+![Home](imgs/home.png)              
 
-  ### Home Page
-      ![Home](imgs/home.png)              
-  
-  ### Register Page
-      ![Register](imgs/register.png)              
+### Register Page
+![Register](imgs/register.png)              
 
-  ### Welcome Page
-      ![Welcome](imgs/welcome.png)              
+### Welcome Page
+![Welcome](imgs/welcome.png)              
 
-  ### Dashboard Page
-      ![Dashboard](imgs/dashboard.png)              
+### Dashboard Page
+![Dashboard](imgs/dashboard.png)              
 
-  ### Quiz Page
-      ![Quiz](imgs/quiz.png)              
+### Quiz Page
+![Quiz](imgs/quiz.png)              
 
-  ### Chat Page
-      ![Chat](imgs/chat.jpg)              
+### Chat Page
+![Chat](imgs/chat.jpg)              
 
- ### Text Voice Model Page
-      ![Chat](imgs/textVoice.png)              
+### Text Voice Model Page
+![TextVoice](imgs/textVoice.png)              
 
- ### Lesson Page
-      ![Chat](imgs/lesson.jpg)             
+### Lesson Page
+![Lesson](imgs/lesson.jpg)             
 
-  ### Payment Page
-      ![Payment](imgs/payment.png)              
+### Payment Page
+![Payment](imgs/payment.png)              
+           
 ---
 
 ## 💼 Business Model
