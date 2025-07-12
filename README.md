@@ -119,7 +119,7 @@ both will start together
 ![TextVoice](imgs/textVoice.png)              
 
 ### Lesson Page
-![Lesson](imgs/lesson.jpg)             
+![Lesson](imgs/lesson.png)             
 
 ### Payment Page
 ![Payment](imgs/payment.png)              
